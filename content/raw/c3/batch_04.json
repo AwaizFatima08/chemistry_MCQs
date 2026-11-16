@@ -1,0 +1,460 @@
+[
+ {
+  "id": "c3-0091",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "10 g of calcium carbonate is heated: CaCO₃ → CaO + CO₂. 4.2 g of calcium oxide is obtained. What is the percentage yield? (Ar: C = 12, O = 16, Ca = 40)",
+  "columns": null,
+  "options": [
+   "75%",
+   "42%",
+   "56%",
+   "133%"
+  ],
+  "answer": 0,
+  "explain": "10 g = 0.10 mol of CaCO₃, so the theoretical yield is 0.10 mol of CaO = 5.6 g. Percentage yield = 4.2 ÷ 5.6 × 100 = 75%."
+ },
+ {
+  "id": "c3-0092",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "What volume does 8.0 g of oxygen gas, O₂, occupy at r.t.p.? (Ar: O = 16; molar gas volume = 24 dm³)",
+  "columns": null,
+  "options": [
+   "3.0 dm³",
+   "12 dm³",
+   "192 dm³",
+   "6.0 dm³"
+  ],
+  "answer": 3,
+  "explain": "Moles of O₂ = 8.0 ÷ 32 = 0.25 mol. Volume = 0.25 × 24 = 6.0 dm³."
+ },
+ {
+  "id": "c3-0093",
+  "sub": "3.3",
+  "level": "core",
+  "q": "A solution of hydrochloric acid has a concentration of 2 mol/dm³ and another has a concentration of 0.2 mol/dm³. Which statement is correct?",
+  "columns": null,
+  "options": [
+   "The 2 mol/dm³ solution contains twice as many moles of HCl in every 1 dm³",
+   "Both solutions contain the same number of moles of HCl in every 1 dm³",
+   "The 0.2 mol/dm³ solution contains more moles of HCl in every 1 dm³",
+   "The 2 mol/dm³ solution contains ten times as many moles of HCl in every 1 dm³"
+  ],
+  "answer": 3,
+  "explain": "2 ÷ 0.2 = 10, so the stronger solution has ten times as many moles per dm³."
+ },
+ {
+  "id": "c3-0094",
+  "sub": "3.1",
+  "level": "core",
+  "q": "What is the formula of carbon monoxide?",
+  "columns": null,
+  "options": [
+   "CO₂",
+   "CO",
+   "C₂O",
+   "C₂O₂"
+  ],
+  "answer": 1,
+  "explain": "The prefix mono means one oxygen atom, so carbon monoxide is CO. CO₂ is carbon dioxide."
+ },
+ {
+  "id": "c3-0095",
+  "sub": "3.1",
+  "level": "core",
+  "q": "Why must a symbol equation be balanced?",
+  "columns": null,
+  "options": [
+   "The number of molecules never changes in a chemical reaction",
+   "The reactants and products must be in the same state",
+   "Atoms are not created or destroyed in a chemical reaction",
+   "The volume of the products must equal the volume of the reactants"
+  ],
+  "answer": 2,
+  "explain": "Atoms are only rearranged, so each element must have the same number of atoms before and after the reaction. The number of molecules and the volume can change."
+ },
+ {
+  "id": "c3-0096",
+  "sub": "3.2",
+  "level": "extended",
+  "q": "Neon has two isotopes: 90% is neon-20 and 10% is neon-22. What is the relative atomic mass of neon?",
+  "columns": null,
+  "options": [
+   "20.0",
+   "20.8",
+   "21.0",
+   "20.2"
+  ],
+  "answer": 3,
+  "explain": "Ar = (0.90 × 20) + (0.10 × 22) = 18.0 + 2.2 = 20.2."
+ },
+ {
+  "id": "c3-0097",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "A reaction should give 12.5 g of a product, but only 10.0 g is obtained. What is the percentage yield?",
+  "columns": null,
+  "options": [
+   "80%",
+   "8.0%",
+   "20%",
+   "125%"
+  ],
+  "answer": 0,
+  "explain": "Percentage yield = actual yield ÷ theoretical yield × 100 = 10.0 ÷ 12.5 × 100 = 80%."
+ },
+ {
+  "id": "c3-0098",
+  "sub": "3.2",
+  "level": "core",
+  "q": "In the reaction 2Mg + O₂ → 2MgO, 48 g of magnesium reacts with 32 g of oxygen. What mass of oxygen reacts with 12 g of magnesium?",
+  "columns": null,
+  "options": [
+   "4 g",
+   "12 g",
+   "16 g",
+   "8 g"
+  ],
+  "answer": 3,
+  "explain": "12 g is a quarter of 48 g, so the oxygen needed is a quarter of 32 g, which is 8 g."
+ },
+ {
+  "id": "c3-0099",
+  "sub": "3.2",
+  "level": "extended",
+  "q": "The oxide X₂O₃ has a relative formula mass of 102. What is the relative atomic mass of X? (Ar: O = 16)",
+  "columns": null,
+  "options": [
+   "34",
+   "27",
+   "51",
+   "54"
+  ],
+  "answer": 1,
+  "explain": "3 O = 48, so 2X = 102 − 48 = 54 and X = 27 (aluminium)."
+ },
+ {
+  "id": "c3-0100",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "4.8 g of magnesium is heated with 1.6 g of oxygen: 2Mg + O₂ → 2MgO. Which statement is correct? (Ar: O = 16, Mg = 24)",
+  "columns": null,
+  "options": [
+   "Oxygen is the limiting reactant and 8.0 g of magnesium oxide forms",
+   "Magnesium is the limiting reactant and 8.0 g of magnesium oxide forms",
+   "Magnesium is the limiting reactant and 4.0 g of magnesium oxide forms",
+   "Oxygen is the limiting reactant and 4.0 g of magnesium oxide forms"
+  ],
+  "answer": 3,
+  "explain": "Mg = 4.8 ÷ 24 = 0.20 mol and O₂ = 1.6 ÷ 32 = 0.050 mol. 0.050 mol O₂ needs only 0.10 mol Mg, so oxygen limits and 0.10 mol MgO (40 g/mol) = 4.0 g forms."
+ },
+ {
+  "id": "c3-0101",
+  "sub": "3.1",
+  "level": "core",
+  "q": "Which word equation shows the thermal decomposition of calcium carbonate?",
+  "columns": null,
+  "options": [
+   "calcium carbonate → calcium + carbon dioxide + oxygen",
+   "calcium carbonate → calcium oxide + carbon monoxide",
+   "calcium carbonate → calcium oxide + carbon dioxide",
+   "calcium carbonate → calcium hydroxide + carbon dioxide"
+  ],
+  "answer": 2,
+  "explain": "Heating a metal carbonate gives the metal oxide and carbon dioxide."
+ },
+ {
+  "id": "c3-0102",
+  "sub": "3.1",
+  "level": "core",
+  "q": "In a chemical equation, what does the state symbol (aq) mean?",
+  "columns": null,
+  "options": [
+   "The substance is a pure liquid",
+   "The substance is a solid that has formed in water",
+   "The substance is a gas",
+   "The substance is dissolved in water"
+  ],
+  "answer": 3,
+  "explain": "(aq) stands for aqueous: the substance is dissolved in water. Pure liquids are (l), solids (s) and gases (g)."
+ },
+ {
+  "id": "c3-0103",
+  "sub": "3.2",
+  "level": "core",
+  "q": "Magnesium burns in oxygen: 24 g of magnesium forms 40 g of magnesium oxide. What mass of magnesium oxide forms from 6 g of magnesium?",
+  "columns": null,
+  "options": [
+   "6 g",
+   "10 g",
+   "16 g",
+   "24 g"
+  ],
+  "answer": 1,
+  "explain": "6 g is a quarter of 24 g, so the mass of magnesium oxide is a quarter of 40 g, which is 10 g."
+ },
+ {
+  "id": "c3-0104",
+  "sub": "3.2",
+  "level": "core",
+  "q": "Heating 100 g of calcium carbonate gives 56 g of calcium oxide. What mass of calcium oxide forms from 25 g of calcium carbonate?",
+  "columns": null,
+  "options": [
+   "7 g",
+   "28 g",
+   "14 g",
+   "56 g"
+  ],
+  "answer": 2,
+  "explain": "25 g is a quarter of 100 g, so the mass of calcium oxide is a quarter of 56 g, which is 14 g."
+ },
+ {
+  "id": "c3-0105",
+  "sub": "3.1",
+  "level": "core",
+  "q": "How many atoms are there altogether in 3H₂SO₄?",
+  "columns": null,
+  "options": [
+   "7",
+   "12",
+   "21",
+   "14"
+  ],
+  "answer": 2,
+  "explain": "Each H₂SO₄ contains 2 + 1 + 4 = 7 atoms. Three units contain 3 × 7 = 21 atoms."
+ },
+ {
+  "id": "c3-0106",
+  "sub": "3.1",
+  "level": "core",
+  "q": "A diagram of a molecule shows two carbon atoms and six hydrogen atoms. What is its molecular formula?",
+  "columns": null,
+  "options": [
+   "C₆H₂",
+   "CH₃",
+   "C₂H₄",
+   "C₂H₆"
+  ],
+  "answer": 3,
+  "explain": "The molecular formula gives the actual number of each atom in one molecule: 2 carbon and 6 hydrogen, so C₂H₆. CH₃ is only the simplest ratio."
+ },
+ {
+  "id": "c3-0107",
+  "sub": "3.1",
+  "level": "core",
+  "q": "Which row is correct?",
+  "columns": [
+   "Compound",
+   "Formula",
+   "Number of different elements"
+  ],
+  "options": [
+   "water | H₂O | 3",
+   "methane | CH₄ | 5",
+   "ammonia | NH₃ | 4",
+   "sodium chloride | NaCl | 2"
+  ],
+  "answer": 3,
+  "explain": "NaCl has two elements. In H₂O there are 2 elements (3 atoms), in CH₄ 2 elements (5 atoms) and in NH₃ 2 elements (4 atoms): the other rows count atoms instead of elements."
+ },
+ {
+  "id": "c3-0108",
+  "sub": "3.2",
+  "level": "core",
+  "q": "Which row is correct? (Ar: H = 1, C = 12, O = 16, Na = 23, Mg = 24, Ca = 40)",
+  "columns": [
+   "Compound",
+   "Formula",
+   "Relative formula mass"
+  ],
+  "options": [
+   "calcium carbonate | CaCO₃ | 84",
+   "carbon dioxide | CO₂ | 28",
+   "magnesium oxide | MgO | 40",
+   "sodium hydroxide | NaOH | 39"
+  ],
+  "answer": 2,
+  "explain": "Mr of MgO = 24 + 16 = 40. The others should be 100 for CaCO₃, 44 for CO₂ and 40 for NaOH."
+ },
+ {
+  "id": "c3-0109",
+  "sub": "3.1",
+  "level": "core",
+  "q": "The equation N₂(g) + H₂(g) → NH₃(g) is balanced by adding numbers in front of the formulae. What number goes in front of H₂?",
+  "columns": null,
+  "options": [
+   "1",
+   "2",
+   "6",
+   "3"
+  ],
+  "answer": 3,
+  "explain": "N₂ + 3H₂ → 2NH₃ has 2 N and 6 H on each side, so H₂ needs the number 3."
+ },
+ {
+  "id": "c3-0110",
+  "sub": "3.2",
+  "level": "extended",
+  "q": "Copper(II) oxide is reduced by hydrogen to copper: CuO + H₂ → Cu + H₂O. What mass of copper forms from 16 g of copper(II) oxide? (Ar: Cu = 64, O = 16)",
+  "columns": null,
+  "options": [
+   "6.4 g",
+   "16 g",
+   "12.8 g",
+   "25.6 g"
+  ],
+  "answer": 2,
+  "explain": "Mr of CuO = 80, so 16 g = 0.20 mol. The ratio CuO : Cu is 1 : 1, so 0.20 mol of Cu = 0.20 × 64 = 12.8 g."
+ },
+ {
+  "id": "c3-0111",
+  "sub": "3.2",
+  "level": "core",
+  "q": "What is the relative molecular mass, Mr, of carbon dioxide, CO₂? (Ar: C = 12, O = 16)",
+  "columns": null,
+  "options": [
+   "44",
+   "28",
+   "30",
+   "60"
+  ],
+  "answer": 0,
+  "explain": "Mr = 12 + (2 × 16) = 44."
+ },
+ {
+  "id": "c3-0112",
+  "sub": "3.1",
+  "level": "core",
+  "q": "Which formula represents an element?",
+  "columns": null,
+  "options": [
+   "Cl₂",
+   "HCl",
+   "CO",
+   "H₂O"
+  ],
+  "answer": 0,
+  "explain": "Cl₂ contains only chlorine atoms, so it is an element. HCl, CO and H₂O each contain two different elements and are compounds."
+ },
+ {
+  "id": "c3-0113",
+  "sub": "3.2",
+  "level": "extended",
+  "q": "What is the relative formula mass, Mr, of aluminium sulfate, Al₂(SO₄)₃? (Ar: O = 16, Al = 27, S = 32)",
+  "columns": null,
+  "options": [
+   "150",
+   "278",
+   "342",
+   "288"
+  ],
+  "answer": 2,
+  "explain": "Mr = (2 × 27) + 3 × (32 + 64) = 54 + 288 = 342."
+ },
+ {
+  "id": "c3-0114",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "2.0 mol of nitrogen reacts with 3.0 mol of hydrogen: N₂ + 3H₂ → 2NH₃. What is the maximum amount of ammonia that can form?",
+  "columns": null,
+  "options": [
+   "1.0 mol",
+   "3.0 mol",
+   "4.0 mol",
+   "2.0 mol"
+  ],
+  "answer": 3,
+  "explain": "3.0 mol of H₂ is the limiting reactant (it needs only 1.0 mol of N₂). The ratio H₂ : NH₃ is 3 : 2, so NH₃ = 3.0 × 2/3 = 2.0 mol."
+ },
+ {
+  "id": "c3-0115",
+  "sub": "3.1",
+  "level": "core",
+  "q": "Calcium carbonate lumps react with dilute hydrochloric acid to give calcium chloride solution, water and carbon dioxide gas. Which equation has the correct state symbols?",
+  "columns": null,
+  "options": [
+   "CaCO₃(aq) + 2HCl(aq) → CaCl₂(aq) + H₂O(l) + CO₂(g)",
+   "CaCO₃(s) + 2HCl(aq) → CaCl₂(s) + H₂O(g) + CO₂(aq)",
+   "CaCO₃(s) + 2HCl(g) → CaCl₂(aq) + H₂O(l) + CO₂(l)",
+   "CaCO₃(s) + 2HCl(aq) → CaCl₂(aq) + H₂O(l) + CO₂(g)"
+  ],
+  "answer": 3,
+  "explain": "Lumps are solid (s), the acid and the salt solution are (aq), water is a liquid (l) and carbon dioxide escapes as a gas (g)."
+ },
+ {
+  "id": "c3-0116",
+  "sub": "3.1",
+  "level": "core",
+  "q": "Which symbol equation, with state symbols, is correctly balanced?",
+  "columns": null,
+  "options": [
+   "Mg(s) + O₂(g) → MgO(s)",
+   "2Mg(s) + O₂(g) → MgO(s)",
+   "Mg(s) + O₂(g) → MgO₂(s)",
+   "2Mg(s) + O₂(g) → 2MgO(s)"
+  ],
+  "answer": 3,
+  "explain": "2Mg + O₂ → 2MgO has 2 Mg and 2 O on each side. The others have unequal numbers of atoms on the two sides, or use the wrong formula MgO₂."
+ },
+ {
+  "id": "c3-0117",
+  "sub": "3.3",
+  "level": "core",
+  "q": "A solution has a concentration of 12 g/dm³. What volume of this solution contains 6 g of the solute?",
+  "columns": null,
+  "options": [
+   "50 cm³",
+   "72 cm³",
+   "500 cm³",
+   "2000 cm³"
+  ],
+  "answer": 2,
+  "explain": "Volume = mass ÷ concentration = 6 ÷ 12 = 0.5 dm³ = 500 cm³."
+ },
+ {
+  "id": "c3-0118",
+  "sub": "3.2",
+  "level": "core",
+  "q": "Why is the term relative formula mass used for sodium chloride instead of relative molecular mass?",
+  "columns": null,
+  "options": [
+   "Sodium chloride contains two elements",
+   "Sodium chloride has a high melting point",
+   "Sodium chloride is an ionic compound made of a lattice of ions, not molecules",
+   "Sodium chloride has no relative atomic masses"
+  ],
+  "answer": 2,
+  "explain": "Ionic compounds have giant lattices of ions with no separate molecules, so the formula unit is used and the mass is called the relative formula mass."
+ },
+ {
+  "id": "c3-0119",
+  "sub": "3.1",
+  "level": "core",
+  "q": "How many oxygen atoms are there in one formula unit of Al₂(SO₄)₃?",
+  "columns": null,
+  "options": [
+   "3",
+   "12",
+   "4",
+   "7"
+  ],
+  "answer": 1,
+  "explain": "There are 3 sulfate groups and each contains 4 oxygen atoms, so 3 × 4 = 12."
+ },
+ {
+  "id": "c3-0120",
+  "sub": "3.1",
+  "level": "extended",
+  "q": "The equation Al(s) + O₂(g) → Al₂O₃(s) is balanced using the smallest whole numbers. What number goes in front of O₂?",
+  "columns": null,
+  "options": [
+   "2",
+   "3",
+   "4",
+   "6"
+  ],
+  "answer": 1,
+  "explain": "4Al + 3O₂ → 2Al₂O₃ has 4 Al and 6 O on each side."
+ }
+]

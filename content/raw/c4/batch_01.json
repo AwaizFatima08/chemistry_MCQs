@@ -1,0 +1,459 @@
+[
+ {
+  "id": "c4-0001",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Which statement correctly defines electrolysis?",
+  "columns": null,
+  "options": [
+   "The production of an electric current from a chemical reaction between two different metals",
+   "The decomposition of any compound by heating it until it melts",
+   "The decomposition of an ionic compound, when molten or in aqueous solution, by passing an electric current through it",
+   "The joining of two elements to form an ionic compound using an electric current"
+  ],
+  "answer": 2,
+  "explain": "Electrolysis uses electrical energy to break down an ionic compound that is molten or dissolved in water. The ions must be free to move."
+ },
+ {
+  "id": "c4-0002",
+  "sub": "4.1",
+  "level": "core",
+  "q": "In a simple electrolytic cell, which description of the anode is correct?",
+  "columns": null,
+  "options": [
+   "The negative electrode",
+   "The positive electrode",
+   "The molten or aqueous substance that is decomposed",
+   "The wire that joins the cell to the power supply"
+  ],
+  "answer": 1,
+  "explain": "The anode is the electrode connected to the positive terminal of the power supply. The negative electrode is the cathode."
+ },
+ {
+  "id": "c4-0003",
+  "sub": "4.1",
+  "level": "core",
+  "q": "In electrolysis, which electrode is the cathode?",
+  "columns": null,
+  "options": [
+   "The positive electrode, which attracts positive ions",
+   "The negative electrode, which attracts negative ions",
+   "The negative electrode, which attracts positive ions",
+   "The positive electrode, where non-metals form"
+  ],
+  "answer": 2,
+  "explain": "The cathode is connected to the negative terminal, so it attracts positively charged ions (metal ions or hydrogen ions)."
+ },
+ {
+  "id": "c4-0004",
+  "sub": "4.1",
+  "level": "core",
+  "q": "What is the electrolyte in an electrolysis experiment?",
+  "columns": null,
+  "options": [
+   "The solid rod that carries current into the cell",
+   "The battery or power supply that provides the current",
+   "The molten or aqueous substance that undergoes electrolysis",
+   "The gas given off at one of the electrodes"
+  ],
+  "answer": 2,
+  "explain": "The electrolyte is the liquid or solution containing mobile ions that is decomposed by the current."
+ },
+ {
+  "id": "c4-0005",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Which sample cannot be electrolysed?",
+  "columns": null,
+  "options": [
+   "Molten sodium chloride",
+   "Molten lead(II) bromide",
+   "Solid sodium chloride",
+   "Aqueous copper(II) sulfate"
+  ],
+  "answer": 2,
+  "explain": "In a solid the ions are held in fixed positions in the lattice, so no ions are free to carry charge. Molten or aqueous ionic compounds can be electrolysed."
+ },
+ {
+  "id": "c4-0006",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Why does molten lead(II) bromide conduct electricity when solid lead(II) bromide does not?",
+  "columns": null,
+  "options": [
+   "The ions are formed only when the compound melts",
+   "Electrons are free to move when the compound melts",
+   "The ions are free to move when the compound is molten",
+   "The compound changes into a metal when it melts"
+  ],
+  "answer": 2,
+  "explain": "Solid ionic compounds have ions fixed in a lattice. When molten, the ions are mobile and carry the current."
+ },
+ {
+  "id": "c4-0007",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Molten lead(II) bromide is electrolysed using inert electrodes. Which products form?",
+  "columns": null,
+  "options": [
+   "Lead at the cathode and bromine at the anode",
+   "Bromine at the cathode and lead at the anode",
+   "Hydrogen at the cathode and bromine at the anode",
+   "Lead at the cathode and oxygen at the anode"
+  ],
+  "answer": 0,
+  "explain": "Lead is a metal so it forms at the negative cathode. Bromine is a non-metal so it forms at the positive anode."
+ },
+ {
+  "id": "c4-0008",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Which observation is made at the anode during the electrolysis of molten lead(II) bromide with graphite electrodes?",
+  "columns": null,
+  "options": [
+   "Red-brown fumes of bromine are seen",
+   "A silvery bead of molten lead forms",
+   "Colourless bubbles of hydrogen are seen",
+   "A pale green gas that bleaches litmus is seen"
+  ],
+  "answer": 0,
+  "explain": "Bromide ions lose electrons at the anode to form bromine, which is a red-brown vapour."
+ },
+ {
+  "id": "c4-0009",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Which observation is made at the cathode during the electrolysis of molten lead(II) bromide with graphite electrodes?",
+  "columns": null,
+  "options": [
+   "Red-brown fumes are given off",
+   "Colourless bubbles are given off",
+   "A pink-brown solid coats the electrode",
+   "A silver-grey bead of molten lead forms"
+  ],
+  "answer": 3,
+  "explain": "Lead ions gain electrons at the cathode to form lead metal, which is molten at the temperature of the experiment."
+ },
+ {
+  "id": "c4-0010",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Concentrated aqueous sodium chloride is electrolysed using inert electrodes. Which products form at the cathode and anode?",
+  "columns": null,
+  "options": [
+   "Sodium at the cathode and chlorine at the anode",
+   "Hydrogen at the cathode and oxygen at the anode",
+   "Sodium at the cathode and oxygen at the anode",
+   "Hydrogen at the cathode and chlorine at the anode"
+  ],
+  "answer": 3,
+  "explain": "Hydrogen ions from water are discharged at the cathode in preference to sodium ions. Chloride ions in concentrated solution are discharged at the anode as chlorine."
+ },
+ {
+  "id": "c4-0011",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Which test and result show that a gas is chlorine?",
+  "columns": null,
+  "options": [
+   "A glowing splint relights",
+   "A lighted splint goes out with a squeaky pop",
+   "Limewater turns milky",
+   "Damp litmus paper is bleached"
+  ],
+  "answer": 3,
+  "explain": "Chlorine bleaches damp litmus paper. Relighting a glowing splint tests for oxygen, and a squeaky pop tests for hydrogen."
+ },
+ {
+  "id": "c4-0012",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Dilute sulfuric acid is electrolysed using inert electrodes. Which test confirms the gas formed at the cathode?",
+  "columns": null,
+  "options": [
+   "A glowing splint relights",
+   "Damp litmus paper is bleached",
+   "A lighted splint burns with a squeaky pop",
+   "Limewater turns milky"
+  ],
+  "answer": 2,
+  "explain": "The gas at the cathode is hydrogen, which gives a squeaky pop with a lighted splint."
+ },
+ {
+  "id": "c4-0013",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Dilute sulfuric acid is electrolysed using inert electrodes. Which gas forms at the anode and how is it identified?",
+  "columns": null,
+  "options": [
+   "Oxygen, which gives a squeaky pop with a lighted splint",
+   "Hydrogen, which relights a glowing splint",
+   "Oxygen, which relights a glowing splint",
+   "Sulfur dioxide, which bleaches damp litmus paper"
+  ],
+  "answer": 2,
+  "explain": "Oxygen is formed at the anode, and it relights a glowing splint."
+ },
+ {
+  "id": "c4-0014",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Which row correctly shows the products of the electrolysis of dilute sulfuric acid with inert electrodes?",
+  "columns": [
+   "Cathode product",
+   "Anode product"
+  ],
+  "options": [
+   "oxygen | hydrogen",
+   "hydrogen | oxygen",
+   "hydrogen | sulfur dioxide",
+   "sulfur | oxygen"
+  ],
+  "answer": 1,
+  "explain": "Hydrogen forms at the cathode and oxygen at the anode, because water is effectively being decomposed."
+ },
+ {
+  "id": "c4-0015",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Which statement about the products of electrolysis is correct?",
+  "columns": null,
+  "options": [
+   "Metals form at the anode, and non-metals form at the cathode",
+   "Metals or hydrogen form at the cathode, and non-metals other than hydrogen form at the anode",
+   "Hydrogen forms at the anode, and metals form at the cathode",
+   "Non-metals form at both electrodes"
+  ],
+  "answer": 1,
+  "explain": "Positive ions (metal ions or H⁺) move to the cathode and gain electrons. Negative ions (non-metal ions) move to the anode."
+ },
+ {
+  "id": "c4-0016",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Molten potassium iodide is electrolysed using inert electrodes. Which products form?",
+  "columns": null,
+  "options": [
+   "Iodine at the cathode and potassium at the anode",
+   "Hydrogen at the cathode and iodine at the anode",
+   "Potassium at the cathode and oxygen at the anode",
+   "Potassium at the cathode and iodine at the anode"
+  ],
+  "answer": 3,
+  "explain": "A molten binary ionic compound gives the metal at the cathode and the non-metal at the anode."
+ },
+ {
+  "id": "c4-0017",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Molten zinc chloride is electrolysed using inert electrodes. Which products form?",
+  "columns": null,
+  "options": [
+   "Chlorine at the cathode and zinc at the anode",
+   "Zinc at the cathode and chlorine at the anode",
+   "Hydrogen at the cathode and chlorine at the anode",
+   "Zinc at the cathode and hydrogen at the anode"
+  ],
+  "answer": 1,
+  "explain": "Zn²⁺ ions are attracted to the cathode and form zinc. Cl⁻ ions are attracted to the anode and form chlorine."
+ },
+ {
+  "id": "c4-0018",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Which compound gives a metal at the cathode and oxygen at the anode when it is electrolysed in the molten state?",
+  "columns": null,
+  "options": [
+   "Lead(II) oxide",
+   "Hydrogen chloride",
+   "Sodium chloride",
+   "Copper(II) bromide"
+  ],
+  "answer": 0,
+  "explain": "Lead(II) oxide contains Pb²⁺ and O²⁻ ions, so it forms lead and oxygen. The others contain chloride or bromide ions, or no metal."
+ },
+ {
+  "id": "c4-0019",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Why are metal objects such as car bumpers electroplated?",
+  "columns": null,
+  "options": [
+   "To make them more dense and heavier",
+   "To make them conduct electricity better",
+   "To make them react more quickly with oxygen",
+   "To improve their appearance and resistance to corrosion"
+  ],
+  "answer": 3,
+  "explain": "Electroplating covers an object with a thin layer of a metal that looks attractive and protects the object underneath from corrosion."
+ },
+ {
+  "id": "c4-0020",
+  "sub": "4.1",
+  "level": "core",
+  "q": "A steel object is to be electroplated with nickel. How should the object be connected?",
+  "columns": null,
+  "options": [
+   "As the anode, in a solution containing nickel ions",
+   "As the cathode, in molten nickel(II) oxide",
+   "As the cathode, in a solution containing nickel ions",
+   "As the anode, in distilled water"
+  ],
+  "answer": 2,
+  "explain": "The object to be plated is the cathode so that positive nickel ions are attracted to it and gain electrons."
+ },
+ {
+  "id": "c4-0021",
+  "sub": "4.1",
+  "level": "core",
+  "q": "A steel spoon is to be silver-plated. Which row gives a correct set-up?",
+  "columns": [
+   "Cathode",
+   "Anode",
+   "Electrolyte"
+  ],
+  "options": [
+   "silver rod | spoon | silver nitrate solution",
+   "spoon | silver rod | silver nitrate solution",
+   "spoon | silver rod | sodium chloride solution",
+   "spoon | carbon rod | copper(II) sulfate solution"
+  ],
+  "answer": 1,
+  "explain": "The spoon is the cathode, the plating metal (silver) is the anode, and the electrolyte contains silver ions."
+ },
+ {
+  "id": "c4-0022",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Why are graphite electrodes often used in electrolysis?",
+  "columns": null,
+  "options": [
+   "They dissolve easily so the electrolyte is replaced",
+   "They conduct electricity and do not react with most electrolytes",
+   "They are positive ions that move into the solution",
+   "They have a lower melting point than metals"
+  ],
+  "answer": 1,
+  "explain": "Graphite is inert and conducts electricity because of its delocalised electrons, so it carries current without taking part in the reaction."
+ },
+ {
+  "id": "c4-0023",
+  "sub": "4.1",
+  "level": "core",
+  "q": "A nickel layer is to be electroplated onto an iron fork. Which material should be used as the anode?",
+  "columns": null,
+  "options": [
+   "Iron",
+   "Graphite",
+   "Zinc",
+   "Nickel"
+  ],
+  "answer": 3,
+  "explain": "The anode is made of the plating metal, so nickel is used. Nickel dissolves and replaces the nickel ions removed at the cathode."
+ },
+ {
+  "id": "c4-0024",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Dilute sulfuric acid is electrolysed with inert electrodes. How does the volume of hydrogen collected compare with the volume of oxygen?",
+  "columns": null,
+  "options": [
+   "The volume of hydrogen is half the volume of oxygen",
+   "The volumes are equal",
+   "The volume of hydrogen is four times the volume of oxygen",
+   "The volume of hydrogen is twice the volume of oxygen"
+  ],
+  "answer": 3,
+  "explain": "Water is decomposed: 2H₂O → 2H₂ + O₂, so two volumes of hydrogen form for each volume of oxygen."
+ },
+ {
+  "id": "c4-0025",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Which electrolysis gives a metal at the cathode and a non-metal other than a halogen at the anode?",
+  "columns": null,
+  "options": [
+   "Molten sodium chloride",
+   "Concentrated aqueous sodium chloride",
+   "Molten lead(II) oxide",
+   "Dilute sulfuric acid"
+  ],
+  "answer": 2,
+  "explain": "Molten lead(II) oxide gives lead and oxygen. Molten sodium chloride gives a halogen, and the two aqueous electrolytes give hydrogen at the cathode."
+ },
+ {
+  "id": "c4-0026",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Which observations are made when concentrated aqueous sodium chloride is electrolysed with inert electrodes?",
+  "columns": null,
+  "options": [
+   "Silvery metal at the cathode and pale green gas at the anode",
+   "Colourless gas at both electrodes",
+   "Red-brown fumes at the anode and silvery metal at the cathode",
+   "Colourless gas at the cathode and pale green gas at the anode"
+  ],
+  "answer": 3,
+  "explain": "Hydrogen (colourless) forms at the cathode and chlorine (pale green) forms at the anode."
+ },
+ {
+  "id": "c4-0027",
+  "sub": "4.1",
+  "level": "core",
+  "q": "As dilute sulfuric acid is electrolysed with inert electrodes for a long time, what happens to the acid solution?",
+  "columns": null,
+  "options": [
+   "It becomes more dilute because sulfate ions are used up",
+   "Its concentration stays the same because acid is only a catalyst",
+   "It turns into sulfur and hydrogen",
+   "It becomes more concentrated because water is used up"
+  ],
+  "answer": 3,
+  "explain": "Only water is decomposed to hydrogen and oxygen, so the same amount of acid is left in less water."
+ },
+ {
+  "id": "c4-0028",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Which of these elements is formed at the anode during electrolysis?",
+  "columns": null,
+  "options": [
+   "Hydrogen",
+   "Bromine",
+   "Sodium",
+   "Copper"
+  ],
+  "answer": 1,
+  "explain": "Non-metals other than hydrogen form at the anode. Metals and hydrogen form at the cathode."
+ },
+ {
+  "id": "c4-0029",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Two graphite rods dip into molten lead(II) bromide and are joined to a battery and a lamp. The lamp lights. What does this show?",
+  "columns": null,
+  "options": [
+   "Solid lead(II) bromide conducts electricity",
+   "Lead(II) bromide is a metal",
+   "Molten lead(II) bromide conducts electricity",
+   "Graphite rods dissolve in lead(II) bromide"
+  ],
+  "answer": 2,
+  "explain": "A lit lamp shows a complete circuit, so the molten ionic compound allows current to flow because its ions are mobile."
+ },
+ {
+  "id": "c4-0030",
+  "sub": "4.1",
+  "level": "core",
+  "q": "A key is copper-plated using a copper anode and copper(II) sulfate solution. What is seen at the key?",
+  "columns": null,
+  "options": [
+   "A pink-brown layer of copper forms on it",
+   "The key slowly dissolves",
+   "Bubbles of hydrogen form on it",
+   "A blue solid forms on it"
+  ],
+  "answer": 0,
+  "explain": "The key is the cathode, where Cu²⁺ ions gain electrons to form copper metal, a pink-brown solid."
+ }
+]

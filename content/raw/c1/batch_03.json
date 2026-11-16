@@ -1,0 +1,459 @@
+[
+  {
+    "id": "c1-0061",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Which statement describes the particles in a liquid?",
+    "columns": null,
+    "options": [
+      "They are close together, in a regular pattern and vibrate in fixed positions.",
+      "They are close together, randomly arranged and slide past one another.",
+      "They are far apart, randomly arranged and move quickly in straight lines.",
+      "They are far apart, arranged in layers and slide past one another."
+    ],
+    "answer": 1,
+    "explain": "Liquid particles touch but have no regular pattern, and they can move past each other, which is why liquids flow."
+  },
+  {
+    "id": "c1-0062",
+    "sub": "1.2",
+    "level": "extended",
+    "q": "Carbon monoxide, CO, and nitrogen, N₂, both have a relative molecular mass of 28. Which statement about their diffusion at the same temperature and pressure is correct?",
+    "columns": null,
+    "options": [
+      "Carbon monoxide diffuses faster because it is a compound.",
+      "They diffuse at the same rate.",
+      "Nitrogen diffuses faster because it is an element.",
+      "Carbon monoxide diffuses faster because it contains oxygen."
+    ],
+    "answer": 1,
+    "explain": "Rate of diffusion depends on relative molecular mass, and both have a value of 28."
+  },
+  {
+    "id": "c1-0063",
+    "sub": "1.1",
+    "level": "core",
+    "q": "What is the name of the change of state from gas to liquid?",
+    "columns": null,
+    "options": [
+      "Condensing",
+      "Evaporating",
+      "Freezing",
+      "Melting"
+    ],
+    "answer": 0,
+    "explain": "Cooling a gas turns it into a liquid by condensing. Evaporating is liquid to gas."
+  },
+  {
+    "id": "c1-0064",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Sulfur melts at 115 °C. A sample of solid sulfur is heated slowly from 100 °C to 130 °C. What happens to it?",
+    "columns": null,
+    "options": [
+      "It changes from a solid to a liquid.",
+      "It changes from a liquid to a gas.",
+      "It changes from a gas to a liquid.",
+      "It remains a solid."
+    ],
+    "answer": 0,
+    "explain": "The temperature passes the melting point of 115 °C, so the solid melts to a liquid."
+  },
+  {
+    "id": "c1-0065",
+    "sub": "1.1",
+    "level": "extended",
+    "q": "A gas is compressed to half its volume at constant temperature. Which row compares the gas after compression with the gas before?",
+    "columns": [
+      "Average speed of particles",
+      "Collisions with walls per second"
+    ],
+    "options": [
+      "Increased | Increased",
+      "Unchanged | Unchanged",
+      "Unchanged | Increased",
+      "Decreased | Increased"
+    ],
+    "answer": 2,
+    "explain": "The temperature is unchanged, so the average speed is unchanged. The particles are in a smaller space, so they hit the walls more often."
+  },
+  {
+    "id": "c1-0066",
+    "sub": "1.1",
+    "level": "extended",
+    "q": "A pure liquid is heated, and its temperature rises steadily from just above its melting point to just below its boiling point. What happens to the particles in this section of the heating curve?",
+    "columns": null,
+    "options": [
+      "The particles stop moving.",
+      "The forces between particles are completely overcome.",
+      "The particles move into a regular pattern.",
+      "The average kinetic energy of the particles increases."
+    ],
+    "answer": 3,
+    "explain": "Temperature is a measure of the average kinetic energy, so a rising temperature means the particles move faster."
+  },
+  {
+    "id": "c1-0067",
+    "sub": "1.1",
+    "level": "core",
+    "q": "A sealed bag contains 36 g of ice. The ice melts completely. What is the mass of water in the bag?",
+    "columns": null,
+    "options": [
+      "18 g",
+      "36 g",
+      "72 g",
+      "0 g"
+    ],
+    "answer": 1,
+    "explain": "Changing state does not change the number of particles, so the mass stays the same at 36 g."
+  },
+  {
+    "id": "c1-0068",
+    "sub": "1.2",
+    "level": "extended",
+    "q": "Gas X diffuses faster than methane, CH₄, at the same temperature and pressure. Which could be gas X?",
+    "columns": null,
+    "options": [
+      "Helium, He (Ar = 4)",
+      "Neon, Ne (Ar = 20)",
+      "Nitrogen, N₂ (Mr = 28)",
+      "Argon, Ar (Ar = 40)"
+    ],
+    "answer": 0,
+    "explain": "A gas that diffuses faster than methane (Mr = 16) must have a smaller relative mass. Only helium qualifies."
+  },
+  {
+    "id": "c1-0069",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Which pair of properties both apply to gases?",
+    "columns": null,
+    "options": [
+      "They have a fixed volume and are easily compressed.",
+      "They fill any container and cannot be compressed.",
+      "They fill any container and are easily compressed.",
+      "They have a fixed shape and cannot be compressed."
+    ],
+    "answer": 2,
+    "explain": "Gas particles are far apart and move freely, so a gas spreads out to fill its container and can be squeezed into a smaller volume."
+  },
+  {
+    "id": "c1-0070",
+    "sub": "1.1",
+    "level": "extended",
+    "q": "The temperature of a pure substance is recorded as it is heated at a steady rate.\n0–2 minutes: rises from −20 °C to 0 °C\n2–6 minutes: stays at 0 °C\n6–14 minutes: rises from 0 °C to 100 °C\n14–26 minutes: stays at 100 °C\nWhat is the melting point of the substance?",
+    "columns": null,
+    "options": [
+      "−20 °C",
+      "100 °C",
+      "0 °C",
+      "6 °C"
+    ],
+    "answer": 2,
+    "explain": "The melting point is the temperature at the first flat section of the heating curve, which is 0 °C."
+  },
+  {
+    "id": "c1-0071",
+    "sub": "1.2",
+    "level": "core",
+    "q": "A drop of coloured dye is added to still water and the colour slowly spreads out. Which explanation is correct?",
+    "columns": null,
+    "options": [
+      "The dye and water particles move randomly and mix.",
+      "Gravity pulls the dye through the water.",
+      "The water particles push the dye particles in straight lines.",
+      "The dye particles are attracted to the sides of the beaker."
+    ],
+    "answer": 0,
+    "explain": "Both kinds of particle are in constant random motion, so they gradually mix, which is diffusion."
+  },
+  {
+    "id": "c1-0072",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Some water is poured from a beaker into a measuring cylinder. Which statement is correct?",
+    "columns": null,
+    "options": [
+      "The shape and the volume both change.",
+      "The shape stays the same but the volume changes.",
+      "The shape of the water changes but its volume stays the same.",
+      "Neither the shape nor the volume changes."
+    ],
+    "answer": 2,
+    "explain": "A liquid takes the shape of its container, but its volume is fixed."
+  },
+  {
+    "id": "c1-0073",
+    "sub": "1.2",
+    "level": "extended",
+    "q": "Ammonia (Mr = 17) and hydrogen chloride (Mr = 36.5) are released at opposite ends of a long glass tube. A white ring forms nearer the hydrogen chloride end. Which statement explains this?",
+    "columns": null,
+    "options": [
+      "Hydrogen chloride is a stronger acid, so it reacts faster.",
+      "Ammonia particles have a lower mass, so they move faster and travel further.",
+      "Ammonia particles are attracted to hydrogen chloride particles.",
+      "Hydrogen chloride dissolves in the air."
+    ],
+    "answer": 1,
+    "explain": "At the same temperature, particles with lower mass move faster, so ammonia covers more distance in the same time."
+  },
+  {
+    "id": "c1-0074",
+    "sub": "1.2",
+    "level": "extended",
+    "q": "Which factor does not affect the rate of diffusion of a gas?",
+    "columns": null,
+    "options": [
+      "The temperature",
+      "The relative molecular mass",
+      "The colour of the gas",
+      "The difference in concentration"
+    ],
+    "answer": 2,
+    "explain": "The rate depends on how fast the particles move and on the concentration gradient. The colour has no effect."
+  },
+  {
+    "id": "c1-0075",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Which statement about a liquid is correct?",
+    "columns": null,
+    "options": [
+      "It has a fixed volume but takes the shape of its container.",
+      "It has a fixed shape but no fixed volume.",
+      "It has no fixed volume and can be compressed easily.",
+      "It always fills its container completely."
+    ],
+    "answer": 0,
+    "explain": "Liquid particles are close together, which gives a fixed volume, but they can move past each other, so the liquid takes the shape of the container."
+  },
+  {
+    "id": "c1-0076",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Which statement about gas pressure is correct?",
+    "columns": null,
+    "options": [
+      "It is caused by gas particles attracting one another.",
+      "It is caused only by the weight of the gas pushing down.",
+      "It is caused by gas particles colliding with the walls of the container.",
+      "It is caused by gas particles vibrating in fixed positions."
+    ],
+    "answer": 2,
+    "explain": "Many particles hit the container walls every second, and the force of these collisions per unit area is the pressure."
+  },
+  {
+    "id": "c1-0077",
+    "sub": "1.1",
+    "level": "core",
+    "q": "What is the name of the change of state from liquid to solid?",
+    "columns": null,
+    "options": [
+      "Melting",
+      "Freezing",
+      "Condensing",
+      "Evaporating"
+    ],
+    "answer": 1,
+    "explain": "A liquid becomes a solid by freezing. Melting is the reverse change."
+  },
+  {
+    "id": "c1-0078",
+    "sub": "1.1",
+    "level": "extended",
+    "q": "A pure solid is heated steadily. Its temperature stays constant while it melts. Why?",
+    "columns": null,
+    "options": [
+      "The particles stop moving while the solid melts.",
+      "The energy supplied is used to overcome the forces between particles, not to raise their average kinetic energy.",
+      "The energy supplied makes the particles vibrate faster.",
+      "The solid gives out energy as it melts."
+    ],
+    "answer": 1,
+    "explain": "During melting the energy goes into separating the particles from their fixed positions, so the average kinetic energy, and hence the temperature, does not change."
+  },
+  {
+    "id": "c1-0079",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Ammonia has a boiling point of −33 °C. In which state is ammonia at 25 °C?",
+    "columns": null,
+    "options": [
+      "Liquid",
+      "Gas",
+      "Solid",
+      "A mixture of liquid and solid"
+    ],
+    "answer": 1,
+    "explain": "25 °C is far above the boiling point of −33 °C, so ammonia is a gas."
+  },
+  {
+    "id": "c1-0080",
+    "sub": "1.1",
+    "level": "core",
+    "q": "A student heats some ice in a beaker over a Bunsen burner. Which change of state occurs first as the ice warms up?",
+    "columns": null,
+    "options": [
+      "Boiling",
+      "Condensing",
+      "Evaporating",
+      "Melting"
+    ],
+    "answer": 3,
+    "explain": "Ice first reaches its melting point and turns into liquid water. Boiling occurs later at 100 °C."
+  },
+  {
+    "id": "c1-0081",
+    "sub": "1.1",
+    "level": "extended",
+    "q": "Why does evaporation cool the liquid that remains?",
+    "columns": null,
+    "options": [
+      "The particles with the most energy escape, so the average kinetic energy of the rest falls.",
+      "The particles with the least energy escape, so the average kinetic energy of the rest falls.",
+      "The particles that escape lose some of their mass.",
+      "Energy is absorbed from the surrounding air only."
+    ],
+    "answer": 0,
+    "explain": "The fastest, most energetic particles are the ones that leave, so the average energy of the remaining particles is lower."
+  },
+  {
+    "id": "c1-0082",
+    "sub": "1.1",
+    "level": "core",
+    "q": "In which state of matter are the particles furthest apart?",
+    "columns": null,
+    "options": [
+      "Liquid",
+      "Solid",
+      "Liquid and solid equally",
+      "Gas"
+    ],
+    "answer": 3,
+    "explain": "Gas particles are widely separated, whereas particles in liquids and solids are touching."
+  },
+  {
+    "id": "c1-0083",
+    "sub": "1.1",
+    "level": "extended",
+    "q": "A sealed syringe containing a gas is cooled with the plunger free to move at constant external pressure. Which explanation of the decrease in volume is correct?",
+    "columns": null,
+    "options": [
+      "The particles become smaller.",
+      "The particles move more slowly, so they hit the plunger less often and with less force, and the plunger moves in until the pressure balances.",
+      "The particles lose mass.",
+      "The attractions between particles break."
+    ],
+    "answer": 1,
+    "explain": "Slower particles exert less pressure, so the external pressure pushes the plunger in until the pressures are equal again, giving a smaller volume."
+  },
+  {
+    "id": "c1-0084",
+    "sub": "1.2",
+    "level": "extended",
+    "q": "The relative molecular masses of four alkanes are CH₄ = 16, C₂H₆ = 30, C₃H₈ = 44 and C₄H₁₀ = 58. Which diffuses fastest under the same conditions?",
+    "columns": null,
+    "options": [
+      "C₂H₆",
+      "CH₄",
+      "C₃H₈",
+      "C₄H₁₀"
+    ],
+    "answer": 1,
+    "explain": "The gas with the smallest relative molecular mass diffuses fastest, which is CH₄."
+  },
+  {
+    "id": "c1-0085",
+    "sub": "1.2",
+    "level": "extended",
+    "q": "Cotton wool soaked in ammonia solution is placed at one end of a long glass tube and cotton wool soaked in hydrobromic acid (giving off hydrogen bromide, Mr = 81) at the other end. A white solid ring forms. Where does the ring form?",
+    "columns": null,
+    "options": [
+      "Closer to the hydrogen bromide end",
+      "Closer to the ammonia end",
+      "Exactly in the middle of the tube",
+      "At the hydrogen bromide end"
+    ],
+    "answer": 0,
+    "explain": "Ammonia (Mr = 17) is much lighter than hydrogen bromide (Mr = 81), so it diffuses faster and travels further before the gases meet."
+  },
+  {
+    "id": "c1-0086",
+    "sub": "1.2",
+    "level": "extended",
+    "q": "Which statement about the particles in a gas is correct?",
+    "columns": null,
+    "options": [
+      "At the same temperature, lighter particles move faster on average than heavier particles.",
+      "At the same temperature, heavier particles move faster than lighter particles.",
+      "At the same temperature, all gas particles move at the same speed.",
+      "At the same temperature, lighter particles move slower than heavier particles."
+    ],
+    "answer": 0,
+    "explain": "Particles at the same temperature have the same average kinetic energy, so the lighter ones must move faster."
+  },
+  {
+    "id": "c1-0087",
+    "sub": "1.1",
+    "level": "extended",
+    "q": "Which statement about the particles in a gas at a fixed temperature is correct?",
+    "columns": null,
+    "options": [
+      "They all move at exactly the same speed.",
+      "They all stop moving when they collide.",
+      "They move more slowly than the particles in a liquid at the same temperature.",
+      "They have a range of speeds, and the average kinetic energy depends on the temperature."
+    ],
+    "answer": 3,
+    "explain": "Collisions constantly change the speeds of individual particles, so there is always a range, but the average kinetic energy is set by the temperature."
+  },
+  {
+    "id": "c1-0088",
+    "sub": "1.1",
+    "level": "core",
+    "q": "A syringe containing air is sealed at the tip and warmed. The plunger can move freely and the pressure outside stays constant. What happens to the volume of air?",
+    "columns": null,
+    "options": [
+      "It decreases.",
+      "It stays the same.",
+      "It decreases and then increases.",
+      "It increases."
+    ],
+    "answer": 3,
+    "explain": "At constant pressure, a gas expands when it is heated because its particles move faster."
+  },
+  {
+    "id": "c1-0089",
+    "sub": "1.2",
+    "level": "core",
+    "q": "Why is diffusion in liquids slower than diffusion in gases?",
+    "columns": null,
+    "options": [
+      "Liquid particles are packed more closely, so they collide more often and spread more slowly.",
+      "Liquid particles are heavier than gas particles of the same substance.",
+      "Liquid particles do not move.",
+      "Liquid particles are held in fixed positions."
+    ],
+    "answer": 0,
+    "explain": "Liquid particles can move, but they are close together and so collide very often, which slows their net movement."
+  },
+  {
+    "id": "c1-0090",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Which row correctly describes the change of state?",
+    "columns": [
+      "Change",
+      "Starting state",
+      "Final state"
+    ],
+    "options": [
+      "Condensing | Gas | Liquid",
+      "Freezing | Solid | Liquid",
+      "Melting | Liquid | Solid",
+      "Evaporating | Gas | Liquid"
+    ],
+    "answer": 0,
+    "explain": "Condensing is gas to liquid. Freezing is liquid to solid, melting is solid to liquid and evaporating is liquid to gas."
+  }
+]

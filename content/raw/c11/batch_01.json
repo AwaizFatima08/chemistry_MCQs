@@ -1,0 +1,452 @@
+[
+ {
+  "id": "c11-0001",
+  "sub": "11.8",
+  "level": "core",
+  "q": "What is a polymer?",
+  "columns": null,
+  "options": [
+   "a small molecule made by breaking up a larger molecule",
+   "a mixture of different hydrocarbons",
+   "a large molecule built up from many small molecules called monomers",
+   "a molecule that contains only one repeating atom"
+  ],
+  "answer": 2,
+  "explain": "Polymers are long molecules formed by joining many monomer molecules together."
+ },
+ {
+  "id": "c11-0002",
+  "sub": "11.5",
+  "level": "core",
+  "q": "Which statement about alkenes is correct?",
+  "columns": null,
+  "options": [
+   "They are saturated hydrocarbons that contain only single bonds.",
+   "They are unsaturated hydrocarbons that contain a C=C double bond.",
+   "They are unsaturated compounds that contain oxygen.",
+   "They are saturated compounds that contain a C=C double bond."
+  ],
+  "answer": 1,
+  "explain": "Alkenes are hydrocarbons that contain a C=C double bond, so they are unsaturated."
+ },
+ {
+  "id": "c11-0003",
+  "sub": "11.1",
+  "level": "core",
+  "q": "Which is the general formula of the alcohol homologous series?",
+  "columns": null,
+  "options": [
+   "CₙH₂ₙOH",
+   "CₙH₂ₙ₊₁OH",
+   "CₙH₂ₙ₊₂OH",
+   "CₙH₂ₙ₊₁O"
+  ],
+  "answer": 1,
+  "explain": "Alcohols have the general formula CₙH₂ₙ₊₁OH, for example CH₃OH (n = 1) and C₂H₅OH (n = 2)."
+ },
+ {
+  "id": "c11-0004",
+  "sub": "11.2",
+  "level": "core",
+  "q": "A compound has a name ending in -ene. What type of compound is it?",
+  "columns": null,
+  "options": [
+   "an alkane",
+   "an alkene",
+   "an alcohol",
+   "a carboxylic acid"
+  ],
+  "answer": 1,
+  "explain": "The ending -ene shows a C=C double bond, so the compound is an alkene."
+ },
+ {
+  "id": "c11-0005",
+  "sub": "11.3",
+  "level": "core",
+  "q": "Which list contains only fossil fuels?",
+  "columns": null,
+  "options": [
+   "coal, hydrogen, petroleum",
+   "wood, natural gas, petroleum",
+   "coal, natural gas, petroleum",
+   "coal, ethanol, natural gas"
+  ],
+  "answer": 2,
+  "explain": "The three fossil fuels are coal, natural gas and petroleum. Hydrogen, wood and ethanol are not fossil fuels."
+ },
+ {
+  "id": "c11-0006",
+  "sub": "11.6",
+  "level": "core",
+  "q": "Which conditions are used to make ethanol by fermentation of aqueous glucose?",
+  "columns": null,
+  "options": [
+   "yeast, 300 °C and no oxygen",
+   "yeast, 25–35 °C and no oxygen",
+   "an acid catalyst, 25–35 °C and plenty of oxygen",
+   "yeast, 25–35 °C and plenty of oxygen"
+  ],
+  "answer": 1,
+  "explain": "Fermentation uses yeast at 25–35 °C in the absence of oxygen. Air is excluded so the ethanol is not oxidised."
+ },
+ {
+  "id": "c11-0007",
+  "sub": "11.7",
+  "level": "core",
+  "q": "Ethanoic acid reacts with magnesium. What are the products?",
+  "columns": null,
+  "options": [
+   "magnesium ethanoate and carbon dioxide",
+   "magnesium carbonate and hydrogen",
+   "magnesium hydroxide and water",
+   "magnesium ethanoate and hydrogen"
+  ],
+  "answer": 3,
+  "explain": "Like other acids, ethanoic acid reacts with a reactive metal to give a salt and hydrogen. The salt is magnesium ethanoate."
+ },
+ {
+  "id": "c11-0008",
+  "sub": "11.4",
+  "level": "core",
+  "q": "Which statement describes the bonding in alkanes?",
+  "columns": null,
+  "options": [
+   "All the bonds are single covalent bonds.",
+   "There is one C=C double bond in each molecule.",
+   "They contain ionic bonds between carbon and hydrogen.",
+   "They contain delocalised electrons between the carbon atoms."
+  ],
+  "answer": 0,
+  "explain": "Alkanes are saturated hydrocarbons that contain only single covalent bonds."
+ },
+ {
+  "id": "c11-0009",
+  "sub": "11.8",
+  "level": "core",
+  "q": "How is poly(ethene) formed?",
+  "columns": null,
+  "options": [
+   "Ethanol molecules join together by condensation polymerisation.",
+   "Ethane molecules are cracked and then joined.",
+   "Many ethene molecules join together by addition polymerisation.",
+   "Ethene molecules are oxidised and then joined."
+  ],
+  "answer": 2,
+  "explain": "Ethene monomers contain C=C. The double bonds open and the molecules join in long chains to form poly(ethene)."
+ },
+ {
+  "id": "c11-0010",
+  "sub": "11.5",
+  "level": "core",
+  "q": "What conditions are used to crack large alkane molecules?",
+  "columns": null,
+  "options": [
+   "high temperature and a catalyst",
+   "low temperature and a catalyst",
+   "high temperature and an inert atmosphere only",
+   "room temperature and ultraviolet light"
+  ],
+  "answer": 0,
+  "explain": "Cracking breaks long alkane molecules into smaller ones using a high temperature and a catalyst."
+ },
+ {
+  "id": "c11-0011",
+  "sub": "11.8",
+  "level": "core",
+  "q": "Which substances are made from polymers?",
+  "columns": null,
+  "options": [
+   "fossil fuels",
+   "plastics",
+   "metals",
+   "alkenes"
+  ],
+  "answer": 1,
+  "explain": "Plastics are made from polymers."
+ },
+ {
+  "id": "c11-0012",
+  "sub": "11.1",
+  "level": "core",
+  "q": "An alkane molecule contains five carbon atoms. What is its molecular formula?",
+  "columns": null,
+  "options": [
+   "C₅H₁₀",
+   "C₅H₁₂",
+   "C₅H₁₄",
+   "C₅H₈"
+  ],
+  "answer": 1,
+  "explain": "Alkanes have the general formula CₙH₂ₙ₊₂. For n = 5 this gives C₅H₁₂."
+ },
+ {
+  "id": "c11-0013",
+  "sub": "11.2",
+  "level": "core",
+  "q": "Which of these names is that of an alcohol?",
+  "columns": null,
+  "options": [
+   "butanol",
+   "butane",
+   "butene",
+   "butanoic acid"
+  ],
+  "answer": 0,
+  "explain": "The ending -ol shows the –OH group of an alcohol. -ane is an alkane, -ene an alkene and -oic acid a carboxylic acid."
+ },
+ {
+  "id": "c11-0014",
+  "sub": "11.3",
+  "level": "core",
+  "q": "What is the main constituent of natural gas?",
+  "columns": null,
+  "options": [
+   "methane",
+   "ethane",
+   "propane",
+   "hydrogen"
+  ],
+  "answer": 0,
+  "explain": "Natural gas is mainly methane, CH₄."
+ },
+ {
+  "id": "c11-0015",
+  "sub": "11.6",
+  "level": "core",
+  "q": "Which equation represents the fermentation of glucose?",
+  "columns": null,
+  "options": [
+   "C₆H₁₂O₆(aq) → 2C₂H₅OH(aq) + 2CO₂(g)",
+   "C₆H₁₂O₆(aq) → C₂H₅OH(aq) + CO₂(g)",
+   "C₆H₁₂O₆(aq) → 2C₂H₅OH(aq) + CO₂(g)",
+   "C₆H₁₂O₆(aq) → 2C₂H₅OH(aq) + 4CO₂(g)"
+  ],
+  "answer": 0,
+  "explain": "Glucose gives two molecules of ethanol and two of carbon dioxide, which balances: 6 C, 12 H and 6 O on each side."
+ },
+ {
+  "id": "c11-0016",
+  "sub": "11.7",
+  "level": "core",
+  "q": "What is the formula of sodium ethanoate?",
+  "columns": null,
+  "options": [
+   "CH₃CH₂ONa",
+   "CH₃COOH₂Na",
+   "NaCH₃CO",
+   "CH₃COONa"
+  ],
+  "answer": 3,
+  "explain": "Ethanoate is CH₃COO⁻ and sodium is Na⁺, so the salt is CH₃COONa."
+ },
+ {
+  "id": "c11-0017",
+  "sub": "11.4",
+  "level": "core",
+  "q": "What are the products of the complete combustion of methane?",
+  "columns": null,
+  "options": [
+   "carbon dioxide and water",
+   "carbon monoxide and water",
+   "carbon and hydrogen",
+   "carbon dioxide and hydrogen"
+  ],
+  "answer": 0,
+  "explain": "Complete combustion of a hydrocarbon gives carbon dioxide and water: CH₄ + 2O₂ → CO₂ + 2H₂O."
+ },
+ {
+  "id": "c11-0018",
+  "sub": "11.8",
+  "level": "core",
+  "q": "Why do plastics sent to landfill sites cause a problem?",
+  "columns": null,
+  "options": [
+   "Plastics dissolve in rain water and pollute rivers.",
+   "Plastics react with soil to form fuels.",
+   "Many plastics are not biodegradable, so they remain for a very long time.",
+   "Plastics decompose quickly and release oxygen."
+  ],
+  "answer": 2,
+  "explain": "Most plastics are unreactive and not broken down by microorganisms, so they persist in landfill sites and take up space."
+ },
+ {
+  "id": "c11-0019",
+  "sub": "11.5",
+  "level": "core",
+  "q": "Why are large alkane molecules cracked in oil refineries?",
+  "columns": null,
+  "options": [
+   "to make longer molecules that are more viscous",
+   "to make shorter, more useful molecules, including alkenes",
+   "to make the molecules less volatile",
+   "to remove carbon and hydrogen from the molecules"
+  ],
+  "answer": 1,
+  "explain": "There is more demand for short-chain fuels and alkenes than for long-chain molecules, so cracking turns the surplus long chains into more useful products."
+ },
+ {
+  "id": "c11-0020",
+  "sub": "11.1",
+  "level": "core",
+  "q": "What is a functional group?",
+  "columns": null,
+  "options": [
+   "the carbon chain that gives a compound its boiling point",
+   "the number of carbon atoms in each molecule of a compound",
+   "a group of atoms that is the same in every organic compound",
+   "an atom or group of atoms that determines the chemical properties of a homologous series"
+  ],
+  "answer": 3,
+  "explain": "The functional group (such as C=C or –OH) is the part of the molecule that decides how the compounds react, so it determines the chemical properties."
+ },
+ {
+  "id": "c11-0021",
+  "sub": "11.2",
+  "level": "core",
+  "q": "What is the structural formula of ethanoic acid?",
+  "columns": null,
+  "options": [
+   "CH₃COOH",
+   "CH₃CH₂OH",
+   "CH₃CH₂COOH",
+   "CH₃COOCH₃"
+  ],
+  "answer": 0,
+  "explain": "Ethanoic acid has two carbon atoms and the –COOH group, so it is CH₃COOH."
+ },
+ {
+  "id": "c11-0022",
+  "sub": "11.3",
+  "level": "core",
+  "q": "Which compound is a hydrocarbon?",
+  "columns": null,
+  "options": [
+   "C₃H₈",
+   "C₂H₅OH",
+   "CH₃COOH",
+   "CH₃Cl"
+  ],
+  "answer": 0,
+  "explain": "A hydrocarbon contains hydrogen and carbon only. The other compounds also contain oxygen or chlorine."
+ },
+ {
+  "id": "c11-0023",
+  "sub": "11.8",
+  "level": "core",
+  "q": "What is an environmental problem caused by burning plastics?",
+  "columns": null,
+  "options": [
+   "Hydrogen is formed.",
+   "The plastic turns into metal.",
+   "Toxic gases are formed.",
+   "The plastic produces only water."
+  ],
+  "answer": 2,
+  "explain": "Burning plastics can release toxic gases, such as carbon monoxide, so disposal by burning causes pollution."
+ },
+ {
+  "id": "c11-0024",
+  "sub": "11.6",
+  "level": "core",
+  "q": "Which conditions are used to make ethanol from ethene and steam?",
+  "columns": null,
+  "options": [
+   "25–35 °C, 1 atm and yeast",
+   "300 °C, 60 atm and yeast",
+   "300 °C, 60 atm and an acid catalyst",
+   "25–35 °C, 60 atm and an acid catalyst"
+  ],
+  "answer": 2,
+  "explain": "Ethene and steam react at 300 °C and 6000 kPa (60 atm) with an acid catalyst."
+ },
+ {
+  "id": "c11-0025",
+  "sub": "11.7",
+  "level": "core",
+  "q": "Solid sodium carbonate is added to ethanoic acid. What is observed?",
+  "columns": null,
+  "options": [
+   "A gas forms that relights a glowing splint.",
+   "A gas forms that burns with a squeaky pop.",
+   "There is no visible change.",
+   "Bubbles of gas form that turn limewater milky."
+  ],
+  "answer": 3,
+  "explain": "Carbonates react with acids to give a salt, water and carbon dioxide, which turns limewater milky."
+ },
+ {
+  "id": "c11-0026",
+  "sub": "11.4",
+  "level": "core",
+  "q": "Which equation represents the complete combustion of methane?",
+  "columns": null,
+  "options": [
+   "CH₄(g) + O₂(g) → CO₂(g) + 2H₂O(l)",
+   "CH₄(g) + 2O₂(g) → CO(g) + 2H₂O(l)",
+   "CH₄(g) + 3O₂(g) → CO₂(g) + 2H₂O(l)",
+   "CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l)"
+  ],
+  "answer": 3,
+  "explain": "CH₄ + 2O₂ → CO₂ + 2H₂O has 1 C, 4 H and 4 O on each side. The others are not balanced or do not give CO₂."
+ },
+ {
+  "id": "c11-0027",
+  "sub": "11.5",
+  "level": "core",
+  "q": "Which equation shows a possible cracking reaction of decane?",
+  "columns": null,
+  "options": [
+   "C₁₀H₂₂ → C₈H₁₈ + C₂H₆",
+   "C₁₀H₂₂ → C₆H₁₂ + C₂H₄",
+   "C₁₀H₂₂ → C₅H₁₂ + C₅H₁₂",
+   "C₁₀H₂₂ → C₈H₁₈ + C₂H₄"
+  ],
+  "answer": 3,
+  "explain": "C₁₀H₂₂ → C₈H₁₈ + C₂H₄ balances: 10 C and 22 H on each side. The other equations have unequal numbers of C or H atoms."
+ },
+ {
+  "id": "c11-0028",
+  "sub": "11.8",
+  "level": "core",
+  "q": "What is an environmental problem caused by plastics being dumped in the sea?",
+  "columns": null,
+  "options": [
+   "They dissolve and make the sea more acidic.",
+   "They quickly rot and use up dissolved oxygen.",
+   "They accumulate in the oceans and can harm marine animals.",
+   "They form alkenes that kill fish."
+  ],
+  "answer": 2,
+  "explain": "Plastics do not rot, so they build up in oceans and can be swallowed or entangle marine animals."
+ },
+ {
+  "id": "c11-0029",
+  "sub": "11.1",
+  "level": "core",
+  "q": "Which statement describes a saturated compound?",
+  "columns": null,
+  "options": [
+   "Its molecules contain at least one carbon–carbon double bond.",
+   "Its molecules contain no hydrogen atoms.",
+   "Its molecules contain the maximum number of carbon atoms.",
+   "Its molecules contain only single carbon–carbon bonds."
+  ],
+  "answer": 3,
+  "explain": "In a saturated compound all the carbon–carbon bonds are single bonds. Compounds with C=C bonds are unsaturated."
+ },
+ {
+  "id": "c11-0030",
+  "sub": "11.2",
+  "level": "core",
+  "q": "A compound has the molecular formula C₄H₁₀. To which homologous series does it belong?",
+  "columns": null,
+  "options": [
+   "alkenes",
+   "alkanes",
+   "alcohols",
+   "carboxylic acids"
+  ],
+  "answer": 1,
+  "explain": "For n = 4 the alkane formula CₙH₂ₙ₊₂ gives C₄H₁₀. An alkene with four carbons would be C₄H₈."
+ }
+]

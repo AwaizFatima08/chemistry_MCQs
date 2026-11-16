@@ -1,0 +1,456 @@
+[
+ {
+  "id": "c9-0031",
+  "sub": "9.3",
+  "level": "core",
+  "q": "How do alloys generally compare with the pure metals they are made from?",
+  "columns": null,
+  "options": [
+   "They are always softer and weaker",
+   "They are better electrical conductors",
+   "They are often harder and stronger",
+   "They always have lower melting points"
+  ],
+  "answer": 2,
+  "explain": "Mixing in other atoms usually makes the metal harder and stronger, so alloys are often more useful."
+ },
+ {
+  "id": "c9-0032",
+  "sub": "9.3",
+  "level": "extended",
+  "q": "Which description of a structure represents an alloy?",
+  "columns": null,
+  "options": [
+   "A lattice of identical atoms in regular layers",
+   "A lattice with atoms of two different sizes mixed together",
+   "A lattice of alternating positive and negative ions",
+   "Separate small molecules held by weak forces"
+  ],
+  "answer": 1,
+  "explain": "An alloy contains atoms of different sizes, which disturbs the regular layers of a pure metal."
+ },
+ {
+  "id": "c9-0033",
+  "sub": "9.3",
+  "level": "core",
+  "q": "Which description of a structure represents a pure metal?",
+  "columns": null,
+  "options": [
+   "Atoms of two different sizes mixed together",
+   "Identical atoms arranged in regular layers",
+   "Positive and negative ions alternating in a lattice",
+   "Small molecules arranged in a lattice"
+  ],
+  "answer": 1,
+  "explain": "A pure metal has only one type of atom, so the layers are regular."
+ },
+ {
+  "id": "c9-0034",
+  "sub": "9.3",
+  "level": "extended",
+  "q": "Why are alloys often harder than the pure metals in them?",
+  "columns": null,
+  "options": [
+   "Atoms of different sizes stop the layers sliding over each other easily",
+   "Alloys have stronger metallic bonds because they contain more electrons",
+   "All the atoms are the same size so the layers lock together",
+   "Alloys contain covalent bonds between the metals"
+  ],
+  "answer": 0,
+  "explain": "The different-sized atoms distort the regular layers, so the layers cannot slide over one another as easily."
+ },
+ {
+  "id": "c9-0035",
+  "sub": "9.3",
+  "level": "extended",
+  "q": "Why is a pure metal usually soft and malleable?",
+  "columns": null,
+  "options": [
+   "The atoms are held by weak covalent bonds",
+   "The positive ions are free to move out of the lattice",
+   "The layers of identical atoms can slide over each other",
+   "The metal contains many different sizes of atom"
+  ],
+  "answer": 2,
+  "explain": "In a pure metal the regular layers slide when a force is applied, so the metal changes shape without breaking."
+ },
+ {
+  "id": "c9-0036",
+  "sub": "9.3",
+  "level": "core",
+  "q": "Which of these is an alloy?",
+  "columns": null,
+  "options": [
+   "Copper(II) oxide",
+   "Zinc",
+   "Cryolite",
+   "Brass"
+  ],
+  "answer": 3,
+  "explain": "Brass is a mixture of copper and zinc; zinc is an element and the other two are compounds."
+ },
+ {
+  "id": "c9-0037",
+  "sub": "9.3",
+  "level": "core",
+  "q": "Which row correctly describes an alloy?",
+  "columns": [
+   "Alloy",
+   "Contains",
+   "Property"
+  ],
+  "options": [
+   "Brass | copper and tin | harder than copper",
+   "Stainless steel | iron and chromium | resists rusting",
+   "Stainless steel | iron and copper | resists rusting",
+   "Brass | iron and zinc | harder than copper"
+  ],
+  "answer": 1,
+  "explain": "Stainless steel contains iron with chromium and other elements and does not rust easily, while brass is copper and zinc."
+ },
+ {
+  "id": "c9-0038",
+  "sub": "9.3",
+  "level": "extended",
+  "q": "Pure iron is soft, but steel is hard. Why does adding a little carbon make the iron harder?",
+  "columns": null,
+  "options": [
+   "Carbon atoms make the iron atoms smaller so they fit together better",
+   "Carbon forms ionic bonds with iron",
+   "Carbon atoms add delocalised electrons that stop the layers moving",
+   "Carbon atoms are a different size so the layers of iron atoms cannot slide easily"
+  ],
+  "answer": 3,
+  "explain": "The carbon atoms differ in size from iron atoms, distorting the layers and making sliding more difficult."
+ },
+ {
+  "id": "c9-0039",
+  "sub": "9.3",
+  "level": "extended",
+  "q": "Steel is stronger than pure iron. What is steel?",
+  "columns": null,
+  "options": [
+   "Iron mixed with a small amount of carbon",
+   "A compound of iron and carbon only",
+   "Pure iron with a layer of rust",
+   "Iron mixed with a large amount of zinc"
+  ],
+  "answer": 0,
+  "explain": "Steel is an alloy, a mixture of iron with a small percentage of carbon."
+ },
+ {
+  "id": "c9-0040",
+  "sub": "9.3",
+  "level": "core",
+  "q": "Why is mild steel not suitable for making cutlery?",
+  "columns": null,
+  "options": [
+   "It is too hard to shape",
+   "It conducts electricity",
+   "It rusts in contact with water and air",
+   "It has too low a density"
+  ],
+  "answer": 2,
+  "explain": "Mild steel is mostly iron and rusts, whereas stainless steel resists rusting."
+ },
+ {
+  "id": "c9-0041",
+  "sub": "9.3",
+  "level": "extended",
+  "q": "Which change would make a pure metal harder?",
+  "columns": null,
+  "options": [
+   "Heating the metal",
+   "Removing the delocalised electrons",
+   "Adding atoms of a different size",
+   "Making the layers more regular"
+  ],
+  "answer": 2,
+  "explain": "Different-sized atoms stop the layers sliding, which is how alloys are made harder."
+ },
+ {
+  "id": "c9-0042",
+  "sub": "9.3",
+  "level": "core",
+  "q": "A 200 g sample of brass contains 130 g of copper, and the rest is zinc. What is the percentage of zinc by mass?",
+  "columns": null,
+  "options": [
+   "65%",
+   "35%",
+   "70%",
+   "130%"
+  ],
+  "answer": 1,
+  "explain": "Zinc = 200 − 130 = 70 g, so the percentage is 70 ÷ 200 × 100 = 35%."
+ },
+ {
+  "id": "c9-0043",
+  "sub": "9.4",
+  "level": "core",
+  "q": "Which list shows metals in order of decreasing reactivity, most reactive first?",
+  "columns": null,
+  "options": [
+   "Calcium, magnesium, zinc, iron",
+   "Calcium, zinc, magnesium, iron",
+   "Magnesium, calcium, iron, zinc",
+   "Iron, zinc, magnesium, calcium"
+  ],
+  "answer": 0,
+  "explain": "The reactivity series runs … calcium, magnesium, aluminium, carbon, zinc, iron, hydrogen, copper …"
+ },
+ {
+  "id": "c9-0044",
+  "sub": "9.4",
+  "level": "core",
+  "q": "Which pair of non-metals is included in the reactivity series?",
+  "columns": null,
+  "options": [
+   "Oxygen and nitrogen",
+   "Chlorine and iodine",
+   "Sulfur and silicon",
+   "Carbon and hydrogen"
+  ],
+  "answer": 3,
+  "explain": "Carbon and hydrogen are placed in the series as reference points, for extraction and for reaction with acids."
+ },
+ {
+  "id": "c9-0045",
+  "sub": "9.4",
+  "level": "core",
+  "q": "Which statement describes sodium added to cold water?",
+  "columns": null,
+  "options": [
+   "It melts, moves on the surface and fizzes",
+   "It sinks and reacts slowly",
+   "It floats and does not react",
+   "It burns with a bright white flame"
+  ],
+  "answer": 0,
+  "explain": "Sodium reacts vigorously with water, producing hydrogen; the heat melts the metal, which floats and moves around."
+ },
+ {
+  "id": "c9-0046",
+  "sub": "9.4",
+  "level": "core",
+  "q": "Which equation correctly represents calcium reacting with cold water?",
+  "columns": null,
+  "options": [
+   "Ca(s) + H₂O(l) → CaO(s) + H₂(g)",
+   "Ca(s) + 2H₂O(l) → Ca(OH)₂(aq) + O₂(g)",
+   "Ca(s) + 2H₂O(l) → Ca(OH)₂(aq) + H₂(g)",
+   "Ca(s) + H₂O(l) → Ca(OH)₂(aq) + H₂(g)"
+  ],
+  "answer": 2,
+  "explain": "Calcium and cold water give calcium hydroxide and hydrogen, and the equation is balanced with 2H₂O."
+ },
+ {
+  "id": "c9-0047",
+  "sub": "9.4",
+  "level": "core",
+  "q": "Which equation correctly represents magnesium reacting with steam?",
+  "columns": null,
+  "options": [
+   "Mg(s) + H₂O(g) → MgO(s) + O₂(g)",
+   "Mg(s) + H₂O(g) → MgH₂(s) + O₂(g)",
+   "2Mg(s) + H₂O(g) → Mg₂O(s) + H₂(g)",
+   "Mg(s) + H₂O(g) → MgO(s) + H₂(g)"
+  ],
+  "answer": 3,
+  "explain": "Magnesium reacts with steam to form magnesium oxide and hydrogen; magnesium oxide is MgO."
+ },
+ {
+  "id": "c9-0048",
+  "sub": "9.4",
+  "level": "core",
+  "q": "Which metal does not produce bubbles of hydrogen when added to dilute hydrochloric acid?",
+  "columns": null,
+  "options": [
+   "Zinc",
+   "Copper",
+   "Iron",
+   "Magnesium"
+  ],
+  "answer": 1,
+  "explain": "Copper is below hydrogen in the reactivity series, so it cannot displace hydrogen from acids."
+ },
+ {
+  "id": "c9-0049",
+  "sub": "9.4",
+  "level": "core",
+  "q": "Equal pieces of magnesium, zinc and iron are added to separate samples of the same dilute hydrochloric acid. In which order do they bubble, fastest to slowest?",
+  "columns": null,
+  "options": [
+   "Magnesium, iron, zinc",
+   "Magnesium, zinc, iron",
+   "Zinc, magnesium, iron",
+   "Iron, zinc, magnesium"
+  ],
+  "answer": 1,
+  "explain": "The more reactive the metal, the faster the reaction, and the order of reactivity is magnesium, zinc, iron."
+ },
+ {
+  "id": "c9-0050",
+  "sub": "9.4",
+  "level": "extended",
+  "q": "Metal W reacts with cold water. Metal X does not react with cold water but reacts with steam. Metal Y does not react with steam but reacts with dilute acid. Metal Z does not react with dilute acid. What is the order of reactivity, most reactive first?",
+  "columns": null,
+  "options": [
+   "X, W, Y, Z",
+   "W, Y, X, Z",
+   "Z, Y, X, W",
+   "W, X, Y, Z"
+  ],
+  "answer": 3,
+  "explain": "A metal that reacts with cold water is more reactive than one needing steam, then one reacting only with acid, then one with no reaction."
+ },
+ {
+  "id": "c9-0051",
+  "sub": "9.4",
+  "level": "extended",
+  "q": "Four metals are added to dilute acid. P gives many bubbles very quickly, Q gives a few bubbles slowly, R gives no bubbles and S gives a moderate stream of bubbles. What is the order of reactivity, most reactive first?",
+  "columns": null,
+  "options": [
+   "P, S, Q, R",
+   "P, Q, S, R",
+   "R, Q, S, P",
+   "S, P, Q, R"
+  ],
+  "answer": 0,
+  "explain": "More vigorous bubbling means a more reactive metal and no reaction means the least reactive."
+ },
+ {
+  "id": "c9-0052",
+  "sub": "9.4",
+  "level": "core",
+  "q": "Which of these metals is above hydrogen in the reactivity series?",
+  "columns": null,
+  "options": [
+   "Copper",
+   "Silver",
+   "Iron",
+   "Gold"
+  ],
+  "answer": 2,
+  "explain": "Iron is above hydrogen and displaces it from acids, while copper, silver and gold are below it."
+ },
+ {
+  "id": "c9-0053",
+  "sub": "9.4",
+  "level": "core",
+  "q": "Where is carbon placed in the reactivity series?",
+  "columns": null,
+  "options": [
+   "Between magnesium and aluminium",
+   "Between iron and hydrogen",
+   "Between aluminium and zinc",
+   "Between copper and silver"
+  ],
+  "answer": 2,
+  "explain": "Carbon sits between aluminium and zinc, so it can reduce oxides of zinc and iron but not aluminium oxide."
+ },
+ {
+  "id": "c9-0054",
+  "sub": "9.4",
+  "level": "extended",
+  "q": "Magnesium is added to blue copper(II) sulfate solution. Which observation is correct?",
+  "columns": null,
+  "options": [
+   "The solution turns darker blue and the magnesium dissolves",
+   "The solution stays blue and bubbles of hydrogen form",
+   "The blue solution turns green and a grey solid forms",
+   "The blue colour fades and a brown solid forms"
+  ],
+  "answer": 3,
+  "explain": "Magnesium displaces copper, which forms as a brown solid, and the blue Cu²⁺ ions are used up."
+ },
+ {
+  "id": "c9-0055",
+  "sub": "9.4",
+  "level": "extended",
+  "q": "Which mixture will produce no reaction?",
+  "columns": null,
+  "options": [
+   "Zinc added to copper(II) sulfate solution",
+   "Copper added to zinc sulfate solution",
+   "Magnesium added to iron(II) sulfate solution",
+   "Iron added to silver nitrate solution"
+  ],
+  "answer": 1,
+  "explain": "Copper is less reactive than zinc, so it cannot displace zinc from solution."
+ },
+ {
+  "id": "c9-0056",
+  "sub": "9.4",
+  "level": "extended",
+  "q": "Which ionic equation shows zinc displacing copper from copper(II) sulfate solution?",
+  "columns": null,
+  "options": [
+   "Zn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s)",
+   "Cu(s) + Zn²⁺(aq) → Cu²⁺(aq) + Zn(s)",
+   "Zn(s) + Cu²⁺(aq) → Zn⁺(aq) + Cu(s)",
+   "Zn²⁺(aq) + Cu²⁺(aq) → Zn(s) + Cu(s)"
+  ],
+  "answer": 0,
+  "explain": "Zinc atoms lose two electrons to form Zn²⁺ and Cu²⁺ ions gain them to form copper, and the charges balance."
+ },
+ {
+  "id": "c9-0057",
+  "sub": "9.4",
+  "level": "extended",
+  "q": "Zinc displaces copper from copper(II) sulfate solution. What explains this?",
+  "columns": null,
+  "options": [
+   "Zinc atoms gain electrons more easily than copper atoms",
+   "Zinc is a better conductor of electricity",
+   "Zinc atoms lose electrons more easily than copper atoms",
+   "Copper ions are less dense than zinc ions"
+  ],
+  "answer": 2,
+  "explain": "The more reactive metal has a greater tendency to form positive ions by losing electrons."
+ },
+ {
+  "id": "c9-0058",
+  "sub": "9.4",
+  "level": "extended",
+  "q": "Iron is added to copper(II) sulfate solution. Which statement about the redox change is correct?",
+  "columns": null,
+  "options": [
+   "Iron atoms lose electrons and are oxidised",
+   "Iron atoms gain electrons and are reduced",
+   "Copper ions lose electrons and are oxidised",
+   "Sulfate ions gain electrons and are reduced"
+  ],
+  "answer": 0,
+  "explain": "Iron forms Fe²⁺ by losing electrons, which is oxidation, and the Cu²⁺ ions gain them and are reduced."
+ },
+ {
+  "id": "c9-0059",
+  "sub": "9.4",
+  "level": "extended",
+  "q": "Aluminium is above zinc in the reactivity series but reacts very little with dilute acid at first. Why?",
+  "columns": null,
+  "options": [
+   "Aluminium is below hydrogen in the reactivity series",
+   "A thin layer of aluminium oxide protects the metal",
+   "Aluminium is a non-metal",
+   "Aluminium forms an insoluble hydroxide with the acid"
+  ],
+  "answer": 1,
+  "explain": "The unreactive oxide layer covers the surface and stops the acid reaching the aluminium underneath."
+ },
+ {
+  "id": "c9-0060",
+  "sub": "9.4",
+  "level": "extended",
+  "q": "A piece of aluminium foil is placed in dilute hydrochloric acid. There is no fizzing at first, but after some time it fizzes vigorously. Why?",
+  "columns": null,
+  "options": [
+   "The acid slowly makes the foil more reactive",
+   "The foil warms and changes into a non-metal",
+   "Hydrogen first has to be added to the acid",
+   "The acid slowly removes the oxide layer"
+  ],
+  "answer": 3,
+  "explain": "Once the aluminium oxide layer has been dissolved by the acid, the reactive aluminium beneath reacts and gives hydrogen."
+ }
+]

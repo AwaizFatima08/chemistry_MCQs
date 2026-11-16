@@ -1,0 +1,459 @@
+[
+ {
+  "id": "c3-0061",
+  "sub": "3.1",
+  "level": "core",
+  "q": "Sodium reacts with water: Na(s) + H₂O(l) → NaOH(aq) + H₂(g). What are the numbers in front of Na, H₂O, NaOH and H₂ in the balanced equation?",
+  "columns": null,
+  "options": [
+   "1, 1, 1, 1",
+   "2, 1, 2, 1",
+   "2, 2, 2, 2",
+   "2, 2, 2, 1"
+  ],
+  "answer": 3,
+  "explain": "2Na + 2H₂O → 2NaOH + H₂ has 2 Na, 4 H and 2 O on each side."
+ },
+ {
+  "id": "c3-0062",
+  "sub": "3.1",
+  "level": "core",
+  "q": "How many oxygen atoms are shown in 2Mg(NO₃)₂?",
+  "columns": null,
+  "options": [
+   "6",
+   "4",
+   "12",
+   "3"
+  ],
+  "answer": 2,
+  "explain": "Each Mg(NO₃)₂ has 2 × 3 = 6 oxygen atoms. Two of them have 2 × 6 = 12."
+ },
+ {
+  "id": "c3-0063",
+  "sub": "3.2",
+  "level": "core",
+  "q": "What is the relative formula mass, Mr, of hydrated copper(II) sulfate, CuSO₄·5H₂O? (Ar: H = 1, O = 16, S = 32, Cu = 64)",
+  "columns": null,
+  "options": [
+   "160",
+   "250",
+   "178",
+   "196"
+  ],
+  "answer": 1,
+  "explain": "CuSO₄ = 64 + 32 + 64 = 160 and 5H₂O = 5 × 18 = 90, so Mr = 160 + 90 = 250."
+ },
+ {
+  "id": "c3-0064",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "How many moles of solute are in 25.0 cm³ of a solution of concentration 0.20 mol/dm³?",
+  "columns": null,
+  "options": [
+   "0.050 mol",
+   "0.0050 mol",
+   "0.50 mol",
+   "5.0 mol"
+  ],
+  "answer": 1,
+  "explain": "Moles = concentration × volume in dm³ = 0.20 × 0.0250 = 0.0050 mol."
+ },
+ {
+  "id": "c3-0065",
+  "sub": "3.2",
+  "level": "core",
+  "q": "Heating 124 g of copper(II) carbonate forms 80 g of copper(II) oxide. What mass of copper(II) oxide forms from 12.4 g of copper(II) carbonate?",
+  "columns": null,
+  "options": [
+   "0.80 g",
+   "8.0 g",
+   "44 g",
+   "80 g"
+  ],
+  "answer": 1,
+  "explain": "12.4 g is one tenth of 124 g, so the mass of copper(II) oxide is one tenth of 80 g, which is 8.0 g."
+ },
+ {
+  "id": "c3-0066",
+  "sub": "3.1",
+  "level": "core",
+  "q": "Which word equation is correct for calcium carbonate reacting with dilute hydrochloric acid?",
+  "columns": null,
+  "options": [
+   "calcium carbonate + hydrochloric acid → calcium chloride + hydrogen",
+   "calcium carbonate + hydrochloric acid → calcium oxide + carbon dioxide",
+   "calcium carbonate + hydrochloric acid → calcium chloride + water + carbon dioxide",
+   "calcium carbonate + hydrochloric acid → calcium chloride + water"
+  ],
+  "answer": 2,
+  "explain": "Acids react with carbonates to give a salt, water and carbon dioxide."
+ },
+ {
+  "id": "c3-0067",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "Which row is correct? (Ar: H = 1, C = 12, O = 16; Avogadro constant = 6.02 × 10²³ per mol)",
+  "columns": [
+   "Sample",
+   "Amount of substance",
+   "Number of particles"
+  ],
+  "options": [
+   "16 g of O₂ | 0.50 mol | 6.02 × 10²³",
+   "18 g of H₂O | 1.0 mol | 3.01 × 10²³",
+   "22 g of CO₂ | 0.50 mol | 3.01 × 10²³",
+   "32 g of CH₄ | 2.0 mol | 6.02 × 10²³"
+  ],
+  "answer": 2,
+  "explain": "22 g ÷ 44 g/mol = 0.50 mol, and 0.50 × 6.02 × 10²³ = 3.01 × 10²³. The other rows have the wrong number of particles for the amount shown."
+ },
+ {
+  "id": "c3-0068",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "In a titration, 25.0 cm³ of hydrochloric acid is exactly neutralised by 20.0 cm³ of 0.125 mol/dm³ sodium hydroxide (HCl + NaOH → NaCl + H₂O). What is the concentration of the acid in g/dm³? (Ar: H = 1, Cl = 35.5)",
+  "columns": null,
+  "options": [
+   "0.365 g/dm³",
+   "4.56 g/dm³",
+   "3.65 g/dm³",
+   "36.5 g/dm³"
+  ],
+  "answer": 2,
+  "explain": "Moles of NaOH = 0.125 × 0.0200 = 0.00250 mol = moles of HCl. Concentration = 0.00250 ÷ 0.0250 = 0.100 mol/dm³, and 0.100 × 36.5 = 3.65 g/dm³."
+ },
+ {
+  "id": "c3-0069",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "1.50 g of impure zinc reacts with excess acid to give 360 cm³ of hydrogen at r.t.p. Assume the impurities do not react. What is the percentage purity of the zinc? (Ar: Zn = 65; molar gas volume = 24 dm³)",
+  "columns": null,
+  "options": [
+   "0.65%",
+   "35%",
+   "65%",
+   "97.5%"
+  ],
+  "answer": 2,
+  "explain": "H₂ = 0.360 ÷ 24 = 0.015 mol, so Zn = 0.015 mol = 0.975 g. Purity = 0.975 ÷ 1.50 × 100 = 65%."
+ },
+ {
+  "id": "c3-0070",
+  "sub": "3.2",
+  "level": "core",
+  "q": "What is the relative formula mass, Mr, of calcium hydroxide, Ca(OH)₂? (Ar: H = 1, O = 16, Ca = 40)",
+  "columns": null,
+  "options": [
+   "57",
+   "74",
+   "58",
+   "114"
+  ],
+  "answer": 1,
+  "explain": "Mr = 40 + 2 × (16 + 1) = 40 + 34 = 74. The bracket means two OH groups."
+ },
+ {
+  "id": "c3-0071",
+  "sub": "3.1",
+  "level": "core",
+  "q": "Which compound contains three different elements?",
+  "columns": null,
+  "options": [
+   "NaCl",
+   "H₂O",
+   "NaOH",
+   "CO₂"
+  ],
+  "answer": 2,
+  "explain": "NaOH contains sodium, oxygen and hydrogen. The other three each contain two elements."
+ },
+ {
+  "id": "c3-0072",
+  "sub": "3.1",
+  "level": "core",
+  "q": "Which equation for the burning of methane is correctly balanced?",
+  "columns": null,
+  "options": [
+   "CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l)",
+   "CH₄(g) + O₂(g) → CO₂(g) + 2H₂O(l)",
+   "CH₄(g) + 2O₂(g) → CO₂(g) + H₂O(l)",
+   "2CH₄(g) + 2O₂(g) → 2CO₂(g) + 2H₂O(l)"
+  ],
+  "answer": 0,
+  "explain": "CH₄ + 2O₂ → CO₂ + 2H₂O has 1 C, 4 H and 4 O on each side. The other equations are unbalanced in oxygen or hydrogen."
+ },
+ {
+  "id": "c3-0073",
+  "sub": "3.1",
+  "level": "core",
+  "q": "A model of a molecule shows one sulfur atom joined to two oxygen atoms. What is its formula?",
+  "columns": null,
+  "options": [
+   "S₂O",
+   "SO",
+   "S₂O₂",
+   "SO₂"
+  ],
+  "answer": 3,
+  "explain": "One S atom and two O atoms give SO₂, sulfur dioxide."
+ },
+ {
+  "id": "c3-0074",
+  "sub": "3.3",
+  "level": "core",
+  "q": "A solution of sodium hydroxide has a concentration of 40 g/dm³. What mass of sodium hydroxide is in 0.5 dm³ of this solution?",
+  "columns": null,
+  "options": [
+   "20 g",
+   "10 g",
+   "40 g",
+   "80 g"
+  ],
+  "answer": 0,
+  "explain": "Mass = concentration × volume = 40 g/dm³ × 0.5 dm³ = 20 g."
+ },
+ {
+  "id": "c3-0075",
+  "sub": "3.1",
+  "level": "extended",
+  "q": "Aqueous sodium carbonate reacts with dilute sulfuric acid to form aqueous sodium sulfate, water and carbon dioxide gas. Which is the balanced equation with state symbols?",
+  "columns": null,
+  "options": [
+   "Na₂CO₃(aq) + H₂SO₄(aq) → Na₂SO₄(aq) + 2H₂O(l) + CO₂(g)",
+   "Na₂CO₃(aq) + H₂SO₄(aq) → Na₂SO₄(aq) + H₂O(l) + CO₂(g)",
+   "NaCO₃(aq) + H₂SO₄(aq) → NaSO₄(aq) + H₂O(l) + CO₂(g)",
+   "Na₂CO₃(s) + H₂SO₄(aq) → Na₂SO₄(aq) + H₂O(l) + CO₂(aq)"
+  ],
+  "answer": 1,
+  "explain": "The formulae Na₂CO₃ and Na₂SO₄ are needed to balance the charges, and the equation is already balanced with 1 H₂O. Sodium carbonate is aqueous and carbon dioxide is a gas."
+ },
+ {
+  "id": "c3-0076",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "How many molecules are there in 0.50 mol of water? (Avogadro constant = 6.02 × 10²³ per mol)",
+  "columns": null,
+  "options": [
+   "6.02 × 10²³",
+   "1.20 × 10²⁴",
+   "3.01 × 10²³",
+   "3.01 × 10²²"
+  ],
+  "answer": 2,
+  "explain": "Number of molecules = 0.50 × 6.02 × 10²³ = 3.01 × 10²³."
+ },
+ {
+  "id": "c3-0077",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "CaCO₃(s) + 2HCl(aq) → CaCl₂(aq) + H₂O(l) + CO₂(g). Excess acid is added to 5.0 g of calcium carbonate. What volume of carbon dioxide forms at r.t.p.? (Ar: C = 12, O = 16, Ca = 40; molar gas volume = 24 dm³)",
+  "columns": null,
+  "options": [
+   "1.2 dm³",
+   "0.60 dm³",
+   "2.4 dm³",
+   "120 dm³"
+  ],
+  "answer": 0,
+  "explain": "Mr of CaCO₃ = 100, so 5.0 g = 0.050 mol. The ratio CaCO₃ : CO₂ is 1 : 1, so volume = 0.050 × 24 = 1.2 dm³."
+ },
+ {
+  "id": "c3-0078",
+  "sub": "3.2",
+  "level": "extended",
+  "q": "What is the relative formula mass, Mr, of hydrated sodium carbonate, Na₂CO₃·10H₂O? (Ar: H = 1, C = 12, O = 16, Na = 23)",
+  "columns": null,
+  "options": [
+   "106",
+   "124",
+   "196",
+   "286"
+  ],
+  "answer": 3,
+  "explain": "Na₂CO₃ = 46 + 12 + 48 = 106 and 10H₂O = 180, so Mr = 106 + 180 = 286."
+ },
+ {
+  "id": "c3-0079",
+  "sub": "3.1",
+  "level": "core",
+  "q": "How many different elements are present in ammonium sulfate, (NH₄)₂SO₄?",
+  "columns": null,
+  "options": [
+   "3",
+   "4",
+   "5",
+   "8"
+  ],
+  "answer": 1,
+  "explain": "The elements are nitrogen, hydrogen, sulfur and oxygen: 4 different elements."
+ },
+ {
+  "id": "c3-0080",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "Mg(s) + 2HCl(aq) → MgCl₂(aq) + H₂(g). What volume of 2.0 mol/dm³ hydrochloric acid reacts exactly with 2.4 g of magnesium? (Ar: Mg = 24)",
+  "columns": null,
+  "options": [
+   "25 cm³",
+   "50 cm³",
+   "200 cm³",
+   "100 cm³"
+  ],
+  "answer": 3,
+  "explain": "Moles of Mg = 2.4 ÷ 24 = 0.10 mol, so HCl needed = 0.20 mol. Volume = 0.20 ÷ 2.0 = 0.10 dm³ = 100 cm³."
+ },
+ {
+  "id": "c3-0081",
+  "sub": "3.1",
+  "level": "extended",
+  "q": "Which ionic equation represents the neutralisation of an acid by an alkali?",
+  "columns": null,
+  "options": [
+   "H⁺(aq) + O²⁻(aq) → H₂O(l)",
+   "H₂(g) + OH⁻(aq) → H₂O(l)",
+   "H⁺(aq) + Cl⁻(aq) → HCl(aq)",
+   "H⁺(aq) + OH⁻(aq) → H₂O(l)"
+  ],
+  "answer": 3,
+  "explain": "Hydrogen ions from the acid react with hydroxide ions from the alkali to form water."
+ },
+ {
+  "id": "c3-0082",
+  "sub": "3.1",
+  "level": "core",
+  "q": "Which row gives the correct name and formula?",
+  "columns": [
+   "Name",
+   "Formula"
+  ],
+  "options": [
+   "calcium hydroxide | CaOH",
+   "potassium carbonate | KCO₃",
+   "sodium hydroxide | NaOH",
+   "magnesium nitrate | MgNO₃"
+  ],
+  "answer": 2,
+  "explain": "Sodium hydroxide is NaOH. The others should be Ca(OH)₂, K₂CO₃ and Mg(NO₃)₂."
+ },
+ {
+  "id": "c3-0083",
+  "sub": "3.2",
+  "level": "extended",
+  "q": "The chloride XCl₂ has a relative formula mass of 95. What is the relative atomic mass of X? (Ar: Cl = 35.5)",
+  "columns": null,
+  "options": [
+   "47.5",
+   "24",
+   "59.5",
+   "95"
+  ],
+  "answer": 1,
+  "explain": "2 Cl = 71, so X = 95 − 71 = 24 (magnesium)."
+ },
+ {
+  "id": "c3-0084",
+  "sub": "3.1",
+  "level": "core",
+  "q": "Which word equation correctly shows zinc reacting with dilute hydrochloric acid?",
+  "columns": null,
+  "options": [
+   "zinc + hydrochloric acid → zinc chloride + hydrogen",
+   "zinc + hydrochloric acid → zinc chloride + water",
+   "zinc + hydrochloric acid → zinc oxide + hydrogen chloride",
+   "zinc + hydrochloric acid → zinc hydroxide + hydrogen"
+  ],
+  "answer": 0,
+  "explain": "A metal reacting with a dilute acid forms a salt and hydrogen gas. The salt from hydrochloric acid is a chloride."
+ },
+ {
+  "id": "c3-0085",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "2H₂(g) + O₂(g) → 2H₂O(l). What volume of oxygen reacts completely with 48 dm³ of hydrogen at r.t.p.?",
+  "columns": null,
+  "options": [
+   "12 dm³",
+   "24 dm³",
+   "48 dm³",
+   "96 dm³"
+  ],
+  "answer": 1,
+  "explain": "The ratio H₂ : O₂ is 2 : 1, so the oxygen volume is half of 48 dm³ = 24 dm³."
+ },
+ {
+  "id": "c3-0086",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "12.8 g of copper reacts with oxygen to form 14.4 g of an oxide. What is the empirical formula of the oxide? (Ar: O = 16, Cu = 64)",
+  "columns": null,
+  "options": [
+   "Cu₂O",
+   "CuO",
+   "Cu₂O₃",
+   "CuO₂"
+  ],
+  "answer": 0,
+  "explain": "Mass of oxygen = 14.4 − 12.8 = 1.6 g. Moles: Cu = 12.8 ÷ 64 = 0.20; O = 1.6 ÷ 16 = 0.10. The ratio is 2 : 1, so Cu₂O."
+ },
+ {
+  "id": "c3-0087",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "CH₄ + 2O₂ → CO₂ + 2H₂O. What mass of water forms when 8.0 g of methane burns completely? (Ar: H = 1, C = 12, O = 16)",
+  "columns": null,
+  "options": [
+   "9.0 g",
+   "8.0 g",
+   "18 g",
+   "36 g"
+  ],
+  "answer": 2,
+  "explain": "8.0 g ÷ 16 g/mol = 0.50 mol of CH₄. The ratio CH₄ : H₂O is 1 : 2, so 1.0 mol of H₂O = 18 g."
+ },
+ {
+  "id": "c3-0088",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "Which sample contains the largest number of molecules? (Ar: H = 1, C = 12, N = 14, O = 16)",
+  "columns": null,
+  "options": [
+   "4 g of H₂",
+   "32 g of O₂",
+   "44 g of CO₂",
+   "17 g of NH₃"
+  ],
+  "answer": 0,
+  "explain": "4 g of H₂ is 2 mol. 32 g of O₂, 44 g of CO₂ and 17 g of NH₃ are each 1 mol."
+ },
+ {
+  "id": "c3-0089",
+  "sub": "3.2",
+  "level": "extended",
+  "q": "What is the relative formula mass, Mr, of magnesium nitrate, Mg(NO₃)₂? (Ar: N = 14, O = 16, Mg = 24)",
+  "columns": null,
+  "options": [
+   "62",
+   "86",
+   "124",
+   "148"
+  ],
+  "answer": 3,
+  "explain": "Mr = 24 + 2 × (14 + 48) = 24 + 124 = 148."
+ },
+ {
+  "id": "c3-0090",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "0.10 mol of a solute is dissolved in water to make 250 cm³ of solution. What is the concentration in mol/dm³?",
+  "columns": null,
+  "options": [
+   "0.025",
+   "0.40",
+   "0.10",
+   "2.5"
+  ],
+  "answer": 1,
+  "explain": "250 cm³ = 0.250 dm³. Concentration = moles ÷ volume = 0.10 ÷ 0.250 = 0.40 mol/dm³."
+ }
+]

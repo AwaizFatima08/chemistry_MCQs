@@ -1,0 +1,460 @@
+[
+ {
+  "id": "c9-0001",
+  "sub": "9.1",
+  "level": "extended",
+  "q": "Which row describes a typical metal?",
+  "columns": [
+   "Thermal conductivity",
+   "Melting point",
+   "Malleable"
+  ],
+  "options": [
+   "Good | High | Yes",
+   "Good | Low | No",
+   "Poor | High | Yes",
+   "Poor | Low | No"
+  ],
+  "answer": 0,
+  "explain": "Metals conduct heat well, usually have high melting points and are malleable, unlike most non-metals."
+ },
+ {
+  "id": "c9-0002",
+  "sub": "9.1",
+  "level": "core",
+  "q": "What does it mean when a metal is described as ductile?",
+  "columns": null,
+  "options": [
+   "It can be hammered into thin sheets",
+   "It can be drawn out into wires",
+   "It conducts heat very well",
+   "It makes a ringing sound when struck"
+  ],
+  "answer": 1,
+  "explain": "Ductile means a material can be stretched into wire; being hammered into sheets is malleability."
+ },
+ {
+  "id": "c9-0003",
+  "sub": "9.1",
+  "level": "core",
+  "q": "A solid conducts electricity and can be bent without breaking. What is it most likely to be?",
+  "columns": null,
+  "options": [
+   "A non-metal such as sulfur",
+   "An ionic compound",
+   "A metal",
+   "A simple covalent compound"
+  ],
+  "answer": 2,
+  "explain": "Metals conduct as solids and are malleable, whereas sulfur, ionic solids and simple covalent solids do not conduct and are brittle or crumbly."
+ },
+ {
+  "id": "c9-0004",
+  "sub": "9.1",
+  "level": "core",
+  "q": "Which products form when a metal such as zinc reacts with dilute sulfuric acid?",
+  "columns": null,
+  "options": [
+   "A salt and water only",
+   "A salt and oxygen",
+   "A salt and carbon dioxide",
+   "A salt and hydrogen"
+  ],
+  "answer": 3,
+  "explain": "Metals above hydrogen in the reactivity series displace hydrogen from acids, giving a salt and hydrogen gas."
+ },
+ {
+  "id": "c9-0005",
+  "sub": "9.1",
+  "level": "core",
+  "q": "Magnesium ribbon is added to dilute hydrochloric acid. Which gas is given off and how is it identified?",
+  "columns": null,
+  "options": [
+   "Hydrogen, which relights a glowing splint",
+   "Hydrogen, which burns with a squeaky pop",
+   "Oxygen, which burns with a squeaky pop",
+   "Chlorine, which bleaches damp litmus paper"
+  ],
+  "answer": 1,
+  "explain": "The gas is hydrogen, and a lighted splint held at the mouth of the tube makes a squeaky pop."
+ },
+ {
+  "id": "c9-0006",
+  "sub": "9.1",
+  "level": "core",
+  "q": "Which type of oxide do most metals form when they react with oxygen?",
+  "columns": null,
+  "options": [
+   "Acidic oxides",
+   "Neutral oxides",
+   "Gaseous oxides",
+   "Basic oxides"
+  ],
+  "answer": 3,
+  "explain": "Metal oxides are basic (they react with acids to form salts), while many non-metal oxides are acidic."
+ },
+ {
+  "id": "c9-0007",
+  "sub": "9.1",
+  "level": "core",
+  "q": "Calcium reacts with cold water. Which pair of products forms?",
+  "columns": null,
+  "options": [
+   "Calcium hydroxide and hydrogen",
+   "Calcium oxide and hydrogen",
+   "Calcium hydroxide and oxygen",
+   "Calcium oxide and oxygen"
+  ],
+  "answer": 0,
+  "explain": "A reactive metal and cold water give the metal hydroxide and hydrogen gas."
+ },
+ {
+  "id": "c9-0008",
+  "sub": "9.1",
+  "level": "core",
+  "q": "Magnesium ribbon is heated in air until it ignites. Which observation is correct?",
+  "columns": null,
+  "options": [
+   "An orange flame and a black solid",
+   "A blue flame and a colourless gas",
+   "A bright white flame and a white solid",
+   "A red flame and a green solid"
+  ],
+  "answer": 2,
+  "explain": "Magnesium burns with a bright white flame to form white magnesium oxide, MgO."
+ },
+ {
+  "id": "c9-0009",
+  "sub": "9.1",
+  "level": "core",
+  "q": "Which statement about metals is correct?",
+  "columns": null,
+  "options": [
+   "Most are liquids at room temperature",
+   "Most have lower melting points than non-metals",
+   "Most have boiling points below 100 °C",
+   "Most are solids at room temperature with high melting points"
+  ],
+  "answer": 3,
+  "explain": "Only mercury is a liquid metal at room temperature, and most metals have high melting and boiling points."
+ },
+ {
+  "id": "c9-0010",
+  "sub": "9.1",
+  "level": "extended",
+  "q": "Why do metals conduct electricity?",
+  "columns": null,
+  "options": [
+   "Positive ions move through the structure",
+   "Electrons are held in fixed positions between atoms",
+   "Delocalised electrons are free to move through the lattice",
+   "Mobile negative ions carry the charge"
+  ],
+  "answer": 2,
+  "explain": "In a metal the outer electrons are delocalised and move, carrying charge; the positive ions stay in fixed positions."
+ },
+ {
+  "id": "c9-0011",
+  "sub": "9.1",
+  "level": "extended",
+  "q": "A student tests four solids. Which result is the best evidence that solid X is a metal?",
+  "columns": null,
+  "options": [
+   "It is shiny and brittle",
+   "It conducts electricity when solid and is malleable",
+   "It has a low melting point and does not conduct",
+   "It conducts electricity only when molten"
+  ],
+  "answer": 1,
+  "explain": "Conduction as a solid together with malleability is typical of metals; ionic compounds conduct only when molten or dissolved."
+ },
+ {
+  "id": "c9-0012",
+  "sub": "9.1",
+  "level": "core",
+  "q": "Which statement about non-metals is correct?",
+  "columns": null,
+  "options": [
+   "Most solid non-metals are brittle and poor conductors of heat",
+   "Most solid non-metals are malleable and ductile",
+   "Most solid non-metals conduct electricity well",
+   "Most non-metals form basic oxides"
+  ],
+  "answer": 0,
+  "explain": "Non-metals are generally brittle as solids and poor thermal and electrical conductors; graphite is an exception."
+ },
+ {
+  "id": "c9-0013",
+  "sub": "9.1",
+  "level": "extended",
+  "q": "0.24 g of magnesium reacts completely with excess dilute sulfuric acid. What volume of hydrogen forms at room temperature and pressure? (Ar: Mg = 24; 1 mol of gas = 24 000 cm³)",
+  "columns": null,
+  "options": [
+   "120 cm³",
+   "480 cm³",
+   "240 cm³",
+   "24 cm³"
+  ],
+  "answer": 2,
+  "explain": "Moles of Mg = 0.24 ÷ 24 = 0.010 mol; Mg + H₂SO₄ → MgSO₄ + H₂ gives 0.010 mol H₂, which is 0.010 × 24 000 = 240 cm³."
+ },
+ {
+  "id": "c9-0014",
+  "sub": "9.1",
+  "level": "core",
+  "q": "Which is a chemical property of metals rather than a physical property?",
+  "columns": null,
+  "options": [
+   "They are malleable",
+   "They conduct heat",
+   "They are ductile",
+   "They react with dilute acids"
+  ],
+  "answer": 3,
+  "explain": "Reacting with acids changes the metal into a new substance, so it is chemical; the others describe physical behaviour."
+ },
+ {
+  "id": "c9-0015",
+  "sub": "9.2",
+  "level": "core",
+  "q": "Which property of aluminium makes it suitable for the body of an aircraft?",
+  "columns": null,
+  "options": [
+   "Its high density",
+   "Its low density",
+   "Its high melting point",
+   "Its poor electrical conductivity"
+  ],
+  "answer": 1,
+  "explain": "A low density keeps the aircraft light so less fuel is needed."
+ },
+ {
+  "id": "c9-0016",
+  "sub": "9.2",
+  "level": "core",
+  "q": "Which pair of properties makes aluminium suitable for overhead electrical cables?",
+  "columns": null,
+  "options": [
+   "Low density and good electrical conductivity",
+   "High density and good electrical conductivity",
+   "Low density and poor electrical conductivity",
+   "High density and poor electrical conductivity"
+  ],
+  "answer": 0,
+  "explain": "The cables must carry current and also be light enough to be supported between pylons."
+ },
+ {
+  "id": "c9-0017",
+  "sub": "9.2",
+  "level": "core",
+  "q": "Why is aluminium used to make food containers?",
+  "columns": null,
+  "options": [
+   "It is magnetic",
+   "It has a very high melting point",
+   "It resists corrosion",
+   "It is an electrical insulator"
+  ],
+  "answer": 2,
+  "explain": "Aluminium does not corrode easily, so the container and the food stay in good condition."
+ },
+ {
+  "id": "c9-0018",
+  "sub": "9.2",
+  "level": "core",
+  "q": "Which row correctly matches a metal, a use and the property that makes it suitable?",
+  "columns": [
+   "Metal",
+   "Use",
+   "Property"
+  ],
+  "options": [
+   "Aluminium | aircraft bodies | high density",
+   "Copper | electrical wiring | ductile and a good conductor",
+   "Copper | food containers | low density",
+   "Aluminium | electrical wiring | brittle"
+  ],
+  "answer": 1,
+  "explain": "Copper can be drawn into wires and conducts electricity well, so it is used in wiring."
+ },
+ {
+  "id": "c9-0019",
+  "sub": "9.2",
+  "level": "core",
+  "q": "Copper wires in a household cable are covered with plastic. Why?",
+  "columns": null,
+  "options": [
+   "Plastic is an electrical insulator",
+   "Plastic conducts electricity better than copper",
+   "Plastic stops copper being ductile",
+   "Plastic reacts with the copper to make it stronger"
+  ],
+  "answer": 0,
+  "explain": "The plastic insulates the wire so people are not shocked and current stays in the copper."
+ },
+ {
+  "id": "c9-0020",
+  "sub": "9.2",
+  "level": "core",
+  "q": "Which property of copper makes it suitable for the base of a cooking pan?",
+  "columns": null,
+  "options": [
+   "It has a low density",
+   "It is a good electrical insulator",
+   "It is brittle",
+   "It is a good conductor of heat"
+  ],
+  "answer": 3,
+  "explain": "Heat must pass quickly from the cooker through the base into the food."
+ },
+ {
+  "id": "c9-0021",
+  "sub": "9.2",
+  "level": "extended",
+  "q": "Aluminium is a reactive metal, yet aluminium food containers hardly corrode. Why?",
+  "columns": null,
+  "options": [
+   "Aluminium is below hydrogen in the reactivity series",
+   "A thin layer of aluminium oxide on the surface protects the metal",
+   "Aluminium does not react with oxygen",
+   "Manufacturers always coat it with zinc"
+  ],
+  "answer": 1,
+  "explain": "Aluminium reacts quickly with oxygen to form an unreactive oxide layer that stops further reaction."
+ },
+ {
+  "id": "c9-0022",
+  "sub": "9.2",
+  "level": "extended",
+  "q": "Why are aluminium cables preferred to copper cables on long overhead power lines?",
+  "columns": null,
+  "options": [
+   "Aluminium is a better electrical conductor than copper",
+   "Aluminium has a higher density so the cables are stronger",
+   "Aluminium has a lower density so the cables are lighter",
+   "Aluminium is magnetic and stays on the pylon"
+  ],
+  "answer": 2,
+  "explain": "Aluminium conducts well enough and is much less dense than copper, so the cables put less load on the pylons."
+ },
+ {
+  "id": "c9-0023",
+  "sub": "9.2",
+  "level": "core",
+  "q": "Which property of metals allows steel to be pressed into car body panels?",
+  "columns": null,
+  "options": [
+   "Malleability",
+   "Brittleness",
+   "Low melting point",
+   "Poor thermal conductivity"
+  ],
+  "answer": 0,
+  "explain": "Malleable metals can be hammered or pressed into shape without breaking."
+ },
+ {
+  "id": "c9-0024",
+  "sub": "9.2",
+  "level": "extended",
+  "q": "The density of aluminium is 2.7 g/cm³ and of copper is 9.0 g/cm³. How much less mass does 1000 cm³ of aluminium have than 1000 cm³ of copper?",
+  "columns": null,
+  "options": [
+   "2700 g",
+   "9000 g",
+   "11 700 g",
+   "6300 g"
+  ],
+  "answer": 3,
+  "explain": "Mass = density × volume: copper 9.0 × 1000 = 9000 g, aluminium 2.7 × 1000 = 2700 g, so the difference is 6300 g."
+ },
+ {
+  "id": "c9-0025",
+  "sub": "9.2",
+  "level": "core",
+  "q": "Which property of copper allows it to be pulled into long thin wires?",
+  "columns": null,
+  "options": [
+   "Brittleness",
+   "Low density",
+   "Magnetism",
+   "Ductility"
+  ],
+  "answer": 3,
+  "explain": "Ductile metals can be drawn out into wire."
+ },
+ {
+  "id": "c9-0026",
+  "sub": "9.2",
+  "level": "core",
+  "q": "Which statement about aluminium is correct?",
+  "columns": null,
+  "options": [
+   "It has a high density and is a poor conductor",
+   "It corrodes quickly in air",
+   "It has a low density and conducts electricity well",
+   "It is magnetic and brittle"
+  ],
+  "answer": 2,
+  "explain": "These properties explain its use in aircraft and overhead cables."
+ },
+ {
+  "id": "c9-0027",
+  "sub": "9.3",
+  "level": "core",
+  "q": "What is an alloy?",
+  "columns": null,
+  "options": [
+   "A mixture of a metal with other elements",
+   "A compound of two metals",
+   "A pure metal with a coating",
+   "A mixture of non-metals only"
+  ],
+  "answer": 0,
+  "explain": "An alloy is a mixture, not a compound, and contains at least one metal."
+ },
+ {
+  "id": "c9-0028",
+  "sub": "9.3",
+  "level": "core",
+  "q": "Which two metals are mixed to make brass?",
+  "columns": null,
+  "options": [
+   "Copper and tin",
+   "Copper and zinc",
+   "Iron and carbon",
+   "Aluminium and copper"
+  ],
+  "answer": 1,
+  "explain": "Brass is an alloy of copper and zinc; copper and tin make bronze."
+ },
+ {
+  "id": "c9-0029",
+  "sub": "9.3",
+  "level": "core",
+  "q": "Which elements are mixed with iron in stainless steel?",
+  "columns": null,
+  "options": [
+   "Copper and zinc",
+   "Calcium and silicon",
+   "Aluminium and magnesium",
+   "Chromium, nickel and carbon"
+  ],
+  "answer": 3,
+  "explain": "Stainless steel is iron with other elements such as chromium, nickel and carbon."
+ },
+ {
+  "id": "c9-0030",
+  "sub": "9.3",
+  "level": "core",
+  "q": "Stainless steel is used for cutlery. Which properties make it suitable?",
+  "columns": null,
+  "options": [
+   "It is hard and resists rusting",
+   "It is soft and easily shaped",
+   "It is a good conductor of electricity",
+   "It has a very low density"
+  ],
+  "answer": 0,
+  "explain": "Cutlery must stay hard and must not rust when washed and used with food."
+ }
+]

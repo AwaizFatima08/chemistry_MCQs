@@ -1,0 +1,462 @@
+[
+ {
+  "id": "c12-0061",
+  "sub": "12.4",
+  "level": "core",
+  "q": "Which mixture needs fractional distillation rather than simple distillation to separate it?",
+  "columns": null,
+  "options": [
+   "two miscible liquids with similar boiling points",
+   "an insoluble solid in a liquid",
+   "a dissolved solid in water",
+   "two dyes in an ink"
+  ],
+  "answer": 0,
+  "explain": "Fractional distillation is used for liquids that mix and whose boiling points are close, so one distillation does not separate them. The other mixtures need filtration, simple distillation or chromatography."
+ },
+ {
+  "id": "c12-0062",
+  "sub": "12.4",
+  "level": "extended",
+  "q": "During the fractional distillation of a mixture of two miscible liquids, what happens to the thermometer reading at the top of the column?",
+  "columns": null,
+  "options": [
+   "It rises steadily all the time.",
+   "It stays steady at the boiling point of the lower boiling liquid, then rises.",
+   "It falls as the first liquid distils.",
+   "It stays at the boiling point of the higher boiling liquid."
+  ],
+  "answer": 1,
+  "explain": "While the more volatile liquid distils the temperature stays near its boiling point. When it has gone, the temperature rises towards the boiling point of the other liquid."
+ },
+ {
+  "id": "c12-0063",
+  "sub": "12.4",
+  "level": "core",
+  "q": "Crystals are filtered from a solution and washed with a small amount of cold distilled water. Why is only a small amount of cold water used?",
+  "columns": null,
+  "options": [
+   "to make the crystals dissolve",
+   "to dry the crystals completely",
+   "to remove soluble impurities without dissolving much of the crystals",
+   "to add water of crystallisation"
+  ],
+  "answer": 2,
+  "explain": "The washing water removes solution clinging to the crystals. Using little and cold water means that only a small amount of the crystals dissolve."
+ },
+ {
+  "id": "c12-0064",
+  "sub": "12.4",
+  "level": "extended",
+  "q": "A saturated solution of a salt is cooled from 80 °C to 20 °C and crystals form. Why?",
+  "columns": null,
+  "options": [
+   "The salt reacts with the water at 20 °C.",
+   "Water evaporates when the solution is cooled.",
+   "The solution becomes more concentrated.",
+   "The solubility of the salt is lower at the lower temperature, so the excess solute comes out of solution."
+  ],
+  "answer": 3,
+  "explain": "Most salts are less soluble when cold. The solution holds too much solute at 20 °C, so the excess crystallises."
+ },
+ {
+  "id": "c12-0065",
+  "sub": "12.4",
+  "level": "extended",
+  "q": "A fermented mixture contains yeast cells (insoluble), ethanol and water. Which sequence best obtains ethanol?",
+  "columns": null,
+  "options": [
+   "filtration to remove the yeast, then fractional distillation",
+   "fractional distillation, then filtration",
+   "crystallisation, then filtration",
+   "chromatography, then simple distillation"
+  ],
+  "answer": 0,
+  "explain": "Filtration removes the insoluble yeast. The ethanol and water are miscible liquids with different boiling points, so fractional distillation separates them."
+ },
+ {
+  "id": "c12-0066",
+  "sub": "12.4",
+  "level": "extended",
+  "q": "While a liquid is boiling, the thermometer reading stays constant at 78 °C. What does this suggest about the liquid?",
+  "columns": null,
+  "options": [
+   "It is a mixture of two liquids.",
+   "It is a solid dissolved in water.",
+   "It is probably a single pure substance.",
+   "It is an element."
+  ],
+  "answer": 2,
+  "explain": "A pure liquid boils at one fixed temperature. In a mixture the boiling temperature would rise as the more volatile component is lost."
+ },
+ {
+  "id": "c12-0067",
+  "sub": "12.4",
+  "level": "core",
+  "q": "Which method gives pure water from seawater?",
+  "columns": null,
+  "options": [
+   "filtration",
+   "simple distillation",
+   "crystallisation",
+   "paper chromatography"
+  ],
+  "answer": 1,
+  "explain": "Simple distillation evaporates the water and condenses it again, leaving the dissolved salts behind."
+ },
+ {
+  "id": "c12-0068",
+  "sub": "12.4",
+  "level": "core",
+  "q": "A pure liquid boils sharply at 56 °C. Boiling points: ethanol 78 °C, water 100 °C, propanone 56 °C, hexane 69 °C. Which liquid is it most likely to be?",
+  "columns": null,
+  "options": [
+   "ethanol",
+   "water",
+   "hexane",
+   "propanone"
+  ],
+  "answer": 3,
+  "explain": "A pure liquid has a fixed boiling point. The sample matches the boiling point of propanone."
+ },
+ {
+  "id": "c12-0069",
+  "sub": "12.5",
+  "level": "core",
+  "q": "Dilute hydrochloric acid is added to a solid. It fizzes, and the gas turns limewater milky. Which ion is most likely to be present in the solid?",
+  "columns": null,
+  "options": [
+   "sulfate, SO₄²⁻",
+   "carbonate, CO₃²⁻",
+   "chloride, Cl⁻",
+   "nitrate, NO₃⁻"
+  ],
+  "answer": 1,
+  "explain": "Carbonates react with acid to give carbon dioxide, which turns limewater milky. Sulfates, chlorides and nitrates do not give this gas."
+ },
+ {
+  "id": "c12-0070",
+  "sub": "12.5",
+  "level": "core",
+  "q": "Which row gives the colour of the precipitate formed when acidified aqueous silver nitrate is added?",
+  "columns": [
+   "Anion",
+   "Precipitate with acidified silver nitrate"
+  ],
+  "options": [
+   "Cl⁻ | cream",
+   "I⁻ | white",
+   "Br⁻ | yellow",
+   "Br⁻ | cream"
+  ],
+  "answer": 3,
+  "explain": "Silver chloride is white, silver bromide is cream and silver iodide is yellow."
+ },
+ {
+  "id": "c12-0071",
+  "sub": "12.5",
+  "level": "extended",
+  "q": "Why is dilute nitric acid added before aqueous silver nitrate when testing for halide ions?",
+  "columns": null,
+  "options": [
+   "to make silver nitrate more soluble",
+   "to speed up the reaction",
+   "to react with carbonate ions that would also form a precipitate with silver ions",
+   "to produce chloride ions"
+  ],
+  "answer": 2,
+  "explain": "Silver carbonate is also an insoluble precipitate. Adding nitric acid first destroys any carbonate so that only a halide gives a precipitate."
+ },
+ {
+  "id": "c12-0072",
+  "sub": "12.5",
+  "level": "core",
+  "q": "A colourless solution is acidified with dilute nitric acid and aqueous barium nitrate is added. A white precipitate forms. Which ion is present?",
+  "columns": null,
+  "options": [
+   "sulfate, SO₄²⁻",
+   "chloride, Cl⁻",
+   "carbonate, CO₃²⁻",
+   "nitrate, NO₃⁻"
+  ],
+  "answer": 0,
+  "explain": "Barium ions form insoluble white barium sulfate. Carbonate would have been destroyed by the acid and chloride and nitrate give no precipitate with barium ions."
+ },
+ {
+  "id": "c12-0073",
+  "sub": "12.5",
+  "level": "extended",
+  "q": "Why must dilute sulfuric acid not be used to acidify the solution in the test for sulfate ions?",
+  "columns": null,
+  "options": [
+   "It contains sulfate ions, which would give a precipitate with barium ions.",
+   "It would react with the barium nitrate to form a gas.",
+   "It is too weak an acid to remove carbonate ions.",
+   "It would turn the barium nitrate solution acidic."
+  ],
+  "answer": 0,
+  "explain": "Sulfuric acid supplies sulfate ions, so a white precipitate would form whether or not the sample contained sulfate. Nitric acid is used instead."
+ },
+ {
+  "id": "c12-0074",
+  "sub": "12.5",
+  "level": "extended",
+  "q": "Which procedure and observation are correct for the test for nitrate ions?",
+  "columns": null,
+  "options": [
+   "Add dilute acid; carbon dioxide is given off and turns limewater milky.",
+   "Add acidified silver nitrate; a white precipitate forms.",
+   "Add aluminium foil and dilute acid; hydrogen is given off and burns with a squeaky pop.",
+   "Add aqueous sodium hydroxide and aluminium foil and warm; ammonia is given off and turns damp red litmus paper blue."
+  ],
+  "answer": 3,
+  "explain": "In alkaline solution, aluminium reduces nitrate ions to ammonia gas, which turns damp red litmus paper blue."
+ },
+ {
+  "id": "c12-0075",
+  "sub": "12.5",
+  "level": "extended",
+  "q": "What happens to the nitrate ions in the test with aluminium foil and aqueous sodium hydroxide?",
+  "columns": null,
+  "options": [
+   "They are oxidised to nitrogen dioxide.",
+   "They are reduced to hydrogen.",
+   "They are reduced to ammonia.",
+   "They are unchanged; the ammonia comes from the sodium hydroxide."
+  ],
+  "answer": 2,
+  "explain": "Aluminium reduces nitrate (nitrogen oxidation state +5) to ammonia (−3). Sodium hydroxide contains no nitrogen, so it cannot be the source of ammonia."
+ },
+ {
+  "id": "c12-0076",
+  "sub": "12.5",
+  "level": "extended",
+  "q": "A colourless solution decolourises acidified aqueous potassium manganate(VII), changing from purple to colourless. Which ion could be present?",
+  "columns": null,
+  "options": [
+   "sulfate, SO₄²⁻",
+   "sulfite, SO₃²⁻",
+   "carbonate, CO₃²⁻",
+   "nitrate, NO₃⁻"
+  ],
+  "answer": 1,
+  "explain": "Sulfite ions reduce the manganate(VII) ions, so the purple colour disappears. Sulfate, carbonate and nitrate do not."
+ },
+ {
+  "id": "c12-0077",
+  "sub": "12.5",
+  "level": "extended",
+  "q": "A sodium compound fizzes with dilute hydrochloric acid and the gas turns limewater milky. Which compound could it be?",
+  "columns": null,
+  "options": [
+   "sodium carbonate",
+   "sodium sulfate",
+   "sodium chloride",
+   "sodium nitrate"
+  ],
+  "answer": 0,
+  "explain": "The gas is carbon dioxide, which comes from the reaction of acid with a carbonate. Sulfates, chlorides and nitrates do not give carbon dioxide."
+ },
+ {
+  "id": "c12-0078",
+  "sub": "12.5",
+  "level": "extended",
+  "q": "Which ionic equation represents the formation of the precipitate in the test for chloride ions?",
+  "columns": null,
+  "options": [
+   "Ag⁺(aq) + NO₃⁻(aq) → AgNO₃(s)",
+   "Ba²⁺(aq) + 2Cl⁻(aq) → BaCl₂(s)",
+   "Ag⁺(aq) + 2Cl⁻(aq) → AgCl₂(s)",
+   "Ag⁺(aq) + Cl⁻(aq) → AgCl(s)"
+  ],
+  "answer": 3,
+  "explain": "Silver ions and chloride ions combine in a 1 : 1 ratio to give insoluble silver chloride. Silver nitrate and barium chloride are both soluble."
+ },
+ {
+  "id": "c12-0079",
+  "sub": "12.5",
+  "level": "extended",
+  "q": "Which ionic equation represents the formation of the precipitate in the test for sulfate ions?",
+  "columns": null,
+  "options": [
+   "Ba²⁺(aq) + SO₄²⁻(aq) → BaSO₄(aq)",
+   "Ba²⁺(aq) + SO₄²⁻(aq) → BaSO₄(s)",
+   "Ba²⁺(aq) + 2SO₄²⁻(aq) → Ba(SO₄)₂(s)",
+   "Ba⁺(aq) + SO₄⁻(aq) → BaSO₄(s)"
+  ],
+  "answer": 1,
+  "explain": "One Ba²⁺ ion combines with one SO₄²⁻ ion to give solid BaSO₄, which is insoluble. The charges must balance: +2 and −2."
+ },
+ {
+  "id": "c12-0080",
+  "sub": "12.5",
+  "level": "core",
+  "q": "What is seen when aqueous silver nitrate is added to an acidified solution of potassium iodide?",
+  "columns": null,
+  "options": [
+   "a white precipitate",
+   "a cream precipitate",
+   "a yellow precipitate",
+   "no precipitate"
+  ],
+  "answer": 2,
+  "explain": "Iodide ions form yellow silver iodide. White is for chloride and cream is for bromide."
+ },
+ {
+  "id": "c12-0081",
+  "sub": "12.5",
+  "level": "extended",
+  "q": "Which ionic equation represents the reaction between carbonate ions and dilute acid?",
+  "columns": null,
+  "options": [
+   "CO₃²⁻(aq) + 2H⁺(aq) → CO₂(g) + H₂(g)",
+   "CO₃²⁻(aq) + 2H⁺(aq) → CO₂(g) + 2OH⁻(aq)",
+   "CO₃²⁻(aq) + 2H⁺(aq) → CO(g) + H₂O(l)",
+   "CO₃²⁻(aq) + 2H⁺(aq) → CO₂(g) + H₂O(l)"
+  ],
+  "answer": 3,
+  "explain": "Carbonate ions react with hydrogen ions to give carbon dioxide and water. Only this equation balances in both atoms and charge."
+ },
+ {
+  "id": "c12-0082",
+  "sub": "12.5",
+  "level": "core",
+  "q": "Which row correctly describes a test for an ion?",
+  "columns": [
+   "Ion",
+   "Reagent added",
+   "Observation"
+  ],
+  "options": [
+   "SO₄²⁻ | acidified aqueous silver nitrate | white precipitate",
+   "SO₄²⁻ | acidified aqueous barium nitrate | white precipitate",
+   "Cl⁻ | acidified aqueous barium nitrate | white precipitate",
+   "CO₃²⁻ | dilute acid | no visible change"
+  ],
+  "answer": 1,
+  "explain": "Sulfate ions are tested with acidified barium nitrate. Chloride ions need acidified silver nitrate, and carbonates fizz with dilute acid."
+ },
+ {
+  "id": "c12-0083",
+  "sub": "12.5",
+  "level": "core",
+  "q": "Aqueous sodium hydroxide is added to a solution until in excess. A light blue precipitate forms which does not dissolve. Which cation is present?",
+  "columns": null,
+  "options": [
+   "copper(II), Cu²⁺",
+   "iron(II), Fe²⁺",
+   "iron(III), Fe³⁺",
+   "chromium(III), Cr³⁺"
+  ],
+  "answer": 0,
+  "explain": "Copper(II) hydroxide is light blue and insoluble in excess alkali. Iron(II) is green, iron(III) is red-brown and chromium(III) is green."
+ },
+ {
+  "id": "c12-0084",
+  "sub": "12.5",
+  "level": "core",
+  "q": "Aqueous sodium hydroxide gives a red-brown precipitate that does not dissolve in excess. Which cation is present?",
+  "columns": null,
+  "options": [
+   "iron(II), Fe²⁺",
+   "copper(II), Cu²⁺",
+   "iron(III), Fe³⁺",
+   "chromium(III), Cr³⁺"
+  ],
+  "answer": 2,
+  "explain": "Fe³⁺ forms red-brown iron(III) hydroxide which is insoluble in excess sodium hydroxide."
+ },
+ {
+  "id": "c12-0085",
+  "sub": "12.5",
+  "level": "core",
+  "q": "Aqueous sodium hydroxide gives a green precipitate that does not dissolve in excess. Which cation is present?",
+  "columns": null,
+  "options": [
+   "iron(II), Fe²⁺",
+   "chromium(III), Cr³⁺",
+   "copper(II), Cu²⁺",
+   "zinc, Zn²⁺"
+  ],
+  "answer": 0,
+  "explain": "Fe²⁺ forms a green precipitate that is insoluble in excess. The green precipitate from chromium(III) dissolves in excess sodium hydroxide."
+ },
+ {
+  "id": "c12-0086",
+  "sub": "12.5",
+  "level": "extended",
+  "q": "A solution is warmed with aqueous sodium hydroxide. A gas is given off that turns damp red litmus paper blue. Which cation is present?",
+  "columns": null,
+  "options": [
+   "aluminium, Al³⁺",
+   "calcium, Ca²⁺",
+   "ammonium, NH₄⁺",
+   "zinc, Zn²⁺"
+  ],
+  "answer": 2,
+  "explain": "Ammonium ions react with alkali on warming to release ammonia, the only common alkaline gas, which turns damp red litmus blue."
+ },
+ {
+  "id": "c12-0087",
+  "sub": "12.5",
+  "level": "extended",
+  "q": "Aqueous aluminium ions and aqueous zinc ions both give a white precipitate with aqueous sodium hydroxide that dissolves in excess. How can the two be distinguished?",
+  "columns": null,
+  "options": [
+   "Add more aqueous sodium hydroxide: only the zinc precipitate dissolves.",
+   "Add aqueous ammonia in excess: the aluminium precipitate dissolves but the zinc precipitate does not.",
+   "Add dilute nitric acid: only the aluminium precipitate dissolves.",
+   "Add aqueous ammonia in excess: the zinc precipitate dissolves but the aluminium precipitate does not."
+  ],
+  "answer": 3,
+  "explain": "Zinc hydroxide dissolves in excess aqueous ammonia to give a colourless solution, but aluminium hydroxide stays as a white precipitate."
+ },
+ {
+  "id": "c12-0088",
+  "sub": "12.5",
+  "level": "extended",
+  "q": "Aqueous sodium hydroxide gives a white precipitate that does not dissolve in excess. With aqueous ammonia there is no precipitate or only a very slight one. Which cation is present?",
+  "columns": null,
+  "options": [
+   "aluminium, Al³⁺",
+   "calcium, Ca²⁺",
+   "zinc, Zn²⁺",
+   "ammonium, NH₄⁺"
+  ],
+  "answer": 1,
+  "explain": "Calcium hydroxide is a white precipitate that is insoluble in excess alkali. Aluminium and zinc precipitates dissolve in excess sodium hydroxide, and ammonium gives no precipitate."
+ },
+ {
+  "id": "c12-0089",
+  "sub": "12.5",
+  "level": "extended",
+  "q": "Excess aqueous ammonia is added to aqueous copper(II) sulfate. What is seen?",
+  "columns": null,
+  "options": [
+   "A light blue precipitate forms and does not dissolve.",
+   "A light blue precipitate forms and then dissolves to give a dark blue solution.",
+   "A green precipitate forms and does not dissolve.",
+   "A red-brown precipitate forms."
+  ],
+  "answer": 1,
+  "explain": "Copper(II) hydroxide first forms as a light blue precipitate, which dissolves in excess ammonia to give a deep blue solution."
+ },
+ {
+  "id": "c12-0090",
+  "sub": "12.5",
+  "level": "extended",
+  "q": "Which row correctly describes what happens when aqueous sodium hydroxide is added slowly to excess?",
+  "columns": [
+   "Cation",
+   "Observation with aqueous sodium hydroxide"
+  ],
+  "options": [
+   "Al³⁺ | white precipitate that dissolves in excess",
+   "Ca²⁺ | white precipitate that dissolves in excess",
+   "Cu²⁺ | blue precipitate that dissolves in excess",
+   "Fe³⁺ | green precipitate that does not dissolve in excess"
+  ],
+  "answer": 0,
+  "explain": "Aluminium hydroxide is amphoteric, so its white precipitate dissolves in excess. Calcium hydroxide does not dissolve, copper(II) hydroxide does not dissolve and iron(III) gives a red-brown precipitate."
+ }
+]

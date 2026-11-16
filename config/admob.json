@@ -1,0 +1,27 @@
+{
+  "_note": "AdMob config for IGCSE Chemistry MCQs (Android). The AdMob app and ad units do NOT exist yet. Until they are created in the AdMob account homilabs.smc@gmail.com, the ids below are Google's public sample ids. scripts/check-release-ad-ids.sh fails while any id is a sample id, so no release can ship with them.",
+  "account": "homilabs.smc@gmail.com",
+  "publisher_id": "pending",
+  "app": {
+    "name": "IGCSE Chemistry MCQs",
+    "platform": "android",
+    "app_id": "ca-app-pub-3940256099942544~3347511713",
+    "status": "not created yet: add the app in AdMob, then paste its app id here and in AndroidManifest.xml"
+  },
+  "ad_units": {
+    "home_banner": {
+      "name": "igcse_chemistry_home_banner",
+      "format": "banner",
+      "id": "ca-app-pub-3940256099942544/6300978111",
+      "placement": "bottom of Home, Topic practice list and Mock papers list only"
+    },
+    "results_interstitial": {
+      "name": "igcse_chemistry_results_interstitial",
+      "format": "interstitial",
+      "id": "ca-app-pub-3940256099942544/1033173712",
+      "placement": "when leaving a results screen; at most once every 5 minutes; never during practice, a paper or review"
+    }
+  },
+  "app_ads_txt": "pending: google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0 (publisher id from AdMob)",
+  "consent": "Google UMP before SDK init"
+}

@@ -1,0 +1,452 @@
+[
+ {
+  "id": "c7-0091",
+  "sub": "7.2",
+  "level": "core",
+  "q": "Which type of element usually forms an acidic oxide?",
+  "columns": null,
+  "options": [
+   "a metal",
+   "a noble gas",
+   "a transition element only",
+   "a non-metal"
+  ],
+  "answer": 3,
+  "explain": "Non-metals form acidic oxides while metals form basic oxides."
+ },
+ {
+  "id": "c7-0092",
+  "sub": "7.3",
+  "level": "core",
+  "q": "A student adds copper(II) oxide to warm dilute sulfuric acid until no more dissolves. What is the next step?",
+  "columns": null,
+  "options": [
+   "add more acid",
+   "boil the mixture to dryness",
+   "add an indicator",
+   "filter the mixture to remove the excess solid"
+  ],
+  "answer": 3,
+  "explain": "Excess copper(II) oxide is removed by filtration, leaving copper(II) sulfate solution as the filtrate."
+ },
+ {
+  "id": "c7-0093",
+  "sub": "7.1",
+  "level": "core",
+  "q": "Which statement about bases and alkalis is correct?",
+  "columns": null,
+  "options": [
+   "All bases dissolve in water to form alkalis.",
+   "An alkali is a base that dissolves in water.",
+   "An alkali is any oxide of a non-metal.",
+   "A base is an acid that has been diluted."
+  ],
+  "answer": 1,
+  "explain": "Bases are metal oxides or hydroxides; only the soluble ones are called alkalis, so every alkali is a base but not every base is an alkali."
+ },
+ {
+  "id": "c7-0094",
+  "sub": "7.3",
+  "level": "core",
+  "q": "Which salt is insoluble in water?",
+  "columns": null,
+  "options": [
+   "sodium sulfate",
+   "barium sulfate",
+   "potassium nitrate",
+   "ammonium chloride"
+  ],
+  "answer": 1,
+  "explain": "Sulfates are soluble except those of barium, calcium and lead."
+ },
+ {
+  "id": "c7-0095",
+  "sub": "7.3",
+  "level": "core",
+  "q": "What is meant by a hydrated substance?",
+  "columns": null,
+  "options": [
+   "a substance dissolved in water",
+   "a substance chemically combined with water",
+   "a substance containing no water",
+   "a substance with water on its surface"
+  ],
+  "answer": 1,
+  "explain": "A hydrated substance has water molecules as part of its crystal structure."
+ },
+ {
+  "id": "c7-0096",
+  "sub": "7.2",
+  "level": "extended",
+  "q": "Which compound is classified differently from the other three?",
+  "columns": null,
+  "options": [
+   "CaO",
+   "ZnO",
+   "CuO",
+   "MgO"
+  ],
+  "answer": 1,
+  "explain": "ZnO is amphoteric, whereas CaO, CuO and MgO are basic oxides."
+ },
+ {
+  "id": "c7-0097",
+  "sub": "7.1",
+  "level": "core",
+  "q": "Four solutions have the pH values shown. Which has the highest concentration of hydrogen ions?",
+  "columns": null,
+  "options": [
+   "pH 6",
+   "pH 8",
+   "pH 1",
+   "pH 13"
+  ],
+  "answer": 2,
+  "explain": "The lower the pH, the higher the hydrogen ion concentration, so pH 1 is the most acidic."
+ },
+ {
+  "id": "c7-0098",
+  "sub": "7.1",
+  "level": "core",
+  "q": "Which metal does not produce hydrogen when added to dilute hydrochloric acid?",
+  "columns": null,
+  "options": [
+   "magnesium",
+   "zinc",
+   "copper",
+   "iron"
+  ],
+  "answer": 2,
+  "explain": "Copper is below hydrogen in the reactivity series, so it does not react with dilute acids."
+ },
+ {
+  "id": "c7-0099",
+  "sub": "7.1",
+  "level": "extended",
+  "q": "In the reaction HCl + NH₃ → NH₄Cl, what is the role of HCl?",
+  "columns": null,
+  "options": [
+   "It accepts a proton from NH₃.",
+   "It donates a proton to NH₃.",
+   "It accepts an electron from NH₃.",
+   "It acts as a base."
+  ],
+  "answer": 1,
+  "explain": "HCl transfers H⁺ to the lone pair on NH₃, so HCl is the proton donor (acid)."
+ },
+ {
+  "id": "c7-0100",
+  "sub": "7.1",
+  "level": "core",
+  "q": "Which indicator is colourless in dilute acid and blue in aqueous alkali?",
+  "columns": null,
+  "options": [
+   "litmus",
+   "thymolphthalein",
+   "methyl orange",
+   "universal indicator"
+  ],
+  "answer": 1,
+  "explain": "Thymolphthalein is colourless in acids and blue in alkalis. Litmus is red/blue and methyl orange red/yellow."
+ },
+ {
+  "id": "c7-0101",
+  "sub": "7.1",
+  "level": "core",
+  "q": "Which equation represents the neutralisation reaction between an acid and an alkali?",
+  "columns": null,
+  "options": [
+   "H⁺(aq) + OH⁻(aq) → H₂O(l)",
+   "H⁺(aq) + Cl⁻(aq) → HCl(aq)",
+   "2H⁺(aq) + O²⁻(s) → H₂O(l)",
+   "Na⁺(aq) + OH⁻(aq) → NaOH(s)"
+  ],
+  "answer": 0,
+  "explain": "Neutralisation is the combination of hydrogen ions from the acid with hydroxide ions from the alkali to form water."
+ },
+ {
+  "id": "c7-0102",
+  "sub": "7.3",
+  "level": "extended",
+  "q": "What is the percentage by mass of water in CuSO₄•5H₂O? (Ar: Cu = 64, S = 32, O = 16, H = 1)",
+  "columns": null,
+  "options": [
+   "18%",
+   "45%",
+   "36%",
+   "64%"
+  ],
+  "answer": 2,
+  "explain": "Mr = 64 + 32 + 64 + 5 × 18 = 250. Water = 90. 90 ÷ 250 × 100 = 36%."
+ },
+ {
+  "id": "c7-0103",
+  "sub": "7.3",
+  "level": "extended",
+  "q": "Which method is suitable for preparing insoluble barium sulfate?",
+  "columns": null,
+  "options": [
+   "adding excess barium to dilute sulfuric acid",
+   "titrating barium hydroxide with hydrochloric acid",
+   "precipitation by mixing aqueous barium chloride and aqueous sodium sulfate",
+   "adding excess barium oxide to dilute nitric acid"
+  ],
+  "answer": 2,
+  "explain": "An insoluble salt is made by mixing two soluble salts that contain its ions, followed by filtering, washing and drying."
+ },
+ {
+  "id": "c7-0104",
+  "sub": "7.3",
+  "level": "core",
+  "q": "Which method is used to prepare sodium chloride crystals from hydrochloric acid and aqueous sodium hydroxide?",
+  "columns": null,
+  "options": [
+   "adding excess sodium metal and filtering",
+   "titration followed by evaporation and crystallisation",
+   "precipitation and filtration",
+   "adding excess sodium carbonate and filtering"
+  ],
+  "answer": 1,
+  "explain": "Both reactants are soluble, so exact amounts are found by titration, then the solution is evaporated and crystallised."
+ },
+ {
+  "id": "c7-0105",
+  "sub": "7.3",
+  "level": "extended",
+  "q": "A salt solution is warmed until about half the water has evaporated, then left to cool. Why is the solution not heated to dryness?",
+  "columns": null,
+  "options": [
+   "Crystals form on cooling and heating to dryness could decompose the salt.",
+   "The salt would evaporate with the water.",
+   "Heating to dryness would make the salt insoluble.",
+   "Crystals only form when the solution is hot."
+  ],
+  "answer": 0,
+  "explain": "Heating until a saturated solution forms, then cooling lets crystals grow. Complete evaporation can spoil or decompose hydrated salts."
+ },
+ {
+  "id": "c7-0106",
+  "sub": "7.2",
+  "level": "extended",
+  "q": "Which statement describes an amphoteric oxide?",
+  "columns": null,
+  "options": [
+   "It reacts only with acids to form a salt and water.",
+   "It reacts with both acids and bases to form a salt and water.",
+   "It reacts only with bases to form a salt and water.",
+   "It does not react with acids or bases."
+  ],
+  "answer": 1,
+  "explain": "An amphoteric oxide has both acidic and basic behaviour, reacting with acids and with bases."
+ },
+ {
+  "id": "c7-0107",
+  "sub": "7.3",
+  "level": "extended",
+  "q": "A white solid forms when aqueous lead(II) nitrate is added to aqueous potassium chloride. Which equation, with state symbols, represents the reaction?",
+  "columns": null,
+  "options": [
+   "Pb²⁺(aq) + Cl⁻(aq) → PbCl(s)",
+   "Pb²⁺(aq) + 2NO₃⁻(aq) → Pb(NO₃)₂(s)",
+   "Pb²⁺(aq) + 2Cl⁻(aq) → PbCl₂(s)",
+   "K⁺(aq) + Cl⁻(aq) → KCl(s)"
+  ],
+  "answer": 2,
+  "explain": "Lead chloride is insoluble. Two Cl⁻ ions balance one Pb²⁺, so the equation is Pb²⁺ + 2Cl⁻ → PbCl₂."
+ },
+ {
+  "id": "c7-0108",
+  "sub": "7.3",
+  "level": "extended",
+  "q": "Which ionic equation represents the formation of silver chloride when aqueous silver nitrate is added to aqueous sodium chloride?",
+  "columns": null,
+  "options": [
+   "Ag⁺(aq) + NO₃⁻(aq) → AgNO₃(s)",
+   "Ag⁺(aq) + Cl⁻(aq) → AgCl(s)",
+   "Na⁺(aq) + Cl⁻(aq) → NaCl(s)",
+   "AgNO₃(aq) + NaCl(aq) → AgCl(aq) + NaNO₃(aq)"
+  ],
+  "answer": 1,
+  "explain": "Only silver and chloride ions combine to form the insoluble solid. Na⁺ and NO₃⁻ are spectator ions."
+ },
+ {
+  "id": "c7-0109",
+  "sub": "7.1",
+  "level": "core",
+  "q": "What colour does universal indicator paper turn in a strongly acidic solution such as pH 1?",
+  "columns": null,
+  "options": [
+   "purple",
+   "green",
+   "red",
+   "blue"
+  ],
+  "answer": 2,
+  "explain": "Universal indicator is red in strongly acidic solutions, green when neutral and purple in strongly alkaline solutions."
+ },
+ {
+  "id": "c7-0110",
+  "sub": "7.1",
+  "level": "core",
+  "q": "Which of these is a base?",
+  "columns": null,
+  "options": [
+   "sulfur dioxide",
+   "carbon dioxide",
+   "hydrogen chloride",
+   "magnesium oxide"
+  ],
+  "answer": 3,
+  "explain": "Bases are oxides or hydroxides of metals. Magnesium oxide is a metal oxide; the other three are non-metal compounds."
+ },
+ {
+  "id": "c7-0111",
+  "sub": "7.3",
+  "level": "core",
+  "q": "In the preparation of a soluble salt from an insoluble base, why is the base added in excess?",
+  "columns": null,
+  "options": [
+   "to make the reaction go faster",
+   "to turn the solution alkaline",
+   "to make sure all the acid is used up",
+   "to make the salt purer after crystallising"
+  ],
+  "answer": 2,
+  "explain": "Adding excess solid ensures all the acid is neutralised; the unreacted solid is then filtered off."
+ },
+ {
+  "id": "c7-0112",
+  "sub": "7.3",
+  "level": "extended",
+  "q": "Which sequence of steps gives crystals of zinc nitrate from excess zinc carbonate and dilute nitric acid?",
+  "columns": null,
+  "options": [
+   "evaporate the acid, add carbonate, then filter",
+   "add carbonate, cool, filter, then add more acid",
+   "add carbonate until no more dissolves, filter, evaporate part of the water, cool",
+   "filter the acid, add indicator, boil to dryness"
+  ],
+  "answer": 2,
+  "explain": "Excess carbonate ensures neutralisation. The unreacted solid is filtered off, the filtrate is partly evaporated and then cooled to crystallise."
+ },
+ {
+  "id": "c7-0113",
+  "sub": "7.2",
+  "level": "extended",
+  "q": "Copper(II) oxide does not dissolve in aqueous sodium hydroxide but dissolves in dilute nitric acid. How is copper(II) oxide classified?",
+  "columns": null,
+  "options": [
+   "acidic oxide",
+   "amphoteric oxide",
+   "basic oxide",
+   "neutral oxide"
+  ],
+  "answer": 2,
+  "explain": "It reacts only with acids, not with alkalis, so it is purely basic."
+ },
+ {
+  "id": "c7-0114",
+  "sub": "7.3",
+  "level": "extended",
+  "q": "What is the mass of 0.0100 mol of CuSO₄•5H₂O? (Ar: Cu = 64, S = 32, O = 16, H = 1)",
+  "columns": null,
+  "options": [
+   "1.60 g",
+   "0.250 g",
+   "25.0 g",
+   "2.50 g"
+  ],
+  "answer": 3,
+  "explain": "Mr = 64 + 32 + 64 + 90 = 250. Mass = 0.0100 × 250 = 2.50 g."
+ },
+ {
+  "id": "c7-0115",
+  "sub": "7.2",
+  "level": "core",
+  "q": "Which statement about metal oxides and non-metal oxides is correct?",
+  "columns": null,
+  "options": [
+   "Metal oxides are generally acidic and non-metal oxides generally basic.",
+   "Both are generally acidic.",
+   "Metal oxides are generally basic and non-metal oxides generally acidic.",
+   "Both are generally basic."
+  ],
+  "answer": 2,
+  "explain": "The character of an oxide is linked to whether the element is metallic or non-metallic."
+ },
+ {
+  "id": "c7-0116",
+  "sub": "7.3",
+  "level": "core",
+  "q": "Which statement about the preparation of a soluble salt by titration is correct?",
+  "columns": null,
+  "options": [
+   "The salt is formed by precipitation.",
+   "An excess of insoluble base is added.",
+   "An indicator is used to find the volumes needed for neutralisation.",
+   "No indicator is ever used."
+  ],
+  "answer": 2,
+  "explain": "Titration uses an indicator to find the end-point, giving exactly the volumes needed for a pure solution of the salt."
+ },
+ {
+  "id": "c7-0117",
+  "sub": "7.3",
+  "level": "extended",
+  "q": "2.50 g of CuSO₄•5H₂O is heated until all the water is removed. What is the mass of anhydrous CuSO₄ left? (Ar: Cu = 64, S = 32, O = 16, H = 1)",
+  "columns": null,
+  "options": [
+   "0.90 g",
+   "1.00 g",
+   "1.60 g",
+   "1.25 g"
+  ],
+  "answer": 2,
+  "explain": "Mr of CuSO₄•5H₂O = 250 and Mr of CuSO₄ = 160. 2.50 × 160 ÷ 250 = 1.60 g."
+ },
+ {
+  "id": "c7-0118",
+  "sub": "7.2",
+  "level": "extended",
+  "q": "What is the product (other than water) when zinc oxide reacts with dilute hydrochloric acid?",
+  "columns": null,
+  "options": [
+   "zinc chloride",
+   "zinc hydroxide",
+   "hydrogen",
+   "zinc carbonate"
+  ],
+  "answer": 0,
+  "explain": "ZnO + 2HCl → ZnCl₂ + H₂O. This is typical of a base reacting with an acid."
+ },
+ {
+  "id": "c7-0119",
+  "sub": "7.3",
+  "level": "extended",
+  "q": "Which statement about precipitation is correct?",
+  "columns": null,
+  "options": [
+   "It always requires an acid and an alkali.",
+   "It produces only soluble salts.",
+   "It needs heating to dryness.",
+   "It forms an insoluble salt when two solutions are mixed."
+  ],
+  "answer": 3,
+  "explain": "A precipitate forms when ions of an insoluble compound meet in solution."
+ },
+ {
+  "id": "c7-0120",
+  "sub": "7.2",
+  "level": "core",
+  "q": "Iron(III) oxide reacts with dilute hydrochloric acid. What does this indicate about iron(III) oxide?",
+  "columns": null,
+  "options": [
+   "It is an acidic oxide.",
+   "It is a basic oxide.",
+   "It is a neutral oxide.",
+   "It is an element."
+  ],
+  "answer": 1,
+  "explain": "Reaction with an acid to give a salt and water is characteristic of a basic oxide, which is a metal oxide."
+ }
+]

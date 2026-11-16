@@ -1,0 +1,456 @@
+[
+ {
+  "id": "c4-0031",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Molten sodium bromide is electrolysed using inert electrodes. Which products form?",
+  "columns": null,
+  "options": [
+   "Sodium at the cathode and bromine at the anode",
+   "Bromine at the cathode and sodium at the anode",
+   "Hydrogen at the cathode and bromine at the anode",
+   "Sodium at the cathode and oxygen at the anode"
+  ],
+  "answer": 0,
+  "explain": "Sodium is a metal, forming at the cathode. Bromine is a non-metal, forming at the anode."
+ },
+ {
+  "id": "c4-0032",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Which electrolyte could be used to electroplate a brass object with copper?",
+  "columns": null,
+  "options": [
+   "Sodium chloride solution",
+   "Dilute sulfuric acid",
+   "Molten zinc chloride",
+   "Copper(II) sulfate solution"
+  ],
+  "answer": 3,
+  "explain": "The electrolyte must contain ions of the plating metal, so a solution of a copper salt is needed."
+ },
+ {
+  "id": "c4-0033",
+  "sub": "4.2",
+  "level": "core",
+  "q": "Which substances are used by a hydrogen–oxygen fuel cell to produce electricity?",
+  "columns": null,
+  "options": [
+   "Petrol and oxygen",
+   "Hydrogen and nitrogen",
+   "Hydrogen and oxygen",
+   "Water and oxygen"
+  ],
+  "answer": 2,
+  "explain": "A hydrogen–oxygen fuel cell is supplied with hydrogen as the fuel and oxygen, usually from air."
+ },
+ {
+  "id": "c4-0034",
+  "sub": "4.2",
+  "level": "core",
+  "q": "What is the only chemical product of a hydrogen–oxygen fuel cell?",
+  "columns": null,
+  "options": [
+   "Carbon dioxide",
+   "Hydrogen peroxide",
+   "Steam and carbon monoxide",
+   "Water"
+  ],
+  "answer": 3,
+  "explain": "Hydrogen reacts with oxygen to form only water, so there are no carbon-containing products."
+ },
+ {
+  "id": "c4-0035",
+  "sub": "4.2",
+  "level": "core",
+  "q": "Which equation represents the overall reaction in a hydrogen–oxygen fuel cell?",
+  "columns": null,
+  "options": [
+   "H₂(g) + O₂(g) → H₂O(l)",
+   "2H₂O(l) → 2H₂(g) + O₂(g)",
+   "2H₂(g) + O₂(g) → 2H₂O(l)",
+   "2H₂(g) + O₂(g) → 2H₂O₂(l)"
+  ],
+  "answer": 2,
+  "explain": "Hydrogen and oxygen combine to form water. The equation 2H₂ + O₂ → 2H₂O is balanced with two atoms of oxygen on each side."
+ },
+ {
+  "id": "c4-0036",
+  "sub": "4.2",
+  "level": "core",
+  "q": "What energy change takes place in a hydrogen–oxygen fuel cell?",
+  "columns": null,
+  "options": [
+   "Chemical energy is changed into electrical energy",
+   "Electrical energy is changed into chemical energy",
+   "Heat energy is changed into chemical energy",
+   "Light energy is changed into electrical energy"
+  ],
+  "answer": 0,
+  "explain": "The reaction between hydrogen and oxygen releases energy, which the cell supplies as electricity."
+ },
+ {
+  "id": "c4-0037",
+  "sub": "4.2",
+  "level": "core",
+  "q": "Which substances are fed into a hydrogen–oxygen fuel cell?",
+  "columns": null,
+  "options": [
+   "Hydrogen and oxygen mixed together at both electrodes",
+   "Water at one electrode and carbon dioxide at the other",
+   "Hydrogen at one electrode and oxygen at the other",
+   "Oxygen at both electrodes"
+  ],
+  "answer": 2,
+  "explain": "Hydrogen is fed to one electrode and oxygen to the other, so the reaction produces a flow of charge."
+ },
+ {
+  "id": "c4-0038",
+  "sub": "4.2",
+  "level": "core",
+  "q": "Unlike a petrol engine, a hydrogen–oxygen fuel cell does not release which gas when it is in use?",
+  "columns": null,
+  "options": [
+   "Water vapour",
+   "Carbon dioxide",
+   "Hydrogen",
+   "Oxygen"
+  ],
+  "answer": 1,
+  "explain": "Petrol is a hydrocarbon and releases carbon dioxide when burned. The fuel cell has no carbon in its fuel."
+ },
+ {
+  "id": "c4-0039",
+  "sub": "4.2",
+  "level": "core",
+  "q": "Which statement about the electricity produced by a hydrogen–oxygen fuel cell is correct?",
+  "columns": null,
+  "options": [
+   "It is produced continuously while hydrogen and oxygen are supplied",
+   "It is stored in the cell and the cell must be recharged",
+   "It requires mains electricity to start the reaction",
+   "It stops when the electrodes dissolve"
+  ],
+  "answer": 0,
+  "explain": "A fuel cell is not recharged. It keeps producing electricity as long as the reactants are fed in."
+ },
+ {
+  "id": "c4-0040",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Molten zinc iodide is electrolysed using inert electrodes. Which product forms at the anode?",
+  "columns": null,
+  "options": [
+   "Zinc",
+   "Iodine",
+   "Hydrogen",
+   "Oxygen"
+  ],
+  "answer": 1,
+  "explain": "Iodide ions are non-metal ions and are attracted to the anode, where they form iodine."
+ },
+ {
+  "id": "c4-0041",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Which pair of materials are both suitable for use as inert electrodes?",
+  "columns": null,
+  "options": [
+   "Copper and zinc",
+   "Iron and magnesium",
+   "Platinum and graphite",
+   "Silver and copper"
+  ],
+  "answer": 2,
+  "explain": "Platinum and graphite do not react during electrolysis. Reactive metals such as zinc or magnesium can react or dissolve."
+ },
+ {
+  "id": "c4-0042",
+  "sub": "4.1",
+  "level": "core",
+  "q": "An iron object is nickel-plated. What happens to the mass of the object during the plating?",
+  "columns": null,
+  "options": [
+   "It increases because nickel is deposited on it",
+   "It decreases because iron dissolves",
+   "It stays the same because the nickel replaces iron",
+   "It increases because hydrogen forms on it"
+  ],
+  "answer": 0,
+  "explain": "Nickel ions gain electrons at the object, which is the cathode, so a layer of nickel metal builds up on it."
+ },
+ {
+  "id": "c4-0043",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "During electrolysis, which statement describes the movement of electrons in the external circuit?",
+  "columns": null,
+  "options": [
+   "Electrons flow through the wires from the anode to the cathode, via the power supply",
+   "Electrons flow through the wires from the cathode to the anode, via the power supply",
+   "Electrons flow through the electrolyte from the anode to the cathode",
+   "Electrons flow through the electrolyte from the cathode to the anode"
+  ],
+  "answer": 0,
+  "explain": "Electrons are released at the anode, pass through the wires and the power supply, and arrive at the cathode. They do not travel through the electrolyte."
+ },
+ {
+  "id": "c4-0044",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "Which statement about the transfer of charge in the electrolyte is correct?",
+  "columns": null,
+  "options": [
+   "Positive ions move to the cathode and negative ions move to the anode",
+   "Electrons move through the electrolyte to the anode",
+   "Positive ions move to the anode and negative ions move to the cathode",
+   "Only negative ions are free to move"
+  ],
+  "answer": 0,
+  "explain": "The electrolyte conducts by movement of ions. Oppositely charged electrodes attract them."
+ },
+ {
+  "id": "c4-0045",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "Which statement about the electrode reactions in electrolysis is correct?",
+  "columns": null,
+  "options": [
+   "Ions lose electrons at the cathode (oxidation) and gain electrons at the anode (reduction)",
+   "Ions gain electrons at both electrodes",
+   "Ions gain electrons at the cathode (reduction) and lose electrons at the anode (oxidation)",
+   "Ions lose electrons at both electrodes"
+  ],
+  "answer": 2,
+  "explain": "Positive ions are reduced by gaining electrons at the cathode. Negative ions are oxidised by losing electrons at the anode."
+ },
+ {
+  "id": "c4-0046",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "Which half-equation represents the reaction at the cathode during the electrolysis of molten lead(II) bromide?",
+  "columns": null,
+  "options": [
+   "Pb²⁺ + 2e⁻ → Pb",
+   "Pb²⁺ → Pb + 2e⁻",
+   "Pb + 2e⁻ → Pb²⁺",
+   "Pb²⁺ + e⁻ → Pb"
+  ],
+  "answer": 0,
+  "explain": "Each Pb²⁺ ion gains two electrons to become a lead atom. Electrons are on the left because this is reduction."
+ },
+ {
+  "id": "c4-0047",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "Which half-equation represents the reaction at the anode during the electrolysis of molten lead(II) bromide?",
+  "columns": null,
+  "options": [
+   "Br⁻ → Br₂ + e⁻",
+   "2Br⁻ → Br₂ + 2e⁻",
+   "2Br⁻ + 2e⁻ → Br₂",
+   "Br₂ + 2e⁻ → 2Br⁻"
+  ],
+  "answer": 1,
+  "explain": "Bromide ions lose electrons (oxidation). Two ions are needed to form one Br₂ molecule, so two electrons are released."
+ },
+ {
+  "id": "c4-0048",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "Which half-equation represents the reaction at the cathode during the electrolysis of dilute sulfuric acid?",
+  "columns": null,
+  "options": [
+   "2H⁺ → H₂ + 2e⁻",
+   "H⁺ + e⁻ → H₂",
+   "2H⁺ + 2e⁻ → H₂",
+   "H₂ + 2e⁻ → 2H⁺"
+  ],
+  "answer": 2,
+  "explain": "Hydrogen ions gain electrons at the cathode to form hydrogen molecules. Two ions and two electrons are needed per H₂."
+ },
+ {
+  "id": "c4-0049",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "Which half-equation represents the reaction at the anode during the electrolysis of concentrated aqueous sodium chloride?",
+  "columns": null,
+  "options": [
+   "Cl⁻ → Cl₂ + e⁻",
+   "Cl₂ + 2e⁻ → 2Cl⁻",
+   "2Cl⁻ → Cl₂ + 2e⁻",
+   "2Cl⁻ + 2e⁻ → Cl₂"
+  ],
+  "answer": 2,
+  "explain": "Chloride ions lose electrons at the anode. The equation must balance for atoms and for charge: 2 × (−1) = 0 + 2 × (−1)."
+ },
+ {
+  "id": "c4-0050",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "Which half-equation represents the formation of oxygen at the anode during the electrolysis of dilute sulfuric acid?",
+  "columns": null,
+  "options": [
+   "2OH⁻ → H₂O + O₂ + 2e⁻",
+   "4OH⁻ + 4e⁻ → 2H₂O + O₂",
+   "2O²⁻ → O₂ + 4e⁻",
+   "4OH⁻ → 2H₂O + O₂ + 4e⁻"
+  ],
+  "answer": 3,
+  "explain": "Hydroxide ions from water lose electrons. Check atoms and charge: 4 O, 4 H and four negative charges on each side balance."
+ },
+ {
+  "id": "c4-0051",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "Aluminium forms at the cathode according to Al³⁺ + 3e⁻ → Al. How many moles of electrons are needed to form 2 mol of aluminium?",
+  "columns": null,
+  "options": [
+   "2 mol",
+   "6 mol",
+   "3 mol",
+   "9 mol"
+  ],
+  "answer": 1,
+  "explain": "Each Al³⁺ needs 3 electrons, so 2 mol of aluminium needs 2 × 3 = 6 mol of electrons."
+ },
+ {
+  "id": "c4-0052",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "During the electrolysis of dilute sulfuric acid with inert electrodes, 48 cm³ of hydrogen is collected at the cathode. What volume of oxygen forms at the anode under the same conditions?",
+  "columns": null,
+  "options": [
+   "12 cm³",
+   "48 cm³",
+   "96 cm³",
+   "24 cm³"
+  ],
+  "answer": 3,
+  "explain": "2H₂O → 2H₂ + O₂ gives a 2 : 1 volume ratio of hydrogen to oxygen, so the oxygen volume is 48 ÷ 2 = 24 cm³."
+ },
+ {
+  "id": "c4-0053",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "Aqueous copper(II) sulfate is electrolysed using carbon electrodes. Which products form?",
+  "columns": null,
+  "options": [
+   "Hydrogen at the cathode and oxygen at the anode",
+   "Copper at the cathode and sulfur dioxide at the anode",
+   "Hydrogen at the cathode and copper at the anode",
+   "Copper at the cathode and oxygen at the anode"
+  ],
+  "answer": 3,
+  "explain": "Copper is less reactive than hydrogen, so Cu²⁺ ions are discharged at the cathode. Sulfate ions are not discharged, so hydroxide ions from water form oxygen at the anode."
+ },
+ {
+  "id": "c4-0054",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "What colour change is seen in aqueous copper(II) sulfate during electrolysis with carbon electrodes?",
+  "columns": null,
+  "options": [
+   "The blue colour gets darker because copper builds up",
+   "The blue colour stays the same because the electrodes are inert",
+   "The blue colour fades because Cu²⁺ ions are removed",
+   "The solution turns green because chlorine forms"
+  ],
+  "answer": 2,
+  "explain": "Blue Cu²⁺ ions are discharged at the cathode as copper and are not replaced, so the solution becomes paler."
+ },
+ {
+  "id": "c4-0055",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "Aqueous copper(II) sulfate is electrolysed using copper electrodes. Which row correctly describes the changes?",
+  "columns": [
+   "Mass of anode",
+   "Mass of cathode",
+   "Colour of solution"
+  ],
+  "options": [
+   "increases in mass | decreases in mass | stays blue",
+   "decreases in mass | increases in mass | stays blue",
+   "decreases in mass | increases in mass | fades",
+   "no change in mass | increases in mass | fades"
+  ],
+  "answer": 1,
+  "explain": "The copper anode dissolves as Cu → Cu²⁺ + 2e⁻ and copper is deposited on the cathode. Cu²⁺ ions are removed and replaced at the same rate, so the blue colour stays."
+ },
+ {
+  "id": "c4-0056",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "Which half-equation represents the reaction at a copper anode during the electrolysis of aqueous copper(II) sulfate?",
+  "columns": null,
+  "options": [
+   "Cu²⁺ + 2e⁻ → Cu",
+   "4OH⁻ → 2H₂O + O₂ + 4e⁻",
+   "Cu → Cu⁺ + e⁻",
+   "Cu → Cu²⁺ + 2e⁻"
+  ],
+  "answer": 3,
+  "explain": "A copper anode takes part in the reaction. Copper atoms lose two electrons and dissolve as Cu²⁺ ions."
+ },
+ {
+  "id": "c4-0057",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "During the electrolysis of aqueous copper(II) sulfate with copper electrodes, why does the blue colour of the solution not fade?",
+  "columns": null,
+  "options": [
+   "No ions are discharged at the cathode",
+   "Copper electrodes are inert, so the solution is not changed",
+   "Cu²⁺ ions form at the anode as fast as they are removed at the cathode",
+   "Sulfate ions are changed into copper(II) ions"
+  ],
+  "answer": 2,
+  "explain": "The anode reaction Cu → Cu²⁺ + 2e⁻ replaces the Cu²⁺ ions that the cathode reaction Cu²⁺ + 2e⁻ → Cu removes."
+ },
+ {
+  "id": "c4-0058",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "Concentrated aqueous potassium bromide is electrolysed with inert electrodes. Which products form?",
+  "columns": null,
+  "options": [
+   "Potassium at the cathode and bromine at the anode",
+   "Hydrogen at the cathode and oxygen at the anode",
+   "Hydrogen at the cathode and bromine at the anode",
+   "Potassium at the cathode and oxygen at the anode"
+  ],
+  "answer": 2,
+  "explain": "Hydrogen is less reactive than potassium, so H⁺ ions are discharged at the cathode. In concentrated solution the halide ion is discharged at the anode."
+ },
+ {
+  "id": "c4-0059",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "Dilute aqueous sodium chloride is electrolysed with inert electrodes. Which products form?",
+  "columns": null,
+  "options": [
+   "Sodium at the cathode and chlorine at the anode",
+   "Hydrogen at the cathode and chlorine at the anode",
+   "Sodium at the cathode and oxygen at the anode",
+   "Hydrogen at the cathode and oxygen at the anode"
+  ],
+  "answer": 3,
+  "explain": "In a dilute halide solution, hydroxide ions rather than halide ions are discharged at the anode, giving oxygen. Hydrogen forms at the cathode."
+ },
+ {
+  "id": "c4-0060",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "Which statement correctly compares the electrolysis of concentrated and dilute aqueous sodium chloride using inert electrodes?",
+  "columns": null,
+  "options": [
+   "Chlorine forms at the anode from both solutions",
+   "Oxygen forms at the anode from the concentrated solution but chlorine forms from the dilute solution",
+   "Chlorine forms at the anode from the concentrated solution but oxygen forms from the dilute solution",
+   "Sodium forms at the cathode from the dilute solution but hydrogen forms from the concentrated solution"
+  ],
+  "answer": 2,
+  "explain": "A high concentration of Cl⁻ ions means they are discharged at the anode. In dilute solution OH⁻ ions are discharged instead. Hydrogen forms at the cathode in both."
+ }
+]

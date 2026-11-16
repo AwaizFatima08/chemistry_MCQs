@@ -1,0 +1,459 @@
+[
+ {
+  "id": "c2-0031",
+  "sub": "2.4",
+  "level": "extended",
+  "q": "Why do ionic compounds have high melting points?",
+  "columns": null,
+  "options": [
+   "Much energy is needed to break covalent bonds within the ions",
+   "The ions are very small and light",
+   "The compounds contain strong bonds between separate molecules",
+   "Much energy is needed to overcome the many strong electrostatic attractions between ions in the lattice"
+  ],
+  "answer": 3,
+  "explain": "The giant lattice has strong attractions between oppositely charged ions throughout, so a lot of energy is needed to separate them."
+ },
+ {
+  "id": "c2-0032",
+  "sub": "2.6",
+  "level": "extended",
+  "q": "Which statement describes the structure of silicon(IV) oxide, SiO₂?",
+  "columns": null,
+  "options": [
+   "Separate SiO₂ molecules held by weak forces",
+   "A lattice of Si⁴⁺ and O²⁻ ions",
+   "Layers of silicon and oxygen atoms with delocalised electrons",
+   "A giant covalent lattice in which each silicon atom is bonded to four oxygen atoms"
+  ],
+  "answer": 3,
+  "explain": "SiO₂ is a giant lattice; each Si bonds to four O atoms and each O to two Si atoms, giving the ratio 1 : 2."
+ },
+ {
+  "id": "c2-0033",
+  "sub": "2.3",
+  "level": "extended",
+  "q": "Element X has two isotopes, ²⁰X and ²²X, and a relative atomic mass of 20.2. What is the percentage abundance of ²⁰X?",
+  "columns": null,
+  "options": [
+   "10%",
+   "50%",
+   "80%",
+   "90%"
+  ],
+  "answer": 3,
+  "explain": "Let x be the fraction of ²⁰X: 20x + 22(1 − x) = 20.2, so 22 − 2x = 20.2 and x = 0.90, i.e. 90%."
+ },
+ {
+  "id": "c2-0034",
+  "sub": "2.4",
+  "level": "extended",
+  "q": "Why does an aqueous solution of an ionic compound conduct electricity?",
+  "columns": null,
+  "options": [
+   "The ions are free to move through the solution",
+   "Electrons flow freely through the water",
+   "The ions are held in a regular lattice",
+   "The compound forms molecules in water"
+  ],
+  "answer": 0,
+  "explain": "When dissolved, the lattice breaks apart and the ions move freely, carrying the current."
+ },
+ {
+  "id": "c2-0035",
+  "sub": "2.4",
+  "level": "core",
+  "q": "What happens when an atom forms a negative ion (anion)?",
+  "columns": null,
+  "options": [
+   "It loses one or more electrons",
+   "It gains one or more protons",
+   "It gains one or more electrons",
+   "It loses one or more neutrons"
+  ],
+  "answer": 2,
+  "explain": "An anion has more electrons than protons because the atom has gained electrons."
+ },
+ {
+  "id": "c2-0036",
+  "sub": "2.3",
+  "level": "extended",
+  "q": "Which property is different for two isotopes of the same element?",
+  "columns": null,
+  "options": [
+   "Their mass (and density)",
+   "Their number of outer electrons",
+   "Their proton number",
+   "Their reaction with oxygen"
+  ],
+  "answer": 0,
+  "explain": "Different neutron numbers change the mass, so physical properties such as density differ, while electrons and chemistry stay the same."
+ },
+ {
+  "id": "c2-0037",
+  "sub": "2.5",
+  "level": "core",
+  "q": "Which row correctly describes pure liquid hydrogen chloride (HCl)?",
+  "columns": [
+   "Bonding",
+   "Conducts as a liquid"
+  ],
+  "options": [
+   "ionic | conducts",
+   "covalent | does not conduct",
+   "covalent | conducts",
+   "ionic | does not conduct"
+  ],
+  "answer": 1,
+  "explain": "Hydrogen and chlorine share electrons (covalent bonding); the HCl molecules are uncharged so the liquid does not conduct."
+ },
+ {
+  "id": "c2-0038",
+  "sub": "2.7",
+  "level": "extended",
+  "q": "Sodium atoms each have one outer electron. How many delocalised electrons does solid sodium have for each sodium atom?",
+  "columns": null,
+  "options": [
+   "0",
+   "1",
+   "2",
+   "11"
+  ],
+  "answer": 1,
+  "explain": "Each atom contributes its one outer electron to the sea, forming Na⁺ ions in the lattice."
+ },
+ {
+  "id": "c2-0039",
+  "sub": "2.3",
+  "level": "extended",
+  "q": "Boron has two isotopes: ¹⁰B (20%) and ¹¹B (80%). What is the relative atomic mass of boron?",
+  "columns": null,
+  "options": [
+   "10.5",
+   "10.2",
+   "10.8",
+   "10.9"
+  ],
+  "answer": 2,
+  "explain": "(20 × 10 + 80 × 11) ÷ 100 = (200 + 880) ÷ 100 = 10.8."
+ },
+ {
+  "id": "c2-0040",
+  "sub": "2.2",
+  "level": "core",
+  "q": "An atom has proton number 11 and mass number 23. How many neutrons does it contain?",
+  "columns": null,
+  "options": [
+   "12",
+   "11",
+   "23",
+   "34"
+  ],
+  "answer": 0,
+  "explain": "Neutrons = mass number − proton number = 23 − 11 = 12."
+ },
+ {
+  "id": "c2-0041",
+  "sub": "2.5",
+  "level": "core",
+  "q": "Which compound consists of simple molecules?",
+  "columns": null,
+  "options": [
+   "Methane, CH₄",
+   "Sodium chloride, NaCl",
+   "Magnesium oxide, MgO",
+   "Potassium bromide, KBr"
+  ],
+  "answer": 0,
+  "explain": "Methane has carbon and hydrogen atoms joined by covalent bonds into small molecules. The others are ionic."
+ },
+ {
+  "id": "c2-0042",
+  "sub": "2.5",
+  "level": "core",
+  "q": "How many hydrogen atoms are covalently bonded to the nitrogen atom in one molecule of ammonia?",
+  "columns": null,
+  "options": [
+   "1",
+   "2",
+   "4",
+   "3"
+  ],
+  "answer": 3,
+  "explain": "Nitrogen needs three more electrons for a full outer shell, so it forms three bonds, one to each of three hydrogen atoms."
+ },
+ {
+  "id": "c2-0043",
+  "sub": "2.4",
+  "level": "core",
+  "q": "Which compound contains ionic bonds?",
+  "columns": null,
+  "options": [
+   "Methane, CH₄",
+   "Hydrogen chloride, HCl",
+   "Potassium bromide, KBr",
+   "Ammonia, NH₃"
+  ],
+  "answer": 2,
+  "explain": "Potassium (metal) transfers an electron to bromine (non-metal), forming ions. The others contain only non-metals joined by covalent bonds."
+ },
+ {
+  "id": "c2-0044",
+  "sub": "2.5",
+  "level": "extended",
+  "q": "Which molecule contains a triple bond?",
+  "columns": null,
+  "options": [
+   "O₂",
+   "CO₂",
+   "N₂",
+   "C₂H₄"
+  ],
+  "answer": 2,
+  "explain": "Nitrogen shares three pairs of electrons. O₂, CO₂ and C₂H₄ each contain double bonds only."
+ },
+ {
+  "id": "c2-0045",
+  "sub": "2.4",
+  "level": "core",
+  "q": "Which pair of properties is typical of ionic compounds?",
+  "columns": null,
+  "options": [
+   "High melting point and conduct electricity when molten",
+   "Low melting point and conduct electricity when solid",
+   "High melting point and conduct electricity when solid",
+   "Low melting point and conduct electricity when molten"
+  ],
+  "answer": 0,
+  "explain": "Strong bonds give a high melting point; the ions can move when molten, but cannot when fixed in the solid."
+ },
+ {
+  "id": "c2-0046",
+  "sub": "2.4",
+  "level": "core",
+  "q": "Which is the best description of an ionic bond?",
+  "columns": null,
+  "options": [
+   "A strong electrostatic attraction between oppositely charged ions",
+   "A shared pair of electrons between two atoms",
+   "An attraction between positive ions and delocalised electrons",
+   "A weak attraction between neutral molecules"
+  ],
+  "answer": 0,
+  "explain": "Ionic bonding is the electrostatic attraction between positive and negative ions. Sharing electrons is covalent bonding."
+ },
+ {
+  "id": "c2-0047",
+  "sub": "2.7",
+  "level": "extended",
+  "q": "Does molten metal conduct electricity?",
+  "columns": null,
+  "options": [
+   "No, because the lattice has broken down",
+   "No, because the ions are fixed",
+   "Yes, but only because the ions carry the current",
+   "Yes, because delocalised electrons can still move"
+  ],
+  "answer": 3,
+  "explain": "Metallic bonding persists in the liquid, so delocalised electrons still carry the current."
+ },
+ {
+  "id": "c2-0048",
+  "sub": "2.1",
+  "level": "core",
+  "q": "Which formula represents a compound?",
+  "columns": null,
+  "options": [
+   "N₂",
+   "O₂",
+   "Cl₂",
+   "CO"
+  ],
+  "answer": 3,
+  "explain": "CO contains two different elements, carbon and oxygen, chemically bonded. The others each contain only one element."
+ },
+ {
+  "id": "c2-0049",
+  "sub": "2.3",
+  "level": "core",
+  "q": "Which atom has the greatest number of neutrons?",
+  "columns": null,
+  "options": [
+   "³⁵₁₇Cl",
+   "²⁷₁₃Al",
+   "³⁷₁₇Cl",
+   "²⁴₁₂Mg"
+  ],
+  "answer": 2,
+  "explain": "Neutrons: Cl-37 has 20, Cl-35 has 18, Al-27 has 14 and Mg-24 has 12."
+ },
+ {
+  "id": "c2-0050",
+  "sub": "2.5",
+  "level": "extended",
+  "q": "In a molecule of methanol, CH₃OH, how many pairs of electrons are shared in total?",
+  "columns": null,
+  "options": [
+   "4",
+   "6",
+   "5",
+   "8"
+  ],
+  "answer": 2,
+  "explain": "Three C–H bonds, one C–O bond and one O–H bond are all single bonds, giving 5 shared pairs."
+ },
+ {
+  "id": "c2-0051",
+  "sub": "2.5",
+  "level": "extended",
+  "q": "Why do simple molecular substances have low melting and boiling points?",
+  "columns": null,
+  "options": [
+   "The forces between the molecules are weak and need little energy to overcome",
+   "The covalent bonds within each molecule are weak",
+   "The molecules contain few atoms",
+   "The molecules are held in a lattice by strong ionic attractions"
+  ],
+  "answer": 0,
+  "explain": "Melting separates whole molecules, which needs little energy because the intermolecular forces are weak."
+ },
+ {
+  "id": "c2-0052",
+  "sub": "2.6",
+  "level": "core",
+  "q": "Why does diamond not conduct electricity?",
+  "columns": null,
+  "options": [
+   "It contains ions that are fixed in position",
+   "It is too hard for charge to flow",
+   "It has no free electrons because all outer electrons are used in bonds",
+   "Its electrons are delocalised but cannot move"
+  ],
+  "answer": 2,
+  "explain": "Each carbon atom uses all four outer electrons in covalent bonds, so no mobile charged particles exist."
+ },
+ {
+  "id": "c2-0053",
+  "sub": "2.3",
+  "level": "core",
+  "q": "How many electrons and neutrons are in the ion ³⁵₁₇Cl⁻?",
+  "columns": null,
+  "options": [
+   "17 electrons and 18 neutrons",
+   "18 electrons and 18 neutrons",
+   "18 electrons and 35 neutrons",
+   "16 electrons and 18 neutrons"
+  ],
+  "answer": 1,
+  "explain": "The ion has 17 protons plus one extra electron = 18 electrons. Neutrons = 35 − 17 = 18."
+ },
+ {
+  "id": "c2-0054",
+  "sub": "2.2",
+  "level": "core",
+  "q": "What is the electronic configuration of a magnesium atom (proton number 12)?",
+  "columns": null,
+  "options": [
+   "2,8,1",
+   "2,10",
+   "2,8,8,2",
+   "2,8,2"
+  ],
+  "answer": 3,
+  "explain": "12 electrons fill the first shell with 2, the second with 8, leaving 2 in the third shell."
+ },
+ {
+  "id": "c2-0055",
+  "sub": "2.4",
+  "level": "core",
+  "q": "A magnesium atom (2,8,2) forms an ion. Which ion is formed?",
+  "columns": null,
+  "options": [
+   "Mg²⁻, by gaining two electrons",
+   "Mg²⁺, by losing two electrons",
+   "Mg⁺, by losing one electron",
+   "Mg²⁺, by gaining two protons"
+  ],
+  "answer": 1,
+  "explain": "Losing the 2 outer electrons gives the stable configuration 2,8 and a charge of 2+."
+ },
+ {
+  "id": "c2-0056",
+  "sub": "2.5",
+  "level": "extended",
+  "q": "What happens when liquid methane boils?",
+  "columns": null,
+  "options": [
+   "The covalent bonds within molecules break",
+   "The ions separate from one another",
+   "The molecules split into carbon and hydrogen atoms",
+   "The weak forces between molecules are overcome"
+  ],
+  "answer": 3,
+  "explain": "Methane has a low boiling point because only weak intermolecular forces need to be overcome; the covalent bonds stay intact."
+ },
+ {
+  "id": "c2-0057",
+  "sub": "2.2",
+  "level": "core",
+  "q": "An element has the electronic configuration 2,8,3. In which group and period is it found?",
+  "columns": null,
+  "options": [
+   "Group III, Period 8",
+   "Group I, Period 3",
+   "Group III, Period 2",
+   "Group III, Period 3"
+  ],
+  "answer": 3,
+  "explain": "Three outer electrons give Group III and three occupied shells give Period 3 (this element is aluminium)."
+ },
+ {
+  "id": "c2-0058",
+  "sub": "2.4",
+  "level": "core",
+  "q": "What happens when an atom forms a positive ion (cation)?",
+  "columns": null,
+  "options": [
+   "It loses one or more electrons",
+   "It gains one or more electrons",
+   "It loses one or more protons",
+   "It gains one or more protons"
+  ],
+  "answer": 0,
+  "explain": "A cation has more protons than electrons because the atom has lost electrons; the number of protons never changes in ion formation."
+ },
+ {
+  "id": "c2-0059",
+  "sub": "2.6",
+  "level": "core",
+  "q": "Which statement describes the structure of graphite?",
+  "columns": null,
+  "options": [
+   "Layers of carbon atoms, each atom bonded to three others, with weak forces between the layers",
+   "A lattice in which each carbon atom is bonded to four others",
+   "Small molecules of carbon held by weak forces",
+   "A lattice of carbon ions in a sea of electrons"
+  ],
+  "answer": 0,
+  "explain": "Graphite has hexagonal layers of covalently bonded carbon atoms; the layers are held together only weakly."
+ },
+ {
+  "id": "c2-0060",
+  "sub": "2.4",
+  "level": "core",
+  "q": "Which row correctly shows whether sodium chloride conducts electricity?",
+  "columns": [
+   "Solid",
+   "Molten",
+   "Aqueous solution"
+  ],
+  "options": [
+   "conducts | conducts | does not conduct",
+   "does not conduct | does not conduct | conducts",
+   "conducts | does not conduct | does not conduct",
+   "does not conduct | conducts | conducts"
+  ],
+  "answer": 3,
+  "explain": "Solid NaCl has fixed ions and does not conduct; molten and aqueous NaCl have mobile ions and conduct."
+ }
+]

@@ -1,0 +1,458 @@
+[
+ {
+  "id": "c6-0001",
+  "sub": "6.1",
+  "level": "core",
+  "q": "Which change is a chemical change?",
+  "columns": null,
+  "options": [
+   "Ethanol evaporating from an open dish",
+   "Ice melting at 0 °C",
+   "Magnesium ribbon burning in air to leave a white powder",
+   "Sugar dissolving in water"
+  ],
+  "answer": 2,
+  "explain": "Burning magnesium forms a new substance, magnesium oxide. The other changes only alter the state or mix substances, and no new substance forms."
+ },
+ {
+  "id": "c6-0002",
+  "sub": "6.1",
+  "level": "core",
+  "q": "Which statement about a chemical change is correct?",
+  "columns": null,
+  "options": [
+   "No energy is transferred to or from the surroundings",
+   "The substance changes state but keeps the same formula",
+   "The change can always be reversed by cooling",
+   "At least one new substance is formed"
+  ],
+  "answer": 3,
+  "explain": "A chemical change always makes one or more new substances. Energy is normally transferred, and most chemical changes are not simply reversed by cooling."
+ },
+ {
+  "id": "c6-0003",
+  "sub": "6.1",
+  "level": "core",
+  "q": "Which row correctly classifies the change?",
+  "columns": [
+   "Change",
+   "Type of change"
+  ],
+  "options": [
+   "Rotting fruit | physical",
+   "Dissolving copper(II) sulfate crystals in water | physical",
+   "Boiling water | chemical",
+   "Cooking an egg | physical"
+  ],
+  "answer": 1,
+  "explain": "Dissolving only mixes the solid with the water and no new substance forms, so it is physical. Cooking an egg and rotting fruit make new substances, and boiling is a change of state."
+ },
+ {
+  "id": "c6-0004",
+  "sub": "6.1",
+  "level": "core",
+  "q": "A white solid is heated strongly. It gives off a gas that turns limewater milky and leaves a different white solid behind. Which statement is correct?",
+  "columns": null,
+  "options": [
+   "It is a physical change because heating only changes the state",
+   "It is a physical change because a gas has escaped",
+   "It is a chemical change because new substances have formed",
+   "It is a physical change because the solid stays white"
+  ],
+  "answer": 2,
+  "explain": "A gas (carbon dioxide) and a different solid are new substances, so this is a chemical change. The colour of the residue does not decide the type of change."
+ },
+ {
+  "id": "c6-0005",
+  "sub": "6.1",
+  "level": "core",
+  "q": "Iron filings and sulfur powder are mixed and a magnet removes the iron. The remaining mixture of the two is then heated strongly and a black solid forms that the magnet does not attract. Which is correct?",
+  "columns": null,
+  "options": [
+   "Using the magnet is physical; forming the black solid is chemical",
+   "Using the magnet is chemical; forming the black solid is physical",
+   "Both changes are physical",
+   "Both changes are chemical"
+  ],
+  "answer": 0,
+  "explain": "The magnet separates a mixture without making a new substance (physical). Heating iron with sulfur makes iron sulfide, a new compound, so that change is chemical."
+ },
+ {
+  "id": "c6-0006",
+  "sub": "6.1",
+  "level": "core",
+  "q": "Which pair contains two physical changes?",
+  "columns": null,
+  "options": [
+   "Burning wood and melting wax",
+   "Freezing water and dissolving sugar in water",
+   "Cooking an egg and condensing steam",
+   "Rusting iron and boiling water"
+  ],
+  "answer": 1,
+  "explain": "Freezing and dissolving form no new substances. Burning, rusting and cooking each make new substances."
+ },
+ {
+  "id": "c6-0007",
+  "sub": "6.1",
+  "level": "extended",
+  "q": "Solid iodine is warmed gently and purple vapour forms. On a cold surface the vapour turns back into solid iodine crystals. Which description is correct?",
+  "columns": null,
+  "options": [
+   "A physical change, because a new substance has formed",
+   "A chemical change, because the colour has changed",
+   "A physical change, because the same substance is present before and after",
+   "A chemical change, because a gas has formed"
+  ],
+  "answer": 2,
+  "explain": "Iodine changes state (sublimation then deposition) and is iodine throughout, so it is physical. A gas forming or a colour appearing does not prove a new substance."
+ },
+ {
+  "id": "c6-0008",
+  "sub": "6.1",
+  "level": "core",
+  "q": "A solid is warmed and becomes a liquid. On cooling it becomes a solid again with the same properties as at the start. Which statement is correct?",
+  "columns": null,
+  "options": [
+   "This is a physical change because bonds between atoms are broken",
+   "This is a chemical change because heat was needed",
+   "This is a physical change because no new substance forms",
+   "This is a chemical change because the state changed"
+  ],
+  "answer": 2,
+  "explain": "Melting and freezing change only the state of the same substance. A change of state needs heat but does not make a new substance."
+ },
+ {
+  "id": "c6-0009",
+  "sub": "6.2",
+  "level": "core",
+  "q": "Marble chips (calcium carbonate) react with dilute hydrochloric acid. Which change would make the reaction faster, with everything else the same?",
+  "columns": null,
+  "options": [
+   "Using larger lumps of marble",
+   "Diluting the acid with water",
+   "Using a lower temperature",
+   "Using the same mass of powdered marble instead of chips"
+  ],
+  "answer": 3,
+  "explain": "Powder has a larger surface area than chips, so the reaction is faster. Larger lumps, lower temperature and dilution all slow it down."
+ },
+ {
+  "id": "c6-0010",
+  "sub": "6.2",
+  "level": "core",
+  "q": "Which statement about a catalyst is correct?",
+  "columns": null,
+  "options": [
+   "It speeds up a reaction and is chemically unchanged at the end",
+   "It speeds up a reaction by increasing the amount of product formed",
+   "It slows down a reaction and is unchanged at the end",
+   "It speeds up a reaction and is used up in the process"
+  ],
+  "answer": 0,
+  "explain": "A catalyst increases the rate but is not used up, so it can be recovered unchanged. It does not change how much product is made."
+ },
+ {
+  "id": "c6-0011",
+  "sub": "6.2",
+  "level": "core",
+  "q": "Food keeps fresh for longer in a refrigerator than on a kitchen table. What is the best explanation?",
+  "columns": null,
+  "options": [
+   "The lower temperature slows down the reactions that make the food go bad",
+   "The lower temperature speeds up the reactions that make the food go bad",
+   "The refrigerator removes all the oxygen from the air",
+   "The refrigerator acts as a catalyst for the reactions"
+  ],
+  "answer": 0,
+  "explain": "Lowering the temperature decreases the rate of reaction, including the reactions that spoil food."
+ },
+ {
+  "id": "c6-0012",
+  "sub": "6.2",
+  "level": "core",
+  "q": "Excess zinc is added to 50 cm³ of 1.0 mol/dm³ sulfuric acid in one experiment and to 50 cm³ of 0.5 mol/dm³ sulfuric acid in another, at the same temperature. Which statement about the initial rate is correct?",
+  "columns": null,
+  "options": [
+   "It is faster with the 0.5 mol/dm³ acid",
+   "It is faster with the 1.0 mol/dm³ acid",
+   "It is the same in both experiments",
+   "It is zero in both until the mixtures are heated"
+  ],
+  "answer": 1,
+  "explain": "A higher concentration of acid gives a faster rate of reaction, all other conditions being equal."
+ },
+ {
+  "id": "c6-0013",
+  "sub": "6.2",
+  "level": "core",
+  "q": "Which change increases the rate of a reaction between two gases in a sealed container at constant temperature?",
+  "columns": null,
+  "options": [
+   "Removing some of the gas to reduce the pressure",
+   "Reducing the volume of the container to increase the pressure",
+   "Using a larger container",
+   "Cooling the container"
+  ],
+  "answer": 1,
+  "explain": "Increasing the pressure squeezes the gas particles closer together, so the reaction speeds up. The other changes decrease the rate."
+ },
+ {
+  "id": "c6-0014",
+  "sub": "6.2",
+  "level": "core",
+  "q": "Magnesium reacts with dilute hydrochloric acid to give hydrogen gas. Which apparatus allows the rate to be found by following the gas produced?",
+  "columns": null,
+  "options": [
+   "A condenser and a separating funnel",
+   "A pipette and a pH meter",
+   "A gas syringe attached to the flask, and a stopwatch",
+   "A filter funnel and filter paper"
+  ],
+  "answer": 2,
+  "explain": "The volume of hydrogen collected in the gas syringe can be read at regular times, and the rate is found from volume against time."
+ },
+ {
+  "id": "c6-0015",
+  "sub": "6.2",
+  "level": "core",
+  "q": "Calcium carbonate reacts with excess dilute hydrochloric acid in an open flask on a balance. The mass reading falls and then stops falling. Why does it stop falling?",
+  "columns": null,
+  "options": [
+   "The reaction has reached equilibrium",
+   "All the calcium carbonate has reacted, so no more carbon dioxide is made",
+   "The balance cannot detect small changes",
+   "The carbon dioxide has all dissolved in the acid"
+  ],
+  "answer": 1,
+  "explain": "The mass falls because carbon dioxide escapes. When the limiting reactant (calcium carbonate) is used up, the reaction stops and the mass is constant."
+ },
+ {
+  "id": "c6-0016",
+  "sub": "6.2",
+  "level": "core",
+  "q": "A graph of volume of gas against time starts steeply, becomes less steep and then goes horizontal. What does the steep start show?",
+  "columns": null,
+  "options": [
+   "The rate of reaction is greatest at the start",
+   "The reaction has already finished",
+   "A catalyst is made during the reaction",
+   "The rate of reaction is lowest at the start"
+  ],
+  "answer": 0,
+  "explain": "The gradient of the curve is the rate. It is steepest at the start when the reactant concentrations are highest."
+ },
+ {
+  "id": "c6-0017",
+  "sub": "6.2",
+  "level": "core",
+  "q": "The table shows gas volumes collected at 10 s intervals: 0 s, 0 cm³; 10 s, 30 cm³; 20 s, 50 cm³; 30 s, 58 cm³; 40 s, 60 cm³; 50 s, 60 cm³. In which interval was the average rate greatest?",
+  "columns": null,
+  "options": [
+   "20 s to 30 s",
+   "0 s to 10 s",
+   "10 s to 20 s",
+   "40 s to 50 s"
+  ],
+  "answer": 1,
+  "explain": "The volumes produced in the intervals are 30, 20, 8, 2 and 0 cm³, so the greatest volume in 10 s, and so the fastest rate, is in the first interval."
+ },
+ {
+  "id": "c6-0018",
+  "sub": "6.2",
+  "level": "core",
+  "q": "In an experiment with a fixed mass of magnesium and excess acid, a second experiment gives a steeper curve but the same final volume of hydrogen. Which change was made?",
+  "columns": null,
+  "options": [
+   "The temperature was increased",
+   "The acid was diluted",
+   "A larger volume of the same acid was used",
+   "The magnesium was used in larger pieces"
+  ],
+  "answer": 0,
+  "explain": "A higher temperature increases the rate but not the final volume, because the amount of magnesium is unchanged. Larger pieces or dilution would slow the reaction, and extra acid would not change the rate."
+ },
+ {
+  "id": "c6-0019",
+  "sub": "6.2",
+  "level": "core",
+  "q": "What is an enzyme?",
+  "columns": null,
+  "options": [
+   "A biological catalyst that speeds up reactions in living things",
+   "A metal catalyst used in industrial processes",
+   "A reactant that is used up during respiration",
+   "A product that slows down fermentation"
+  ],
+  "answer": 0,
+  "explain": "Enzymes are catalysts made by living organisms, and they speed up biological reactions without being used up."
+ },
+ {
+  "id": "c6-0020",
+  "sub": "6.2",
+  "level": "core",
+  "q": "A reaction produces 48 cm³ of gas in 120 s. What is the average rate of reaction?",
+  "columns": null,
+  "options": [
+   "0.25 cm³/s",
+   "5760 cm³/s",
+   "2.5 cm³/s",
+   "0.40 cm³/s"
+  ],
+  "answer": 3,
+  "explain": "Average rate = volume ÷ time = 48 ÷ 120 = 0.40 cm³/s."
+ },
+ {
+  "id": "c6-0021",
+  "sub": "6.2",
+  "level": "core",
+  "q": "Hydrogen peroxide decomposes slowly: 2H₂O₂(aq) → 2H₂O(l) + O₂(g). Black manganese(IV) oxide powder is added and oxygen forms quickly. When the fizzing stops the powder is filtered off, washed and dried. What is found?",
+  "columns": null,
+  "options": [
+   "A larger mass, because it reacted with oxygen",
+   "No powder, because it dissolved",
+   "The same mass of manganese(IV) oxide as at the start",
+   "A smaller mass, because some was used up"
+  ],
+  "answer": 2,
+  "explain": "Manganese(IV) oxide is a catalyst. It speeds up the decomposition but is not used up, so it can be recovered with the same mass."
+ },
+ {
+  "id": "c6-0022",
+  "sub": "6.2",
+  "level": "core",
+  "q": "Which change does NOT increase the rate of reaction between zinc and dilute sulfuric acid?",
+  "columns": null,
+  "options": [
+   "Using zinc powder instead of zinc granules",
+   "Using more concentrated acid",
+   "Using a larger volume of acid of the same concentration",
+   "Warming the acid"
+  ],
+  "answer": 2,
+  "explain": "The rate depends on concentration, not on the volume of solution. The other three changes all increase the rate."
+ },
+ {
+  "id": "c6-0023",
+  "sub": "6.2",
+  "level": "core",
+  "q": "Which row correctly shows the effect on the rate of reaction?",
+  "columns": [
+   "Change made",
+   "Effect on rate of reaction"
+  ],
+  "options": [
+   "Using smaller pieces of a solid | rate increases",
+   "Lowering the concentration of a solution | rate increases",
+   "Decreasing the pressure of a gas | rate increases",
+   "Lowering the temperature | rate increases"
+  ],
+  "answer": 0,
+  "explain": "Smaller pieces give a larger surface area and a faster rate. Lower concentration, lower pressure and lower temperature all decrease the rate."
+ },
+ {
+  "id": "c6-0024",
+  "sub": "6.2",
+  "level": "core",
+  "q": "Why does the rate of a reaction decrease as the reaction proceeds?",
+  "columns": null,
+  "options": [
+   "The catalyst is gradually used up",
+   "The surface area of the reactants increases",
+   "The temperature of the mixture rises",
+   "The reactants are being used up, so their concentration falls"
+  ],
+  "answer": 3,
+  "explain": "As reactants are used up their concentration drops, so collisions are less frequent and the rate falls."
+ },
+ {
+  "id": "c6-0025",
+  "sub": "6.2",
+  "level": "core",
+  "q": "A flask containing marble chips and excess acid, with a plug of cotton wool in the neck, is placed on a balance. Which describes the graph of mass against time?",
+  "columns": null,
+  "options": [
+   "It rises steadily throughout",
+   "It falls quickly at first, then more slowly, and then becomes horizontal",
+   "It falls at a constant rate for the whole experiment",
+   "It stays horizontal and then falls"
+  ],
+  "answer": 1,
+  "explain": "Carbon dioxide escapes so the mass falls. The rate is fastest at the start and drops to zero when the reaction ends."
+ },
+ {
+  "id": "c6-0026",
+  "sub": "6.2",
+  "level": "core",
+  "q": "Flour dust suspended in the air of a mill can explode, but a heap of flour on the floor only burns slowly. Why?",
+  "columns": null,
+  "options": [
+   "The dust contains a catalyst",
+   "The dust has a much larger surface area exposed to oxygen",
+   "The dust is at a lower temperature",
+   "The dust particles are heavier"
+  ],
+  "answer": 1,
+  "explain": "Fine dust exposes far more surface to oxygen than a heap, so the reaction is very fast."
+ },
+ {
+  "id": "c6-0027",
+  "sub": "6.2",
+  "level": "core",
+  "q": "Which unit is suitable for the rate of a reaction measured by the volume of gas produced?",
+  "columns": null,
+  "options": [
+   "g",
+   "cm³",
+   "cm³/s",
+   "mol/dm³"
+  ],
+  "answer": 2,
+  "explain": "A rate is an amount produced per unit time, so volume divided by time (cm³/s) is suitable."
+ },
+ {
+  "id": "c6-0028",
+  "sub": "6.2",
+  "level": "core",
+  "q": "A student compares the rate of reaction of magnesium ribbon with acid at 20 °C and at 40 °C. Which variable must be kept the same?",
+  "columns": null,
+  "options": [
+   "The temperature of the reaction mixture",
+   "The rate of the reaction",
+   "The time taken for the reaction",
+   "The concentration and volume of the acid"
+  ],
+  "answer": 3,
+  "explain": "To make a fair test only one variable (temperature) is changed. Concentration and volume of acid, and the mass and form of magnesium, must stay the same."
+ },
+ {
+  "id": "c6-0029",
+  "sub": "6.2",
+  "level": "core",
+  "q": "The graph of gas volume against time becomes horizontal at 80 cm³ and stays there. What does this show?",
+  "columns": null,
+  "options": [
+   "Gas is still forming at 80 cm³ per second",
+   "The catalyst has been used up",
+   "The reaction is at its fastest rate",
+   "The reaction has finished and 80 cm³ of gas was made in total"
+  ],
+  "answer": 3,
+  "explain": "A horizontal line means the volume is no longer changing, so a reactant has been used up and the reaction has stopped."
+ },
+ {
+  "id": "c6-0030",
+  "sub": "6.2",
+  "level": "core",
+  "q": "In one experiment 1 g of magnesium powder is added to excess acid. In another, 1 g of magnesium ribbon is added to the same excess acid. How do the results compare?",
+  "columns": null,
+  "options": [
+   "The ribbon gives a larger total volume of hydrogen",
+   "The total volume of hydrogen is the same, but the powder reacts faster",
+   "The ribbon reacts faster but gives the same total volume",
+   "The powder gives a larger total volume of hydrogen"
+  ],
+  "answer": 1,
+  "explain": "The same mass of magnesium gives the same amount of hydrogen. Powder has a larger surface area so it reacts faster."
+ }
+]

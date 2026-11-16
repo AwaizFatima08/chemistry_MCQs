@@ -1,0 +1,459 @@
+[
+ {
+  "id": "c12-0091",
+  "sub": "12.5",
+  "level": "extended",
+  "q": "A green precipitate forms when aqueous sodium hydroxide is added to a solution. The precipitate dissolves in excess to give a green solution. Which cation is present?",
+  "columns": null,
+  "options": [
+   "iron(II), Fe²⁺",
+   "copper(II), Cu²⁺",
+   "zinc, Zn²⁺",
+   "chromium(III), Cr³⁺"
+  ],
+  "answer": 3,
+  "explain": "Chromium(III) hydroxide is green and dissolves in excess alkali. Fe²⁺ gives a green precipitate that stays, and zinc gives a white precipitate."
+ },
+ {
+  "id": "c12-0092",
+  "sub": "12.5",
+  "level": "extended",
+  "q": "A pale green precipitate of iron(II) hydroxide turns brown at the surface when left in air. What is the explanation?",
+  "columns": null,
+  "options": [
+   "Iron(III) ions are reduced to iron(II) ions by the air.",
+   "The precipitate dissolves in water.",
+   "Iron(II) ions are oxidised to iron(III) ions by oxygen in the air.",
+   "Carbon dioxide in the air reacts with the precipitate."
+  ],
+  "answer": 2,
+  "explain": "Fe²⁺ is oxidised to Fe³⁺ by oxygen, forming red-brown iron(III) hydroxide on the surface."
+ },
+ {
+  "id": "c12-0093",
+  "sub": "12.5",
+  "level": "extended",
+  "q": "Which ionic equation represents the formation of the precipitate when aqueous sodium hydroxide is added to aqueous copper(II) sulfate?",
+  "columns": null,
+  "options": [
+   "Cu²⁺(aq) + OH⁻(aq) → CuOH(s)",
+   "Cu²⁺(aq) + 2OH⁻(aq) → Cu(OH)₂(aq)",
+   "Cu⁺(aq) + 2OH⁻(aq) → Cu(OH)₂(s)",
+   "Cu²⁺(aq) + 2OH⁻(aq) → Cu(OH)₂(s)"
+  ],
+  "answer": 3,
+  "explain": "Each Cu²⁺ ion needs two OH⁻ ions to balance the charge, and the hydroxide is insoluble, so (s) is shown."
+ },
+ {
+  "id": "c12-0094",
+  "sub": "12.5",
+  "level": "extended",
+  "q": "What is the formula of the red-brown precipitate formed when aqueous sodium hydroxide is added to aqueous iron(III) chloride?",
+  "columns": null,
+  "options": [
+   "Fe(OH)₂",
+   "Fe₂O₃",
+   "Fe(OH)₃",
+   "FeCl₃"
+  ],
+  "answer": 2,
+  "explain": "Fe³⁺ combines with three OH⁻ ions to give iron(III) hydroxide, Fe(OH)₃. Fe(OH)₂ is the green iron(II) hydroxide."
+ },
+ {
+  "id": "c12-0095",
+  "sub": "12.5",
+  "level": "extended",
+  "q": "A solution gives a white precipitate with aqueous sodium hydroxide that dissolves in excess. With aqueous ammonia it gives a white precipitate that does not dissolve in excess. Which cation is present?",
+  "columns": null,
+  "options": [
+   "zinc, Zn²⁺",
+   "aluminium, Al³⁺",
+   "calcium, Ca²⁺",
+   "ammonium, NH₄⁺"
+  ],
+  "answer": 1,
+  "explain": "Both Al³⁺ and Zn²⁺ dissolve in excess sodium hydroxide, but only the zinc precipitate dissolves in excess ammonia. So the cation is aluminium."
+ },
+ {
+  "id": "c12-0096",
+  "sub": "12.5",
+  "level": "extended",
+  "q": "A solution gives a white precipitate with aqueous sodium hydroxide that does not dissolve in excess. A flame test gives a brick-red flame. Which cation is present?",
+  "columns": null,
+  "options": [
+   "calcium, Ca²⁺",
+   "aluminium, Al³⁺",
+   "barium, Ba²⁺",
+   "zinc, Zn²⁺"
+  ],
+  "answer": 0,
+  "explain": "A white precipitate insoluble in excess alkali and a brick-red flame are both characteristic of calcium. Barium gives a green flame and aluminium and zinc precipitates dissolve in excess."
+ },
+ {
+  "id": "c12-0097",
+  "sub": "12.5",
+  "level": "extended",
+  "q": "Why is aqueous sodium hydroxide added to a solution a little at a time and then in excess?",
+  "columns": null,
+  "options": [
+   "to find the volume of alkali needed",
+   "to see whether any precipitate that forms dissolves in excess",
+   "to heat the solution",
+   "to make the solution acidic"
+  ],
+  "answer": 1,
+  "explain": "Whether the precipitate redissolves in excess alkali is part of identifying the cation, for example aluminium and zinc compared with calcium."
+ },
+ {
+  "id": "c12-0098",
+  "sub": "12.5",
+  "level": "extended",
+  "q": "Which ionic equation represents the release of ammonia when an ammonium salt is warmed with aqueous sodium hydroxide?",
+  "columns": null,
+  "options": [
+   "NH₄⁺(aq) + OH⁻(aq) → NH₃(g) + H₂(g)",
+   "NH₃(g) + H₂O(l) → NH₄⁺(aq) + OH⁻(aq)",
+   "NH₄⁺(aq) + 2OH⁻(aq) → NH₃(g) + 2H₂O(l)",
+   "NH₄⁺(aq) + OH⁻(aq) → NH₃(g) + H₂O(l)"
+  ],
+  "answer": 3,
+  "explain": "Ammonium ions give up a hydrogen ion to hydroxide ions, forming ammonia and water. This is the only equation that balances and shows ammonia escaping as a gas."
+ },
+ {
+  "id": "c12-0099",
+  "sub": "12.5",
+  "level": "core",
+  "q": "Excess aqueous ammonia is added to a solution of zinc sulfate. What is seen?",
+  "columns": null,
+  "options": [
+   "A white precipitate forms and does not dissolve.",
+   "A blue precipitate forms and dissolves to give a dark blue solution.",
+   "A white precipitate forms and then dissolves to give a colourless solution.",
+   "No change is seen."
+  ],
+  "answer": 2,
+  "explain": "Zinc hydroxide is a white precipitate that dissolves in excess aqueous ammonia to give a colourless solution."
+ },
+ {
+  "id": "c12-0100",
+  "sub": "12.5",
+  "level": "core",
+  "q": "Which test is used to identify hydrogen?",
+  "columns": null,
+  "options": [
+   "A lighted splint makes a squeaky pop.",
+   "A glowing splint relights.",
+   "Limewater turns milky.",
+   "Damp red litmus paper turns blue."
+  ],
+  "answer": 0,
+  "explain": "Hydrogen burns explosively with oxygen, giving a squeaky pop with a lighted splint."
+ },
+ {
+  "id": "c12-0101",
+  "sub": "12.5",
+  "level": "core",
+  "q": "Which test and result identify oxygen?",
+  "columns": null,
+  "options": [
+   "A glowing splint relights.",
+   "A lighted splint makes a squeaky pop.",
+   "Damp litmus paper is bleached.",
+   "Acidified potassium manganate(VII) turns colourless."
+  ],
+  "answer": 0,
+  "explain": "Oxygen supports combustion, so a glowing splint bursts into flame."
+ },
+ {
+  "id": "c12-0102",
+  "sub": "12.5",
+  "level": "core",
+  "q": "Which gas turns limewater milky?",
+  "columns": null,
+  "options": [
+   "hydrogen",
+   "oxygen",
+   "ammonia",
+   "carbon dioxide"
+  ],
+  "answer": 3,
+  "explain": "Carbon dioxide reacts with limewater to form insoluble calcium carbonate, which makes the limewater milky."
+ },
+ {
+  "id": "c12-0103",
+  "sub": "12.5",
+  "level": "core",
+  "q": "A gas turns damp blue litmus paper red and then bleaches it white. Which gas is it?",
+  "columns": null,
+  "options": [
+   "hydrogen",
+   "oxygen",
+   "chlorine",
+   "ammonia"
+  ],
+  "answer": 2,
+  "explain": "Chlorine forms an acidic solution in the damp paper, which turns the litmus red, and then bleaches it."
+ },
+ {
+  "id": "c12-0104",
+  "sub": "12.5",
+  "level": "core",
+  "q": "A gas turns damp red litmus paper blue. Which gas is it?",
+  "columns": null,
+  "options": [
+   "hydrogen",
+   "ammonia",
+   "carbon dioxide",
+   "chlorine"
+  ],
+  "answer": 1,
+  "explain": "Ammonia is the common alkaline gas. It dissolves in the water on the paper to form an alkaline solution."
+ },
+ {
+  "id": "c12-0105",
+  "sub": "12.5",
+  "level": "core",
+  "q": "Which gas turns acidified aqueous potassium manganate(VII) from purple to colourless?",
+  "columns": null,
+  "options": [
+   "carbon dioxide",
+   "oxygen",
+   "sulfur dioxide",
+   "hydrogen"
+  ],
+  "answer": 2,
+  "explain": "Sulfur dioxide is a reducing agent and reduces the purple manganate(VII) ions to colourless Mn²⁺ ions."
+ },
+ {
+  "id": "c12-0106",
+  "sub": "12.5",
+  "level": "core",
+  "q": "Which row correctly gives a gas, its test and the positive result?",
+  "columns": [
+   "Gas",
+   "Test",
+   "Positive result"
+  ],
+  "options": [
+   "H₂ | glowing splint | relights",
+   "CO₂ | lighted splint | squeaky pop",
+   "Cl₂ | limewater | turns milky",
+   "O₂ | glowing splint | relights"
+  ],
+  "answer": 3,
+  "explain": "Oxygen relights a glowing splint. Hydrogen gives a squeaky pop with a lighted splint, carbon dioxide turns limewater milky and chlorine bleaches damp litmus."
+ },
+ {
+  "id": "c12-0107",
+  "sub": "12.5",
+  "level": "extended",
+  "q": "A white precipitate forms when carbon dioxide is bubbled into limewater. What is the precipitate?",
+  "columns": null,
+  "options": [
+   "calcium hydroxide",
+   "calcium carbonate",
+   "calcium oxide",
+   "calcium sulfate"
+  ],
+  "answer": 1,
+  "explain": "Limewater is aqueous calcium hydroxide. It reacts with carbon dioxide to form insoluble calcium carbonate, CaCO₃."
+ },
+ {
+  "id": "c12-0108",
+  "sub": "12.5",
+  "level": "extended",
+  "q": "A green solid is heated and turns black. The gas produced turns limewater milky. Which solid was heated?",
+  "columns": null,
+  "options": [
+   "copper(II) carbonate",
+   "copper(II) sulfate",
+   "copper(II) oxide",
+   "copper(II) chloride"
+  ],
+  "answer": 0,
+  "explain": "Copper(II) carbonate is green. It decomposes to black copper(II) oxide and carbon dioxide, which turns limewater milky."
+ },
+ {
+  "id": "c12-0109",
+  "sub": "12.5",
+  "level": "extended",
+  "q": "A colourless gas does not change the colour of acidified aqueous potassium manganate(VII) but turns limewater milky. Which gas is it?",
+  "columns": null,
+  "options": [
+   "sulfur dioxide",
+   "carbon dioxide",
+   "chlorine",
+   "ammonia"
+  ],
+  "answer": 1,
+  "explain": "Both sulfur dioxide and carbon dioxide can give a milky limewater, but only sulfur dioxide decolourises acidified manganate(VII). The gas is therefore carbon dioxide."
+ },
+ {
+  "id": "c12-0110",
+  "sub": "12.5",
+  "level": "extended",
+  "q": "Why must the litmus paper be damp when testing for ammonia?",
+  "columns": null,
+  "options": [
+   "Water cools the ammonia so it can be detected.",
+   "Water acts as a catalyst for the colour change.",
+   "Water removes carbon dioxide from the gas.",
+   "Ammonia dissolves in the water to form an alkaline solution that changes the colour of the litmus."
+  ],
+  "answer": 3,
+  "explain": "Dry ammonia gas does not change the colour of litmus. It must dissolve in water on the paper to form alkaline hydroxide ions."
+ },
+ {
+  "id": "c12-0111",
+  "sub": "12.5",
+  "level": "core",
+  "q": "Which cation gives a red flame in a flame test?",
+  "columns": null,
+  "options": [
+   "potassium, K⁺",
+   "sodium, Na⁺",
+   "lithium, Li⁺",
+   "barium, Ba²⁺"
+  ],
+  "answer": 2,
+  "explain": "Lithium compounds give a red flame. Potassium is lilac, sodium is yellow and barium is light green."
+ },
+ {
+  "id": "c12-0112",
+  "sub": "12.5",
+  "level": "core",
+  "q": "Which colour does a sodium compound give in a flame test?",
+  "columns": null,
+  "options": [
+   "yellow",
+   "lilac",
+   "red",
+   "light green"
+  ],
+  "answer": 0,
+  "explain": "Sodium ions give an intense yellow flame."
+ },
+ {
+  "id": "c12-0113",
+  "sub": "12.5",
+  "level": "core",
+  "q": "A compound burns in a flame test with a lilac flame. Which cation is present?",
+  "columns": null,
+  "options": [
+   "lithium, Li⁺",
+   "sodium, Na⁺",
+   "potassium, K⁺",
+   "copper(II), Cu²⁺"
+  ],
+  "answer": 2,
+  "explain": "Potassium compounds give a lilac flame. Lithium gives red, sodium yellow and copper(II) blue-green."
+ },
+ {
+  "id": "c12-0114",
+  "sub": "12.5",
+  "level": "core",
+  "q": "Which cation gives an orange-red flame in a flame test?",
+  "columns": null,
+  "options": [
+   "barium, Ba²⁺",
+   "copper(II), Cu²⁺",
+   "sodium, Na⁺",
+   "calcium, Ca²⁺"
+  ],
+  "answer": 3,
+  "explain": "Calcium compounds give an orange-red (brick-red) flame. Barium gives a light green flame and copper(II) gives a blue-green flame."
+ },
+ {
+  "id": "c12-0115",
+  "sub": "12.5",
+  "level": "core",
+  "q": "Which cation gives a light green flame in a flame test?",
+  "columns": null,
+  "options": [
+   "barium, Ba²⁺",
+   "calcium, Ca²⁺",
+   "potassium, K⁺",
+   "lithium, Li⁺"
+  ],
+  "answer": 0,
+  "explain": "Barium compounds give a light green flame."
+ },
+ {
+  "id": "c12-0116",
+  "sub": "12.5",
+  "level": "core",
+  "q": "A flame test gives a blue-green flame. Which cation is present?",
+  "columns": null,
+  "options": [
+   "calcium, Ca²⁺",
+   "copper(II), Cu²⁺",
+   "potassium, K⁺",
+   "sodium, Na⁺"
+  ],
+  "answer": 1,
+  "explain": "Copper(II) compounds give a blue-green flame."
+ },
+ {
+  "id": "c12-0117",
+  "sub": "12.5",
+  "level": "core",
+  "q": "Which row correctly gives the flame colour for the cation?",
+  "columns": [
+   "Cation",
+   "Flame colour"
+  ],
+  "options": [
+   "Li⁺ | lilac",
+   "K⁺ | red",
+   "Na⁺ | orange-red",
+   "Cu²⁺ | blue-green"
+  ],
+  "answer": 3,
+  "explain": "Copper(II) is blue-green. Lithium is red, potassium is lilac and sodium is yellow."
+ },
+ {
+  "id": "c12-0118",
+  "sub": "12.5",
+  "level": "extended",
+  "q": "A white solid gives a lilac flame in a flame test. Its aqueous solution gives a white precipitate with acidified aqueous silver nitrate. What is the solid?",
+  "columns": null,
+  "options": [
+   "sodium chloride",
+   "potassium iodide",
+   "potassium chloride",
+   "potassium sulfate"
+  ],
+  "answer": 2,
+  "explain": "The lilac flame shows potassium, and a white precipitate with acidified silver nitrate shows chloride. Iodide would give a yellow precipitate."
+ },
+ {
+  "id": "c12-0119",
+  "sub": "12.5",
+  "level": "core",
+  "q": "Why is the wire for a flame test cleaned with dilute hydrochloric acid and heated before use?",
+  "columns": null,
+  "options": [
+   "to make the wire hotter",
+   "to remove traces of other substances that could colour the flame",
+   "to react with the sample",
+   "to give the flame a green colour"
+  ],
+  "answer": 1,
+  "explain": "Contamination on the wire, especially sodium, would give flame colours that mask the colour of the sample being tested."
+ },
+ {
+  "id": "c12-0120",
+  "sub": "12.5",
+  "level": "extended",
+  "q": "A solid dissolves in water to form a colourless solution. A flame test gives a lilac flame. Aqueous sodium hydroxide gives no precipitate. After acidifying with dilute nitric acid, aqueous barium nitrate gives a white precipitate. What is the solid?",
+  "columns": null,
+  "options": [
+   "potassium sulfate",
+   "potassium carbonate",
+   "sodium sulfate",
+   "calcium sulfate"
+  ],
+  "answer": 0,
+  "explain": "Lilac means potassium. The precipitate with acidified barium nitrate means sulfate. A calcium salt would have given a precipitate with sodium hydroxide."
+ }
+]

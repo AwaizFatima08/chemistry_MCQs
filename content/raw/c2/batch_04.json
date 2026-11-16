@@ -1,0 +1,456 @@
+[
+ {
+  "id": "c2-0091",
+  "sub": "2.4",
+  "level": "core",
+  "q": "Which describes what happens when sodium reacts with chlorine to form sodium chloride?",
+  "columns": null,
+  "options": [
+   "Each chlorine atom transfers one electron to a sodium atom",
+   "A sodium atom and a chlorine atom share a pair of electrons",
+   "Each sodium atom transfers two electrons to a chlorine atom",
+   "Each sodium atom transfers one electron to a chlorine atom"
+  ],
+  "answer": 3,
+  "explain": "Sodium (2,8,1) loses one electron to become Na⁺, and chlorine (2,8,7) gains it to become Cl⁻."
+ },
+ {
+  "id": "c2-0092",
+  "sub": "2.5",
+  "level": "core",
+  "q": "In a molecule of chlorine, Cl₂, what is shared between the two atoms?",
+  "columns": null,
+  "options": [
+   "Two pairs of electrons",
+   "One electron",
+   "Three pairs of electrons",
+   "One pair of electrons"
+  ],
+  "answer": 3,
+  "explain": "Each chlorine atom has 7 outer electrons and needs one more, so they share one pair."
+ },
+ {
+  "id": "c2-0093",
+  "sub": "2.1",
+  "level": "core",
+  "q": "A student draws a substance in which every particle is a pair of different atoms joined together, and all the pairs are identical. How should this substance be classified?",
+  "columns": null,
+  "options": [
+   "An element",
+   "A compound",
+   "A mixture of two elements",
+   "A mixture of two compounds"
+  ],
+  "answer": 1,
+  "explain": "Identical particles each containing different atoms chemically joined represent a compound. An element would have only one kind of atom."
+ },
+ {
+  "id": "c2-0094",
+  "sub": "2.5",
+  "level": "extended",
+  "q": "How many pairs of electrons are shared between the two nitrogen atoms in N₂?",
+  "columns": null,
+  "options": [
+   "1",
+   "3",
+   "2",
+   "5"
+  ],
+  "answer": 1,
+  "explain": "Each nitrogen atom needs three electrons to complete its outer shell, so a triple bond with three shared pairs forms."
+ },
+ {
+  "id": "c2-0095",
+  "sub": "2.5",
+  "level": "extended",
+  "q": "How many non-bonding electrons are on each nitrogen atom in a molecule of N₂?",
+  "columns": null,
+  "options": [
+   "0",
+   "2",
+   "3",
+   "6"
+  ],
+  "answer": 1,
+  "explain": "Each nitrogen atom has 5 outer electrons: 3 are in the triple bond, leaving 2 as a non-bonding pair."
+ },
+ {
+  "id": "c2-0096",
+  "sub": "2.5",
+  "level": "core",
+  "q": "What is a covalent bond?",
+  "columns": null,
+  "options": [
+   "A transfer of electrons from one atom to another",
+   "A shared pair of electrons between two atoms",
+   "An attraction between oppositely charged ions",
+   "An attraction between positive ions and delocalised electrons"
+  ],
+  "answer": 1,
+  "explain": "In a covalent bond two atoms share a pair of electrons so that each reaches a noble gas configuration."
+ },
+ {
+  "id": "c2-0097",
+  "sub": "2.2",
+  "level": "core",
+  "q": "Which row correctly gives the relative charge and relative mass of the particles?",
+  "columns": [
+   "Particle",
+   "Relative charge",
+   "Relative mass"
+  ],
+  "options": [
+   "neutron | +1 | 1",
+   "electron | −1 | 1",
+   "proton | +1 | 1",
+   "proton | 0 | 1/1840"
+  ],
+  "answer": 2,
+  "explain": "A proton has charge +1 and relative mass 1. A neutron is neutral with mass 1; an electron has charge −1 and negligible mass."
+ },
+ {
+  "id": "c2-0098",
+  "sub": "2.2",
+  "level": "core",
+  "q": "An element is in Group V and Period 2. What is its electronic configuration?",
+  "columns": null,
+  "options": [
+   "2,8,5",
+   "5,2",
+   "2,5",
+   "2,3"
+  ],
+  "answer": 2,
+  "explain": "Period 2 means two occupied shells and Group V means five outer electrons: 2,5 (nitrogen)."
+ },
+ {
+  "id": "c2-0099",
+  "sub": "2.3",
+  "level": "extended",
+  "q": "Chlorine consists of 75% ³⁵Cl and 25% ³⁷Cl. What is the relative atomic mass of chlorine?",
+  "columns": null,
+  "options": [
+   "36.0",
+   "35.5",
+   "35.0",
+   "36.5"
+  ],
+  "answer": 1,
+  "explain": "(75 × 35 + 25 × 37) ÷ 100 = (2625 + 925) ÷ 100 = 35.5."
+ },
+ {
+  "id": "c2-0100",
+  "sub": "2.7",
+  "level": "extended",
+  "q": "What does the word delocalised mean in the term delocalised electrons?",
+  "columns": null,
+  "options": [
+   "Fixed in the shell of one atom",
+   "Not fixed to one atom and free to move throughout the structure",
+   "Present in the nucleus",
+   "Shared in a pair between exactly two atoms"
+  ],
+  "answer": 1,
+  "explain": "Delocalised electrons belong to the whole lattice, not to any single atom."
+ },
+ {
+  "id": "c2-0101",
+  "sub": "2.2",
+  "level": "core",
+  "q": "A neutral atom has a proton number of 19. How many electrons does it have?",
+  "columns": null,
+  "options": [
+   "19",
+   "18",
+   "20",
+   "39"
+  ],
+  "answer": 0,
+  "explain": "A neutral atom has equal numbers of protons and electrons, so 19 protons means 19 electrons."
+ },
+ {
+  "id": "c2-0102",
+  "sub": "2.7",
+  "level": "extended",
+  "q": "What does the term ductile mean?",
+  "columns": null,
+  "options": [
+   "Can be hammered into thin sheets",
+   "Can be melted easily",
+   "Can be drawn out into a wire",
+   "Can conduct electricity"
+  ],
+  "answer": 2,
+  "explain": "Ductile describes the ability to be stretched into wires; malleable means able to be hammered into shape."
+ },
+ {
+  "id": "c2-0103",
+  "sub": "2.6",
+  "level": "extended",
+  "q": "Which statement explains why the formula of silicon(IV) oxide is SiO₂?",
+  "columns": null,
+  "options": [
+   "Each silicon atom is bonded to two oxygen atoms and each oxygen atom to one silicon atom",
+   "Silicon ions Si²⁺ combine with oxide ions O²⁻",
+   "Each silicon atom is bonded to four oxygen atoms and each oxygen atom is shared between two silicon atoms",
+   "Each oxygen atom is bonded to four silicon atoms"
+  ],
+  "answer": 2,
+  "explain": "Four Si–O bonds per silicon, with each oxygen forming two bonds, gives two oxygen atoms for each silicon atom."
+ },
+ {
+  "id": "c2-0104",
+  "sub": "2.5",
+  "level": "core",
+  "q": "A hydrogen atom shares its electron in a covalent bond. How many electrons does it then have in its outer shell?",
+  "columns": null,
+  "options": [
+   "1",
+   "2",
+   "8",
+   "0"
+  ],
+  "answer": 1,
+  "explain": "Hydrogen has one shell, which is full with two electrons, the noble gas configuration of helium."
+ },
+ {
+  "id": "c2-0105",
+  "sub": "2.5",
+  "level": "extended",
+  "q": "How many pairs of electrons are shared between the two oxygen atoms in an oxygen molecule, O₂?",
+  "columns": null,
+  "options": [
+   "2",
+   "1",
+   "3",
+   "4"
+  ],
+  "answer": 0,
+  "explain": "Each oxygen atom needs two more electrons, so two pairs are shared, forming a double bond."
+ },
+ {
+  "id": "c2-0106",
+  "sub": "2.4",
+  "level": "extended",
+  "q": "Why does solid sodium chloride not conduct electricity?",
+  "columns": null,
+  "options": [
+   "It contains no ions",
+   "Its ions are held in fixed positions in the lattice and cannot move",
+   "Its electrons are delocalised but cannot move",
+   "Its ions are too small to carry charge"
+  ],
+  "answer": 1,
+  "explain": "Conduction needs charged particles that are free to move; ions in the solid lattice only vibrate in place."
+ },
+ {
+  "id": "c2-0107",
+  "sub": "2.7",
+  "level": "extended",
+  "q": "A magnesium atom has two outer electrons. In solid magnesium, what happens to these electrons?",
+  "columns": null,
+  "options": [
+   "They are transferred to chlorine atoms",
+   "They stay fixed on each magnesium atom",
+   "They become delocalised and move through the lattice of Mg²⁺ ions",
+   "They are shared in pairs between two atoms"
+  ],
+  "answer": 2,
+  "explain": "Each atom releases its outer electrons into the shared sea, leaving Mg²⁺ ions in the lattice."
+ },
+ {
+  "id": "c2-0108",
+  "sub": "2.6",
+  "level": "extended",
+  "q": "Which pair of properties do both diamond and silicon(IV) oxide have?",
+  "columns": null,
+  "options": [
+   "Low melting point and conduct electricity",
+   "Very high melting point and do not conduct electricity",
+   "Very high melting point and conduct electricity",
+   "Low melting point and do not conduct electricity"
+  ],
+  "answer": 1,
+  "explain": "Both are giant covalent structures with strong bonds and no mobile charged particles."
+ },
+ {
+  "id": "c2-0109",
+  "sub": "2.2",
+  "level": "extended",
+  "q": "An atom has the electronic configuration 2,8,6. How many protons does it have in its nucleus?",
+  "columns": null,
+  "options": [
+   "6",
+   "8",
+   "16",
+   "14"
+  ],
+  "answer": 2,
+  "explain": "A neutral atom has equal protons and electrons: 2 + 8 + 6 = 16 (sulfur)."
+ },
+ {
+  "id": "c2-0110",
+  "sub": "2.2",
+  "level": "extended",
+  "q": "What is the electronic configuration of an oxide ion, O²⁻ (oxygen has proton number 8)?",
+  "columns": null,
+  "options": [
+   "2,6",
+   "2,8,2",
+   "2,4",
+   "2,8"
+  ],
+  "answer": 3,
+  "explain": "The oxygen atom (2,6) gains two electrons, giving 10 electrons arranged 2,8."
+ },
+ {
+  "id": "c2-0111",
+  "sub": "2.5",
+  "level": "core",
+  "q": "Why do simple molecular substances not conduct electricity?",
+  "columns": null,
+  "options": [
+   "They contain strong covalent bonds",
+   "They contain positive ions fixed in a lattice",
+   "They contain no ions or free electrons to carry the charge",
+   "They have low melting points"
+  ],
+  "answer": 2,
+  "explain": "Molecules are uncharged and have no mobile charged particles, so no current can flow."
+ },
+ {
+  "id": "c2-0112",
+  "sub": "2.7",
+  "level": "extended",
+  "q": "Which diagram description represents a metal?",
+  "columns": null,
+  "options": [
+   "A regular arrangement of alternating positive and negative ions",
+   "Pairs of atoms each joined by a shared pair of electrons",
+   "A regular arrangement of positive ions surrounded by a sea of free electrons",
+   "Layers of atoms with weak forces between the layers"
+  ],
+  "answer": 2,
+  "explain": "Metals have lattices of positive ions in a sea of electrons; the second option is an ionic lattice and the third a molecule."
+ },
+ {
+  "id": "c2-0113",
+  "sub": "2.4",
+  "level": "core",
+  "q": "Which type of element atoms tend to form positive ions?",
+  "columns": null,
+  "options": [
+   "Non-metals",
+   "Noble gases",
+   "Metals",
+   "Halogens"
+  ],
+  "answer": 2,
+  "explain": "Metal atoms lose their outer electrons to form positive ions; non-metals usually gain electrons."
+ },
+ {
+  "id": "c2-0114",
+  "sub": "2.7",
+  "level": "extended",
+  "q": "Which statement about the electrons in a metal is correct?",
+  "columns": null,
+  "options": [
+   "The electrons are only attracted to the ion they came from",
+   "The electrons are repelled by all the positive ions",
+   "The electrons are shared in fixed pairs between two ions",
+   "The delocalised electrons are attracted to all of the positive ions in the lattice"
+  ],
+  "answer": 3,
+  "explain": "The sea of electrons is attracted to many ions at once, which holds the lattice together and allows movement without breaking it."
+ },
+ {
+  "id": "c2-0115",
+  "sub": "2.4",
+  "level": "extended",
+  "q": "Which is the formula of calcium chloride?",
+  "columns": null,
+  "options": [
+   "CaCl",
+   "Ca₂Cl",
+   "CaCl₂",
+   "Ca₂Cl₂"
+  ],
+  "answer": 2,
+  "explain": "Ca²⁺ needs two Cl⁻ ions to balance charge: one calcium atom loses two electrons and each of two chlorine atoms gains one."
+ },
+ {
+  "id": "c2-0116",
+  "sub": "2.6",
+  "level": "core",
+  "q": "Diamond and graphite are both forms of which element?",
+  "columns": null,
+  "options": [
+   "Silicon",
+   "Sulfur",
+   "Carbon",
+   "Lead"
+  ],
+  "answer": 2,
+  "explain": "Diamond and graphite are two structures made of carbon atoms only."
+ },
+ {
+  "id": "c2-0117",
+  "sub": "2.7",
+  "level": "extended",
+  "q": "Which particles are present in a metal lattice?",
+  "columns": null,
+  "options": [
+   "Positive ions and negative ions",
+   "Neutral atoms and molecules",
+   "Positive ions and delocalised electrons",
+   "Negative ions and delocalised electrons"
+  ],
+  "answer": 2,
+  "explain": "A metal consists of positive metal ions in a regular arrangement with a sea of electrons around them."
+ },
+ {
+  "id": "c2-0118",
+  "sub": "2.5",
+  "level": "core",
+  "q": "In a molecule of hydrogen chloride, HCl, how many non-bonding pairs of electrons are in the outer shell of the chlorine atom?",
+  "columns": null,
+  "options": [
+   "3",
+   "1",
+   "2",
+   "4"
+  ],
+  "answer": 0,
+  "explain": "Chlorine has 7 outer electrons: one is shared with hydrogen and the other 6 form 3 non-bonding pairs."
+ },
+ {
+  "id": "c2-0119",
+  "sub": "2.7",
+  "level": "extended",
+  "q": "Why does solid copper conduct electricity but solid sodium chloride does not?",
+  "columns": null,
+  "options": [
+   "Copper has mobile ions in the solid, but sodium chloride has none",
+   "Copper has molecules but sodium chloride has a lattice",
+   "Sodium chloride has delocalised electrons that cannot move",
+   "Copper has delocalised electrons that can move, but sodium chloride's ions are fixed"
+  ],
+  "answer": 3,
+  "explain": "Metals have mobile electrons even when solid, whereas ionic solids have charged particles that cannot move."
+ },
+ {
+  "id": "c2-0120",
+  "sub": "2.4",
+  "level": "extended",
+  "q": "Which statement describes the structure of an ionic compound such as sodium chloride?",
+  "columns": null,
+  "options": [
+   "Separate molecules of NaCl held by weak forces",
+   "A giant lattice of alternating positive and negative ions in a regular arrangement",
+   "A giant lattice of positive ions in a sea of electrons",
+   "Pairs of atoms joined by shared electrons"
+  ],
+  "answer": 1,
+  "explain": "Ionic compounds form a regular three-dimensional lattice in which each ion is surrounded by ions of opposite charge."
+ }
+]

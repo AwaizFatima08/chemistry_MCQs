@@ -1,0 +1,461 @@
+[
+ {
+  "id": "c10-0061",
+  "sub": "10.3",
+  "level": "core",
+  "q": "What makes up the remainder of clean, dry air after nitrogen and oxygen?",
+  "columns": null,
+  "options": [
+   "a mixture of noble gases and carbon dioxide",
+   "hydrogen and methane",
+   "water vapour and sulfur dioxide",
+   "carbon monoxide and argon only"
+  ],
+  "answer": 0,
+  "explain": "The remaining 1% is noble gases (mainly argon) and carbon dioxide."
+ },
+ {
+  "id": "c10-0062",
+  "sub": "10.3",
+  "level": "extended",
+  "q": "What volume of oxygen is in 500 cm³ of clean, dry air? (Take oxygen as 21% of air.)",
+  "columns": null,
+  "options": [
+   "21 cm³",
+   "390 cm³",
+   "105 cm³",
+   "395 cm³"
+  ],
+  "answer": 2,
+  "explain": "21% of 500 = 0.21 × 500 = 105 cm³."
+ },
+ {
+  "id": "c10-0063",
+  "sub": "10.3",
+  "level": "extended",
+  "q": "What volume of nitrogen is in 250 dm³ of clean, dry air? (Take nitrogen as 78% of air.)",
+  "columns": null,
+  "options": [
+   "52.5 dm³",
+   "78 dm³",
+   "205 dm³",
+   "195 dm³"
+  ],
+  "answer": 3,
+  "explain": "78% of 250 = 0.78 × 250 = 195 dm³."
+ },
+ {
+  "id": "c10-0064",
+  "sub": "10.3",
+  "level": "core",
+  "q": "Which air pollutant is formed by the complete combustion of carbon-containing fuels?",
+  "columns": null,
+  "options": [
+   "carbon monoxide",
+   "carbon dioxide",
+   "sulfur dioxide",
+   "particulates"
+  ],
+  "answer": 1,
+  "explain": "Complete combustion of carbon-containing fuels forms carbon dioxide and water."
+ },
+ {
+  "id": "c10-0065",
+  "sub": "10.3",
+  "level": "core",
+  "q": "Which pollutants are produced by the incomplete combustion of carbon-containing fuels?",
+  "columns": null,
+  "options": [
+   "carbon dioxide and sulfur dioxide",
+   "methane and oxides of nitrogen",
+   "carbon monoxide and particulates",
+   "sulfur dioxide and particulates"
+  ],
+  "answer": 2,
+  "explain": "Limited oxygen gives carbon monoxide and particles of carbon (soot)."
+ },
+ {
+  "id": "c10-0066",
+  "sub": "10.3",
+  "level": "core",
+  "q": "What is a source of methane in the atmosphere?",
+  "columns": null,
+  "options": [
+   "decomposition of vegetation and waste gases from animals",
+   "car engines",
+   "combustion of fuels containing sulfur",
+   "complete combustion of coal"
+  ],
+  "answer": 0,
+  "explain": "Methane comes from decaying vegetation and waste gases from digestion in animals, e.g. cattle."
+ },
+ {
+  "id": "c10-0067",
+  "sub": "10.3",
+  "level": "core",
+  "q": "Which air pollutant is formed in car engines?",
+  "columns": null,
+  "options": [
+   "methane",
+   "oxides of nitrogen",
+   "sulfur dioxide",
+   "carbon dioxide only"
+  ],
+  "answer": 1,
+  "explain": "At the high temperature in engines nitrogen and oxygen from the air react to form oxides of nitrogen."
+ },
+ {
+  "id": "c10-0068",
+  "sub": "10.3",
+  "level": "core",
+  "q": "Where does sulfur dioxide in the air mainly come from?",
+  "columns": null,
+  "options": [
+   "the decomposition of vegetation",
+   "incomplete combustion in car engines",
+   "the digestion of food by animals",
+   "burning fossil fuels that contain sulfur compounds"
+  ],
+  "answer": 3,
+  "explain": "Fossil fuels such as coal contain sulfur compounds; burning them produces sulfur dioxide."
+ },
+ {
+  "id": "c10-0069",
+  "sub": "10.3",
+  "level": "core",
+  "q": "Which row correctly matches each pollutant with its source?",
+  "columns": [
+   "Pollutant",
+   "Source"
+  ],
+  "options": [
+   "carbon monoxide | complete combustion",
+   "methane | decomposition of waste and vegetation",
+   "sulfur dioxide | car engines",
+   "oxides of nitrogen | digestion in animals"
+  ],
+  "answer": 1,
+  "explain": "Methane forms when vegetation decays; carbon monoxide forms in incomplete combustion; sulfur dioxide comes from sulfur in fuels; oxides of nitrogen form in car engines."
+ },
+ {
+  "id": "c10-0070",
+  "sub": "10.3",
+  "level": "core",
+  "q": "A gas heater is faulty and burns natural gas with too little air. Which poisonous gas may be produced?",
+  "columns": null,
+  "options": [
+   "carbon monoxide",
+   "carbon dioxide",
+   "nitrogen",
+   "oxygen"
+  ],
+  "answer": 0,
+  "explain": "Incomplete combustion produces toxic carbon monoxide."
+ },
+ {
+  "id": "c10-0071",
+  "sub": "10.3",
+  "level": "core",
+  "q": "What are particulates in air pollution?",
+  "columns": null,
+  "options": [
+   "a harmful gas formed in car engines",
+   "an acidic gas formed from sulfur",
+   "tiny droplets of pure water",
+   "tiny solid particles, e.g. carbon from incomplete combustion"
+  ],
+  "answer": 3,
+  "explain": "Particulates are fine solid particles such as soot produced by incomplete combustion."
+ },
+ {
+  "id": "c10-0072",
+  "sub": "10.3",
+  "level": "core",
+  "q": "Which pollutant is a toxic gas?",
+  "columns": null,
+  "options": [
+   "carbon dioxide",
+   "nitrogen",
+   "carbon monoxide",
+   "oxygen"
+  ],
+  "answer": 2,
+  "explain": "Carbon monoxide is toxic: it stops blood from carrying oxygen."
+ },
+ {
+  "id": "c10-0073",
+  "sub": "10.3",
+  "level": "core",
+  "q": "What is a harmful effect of particulates in the air?",
+  "columns": null,
+  "options": [
+   "acid rain",
+   "global warming",
+   "increased risk of respiratory problems and cancer",
+   "reduced oxygen in rivers"
+  ],
+  "answer": 2,
+  "explain": "Breathing in particulates can cause respiratory problems and cancer."
+ },
+ {
+  "id": "c10-0074",
+  "sub": "10.3",
+  "level": "core",
+  "q": "Which pollutant contributes to acid rain?",
+  "columns": null,
+  "options": [
+   "sulfur dioxide",
+   "carbon monoxide",
+   "methane",
+   "particulates"
+  ],
+  "answer": 0,
+  "explain": "Sulfur dioxide dissolves in rain water to form acid rain."
+ },
+ {
+  "id": "c10-0075",
+  "sub": "10.3",
+  "level": "core",
+  "q": "Which of these causes acid rain, photochemical smog and respiratory problems?",
+  "columns": null,
+  "options": [
+   "methane",
+   "carbon dioxide",
+   "carbon monoxide",
+   "oxides of nitrogen"
+  ],
+  "answer": 3,
+  "explain": "Oxides of nitrogen from car engines cause acid rain, smog and breathing problems."
+ },
+ {
+  "id": "c10-0076",
+  "sub": "10.3",
+  "level": "core",
+  "q": "Which two gases cause increased global warming that leads to climate change?",
+  "columns": null,
+  "options": [
+   "carbon monoxide and sulfur dioxide",
+   "carbon dioxide and methane",
+   "oxides of nitrogen and particulates",
+   "nitrogen and oxygen"
+  ],
+  "answer": 1,
+  "explain": "Higher levels of carbon dioxide and methane lead to increased global warming."
+ },
+ {
+  "id": "c10-0077",
+  "sub": "10.3",
+  "level": "core",
+  "q": "Which row correctly links an air pollutant with its adverse effect?",
+  "columns": [
+   "Pollutant",
+   "Adverse effect"
+  ],
+  "options": [
+   "carbon monoxide | global warming",
+   "methane | acid rain",
+   "sulfur dioxide | acid rain",
+   "particulates | toxic gas that stops blood carrying oxygen"
+  ],
+  "answer": 2,
+  "explain": "Sulfur dioxide causes acid rain; carbon monoxide is toxic; methane causes warming; particulates cause respiratory problems."
+ },
+ {
+  "id": "c10-0078",
+  "sub": "10.3",
+  "level": "core",
+  "q": "Which of these is a problem caused by acid rain?",
+  "columns": null,
+  "options": [
+   "higher global temperatures",
+   "damage to buildings and trees",
+   "cancer from carbon monoxide",
+   "less oxygen in the air"
+  ],
+  "answer": 1,
+  "explain": "Acid rain damages buildings made of limestone, kills trees and harms aquatic life."
+ },
+ {
+  "id": "c10-0079",
+  "sub": "10.3",
+  "level": "core",
+  "q": "Which action would help reduce climate change?",
+  "columns": null,
+  "options": [
+   "building more coal-fired power stations",
+   "increasing livestock farming",
+   "burning more petrol",
+   "planting trees"
+  ],
+  "answer": 3,
+  "explain": "Trees take in carbon dioxide for photosynthesis, so planting trees reduces carbon dioxide levels."
+ },
+ {
+  "id": "c10-0080",
+  "sub": "10.3",
+  "level": "core",
+  "q": "Which strategy reduces the amount of methane released?",
+  "columns": null,
+  "options": [
+   "reducing livestock farming",
+   "planting trees",
+   "using low-sulfur fuels",
+   "using catalytic converters"
+  ],
+  "answer": 0,
+  "explain": "Fewer farm animals mean less methane from digestion."
+ },
+ {
+  "id": "c10-0081",
+  "sub": "10.3",
+  "level": "core",
+  "q": "Which strategy helps reduce acid rain?",
+  "columns": null,
+  "options": [
+   "planting more trees",
+   "using low-sulfur fuels",
+   "increasing the use of coal",
+   "burning more fossil fuels"
+  ],
+  "answer": 1,
+  "explain": "Low-sulfur fuels release less sulfur dioxide when they burn."
+ },
+ {
+  "id": "c10-0082",
+  "sub": "10.3",
+  "level": "core",
+  "q": "Which fuel produces only water when it burns?",
+  "columns": null,
+  "options": [
+   "hydrogen",
+   "petrol",
+   "methane",
+   "coal"
+  ],
+  "answer": 0,
+  "explain": "Hydrogen reacts with oxygen to form only water, so burning it does not produce carbon dioxide."
+ },
+ {
+  "id": "c10-0083",
+  "sub": "10.3",
+  "level": "core",
+  "q": "What is the purpose of flue gas desulfurisation at a power station?",
+  "columns": null,
+  "options": [
+   "to remove carbon dioxide from the air",
+   "to remove nitrogen from the fuel",
+   "to produce more electricity",
+   "to remove sulfur dioxide from waste gases"
+  ],
+  "answer": 3,
+  "explain": "Calcium oxide reacts with the sulfur dioxide in waste gases before they leave the chimney."
+ },
+ {
+  "id": "c10-0084",
+  "sub": "10.3",
+  "level": "extended",
+  "q": "Which substance is used in flue gas desulfurisation?",
+  "columns": null,
+  "options": [
+   "calcium chloride",
+   "sodium chloride",
+   "calcium oxide",
+   "carbon"
+  ],
+  "answer": 2,
+  "explain": "Calcium oxide is a base that reacts with acidic sulfur dioxide."
+ },
+ {
+  "id": "c10-0085",
+  "sub": "10.3",
+  "level": "core",
+  "q": "Which row gives a correct way of reducing the effects of each environmental issue?",
+  "columns": [
+   "Issue",
+   "Strategy"
+  ],
+  "options": [
+   "acid rain | planting trees",
+   "climate change | burning more fossil fuels",
+   "acid rain | low-sulfur fuels",
+   "climate change | use of low-sulfur fuels"
+  ],
+  "answer": 2,
+  "explain": "Low-sulfur fuels reduce sulfur dioxide; climate change is reduced by fewer fossil fuels, planting trees and renewable energy."
+ },
+ {
+  "id": "c10-0086",
+  "sub": "10.3",
+  "level": "core",
+  "q": "Which energy source does NOT release carbon dioxide when generating electricity?",
+  "columns": null,
+  "options": [
+   "coal",
+   "wind",
+   "natural gas",
+   "petrol"
+  ],
+  "answer": 1,
+  "explain": "Wind turbines do not burn a fuel, so they release no carbon dioxide while operating."
+ },
+ {
+  "id": "c10-0087",
+  "sub": "10.3",
+  "level": "core",
+  "q": "Which statement describes photosynthesis?",
+  "columns": null,
+  "options": [
+   "Glucose and oxygen react to form carbon dioxide and water.",
+   "Carbon dioxide and glucose react to form water and oxygen.",
+   "Oxygen and water react to form glucose and carbon dioxide.",
+   "Carbon dioxide and water react to form glucose and oxygen."
+  ],
+  "answer": 3,
+  "explain": "In photosynthesis plants make glucose and oxygen from carbon dioxide and water."
+ },
+ {
+  "id": "c10-0088",
+  "sub": "10.3",
+  "level": "core",
+  "q": "Which two things are needed for photosynthesis to occur, in addition to carbon dioxide and water?",
+  "columns": null,
+  "options": [
+   "chlorophyll and energy from light",
+   "chlorophyll and a catalytic converter",
+   "nitrates and energy from heat",
+   "oxygen and energy from light"
+  ],
+  "answer": 0,
+  "explain": "Chlorophyll absorbs light energy, which drives the reaction."
+ },
+ {
+  "id": "c10-0089",
+  "sub": "10.3",
+  "level": "core",
+  "q": "What is the word equation for photosynthesis?",
+  "columns": null,
+  "options": [
+   "glucose + oxygen → carbon dioxide + water",
+   "carbon dioxide + water → glucose + oxygen",
+   "carbon dioxide + oxygen → glucose + water",
+   "glucose + water → carbon dioxide + oxygen"
+  ],
+  "answer": 1,
+  "explain": "Carbon dioxide and water form glucose and oxygen."
+ },
+ {
+  "id": "c10-0090",
+  "sub": "10.3",
+  "level": "core",
+  "q": "Which gas do plants take in from the air for photosynthesis?",
+  "columns": null,
+  "options": [
+   "carbon dioxide",
+   "oxygen",
+   "nitrogen",
+   "methane"
+  ],
+  "answer": 0,
+  "explain": "Plants take in carbon dioxide and release oxygen."
+ }
+]

@@ -1,0 +1,456 @@
+[
+ {
+  "id": "c4-0061",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Which element forms at the cathode when concentrated aqueous sodium chloride is electrolysed with inert electrodes?",
+  "columns": null,
+  "options": [
+   "Sodium",
+   "Chlorine",
+   "Oxygen",
+   "Hydrogen"
+  ],
+  "answer": 3,
+  "explain": "Sodium is more reactive than hydrogen, so hydrogen ions from the water are discharged at the cathode instead."
+ },
+ {
+  "id": "c4-0062",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Which electrolyte should be used to silver-plate a ring?",
+  "columns": null,
+  "options": [
+   "A solution of sodium chloride",
+   "Molten silver oxide only",
+   "Dilute sulfuric acid",
+   "A solution containing silver ions, such as silver nitrate"
+  ],
+  "answer": 3,
+  "explain": "The electrolyte for plating must contain ions of the plating metal so that they can be discharged at the cathode."
+ },
+ {
+  "id": "c4-0063",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Which solution is not an electrolyte?",
+  "columns": null,
+  "options": [
+   "Aqueous sodium chloride",
+   "Aqueous glucose",
+   "Dilute sulfuric acid",
+   "Aqueous copper(II) sulfate"
+  ],
+  "answer": 1,
+  "explain": "Glucose is a covalent molecule and gives no ions in water. The other solutions contain mobile ions."
+ },
+ {
+  "id": "c4-0064",
+  "sub": "4.1",
+  "level": "core",
+  "q": "In which electrolysis would a gas that relights a glowing splint form at the anode?",
+  "columns": null,
+  "options": [
+   "Concentrated aqueous sodium chloride with inert electrodes",
+   "Dilute sulfuric acid with inert electrodes",
+   "Molten lead(II) bromide with inert electrodes",
+   "Molten zinc chloride with inert electrodes"
+  ],
+  "answer": 1,
+  "explain": "Only dilute sulfuric acid gives oxygen at the anode. The other electrolytes give halogens."
+ },
+ {
+  "id": "c4-0065",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Molten sodium chloride is electrolysed using inert electrodes. Which products form?",
+  "columns": null,
+  "options": [
+   "Hydrogen at the cathode and chlorine at the anode",
+   "Sodium at the cathode and oxygen at the anode",
+   "Sodium at the cathode and chlorine at the anode",
+   "Chlorine at the cathode and sodium at the anode"
+  ],
+  "answer": 2,
+  "explain": "There is no water in the molten compound, so the only ions are Na⁺ and Cl⁻."
+ },
+ {
+  "id": "c4-0066",
+  "sub": "4.1",
+  "level": "core",
+  "q": "How can an iron nail be electroplated with zinc?",
+  "columns": null,
+  "options": [
+   "Use the nail as the anode and zinc as the cathode in a solution of a zinc salt",
+   "Use the nail as the cathode and graphite as the anode in distilled water",
+   "Heat the nail in molten zinc and pass a current through it",
+   "Use the nail as the cathode and zinc as the anode in a solution of a zinc salt"
+  ],
+  "answer": 3,
+  "explain": "The object to be plated is made the cathode and the anode is the plating metal. The electrolyte contains ions of the plating metal."
+ },
+ {
+  "id": "c4-0067",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Which statement about electroplating is correct?",
+  "columns": null,
+  "options": [
+   "A thin layer of metal is deposited on the anode",
+   "A thin layer of metal is deposited on the cathode",
+   "The object being plated is made the positive electrode",
+   "The electrolyte must be a molten non-metal"
+  ],
+  "answer": 1,
+  "explain": "Positive metal ions are attracted to the negative cathode, which is the object being plated."
+ },
+ {
+  "id": "c4-0068",
+  "sub": "4.2",
+  "level": "core",
+  "q": "Which substance is the fuel in a hydrogen–oxygen fuel cell?",
+  "columns": null,
+  "options": [
+   "Hydrogen",
+   "Oxygen",
+   "Water",
+   "Nitrogen"
+  ],
+  "answer": 0,
+  "explain": "Hydrogen is the substance that is oxidised, so it is the fuel. Oxygen is the other reactant, and water is the product."
+ },
+ {
+  "id": "c4-0069",
+  "sub": "4.2",
+  "level": "core",
+  "q": "Where does a hydrogen fuel cell car usually get its oxygen from?",
+  "columns": null,
+  "options": [
+   "A tank of liquid oxygen",
+   "The air",
+   "The decomposition of water in the engine",
+   "The hydrogen tank"
+  ],
+  "answer": 1,
+  "explain": "Air contains about 21% oxygen, so there is no need for the car to carry oxygen."
+ },
+ {
+  "id": "c4-0070",
+  "sub": "4.2",
+  "level": "core",
+  "q": "What is the electricity from a hydrogen–oxygen fuel cell used for in a fuel cell car?",
+  "columns": null,
+  "options": [
+   "To power an electric motor",
+   "To burn hydrogen in a cylinder",
+   "To heat the hydrogen tank",
+   "To make petrol from hydrogen"
+  ],
+  "answer": 0,
+  "explain": "The cell produces electricity, which drives an electric motor to move the vehicle."
+ },
+ {
+  "id": "c4-0071",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Why should the electrolysis of molten lead(II) bromide be done in a fume cupboard?",
+  "columns": null,
+  "options": [
+   "Bromine vapour is toxic",
+   "Lead metal vapour is explosive",
+   "Hydrogen gas is produced",
+   "The electrodes give off carbon dioxide"
+  ],
+  "answer": 0,
+  "explain": "Bromine is a poisonous red-brown vapour, so it must be removed safely."
+ },
+ {
+  "id": "c4-0072",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Which metal forms at the cathode when molten magnesium bromide is electrolysed using inert electrodes?",
+  "columns": null,
+  "options": [
+   "Bromine",
+   "Magnesium",
+   "Hydrogen",
+   "Magnesium bromide"
+  ],
+  "answer": 1,
+  "explain": "Mg²⁺ ions are positive, so they move to the cathode and become magnesium atoms."
+ },
+ {
+  "id": "c4-0073",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Which row correctly describes the electrolysis of molten lead(II) bromide with inert electrodes?",
+  "columns": [
+   "Electrode",
+   "Product",
+   "Observation"
+  ],
+  "options": [
+   "anode | bromine | red-brown fumes",
+   "cathode | bromine | red-brown fumes",
+   "anode | lead | silver-grey bead",
+   "cathode | hydrogen | squeaky pop"
+  ],
+  "answer": 0,
+  "explain": "Bromine is a non-metal and forms at the anode as red-brown fumes. Lead forms at the cathode."
+ },
+ {
+  "id": "c4-0074",
+  "sub": "4.1",
+  "level": "core",
+  "q": "During the electrolysis of dilute sulfuric acid, 20 cm³ of oxygen is collected at the anode. What volume of hydrogen forms at the cathode, measured under the same conditions?",
+  "columns": null,
+  "options": [
+   "10 cm³",
+   "40 cm³",
+   "20 cm³",
+   "80 cm³"
+  ],
+  "answer": 1,
+  "explain": "The ratio of hydrogen to oxygen is 2 : 1 (2H₂O → 2H₂ + O₂), so hydrogen is 2 × 20 = 40 cm³."
+ },
+ {
+  "id": "c4-0075",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "In the electrolysis of molten lead(II) bromide, which ion moves towards the anode?",
+  "columns": null,
+  "options": [
+   "Br⁻",
+   "Pb²⁺",
+   "Pb⁺",
+   "Br₂"
+  ],
+  "answer": 0,
+  "explain": "The anode is positive and attracts negative ions, which are the bromide ions."
+ },
+ {
+  "id": "c4-0076",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "Which half-equation shows oxidation?",
+  "columns": null,
+  "options": [
+   "2Cl⁻ → Cl₂ + 2e⁻",
+   "Cu²⁺ + 2e⁻ → Cu",
+   "2H⁺ + 2e⁻ → H₂",
+   "Pb²⁺ + 2e⁻ → Pb"
+  ],
+  "answer": 0,
+  "explain": "Oxidation is loss of electrons. Only the chloride half-equation has electrons on the product side."
+ },
+ {
+  "id": "c4-0077",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "Which half-equation shows reduction?",
+  "columns": null,
+  "options": [
+   "Cu → Cu²⁺ + 2e⁻",
+   "2I⁻ → I₂ + 2e⁻",
+   "4OH⁻ → 2H₂O + O₂ + 4e⁻",
+   "Ag⁺ + e⁻ → Ag"
+  ],
+  "answer": 3,
+  "explain": "Reduction is gain of electrons, so the electrons appear on the left-hand side, as in Ag⁺ + e⁻ → Ag."
+ },
+ {
+  "id": "c4-0078",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "Which half-equation represents the reaction at the cathode in the electrolysis of molten sodium chloride?",
+  "columns": null,
+  "options": [
+   "Na⁺ + 2e⁻ → Na",
+   "Na⁺ + e⁻ → Na",
+   "Na → Na⁺ + e⁻",
+   "2Na⁺ + e⁻ → 2Na"
+  ],
+  "answer": 1,
+  "explain": "Each Na⁺ ion gains one electron. The other equations are not balanced for charge or have electrons on the wrong side."
+ },
+ {
+  "id": "c4-0079",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "Which half-equation represents the reaction at the anode in the electrolysis of molten aluminium oxide?",
+  "columns": null,
+  "options": [
+   "2O²⁻ → O₂ + 4e⁻",
+   "O²⁻ → O₂ + 2e⁻",
+   "2O²⁻ + 4e⁻ → O₂",
+   "O²⁻ + 2e⁻ → O"
+  ],
+  "answer": 0,
+  "explain": "Two oxide ions form one O₂ molecule and release 4 electrons. Check charge: −4 on the left and −4 on the right."
+ },
+ {
+  "id": "c4-0080",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "Concentrated aqueous potassium iodide is electrolysed using inert electrodes. Which products form?",
+  "columns": null,
+  "options": [
+   "Potassium and iodine",
+   "Hydrogen and oxygen",
+   "Hydrogen and iodine",
+   "Potassium and oxygen"
+  ],
+  "answer": 2,
+  "explain": "Hydrogen ions are discharged at the cathode because hydrogen is less reactive than potassium. In a concentrated halide solution, iodine forms at the anode."
+ },
+ {
+  "id": "c4-0081",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "Why is hydrogen, not sodium, formed at the cathode when aqueous sodium chloride is electrolysed?",
+  "columns": null,
+  "options": [
+   "Hydrogen is less reactive than sodium, so H⁺ ions are discharged more easily",
+   "Sodium is less reactive than hydrogen, so Na⁺ ions are discharged more easily",
+   "Sodium reacts with chlorine as soon as it forms",
+   "Sodium ions are not present in the solution"
+  ],
+  "answer": 0,
+  "explain": "In aqueous solutions, the less reactive element is discharged at the cathode. Hydrogen is below sodium in the reactivity series."
+ },
+ {
+  "id": "c4-0082",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "Concentrated aqueous copper(II) chloride is electrolysed using inert electrodes. Which products form?",
+  "columns": null,
+  "options": [
+   "Hydrogen at the cathode and chlorine at the anode",
+   "Copper at the cathode and oxygen at the anode",
+   "Hydrogen at the cathode and oxygen at the anode",
+   "Copper at the cathode and chlorine at the anode"
+  ],
+  "answer": 3,
+  "explain": "Copper is less reactive than hydrogen, so Cu²⁺ is discharged at the cathode. Cl⁻ is discharged at the anode in a concentrated solution."
+ },
+ {
+  "id": "c4-0083",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "What happens to the acidity of aqueous copper(II) sulfate during electrolysis with carbon electrodes?",
+  "columns": null,
+  "options": [
+   "It becomes more acidic because H⁺ ions are left in the solution",
+   "It becomes more alkaline because OH⁻ ions are left in the solution",
+   "It stays neutral because only copper is removed",
+   "It becomes more acidic because SO₄²⁻ ions are removed"
+  ],
+  "answer": 0,
+  "explain": "OH⁻ ions are removed as oxygen at the anode, leaving H⁺ ions with the sulfate ions, so sulfuric acid forms."
+ },
+ {
+  "id": "c4-0084",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "Which pair of half-equations shows the reactions in aqueous copper(II) sulfate with carbon electrodes?",
+  "columns": null,
+  "options": [
+   "Cathode: Cu → Cu²⁺ + 2e⁻; anode: 4OH⁻ → 2H₂O + O₂ + 4e⁻",
+   "Cathode: Cu²⁺ + 2e⁻ → Cu; anode: 4OH⁻ → 2H₂O + O₂ + 4e⁻",
+   "Cathode: 2H⁺ + 2e⁻ → H₂; anode: 2SO₄²⁻ → 2SO₃ + O₂ + 4e⁻",
+   "Cathode: Cu²⁺ + 2e⁻ → Cu; anode: 2OH⁻ → H₂O + O₂ + 2e⁻"
+  ],
+  "answer": 1,
+  "explain": "Copper ions are reduced at the cathode and hydroxide ions oxidised at the anode. The final option is not balanced (two OH⁻ cannot give H₂O and O₂)."
+ },
+ {
+  "id": "c4-0085",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "How many moles of electrons are needed to deposit 0.25 mol of copper from aqueous copper(II) sulfate?",
+  "columns": null,
+  "options": [
+   "0.25 mol",
+   "0.125 mol",
+   "1.0 mol",
+   "0.50 mol"
+  ],
+  "answer": 3,
+  "explain": "Cu²⁺ + 2e⁻ → Cu needs 2 mol of electrons per mole of copper, so 0.25 × 2 = 0.50 mol."
+ },
+ {
+  "id": "c4-0086",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "1.28 g of copper is deposited at the cathode. The relative atomic mass of copper is 64. How many moles of electrons were transferred?",
+  "columns": null,
+  "options": [
+   "0.020 mol",
+   "0.080 mol",
+   "0.0050 mol",
+   "0.040 mol"
+  ],
+  "answer": 3,
+  "explain": "Moles of Cu = 1.28 ÷ 64 = 0.020 mol. Cu²⁺ + 2e⁻ → Cu so electrons = 2 × 0.020 = 0.040 mol."
+ },
+ {
+  "id": "c4-0087",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "In the electrolytic purification of copper, which happens at the impure copper anode?",
+  "columns": null,
+  "options": [
+   "Pure copper is deposited",
+   "Oxygen gas is released",
+   "Hydrogen gas is released",
+   "Copper dissolves as Cu²⁺ ions"
+  ],
+  "answer": 3,
+  "explain": "The copper anode takes part, losing electrons to form Cu²⁺ ions. Pure copper is deposited on the cathode."
+ },
+ {
+  "id": "c4-0088",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "A steel spoon is silver-plated in silver nitrate solution. What reaction occurs at the spoon?",
+  "columns": null,
+  "options": [
+   "Ag⁺ + e⁻ → Ag",
+   "Ag → Ag⁺ + e⁻",
+   "Fe → Fe²⁺ + 2e⁻",
+   "2H⁺ + 2e⁻ → H₂"
+  ],
+  "answer": 0,
+  "explain": "The spoon is the cathode, where silver ions gain electrons (reduction) and form silver metal."
+ },
+ {
+  "id": "c4-0089",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "A nickel anode is used to nickel-plate an object. Which pair of half-equations describes the changes?",
+  "columns": null,
+  "options": [
+   "Anode: Ni²⁺ + 2e⁻ → Ni; cathode: Ni → Ni²⁺ + 2e⁻",
+   "Anode: 2H⁺ + 2e⁻ → H₂; cathode: Ni → Ni²⁺ + 2e⁻",
+   "Anode: Ni → Ni²⁺ + 2e⁻; cathode: 2H⁺ + 2e⁻ → H₂",
+   "Anode: Ni → Ni²⁺ + 2e⁻; cathode: Ni²⁺ + 2e⁻ → Ni"
+  ],
+  "answer": 3,
+  "explain": "Nickel metal is oxidised at the anode and nickel ions are reduced at the cathode, so the concentration of nickel ions stays constant."
+ },
+ {
+  "id": "c4-0090",
+  "sub": "4.2",
+  "level": "extended",
+  "q": "Which is an advantage of a hydrogen–oxygen fuel cell car compared with a petrol car?",
+  "columns": null,
+  "options": [
+   "Hydrogen is easier to store and transport than petrol",
+   "The only waste product is water, so no carbon dioxide is released during use",
+   "There are more refuelling stations for hydrogen",
+   "The fuel cell never needs oxygen"
+  ],
+  "answer": 1,
+  "explain": "Petrol burning releases carbon dioxide, a greenhouse gas. The fuel cell forms only water."
+ }
+]

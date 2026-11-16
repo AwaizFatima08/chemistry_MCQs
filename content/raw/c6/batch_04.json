@@ -1,0 +1,464 @@
+[
+  {
+    "id": "c6-0091",
+    "sub": "6.4",
+    "level": "core",
+    "q": "Copper(II) oxide is heated with hydrogen: CuO + H₂ → Cu + H₂O. Which statement is correct?",
+    "columns": null,
+    "options": [
+      "Hydrogen is reduced because it gains oxygen",
+      "Copper(II) oxide is reduced because it gains oxygen",
+      "Copper(II) oxide is oxidised because it loses oxygen",
+      "Copper(II) oxide is reduced because it loses oxygen"
+    ],
+    "answer": 3,
+    "explain": "CuO loses oxygen to form Cu so it is reduced. Hydrogen gains oxygen to form water so it is oxidised."
+  },
+  {
+    "id": "c6-0092",
+    "sub": "6.4",
+    "level": "core",
+    "q": "Magnesium burns in oxygen: 2Mg + O₂ → 2MgO. Which statement is correct?",
+    "columns": null,
+    "options": [
+      "Oxygen is oxidised because it gains magnesium",
+      "Magnesium is reduced because it loses oxygen",
+      "Magnesium is reduced because it gains oxygen",
+      "Magnesium is oxidised because it gains oxygen"
+    ],
+    "answer": 3,
+    "explain": "Magnesium gains oxygen and is oxidised. A gain of oxygen is oxidation."
+  },
+  {
+    "id": "c6-0093",
+    "sub": "6.4",
+    "level": "core",
+    "q": "Which equation represents a redox reaction?",
+    "columns": null,
+    "options": [
+      "HCl(aq) + NaOH(aq) → NaCl(aq) + H₂O(l)",
+      "CaCO₃(s) → CaO(s) + CO₂(g)",
+      "2CuO(s) + C(s) → 2Cu(s) + CO₂(g)",
+      "CaO(s) + H₂O(l) → Ca(OH)₂(aq)"
+    ],
+    "answer": 2,
+    "explain": "In 2CuO + C → 2Cu + CO₂, CuO loses oxygen (reduced) and carbon gains oxygen (oxidised). The other equations involve no gain or loss of oxygen."
+  },
+  {
+    "id": "c6-0094",
+    "sub": "6.4",
+    "level": "core",
+    "q": "In the reaction Fe₂O₃ + 3CO → 2Fe + 3CO₂, which statement is correct?",
+    "columns": null,
+    "options": [
+      "Iron(III) oxide is reduced and carbon monoxide is oxidised",
+      "Both are oxidised",
+      "Iron(III) oxide is oxidised and carbon monoxide is reduced",
+      "Both are reduced"
+    ],
+    "answer": 0,
+    "explain": "Fe₂O₃ loses oxygen so it is reduced, while CO gains oxygen to become CO₂ so it is oxidised."
+  },
+  {
+    "id": "c6-0095",
+    "sub": "6.4",
+    "level": "core",
+    "q": "In the reaction 2Mg + CO₂ → 2MgO + C, which row is correct?",
+    "columns": [
+      "Substance oxidised",
+      "Substance reduced"
+    ],
+    "options": [
+      "Mg | CO₂",
+      "C | MgO",
+      "CO₂ | Mg",
+      "Mg | MgO"
+    ],
+    "answer": 0,
+    "explain": "Magnesium gains oxygen so it is oxidised, and carbon dioxide loses oxygen so it is reduced."
+  },
+  {
+    "id": "c6-0096",
+    "sub": "6.4",
+    "level": "core",
+    "q": "Iron rusts when it reacts with oxygen and water. In terms of oxygen, what happens to the iron?",
+    "columns": null,
+    "options": [
+      "It is oxidised because it loses oxygen",
+      "It is reduced because it loses oxygen",
+      "It is oxidised because it gains oxygen",
+      "It is reduced because it gains oxygen"
+    ],
+    "answer": 2,
+    "explain": "Rust is a compound of iron with oxygen, so the iron has gained oxygen and been oxidised."
+  },
+  {
+    "id": "c6-0097",
+    "sub": "6.4",
+    "level": "core",
+    "q": "Black copper(II) oxide is heated with carbon and a pink-brown solid forms. What does this show?",
+    "columns": null,
+    "options": [
+      "The change is a physical change",
+      "Copper has been oxidised to copper(II) oxide",
+      "Carbon has been reduced",
+      "Copper(II) oxide has been reduced to copper"
+    ],
+    "answer": 3,
+    "explain": "Loss of oxygen from copper(II) oxide to give copper is reduction."
+  },
+  {
+    "id": "c6-0098",
+    "sub": "6.4",
+    "level": "core",
+    "q": "Which reaction involves the reduction of a metal oxide?",
+    "columns": null,
+    "options": [
+      "Heating copper in air to make copper(II) oxide",
+      "Heating iron(III) oxide with carbon monoxide to make iron",
+      "Burning magnesium in air",
+      "Rusting of iron in damp air"
+    ],
+    "answer": 1,
+    "explain": "Iron(III) oxide loses oxygen to carbon monoxide, so it is reduced. Copper and magnesium gain oxygen, and rusting is oxidation."
+  },
+  {
+    "id": "c6-0099",
+    "sub": "6.4",
+    "level": "core",
+    "q": "Which row correctly links the change with its name?",
+    "columns": [
+      "Change",
+      "Name"
+    ],
+    "options": [
+      "Gain of oxygen | reduction",
+      "Loss of oxygen | oxidation",
+      "Gain of oxygen | oxidation",
+      "Loss of oxygen | neutralisation"
+    ],
+    "answer": 2,
+    "explain": "Gain of oxygen is oxidation and loss of oxygen is reduction."
+  },
+  {
+    "id": "c6-0100",
+    "sub": "6.4",
+    "level": "core",
+    "q": "In the reaction Fe₂O₃ + 2Al → Al₂O₃ + 2Fe, which statement is correct?",
+    "columns": null,
+    "options": [
+      "Aluminium is reduced and iron(III) oxide is oxidised",
+      "Neither is oxidised or reduced",
+      "Both are oxidised",
+      "Aluminium is oxidised and iron(III) oxide is reduced"
+    ],
+    "answer": 3,
+    "explain": "Aluminium gains oxygen to form Al₂O₃ (oxidation). Fe₂O₃ loses oxygen to form iron (reduction)."
+  },
+  {
+    "id": "c6-0101",
+    "sub": "6.4",
+    "level": "extended",
+    "q": "Which row correctly defines oxidation and reduction?",
+    "columns": [
+      "Oxidation",
+      "Reduction"
+    ],
+    "options": [
+      "decrease in oxidation number | increase in oxidation number",
+      "loss of electrons | gain of electrons",
+      "decrease in oxidation number | gain of electrons",
+      "gain of electrons | loss of electrons"
+    ],
+    "answer": 1,
+    "explain": "Oxidation is loss of electrons or an increase in oxidation number. Reduction is gain of electrons or a decrease in oxidation number."
+  },
+  {
+    "id": "c6-0102",
+    "sub": "6.4",
+    "level": "extended",
+    "q": "The change Fe²⁺ → Fe³⁺ + e⁻ takes place. Which statement is correct?",
+    "columns": null,
+    "options": [
+      "It is oxidation because electrons are lost",
+      "It is reduction because electrons are lost",
+      "It is oxidation because electrons are gained",
+      "It is reduction because electrons are gained"
+    ],
+    "answer": 0,
+    "explain": "The iron ion loses an electron and its oxidation number rises from +2 to +3, which is oxidation."
+  },
+  {
+    "id": "c6-0103",
+    "sub": "6.4",
+    "level": "extended",
+    "q": "The change Cl₂ + 2e⁻ → 2Cl⁻ takes place. Which statement is correct?",
+    "columns": null,
+    "options": [
+      "It is oxidation because electrons are gained",
+      "It is reduction because electrons are gained",
+      "It is oxidation because chlorine gains oxygen",
+      "It is reduction because electrons are lost"
+    ],
+    "answer": 1,
+    "explain": "Chlorine gains electrons and its oxidation number falls from 0 to −1, which is reduction."
+  },
+  {
+    "id": "c6-0104",
+    "sub": "6.4",
+    "level": "extended",
+    "q": "What is the oxidation number of sulfur in the sulfate ion, SO₄²⁻?",
+    "columns": null,
+    "options": [
+      "+4",
+      "+6",
+      "+2",
+      "−2"
+    ],
+    "answer": 1,
+    "explain": "Each oxygen is −2, so S + 4(−2) = −2. Therefore S = +6."
+  },
+  {
+    "id": "c6-0105",
+    "sub": "6.4",
+    "level": "extended",
+    "q": "What is the oxidation number of manganese in the manganate(VII) ion, MnO₄⁻?",
+    "columns": null,
+    "options": [
+      "+7",
+      "+5",
+      "+3",
+      "+8"
+    ],
+    "answer": 0,
+    "explain": "Mn + 4(−2) = −1, so Mn = +7."
+  },
+  {
+    "id": "c6-0106",
+    "sub": "6.4",
+    "level": "extended",
+    "q": "Which species contains nitrogen with an oxidation number of +5?",
+    "columns": null,
+    "options": [
+      "NO₃⁻",
+      "NH₃",
+      "NO₂",
+      "N₂O"
+    ],
+    "answer": 0,
+    "explain": "In NO₃⁻, N + 3(−2) = −1, so N = +5. NO₂ is +4, NH₃ is −3 and N₂O is +1."
+  },
+  {
+    "id": "c6-0107",
+    "sub": "6.4",
+    "level": "extended",
+    "q": "Zinc is added to copper(II) sulfate solution: Zn + CuSO₄ → ZnSO₄ + Cu. Which change in oxidation number happens?",
+    "columns": null,
+    "options": [
+      "Zinc goes from 0 to +2, so zinc is oxidised",
+      "Copper goes from 0 to +2, so copper is oxidised",
+      "Zinc goes from +2 to 0, so zinc is oxidised",
+      "Zinc goes from 0 to +2, so zinc is reduced"
+    ],
+    "answer": 0,
+    "explain": "Zinc atoms (0) become Zn²⁺ (+2), so the oxidation number increases and zinc is oxidised. Copper goes from +2 to 0 and is reduced."
+  },
+  {
+    "id": "c6-0108",
+    "sub": "6.4",
+    "level": "extended",
+    "q": "Which reaction is NOT a redox reaction?",
+    "columns": null,
+    "options": [
+      "2Na + Cl₂ → 2NaCl",
+      "Mg + 2HCl → MgCl₂ + H₂",
+      "CuO + H₂SO₄ → CuSO₄ + H₂O",
+      "Fe + CuSO₄ → FeSO₄ + Cu"
+    ],
+    "answer": 2,
+    "explain": "In the CuO and acid reaction every oxidation number stays the same (Cu +2, O −2, H +1, S +6). The other reactions all include an element changing its oxidation number."
+  },
+  {
+    "id": "c6-0109",
+    "sub": "6.4",
+    "level": "extended",
+    "q": "Which change is a reduction?",
+    "columns": null,
+    "options": [
+      "Cr in Cr₂O₇²⁻ changing to Cr³⁺",
+      "Sulfur in SO₂ changing to sulfur in SO₄²⁻",
+      "Cu changing to Cu²⁺",
+      "Fe²⁺ changing to Fe³⁺"
+    ],
+    "answer": 0,
+    "explain": "Chromium goes from +6 to +3, a decrease in oxidation number. The other changes all show an increase in oxidation number."
+  },
+  {
+    "id": "c6-0110",
+    "sub": "6.4",
+    "level": "extended",
+    "q": "Acidified potassium manganate(VII) solution is added to a solution of a reducing agent. What colour change is seen?",
+    "columns": null,
+    "options": [
+      "Orange to green",
+      "Purple to brown",
+      "Purple to colourless",
+      "Colourless to purple"
+    ],
+    "answer": 2,
+    "explain": "Purple manganate(VII) is reduced to almost colourless Mn²⁺ by a reducing agent."
+  },
+  {
+    "id": "c6-0111",
+    "sub": "6.4",
+    "level": "extended",
+    "q": "Aqueous potassium iodide is added to a solution of an oxidising agent. What colour change shows that a redox reaction has taken place?",
+    "columns": null,
+    "options": [
+      "Colourless to purple",
+      "Colourless to brown",
+      "Brown to colourless",
+      "Colourless to blue"
+    ],
+    "answer": 1,
+    "explain": "Iodide ions are oxidised to iodine, which makes the solution brown."
+  },
+  {
+    "id": "c6-0112",
+    "sub": "6.4",
+    "level": "extended",
+    "q": "Which is the correct definition of an oxidising agent?",
+    "columns": null,
+    "options": [
+      "A substance that oxidises another substance and is itself reduced",
+      "A substance that reduces another substance and is itself reduced",
+      "A substance that oxidises another substance and is itself oxidised",
+      "A substance that reduces another substance and is itself oxidised"
+    ],
+    "answer": 0,
+    "explain": "An oxidising agent takes electrons from another substance, which is oxidised, and is itself reduced."
+  },
+  {
+    "id": "c6-0113",
+    "sub": "6.4",
+    "level": "extended",
+    "q": "In the reaction Fe₂O₃ + 3CO → 2Fe + 3CO₂, which is the reducing agent?",
+    "columns": null,
+    "options": [
+      "Fe₂O₃",
+      "CO₂",
+      "CO",
+      "Fe"
+    ],
+    "answer": 2,
+    "explain": "CO takes oxygen from the iron(III) oxide and is itself oxidised to CO₂, so it is the reducing agent."
+  },
+  {
+    "id": "c6-0114",
+    "sub": "6.4",
+    "level": "extended",
+    "q": "In the reaction Cl₂ + 2KBr → 2KCl + Br₂, which is the oxidising agent?",
+    "columns": null,
+    "options": [
+      "KCl",
+      "Br₂",
+      "KBr",
+      "Cl₂"
+    ],
+    "answer": 3,
+    "explain": "Chlorine gains electrons (0 to −1) and is reduced, so it oxidises the bromide ions and is the oxidising agent."
+  },
+  {
+    "id": "c6-0115",
+    "sub": "6.4",
+    "level": "extended",
+    "q": "Magnesium reacts with dilute acid: Mg + 2H⁺ → Mg²⁺ + H₂. Which statement is correct?",
+    "columns": null,
+    "options": [
+      "H⁺ is the oxidising agent because it gains electrons",
+      "H⁺ is the reducing agent because it gains electrons",
+      "Mg²⁺ is reduced because it gains electrons",
+      "Mg is the oxidising agent because it loses electrons"
+    ],
+    "answer": 0,
+    "explain": "Mg loses electrons (oxidised, reducing agent). H⁺ gains electrons (reduced) so it is the oxidising agent."
+  },
+  {
+    "id": "c6-0116",
+    "sub": "6.4",
+    "level": "extended",
+    "q": "Acidified potassium manganate(VII) is decolourised by a solution of iron(II) sulfate. Which statement is correct?",
+    "columns": null,
+    "options": [
+      "Fe²⁺ is oxidised to Fe³⁺, so iron(II) sulfate is acting as a reducing agent",
+      "Manganate(VII) is oxidised, so it is the reducing agent",
+      "Fe²⁺ is reduced to Fe³⁺, so iron(II) sulfate is acting as a reducing agent",
+      "Fe²⁺ is oxidised to Fe³⁺, so iron(II) sulfate is acting as an oxidising agent"
+    ],
+    "answer": 0,
+    "explain": "Loss of purple colour shows the manganate(VII) has been reduced. Fe²⁺ loses electrons, so it is oxidised and acts as the reducing agent."
+  },
+  {
+    "id": "c6-0117",
+    "sub": "6.4",
+    "level": "extended",
+    "q": "In the reaction 2H₂S + SO₂ → 3S + 2H₂O, which statement about sulfur is correct?",
+    "columns": null,
+    "options": [
+      "Sulfur is neither oxidised nor reduced",
+      "Sulfur is reduced only",
+      "Sulfur is both oxidised and reduced",
+      "Sulfur is oxidised only"
+    ],
+    "answer": 2,
+    "explain": "Sulfur in H₂S goes from −2 to 0 (oxidised) and sulfur in SO₂ goes from +4 to 0 (reduced)."
+  },
+  {
+    "id": "c6-0118",
+    "sub": "6.4",
+    "level": "extended",
+    "q": "Which row gives the correct oxidation number?",
+    "columns": [
+      "Element in species",
+      "Oxidation number"
+    ],
+    "options": [
+      "Cl in ClO₃⁻ | +3",
+      "Cr in Cr₂O₇²⁻ | +6",
+      "S in SO₂ | +2",
+      "N in NH₄⁺ | +4"
+    ],
+    "answer": 1,
+    "explain": "In Cr₂O₇²⁻, 2Cr + 7(−2) = −2, so Cr = +6. S in SO₂ is +4, Cl in ClO₃⁻ is +5 and N in NH₄⁺ is −3."
+  },
+  {
+    "id": "c6-0119",
+    "sub": "6.2",
+    "level": "core",
+    "q": "A reaction takes 20 s at 40 °C and 80 s at 20 °C, with all other conditions the same. What does this show?",
+    "columns": null,
+    "options": [
+      "The reaction is faster at the higher temperature",
+      "A catalyst is present at 20 °C",
+      "Temperature has no effect on the rate",
+      "The reaction is faster at the lower temperature"
+    ],
+    "answer": 0,
+    "explain": "A shorter time for the same change means a faster rate, so raising the temperature increased the rate."
+  },
+  {
+    "id": "c6-0120",
+    "sub": "6.3",
+    "level": "core",
+    "q": "Which two colours are shown by cobalt(II) chloride when it is anhydrous and when it is hydrated?",
+    "columns": null,
+    "options": [
+      "Blue when anhydrous and white when hydrated",
+      "Blue when anhydrous and pink when hydrated",
+      "Pink when anhydrous and blue when hydrated",
+      "White when anhydrous and blue when hydrated"
+    ],
+    "answer": 1,
+    "explain": "Anhydrous cobalt(II) chloride is blue and it turns pink when it takes in water to become hydrated."
+  }
+]

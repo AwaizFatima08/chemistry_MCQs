@@ -1,0 +1,455 @@
+[
+ {
+  "id": "c3-0031",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "In a titration, 25.0 cm³ of sodium hydroxide solution is exactly neutralised by 20.0 cm³ of 0.100 mol/dm³ hydrochloric acid (NaOH + HCl → NaCl + H₂O). What is the concentration of the sodium hydroxide?",
+  "columns": null,
+  "options": [
+   "0.100 mol/dm³",
+   "0.0800 mol/dm³",
+   "0.125 mol/dm³",
+   "0.200 mol/dm³"
+  ],
+  "answer": 1,
+  "explain": "Moles of HCl = 0.100 × 0.0200 = 0.00200 mol. The ratio is 1 : 1, so NaOH = 0.00200 mol in 0.0250 dm³, giving 0.0800 mol/dm³."
+ },
+ {
+  "id": "c3-0032",
+  "sub": "3.1",
+  "level": "core",
+  "q": "What is the formula of sulfuric acid?",
+  "columns": null,
+  "options": [
+   "H₂SO₄",
+   "H₂SO₃",
+   "HSO₄",
+   "H₂S"
+  ],
+  "answer": 0,
+  "explain": "Sulfuric acid contains two hydrogen atoms, one sulfur atom and four oxygen atoms: H₂SO₄. H₂SO₃ is sulfurous acid and H₂S is hydrogen sulfide."
+ },
+ {
+  "id": "c3-0033",
+  "sub": "3.2",
+  "level": "core",
+  "q": "An element has two isotopes: 50.0% is atoms of mass number 79 and 50.0% is atoms of mass number 81. What is its relative atomic mass?",
+  "columns": null,
+  "options": [
+   "79.0",
+   "80.0",
+   "81.0",
+   "160"
+  ],
+  "answer": 1,
+  "explain": "Ar = (0.500 × 79) + (0.500 × 81) = 39.5 + 40.5 = 80.0."
+ },
+ {
+  "id": "c3-0034",
+  "sub": "3.2",
+  "level": "core",
+  "q": "Which statement describes the relative atomic mass, Ar, of an element?",
+  "columns": null,
+  "options": [
+   "The mass of one atom of the element in grams",
+   "The mass of the most common isotope compared with 1/12th of the mass of an atom of carbon-12",
+   "The average mass of the isotopes of the element compared with 1/12th of the mass of an atom of carbon-12",
+   "The number of protons and neutrons in the most common isotope"
+  ],
+  "answer": 2,
+  "explain": "Ar uses the average mass of all the naturally occurring isotopes of the element, compared with 1/12th of the mass of a carbon-12 atom."
+ },
+ {
+  "id": "c3-0035",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "A hydrocarbon has the empirical formula C₂H₅ and a relative molecular mass of 58. What is its molecular formula? (Ar: H = 1, C = 12)",
+  "columns": null,
+  "options": [
+   "C₂H₅",
+   "C₃H₇",
+   "C₄H₁₀",
+   "C₆H₁₅"
+  ],
+  "answer": 2,
+  "explain": "The empirical formula mass is 29, and 58 ÷ 29 = 2, so the molecular formula is (C₂H₅)₂ = C₄H₁₀."
+ },
+ {
+  "id": "c3-0036",
+  "sub": "3.2",
+  "level": "core",
+  "q": "Boron has two isotopes: 20% is boron-10 and 80% is boron-11. What is the relative atomic mass of boron?",
+  "columns": null,
+  "options": [
+   "10.8",
+   "10.2",
+   "10.5",
+   "11.0"
+  ],
+  "answer": 0,
+  "explain": "Ar = (0.20 × 10) + (0.80 × 11) = 2.0 + 8.8 = 10.8."
+ },
+ {
+  "id": "c3-0037",
+  "sub": "3.1",
+  "level": "core",
+  "q": "A model of a compound shows one calcium atom, one carbon atom and three oxygen atoms bonded together. What is the formula of the compound?",
+  "columns": null,
+  "options": [
+   "CaCO₃",
+   "CaCO",
+   "Ca₃CO",
+   "CaC₃O"
+  ],
+  "answer": 0,
+  "explain": "The numbers of atoms are Ca 1, C 1 and O 3, so the formula is CaCO₃."
+ },
+ {
+  "id": "c3-0038",
+  "sub": "3.2",
+  "level": "core",
+  "q": "Which statement about the relative molecular mass, Mr, of a substance is correct?",
+  "columns": null,
+  "options": [
+   "It has no units because it is a comparison with 1/12th of the mass of a carbon-12 atom",
+   "It is measured in grams",
+   "It is measured in g/mol",
+   "It is measured in dm³"
+  ],
+  "answer": 0,
+  "explain": "Mr is a ratio of masses, so it has no units. Molar mass (the mass of one mole) has units of g/mol."
+ },
+ {
+  "id": "c3-0039",
+  "sub": "3.1",
+  "level": "extended",
+  "q": "Aluminium forms Al³⁺ ions and oxygen forms O²⁻ ions. What is the formula of aluminium oxide?",
+  "columns": null,
+  "options": [
+   "AlO",
+   "Al₂O₃",
+   "Al₃O₂",
+   "AlO₃"
+  ],
+  "answer": 1,
+  "explain": "The charges must balance: 2 × (+3) = +6 and 3 × (−2) = −6, so the ratio is Al : O = 2 : 3."
+ },
+ {
+  "id": "c3-0040",
+  "sub": "3.2",
+  "level": "core",
+  "q": "What is the relative molecular mass, Mr, of ethanol, C₂H₅OH? (Ar: H = 1, C = 12, O = 16)",
+  "columns": null,
+  "options": [
+   "46",
+   "29",
+   "45",
+   "74"
+  ],
+  "answer": 0,
+  "explain": "Mr = (2 × 12) + (6 × 1) + 16 = 24 + 6 + 16 = 46."
+ },
+ {
+  "id": "c3-0041",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "An iron oxide contains 5.6 g of iron and 2.4 g of oxygen. What is its empirical formula? (Ar: O = 16, Fe = 56)",
+  "columns": null,
+  "options": [
+   "FeO",
+   "Fe₃O₄",
+   "Fe₂O₃",
+   "FeO₂"
+  ],
+  "answer": 2,
+  "explain": "Moles: Fe = 5.6 ÷ 56 = 0.10; O = 2.4 ÷ 16 = 0.15. The ratio 0.10 : 0.15 = 2 : 3, so Fe₂O₃."
+ },
+ {
+  "id": "c3-0042",
+  "sub": "3.1",
+  "level": "extended",
+  "q": "Which ionic equation is balanced for both atoms and charge?",
+  "columns": null,
+  "options": [
+   "Mg(s) + H⁺(aq) → Mg²⁺(aq) + H₂(g)",
+   "Mg(s) + 2H⁺(aq) → Mg⁺(aq) + H₂(g)",
+   "Mg(s) + 2H⁺(aq) → Mg²⁺(aq) + 2H₂(g)",
+   "Mg(s) + 2H⁺(aq) → Mg²⁺(aq) + H₂(g)"
+  ],
+  "answer": 3,
+  "explain": "The left side has charge +2 and 2 H atoms; the right side has Mg²⁺ (+2) and H₂ (2 H atoms). The other equations have unequal charge or atoms."
+ },
+ {
+  "id": "c3-0043",
+  "sub": "3.3",
+  "level": "core",
+  "q": "A solution contains 20 g of solute dissolved in 2 dm³ of solution. What is its concentration in g/dm³?",
+  "columns": null,
+  "options": [
+   "0.1",
+   "22",
+   "40",
+   "10"
+  ],
+  "answer": 3,
+  "explain": "Concentration = mass ÷ volume = 20 g ÷ 2 dm³ = 10 g/dm³."
+ },
+ {
+  "id": "c3-0044",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "How many particles are there in one mole of any substance?",
+  "columns": null,
+  "options": [
+   "6.02 × 10²⁶",
+   "6.02 × 10²³",
+   "6.02 × 10³²",
+   "6.02 × 10⁻²³"
+  ],
+  "answer": 1,
+  "explain": "One mole contains 6.02 × 10²³ particles (atoms, ions or molecules). This is the Avogadro constant."
+ },
+ {
+  "id": "c3-0045",
+  "sub": "3.1",
+  "level": "core",
+  "q": "Which word equation shows the complete combustion of methane?",
+  "columns": null,
+  "options": [
+   "methane + oxygen → carbon + water",
+   "methane + oxygen → carbon dioxide + hydrogen",
+   "methane + oxygen → carbon dioxide + water",
+   "methane + hydrogen → carbon dioxide + water"
+  ],
+  "answer": 2,
+  "explain": "Methane is a hydrocarbon. Burning it in plenty of oxygen forms carbon dioxide and water."
+ },
+ {
+  "id": "c3-0046",
+  "sub": "3.1",
+  "level": "extended",
+  "q": "Which statement defines the empirical formula of a compound?",
+  "columns": null,
+  "options": [
+   "The number and type of different atoms in one molecule",
+   "The simplest whole number ratio of the different atoms or ions in the compound",
+   "The mass of each element in 100 g of the compound",
+   "The total relative mass of all the atoms in the compound"
+  ],
+  "answer": 1,
+  "explain": "The empirical formula gives only the simplest whole number ratio of atoms or ions, for example CH₂ for C₄H₈ or Na₂O for the ionic compound with ions in a 2:1 ratio."
+ },
+ {
+  "id": "c3-0047",
+  "sub": "3.1",
+  "level": "extended",
+  "q": "Magnesium forms Mg²⁺ ions and nitrate is NO₃⁻. What is the formula of magnesium nitrate?",
+  "columns": null,
+  "options": [
+   "MgNO₃",
+   "Mg(NO₃)₂",
+   "Mg₂NO₃",
+   "Mg(NO₃)₃"
+  ],
+  "answer": 1,
+  "explain": "One Mg²⁺ (+2) needs two NO₃⁻ (−1 each), and the nitrate group goes in brackets: Mg(NO₃)₂."
+ },
+ {
+  "id": "c3-0048",
+  "sub": "3.2",
+  "level": "core",
+  "q": "In the reaction 2H₂ + O₂ → 2H₂O, 4 g of hydrogen forms 36 g of water. What mass of water forms from 1 g of hydrogen in excess oxygen?",
+  "columns": null,
+  "options": [
+   "9 g",
+   "1 g",
+   "8 g",
+   "18 g"
+  ],
+  "answer": 0,
+  "explain": "1 g is a quarter of 4 g, so the mass of water is a quarter of 36 g, which is 9 g."
+ },
+ {
+  "id": "c3-0049",
+  "sub": "3.1",
+  "level": "extended",
+  "q": "Aqueous silver nitrate is mixed with aqueous sodium chloride and a white precipitate forms. Which ionic equation represents the reaction?",
+  "columns": null,
+  "options": [
+   "Ag⁺(aq) + NO₃⁻(aq) → AgNO₃(s)",
+   "Ag⁺(aq) + Cl⁻(aq) → AgCl(s)",
+   "Na⁺(aq) + Cl⁻(aq) → NaCl(s)",
+   "Ag(aq) + Cl(aq) → AgCl(s)"
+  ],
+  "answer": 1,
+  "explain": "Only silver ions and chloride ions combine to make the solid silver chloride. Na⁺ and NO₃⁻ stay in solution and are not included."
+ },
+ {
+  "id": "c3-0050",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "Fe₂O₃ + 3CO → 2Fe + 3CO₂. What mass of iron forms from 80 g of iron(III) oxide? (Ar: O = 16, Fe = 56)",
+  "columns": null,
+  "options": [
+   "28 g",
+   "80 g",
+   "112 g",
+   "56 g"
+  ],
+  "answer": 3,
+  "explain": "Mr of Fe₂O₃ = 160, so 80 g = 0.50 mol. The ratio Fe₂O₃ : Fe is 1 : 2, so 1.0 mol of Fe = 56 g."
+ },
+ {
+  "id": "c3-0051",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "Which row correctly matches a quantity with its unit?",
+  "columns": [
+   "Quantity",
+   "Unit"
+  ],
+  "options": [
+   "molar mass | g/dm³",
+   "concentration | g/mol",
+   "amount of substance | mol",
+   "molar gas volume | cm³/g"
+  ],
+  "answer": 2,
+  "explain": "Amount of substance is measured in mol. Molar mass is in g/mol, concentration in g/dm³ or mol/dm³ and molar gas volume in dm³/mol."
+ },
+ {
+  "id": "c3-0052",
+  "sub": "3.2",
+  "level": "core",
+  "q": "Carbon burns in oxygen: 12 g of carbon forms 44 g of carbon dioxide. What mass of carbon dioxide forms from 3 g of carbon?",
+  "columns": null,
+  "options": [
+   "4 g",
+   "12 g",
+   "15 g",
+   "11 g"
+  ],
+  "answer": 3,
+  "explain": "3 g is a quarter of 12 g, so the carbon dioxide formed is a quarter of 44 g, which is 11 g."
+ },
+ {
+  "id": "c3-0053",
+  "sub": "3.1",
+  "level": "extended",
+  "q": "Aqueous silver nitrate reacts with aqueous sodium chloride. Which ions are spectator ions?",
+  "columns": null,
+  "options": [
+   "Ag⁺ and Cl⁻",
+   "Ag⁺ and NO₃⁻",
+   "Na⁺ and NO₃⁻",
+   "Na⁺ and Cl⁻"
+  ],
+  "answer": 2,
+  "explain": "Spectator ions are present but do not change. Ag⁺ and Cl⁻ form the AgCl precipitate, but Na⁺ and NO₃⁻ stay dissolved."
+ },
+ {
+  "id": "c3-0054",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "A solution of sulfuric acid, H₂SO₄, has a concentration of 0.50 mol/dm³. What is its concentration in g/dm³? (Ar: H = 1, O = 16, S = 32)",
+  "columns": null,
+  "options": [
+   "4.9 g/dm³",
+   "98 g/dm³",
+   "196 g/dm³",
+   "49 g/dm³"
+  ],
+  "answer": 3,
+  "explain": "Mr of H₂SO₄ = 98. Concentration in g/dm³ = 0.50 × 98 = 49 g/dm³."
+ },
+ {
+  "id": "c3-0055",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "What is the mass of 0.20 mol of sodium hydroxide, NaOH? (Ar: H = 1, O = 16, Na = 23)",
+  "columns": null,
+  "options": [
+   "8.0 g",
+   "0.0050 g",
+   "2.0 g",
+   "200 g"
+  ],
+  "answer": 0,
+  "explain": "Molar mass of NaOH = 40 g/mol. Mass = moles × molar mass = 0.20 × 40 = 8.0 g."
+ },
+ {
+  "id": "c3-0056",
+  "sub": "3.3",
+  "level": "core",
+  "q": "A student needs to convert a volume of 250 cm³ to dm³. What is the volume in dm³?",
+  "columns": null,
+  "options": [
+   "0.025",
+   "0.25",
+   "2.5",
+   "25"
+  ],
+  "answer": 1,
+  "explain": "1 dm³ = 1000 cm³, so 250 cm³ = 250 ÷ 1000 = 0.25 dm³."
+ },
+ {
+  "id": "c3-0057",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "2Al₂O₃ → 4Al + 3O₂. What mass of aluminium forms from 204 g of aluminium oxide? (Ar: O = 16, Al = 27)",
+  "columns": null,
+  "options": [
+   "108 g",
+   "54 g",
+   "204 g",
+   "216 g"
+  ],
+  "answer": 0,
+  "explain": "Mr of Al₂O₃ = 102, so 204 g = 2.0 mol. The ratio Al₂O₃ : Al is 1 : 2, so 4.0 mol of Al = 4.0 × 27 = 108 g."
+ },
+ {
+  "id": "c3-0058",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "Zn(s) + 2HCl(aq) → ZnCl₂(aq) + H₂(g). Excess acid is added to 6.5 g of zinc. What volume of hydrogen forms at r.t.p.? (Ar: Zn = 65; molar gas volume = 24 dm³)",
+  "columns": null,
+  "options": [
+   "2.4 dm³",
+   "0.24 dm³",
+   "4.8 dm³",
+   "24 dm³"
+  ],
+  "answer": 0,
+  "explain": "6.5 g ÷ 65 g/mol = 0.10 mol of Zn gives 0.10 mol of H₂. Volume = 0.10 × 24 = 2.4 dm³."
+ },
+ {
+  "id": "c3-0059",
+  "sub": "3.2",
+  "level": "core",
+  "q": "Why is the relative atomic mass of an element often not a whole number?",
+  "columns": null,
+  "options": [
+   "Atoms contain a fraction of a proton",
+   "The mass of the electrons is added to the mass of the nucleus",
+   "The mass of an atom cannot be measured exactly",
+   "It is an average over the isotopes present, taking their abundances into account"
+  ],
+  "answer": 3,
+  "explain": "Different isotopes have different mass numbers, and Ar is the weighted average of these, which is usually not a whole number."
+ },
+ {
+  "id": "c3-0060",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "What is the volume of 0.50 mol of a gas at room temperature and pressure (r.t.p.)?",
+  "columns": null,
+  "options": [
+   "6.0 dm³",
+   "12 dm³",
+   "24 dm³",
+   "48 dm³"
+  ],
+  "answer": 1,
+  "explain": "One mole of any gas occupies 24 dm³ at r.t.p., so 0.50 mol occupies 0.50 × 24 = 12 dm³."
+ }
+]

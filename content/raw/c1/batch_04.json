@@ -1,0 +1,468 @@
+[
+  {
+    "id": "c1-0091",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Which state of matter can be compressed easily?",
+    "columns": null,
+    "options": [
+      "Liquids",
+      "Solids",
+      "Gases",
+      "Liquids and solids"
+    ],
+    "answer": 2,
+    "explain": "Gas particles are far apart with a lot of empty space between them, so they can be pushed closer together. Particles in solids and liquids are already touching."
+  },
+  {
+    "id": "c1-0092",
+    "sub": "1.1",
+    "level": "extended",
+    "q": "The air pressure in a car tyre rises after a long journey. Which is the correct explanation?",
+    "columns": null,
+    "options": [
+      "The air particles gain kinetic energy, so they hit the walls of the tyre more often and with greater force.",
+      "Friction creates more air particles inside the tyre.",
+      "The air particles expand.",
+      "The air particles stick to the inside wall of the tyre."
+    ],
+    "answer": 0,
+    "explain": "A warmer gas has faster particles, and at constant volume this raises the pressure."
+  },
+  {
+    "id": "c1-0093",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Which change of state is the reverse of condensing?",
+    "columns": null,
+    "options": [
+      "Evaporating",
+      "Freezing",
+      "Melting",
+      "Decomposing"
+    ],
+    "answer": 0,
+    "explain": "Condensing is gas to liquid, so the reverse is liquid to gas, which is evaporating (or boiling)."
+  },
+  {
+    "id": "c1-0094",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Four substances have these melting points and boiling points.\nW: −95 °C and 69 °C\nX: 98 °C and 883 °C\nY: −182 °C and −162 °C\nZ: 1085 °C and 2562 °C\nWhich substance is a liquid at 25 °C?",
+    "columns": null,
+    "options": [
+      "X",
+      "W",
+      "Y",
+      "Z"
+    ],
+    "answer": 1,
+    "explain": "W has a melting point below 25 °C and a boiling point above 25 °C. X and Z are solids and Y is a gas at 25 °C."
+  },
+  {
+    "id": "c1-0095",
+    "sub": "1.1",
+    "level": "extended",
+    "q": "The pressure of a fixed mass of gas at constant temperature is increased from 1 atm to 3 atm. Which statement about the volume of the gas is correct?",
+    "columns": null,
+    "options": [
+      "It becomes three times the original volume.",
+      "It becomes the same as the original volume.",
+      "It becomes one third of the original volume.",
+      "It becomes half of the original volume."
+    ],
+    "answer": 2,
+    "explain": "At constant temperature, volume is inversely proportional to pressure, so tripling the pressure reduces the volume to one third."
+  },
+  {
+    "id": "c1-0096",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Oxygen melts at −218 °C and boils at −183 °C. In which state is oxygen at −200 °C?",
+    "columns": null,
+    "options": [
+      "Solid",
+      "Gas",
+      "A mixture of liquid and gas",
+      "Liquid"
+    ],
+    "answer": 3,
+    "explain": "−200 °C is higher than the melting point (−218 °C) but lower than the boiling point (−183 °C), so oxygen is a liquid."
+  },
+  {
+    "id": "c1-0097",
+    "sub": "1.2",
+    "level": "extended",
+    "q": "Two gases are at the same temperature and have the same average kinetic energy. Why does the lighter gas diffuse faster?",
+    "columns": null,
+    "options": [
+      "Lighter particles have more kinetic energy.",
+      "For the same kinetic energy, lighter particles must move at a higher speed.",
+      "Lighter particles are attracted less to the container walls.",
+      "Lighter particles do not collide with other particles."
+    ],
+    "answer": 1,
+    "explain": "Kinetic energy depends on both mass and speed, so a particle with less mass needs a greater speed to have the same kinetic energy."
+  },
+  {
+    "id": "c1-0098",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Which statement correctly distinguishes boiling from evaporating?",
+    "columns": null,
+    "options": [
+      "Boiling happens throughout the liquid at its boiling point, but evaporating happens only at the surface and at any temperature.",
+      "Boiling happens only at the surface, but evaporating happens throughout the liquid.",
+      "Boiling happens at any temperature, but evaporating happens only at the boiling point.",
+      "Boiling happens only below the boiling point, but evaporating happens only above it."
+    ],
+    "answer": 0,
+    "explain": "Bubbles of vapour form inside the liquid during boiling at the boiling point, whereas evaporation is a surface process that occurs at all temperatures."
+  },
+  {
+    "id": "c1-0099",
+    "sub": "1.1",
+    "level": "core",
+    "q": "The same mass of a substance is in each of its three states. In which state does it occupy the largest volume?",
+    "columns": null,
+    "options": [
+      "Gas",
+      "Liquid",
+      "Solid",
+      "The volume is the same in all three states"
+    ],
+    "answer": 0,
+    "explain": "The particles in a gas are far apart, so the gas takes up much more space than the same number of particles in a solid or liquid."
+  },
+  {
+    "id": "c1-0100",
+    "sub": "1.1",
+    "level": "extended",
+    "q": "A fixed mass of gas has a volume of 120 cm³ at a pressure of 100 kPa. The pressure is doubled at constant temperature. What is the new volume of the gas?",
+    "columns": null,
+    "options": [
+      "240 cm³",
+      "60 cm³",
+      "30 cm³",
+      "120 cm³"
+    ],
+    "answer": 1,
+    "explain": "At constant temperature, volume is inversely proportional to pressure, so doubling the pressure halves the volume: 120 ÷ 2 = 60 cm³."
+  },
+  {
+    "id": "c1-0101",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Which statement about a gas is correct?",
+    "columns": null,
+    "options": [
+      "It has a fixed shape but no fixed volume.",
+      "It has a fixed volume and cannot be compressed.",
+      "It keeps the same volume when moved to a larger container.",
+      "It has no fixed shape and fills the container it is in."
+    ],
+    "answer": 3,
+    "explain": "Gas particles move freely in all directions, so the gas spreads out to fill any container."
+  },
+  {
+    "id": "c1-0102",
+    "sub": "1.2",
+    "level": "core",
+    "q": "A drop of food colouring is added to a beaker of hot water and to a beaker of cold water. Which observation is correct?",
+    "columns": null,
+    "options": [
+      "The colour spreads faster in the cold water.",
+      "The colour spreads faster in the hot water because the particles have more energy and move faster.",
+      "The colour spreads at the same rate in both.",
+      "The colour spreads faster in the hot water because the dye particles become smaller."
+    ],
+    "answer": 1,
+    "explain": "A higher temperature gives particles more kinetic energy, so diffusion is faster."
+  },
+  {
+    "id": "c1-0103",
+    "sub": "1.2",
+    "level": "core",
+    "q": "A gas jar of brown bromine vapour is placed under a gas jar of air with a lid between them. The lid is removed and the brown colour spreads upwards into the top jar, even though bromine is denser than air. What does this show?",
+    "columns": null,
+    "options": [
+      "Bromine reacts with air to form a brown gas.",
+      "Bromine is less dense than air.",
+      "Warm gases always rise.",
+      "The particles move randomly and spread out by diffusion."
+    ],
+    "answer": 3,
+    "explain": "The brown colour moves upwards against gravity because the particles move randomly, which is diffusion."
+  },
+  {
+    "id": "c1-0104",
+    "sub": "1.1",
+    "level": "extended",
+    "q": "The temperature of a pure substance is recorded as it is heated at a steady rate.\n0–2 minutes: rises from −20 °C to 0 °C\n2–6 minutes: stays at 0 °C\n6–14 minutes: rises from 0 °C to 100 °C\n14–26 minutes: stays at 100 °C\nWhat is present after 20 minutes?",
+    "columns": null,
+    "options": [
+      "Gas only",
+      "Liquid only",
+      "Liquid and gas",
+      "Solid and liquid"
+    ],
+    "answer": 2,
+    "explain": "The temperature is constant at 100 °C between 14 and 26 minutes, which is the boiling point, so liquid and gas are both present."
+  },
+  {
+    "id": "c1-0105",
+    "sub": "1.1",
+    "level": "core",
+    "q": "A tyre pump is used with its outlet blocked. The air inside is compressed to a smaller volume at constant temperature. What happens to the spaces between the air particles?",
+    "columns": null,
+    "options": [
+      "They become smaller.",
+      "They become larger.",
+      "They stay the same.",
+      "They disappear completely."
+    ],
+    "answer": 0,
+    "explain": "Compression pushes the gas particles closer together, but they never completely touch while it is still a gas."
+  },
+  {
+    "id": "c1-0106",
+    "sub": "1.1",
+    "level": "extended",
+    "q": "A sealed rigid flask of gas is placed in boiling water. Which row shows what happens to the gas?",
+    "columns": [
+      "Average speed of particles",
+      "Number of particles",
+      "Pressure"
+    ],
+    "options": [
+      "Increases | Increases | Increases",
+      "Unchanged | Unchanged | Increases",
+      "Increases | Unchanged | Decreases",
+      "Increases | Unchanged | Increases"
+    ],
+    "answer": 3,
+    "explain": "The flask is sealed, so the number of particles is unchanged. Heating makes the particles faster, so they hit the walls harder and more often and the pressure rises."
+  },
+  {
+    "id": "c1-0107",
+    "sub": "1.2",
+    "level": "extended",
+    "q": "Which gas diffuses most slowly at the same temperature and pressure?",
+    "columns": null,
+    "options": [
+      "Sulfur dioxide, SO₂",
+      "Carbon dioxide, CO₂",
+      "Chlorine, Cl₂",
+      "Nitrogen, N₂"
+    ],
+    "answer": 2,
+    "explain": "Cl₂ has the largest Mr (71, compared with 64, 44 and 28), so it diffuses slowest."
+  },
+  {
+    "id": "c1-0108",
+    "sub": "1.1",
+    "level": "extended",
+    "q": "Why does a puddle dry faster on a hot day than on a cool day?",
+    "columns": null,
+    "options": [
+      "The water particles become lighter.",
+      "The water boils on the surface of the puddle.",
+      "A greater proportion of the surface particles have enough energy to escape.",
+      "The air particles push the water particles out."
+    ],
+    "answer": 2,
+    "explain": "At a higher temperature more water particles have enough energy to escape from the surface, so the rate of evaporation is higher."
+  },
+  {
+    "id": "c1-0109",
+    "sub": "1.1",
+    "level": "extended",
+    "q": "Which statement about the change from liquid to gas is correct?",
+    "columns": null,
+    "options": [
+      "The covalent bonds inside the molecules break.",
+      "The particles become lighter.",
+      "The energy overcomes the forces between particles, so they move far apart and move independently.",
+      "The particles gain mass."
+    ],
+    "answer": 2,
+    "explain": "Boiling separates whole particles from one another. The bonds within each molecule stay intact."
+  },
+  {
+    "id": "c1-0110",
+    "sub": "1.2",
+    "level": "core",
+    "q": "The smell of perfume takes several seconds to reach the other side of a still room, even though perfume particles move very fast. Why?",
+    "columns": null,
+    "options": [
+      "The perfume particles move very slowly.",
+      "The perfume particles keep colliding with air particles and changing direction.",
+      "The air particles push the perfume particles back to the start.",
+      "The perfume particles need to be heated first."
+    ],
+    "answer": 1,
+    "explain": "Frequent collisions with air particles make the path of each particle a zigzag, so the net spread is slow."
+  },
+  {
+    "id": "c1-0111",
+    "sub": "1.2",
+    "level": "core",
+    "q": "Which change makes the smell of a gas spread faster through a room?",
+    "columns": null,
+    "options": [
+      "Closing all the windows",
+      "Decreasing the temperature of the room",
+      "Increasing the temperature of the room",
+      "Putting the gas in a larger container"
+    ],
+    "answer": 2,
+    "explain": "Warmer particles move faster, so diffusion is faster."
+  },
+  {
+    "id": "c1-0112",
+    "sub": "1.2",
+    "level": "extended",
+    "q": "Which noble gas diffuses most slowly at the same temperature and pressure?",
+    "columns": null,
+    "options": [
+      "Helium (Ar = 4)",
+      "Krypton (Ar = 84)",
+      "Neon (Ar = 20)",
+      "Argon (Ar = 40)"
+    ],
+    "answer": 1,
+    "explain": "Krypton has the largest relative atomic mass, so its atoms move the most slowly at a given temperature."
+  },
+  {
+    "id": "c1-0113",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Chlorine melts at −101 °C and boils at −35 °C. In which state is chlorine at −50 °C?",
+    "columns": null,
+    "options": [
+      "Solid",
+      "Liquid",
+      "Gas",
+      "A mixture of solid and gas"
+    ],
+    "answer": 1,
+    "explain": "−50 °C is above the melting point (−101 °C) and below the boiling point (−35 °C), so chlorine is a liquid."
+  },
+  {
+    "id": "c1-0114",
+    "sub": "1.2",
+    "level": "extended",
+    "q": "Ammonia gas and hydrogen chloride gas meet inside a glass tube and form a white ring. Which equation represents the reaction?",
+    "columns": null,
+    "options": [
+      "NH₃(g) + HCl(g) → NH₄Cl(s)",
+      "NH₃(g) + HCl(g) → NH₃Cl(s)",
+      "2NH₃(g) + HCl(g) → NH₄Cl(s)",
+      "NH₃(g) + HCl(g) → NH₄Cl(g)"
+    ],
+    "answer": 0,
+    "explain": "Ammonia and hydrogen chloride react in a 1 : 1 ratio to form the white solid ammonium chloride, NH₄Cl."
+  },
+  {
+    "id": "c1-0115",
+    "sub": "1.2",
+    "level": "core",
+    "q": "Which row correctly describes diffusion?",
+    "columns": [
+      "State",
+      "Particle movement",
+      "Rate of diffusion"
+    ],
+    "options": [
+      "Liquid | Vibrate in fixed positions | Slow",
+      "Solid | Move freely and randomly | Fast",
+      "Gas | Slide past one another | Slow",
+      "Gas | Move freely and randomly | Fast"
+    ],
+    "answer": 3,
+    "explain": "Gas particles move freely and randomly, so diffusion is fast. Liquid particles slide past each other, and solid particles only vibrate."
+  },
+  {
+    "id": "c1-0116",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Drops of water form on a cold window when warm, damp air touches it. Which change of state is this?",
+    "columns": null,
+    "options": [
+      "Evaporating",
+      "Freezing",
+      "Boiling",
+      "Condensing"
+    ],
+    "answer": 3,
+    "explain": "Water vapour in the air is cooled by the window and changes from gas to liquid, which is condensing."
+  },
+  {
+    "id": "c1-0117",
+    "sub": "1.2",
+    "level": "extended",
+    "q": "The time taken for 100 cm³ of each gas to diffuse through a porous pot is measured at the same temperature.\nGas R: 20 s\nGas S: 35 s\nGas T: 50 s\nWhich gas has the greatest relative molecular mass?",
+    "columns": null,
+    "options": [
+      "Gas T",
+      "Gas R",
+      "Gas S",
+      "They have the same relative molecular mass"
+    ],
+    "answer": 0,
+    "explain": "The gas with the longest diffusion time diffuses slowest, so it has the greatest relative molecular mass."
+  },
+  {
+    "id": "c1-0118",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Which row correctly describes the particles in the state shown?",
+    "columns": [
+      "State",
+      "Arrangement",
+      "Movement"
+    ],
+    "options": [
+      "Liquid | Regular pattern | Slide past one another",
+      "Gas | Random | Vibrate about fixed positions",
+      "Solid | Random | Vibrate about fixed positions",
+      "Solid | Regular pattern | Vibrate about fixed positions"
+    ],
+    "answer": 3,
+    "explain": "A solid has a regular pattern and its particles vibrate about fixed positions. Liquids are random and slide past each other, while gases are random and move freely."
+  },
+  {
+    "id": "c1-0119",
+    "sub": "1.2",
+    "level": "core",
+    "q": "Which statement is the best description of diffusion?",
+    "columns": null,
+    "options": [
+      "The movement of particles from a region of lower concentration to a region of higher concentration.",
+      "The movement of particles caused only by stirring.",
+      "The net movement of particles from a region of higher concentration to a region of lower concentration, caused by their random motion.",
+      "The breaking up of particles into smaller particles."
+    ],
+    "answer": 2,
+    "explain": "Particles move randomly, and overall more move from the area where they are more concentrated into the area where they are less concentrated."
+  },
+  {
+    "id": "c1-0120",
+    "sub": "1.1",
+    "level": "extended",
+    "q": "Which row correctly describes a change of state of a pure substance?",
+    "columns": [
+      "Change",
+      "Energy",
+      "Temperature during change"
+    ],
+    "options": [
+      "Condensing | Absorbed | Stays constant",
+      "Freezing | Absorbed | Falls",
+      "Melting | Absorbed | Stays constant",
+      "Boiling | Released | Stays constant"
+    ],
+    "answer": 2,
+    "explain": "Melting and boiling absorb energy, condensing and freezing release energy, and the temperature of a pure substance stays constant during each change of state."
+  }
+]

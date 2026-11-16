@@ -1,0 +1,458 @@
+[
+ {
+  "id": "c10-0091",
+  "sub": "10.3",
+  "level": "core",
+  "q": "What is the function of chlorophyll in photosynthesis?",
+  "columns": null,
+  "options": [
+   "It is the product of the reaction.",
+   "It is a reactant that provides oxygen.",
+   "It speeds up the reaction by being a fertiliser.",
+   "It absorbs light energy."
+  ],
+  "answer": 3,
+  "explain": "Chlorophyll is the green pigment that absorbs energy from light."
+ },
+ {
+  "id": "c10-0092",
+  "sub": "10.3",
+  "level": "core",
+  "q": "Why does planting trees help to reduce the level of carbon dioxide in the atmosphere?",
+  "columns": null,
+  "options": [
+   "Trees convert carbon dioxide into methane.",
+   "Trees react carbon dioxide with nitrogen.",
+   "Trees take in carbon dioxide for photosynthesis.",
+   "Trees produce carbon dioxide in the light."
+  ],
+  "answer": 2,
+  "explain": "Photosynthesis removes carbon dioxide from the air."
+ },
+ {
+  "id": "c10-0093",
+  "sub": "10.3",
+  "level": "core",
+  "q": "Which substance is made by plants during photosynthesis?",
+  "columns": null,
+  "options": [
+   "carbon dioxide",
+   "water",
+   "glucose",
+   "chlorophyll"
+  ],
+  "answer": 2,
+  "explain": "Plants make glucose, C₆H₁₂O₆, and oxygen."
+ },
+ {
+  "id": "c10-0094",
+  "sub": "10.3",
+  "level": "core",
+  "q": "Which process removes carbon dioxide from the atmosphere?",
+  "columns": null,
+  "options": [
+   "combustion of fuels",
+   "photosynthesis",
+   "respiration in animals",
+   "decomposition of waste"
+  ],
+  "answer": 1,
+  "explain": "Photosynthesis uses carbon dioxide; the other processes release it or other gases."
+ },
+ {
+  "id": "c10-0095",
+  "sub": "10.3",
+  "level": "extended",
+  "q": "What happens to thermal energy that is radiated from the Earth's surface towards space?",
+  "columns": null,
+  "options": [
+   "All of it passes through the atmosphere into space.",
+   "It is absorbed by nitrogen and oxygen only.",
+   "It is converted into light energy by methane.",
+   "Some is absorbed by greenhouse gases and re-emitted, including back towards the Earth."
+  ],
+  "answer": 3,
+  "explain": "Greenhouse gases absorb, reflect and emit thermal energy, reducing loss to space."
+ },
+ {
+  "id": "c10-0096",
+  "sub": "10.3",
+  "level": "extended",
+  "q": "How do greenhouse gases cause global warming?",
+  "columns": null,
+  "options": [
+   "They reduce the loss of thermal energy to space.",
+   "They increase the amount of sunlight reaching Earth.",
+   "They make the Sun hotter.",
+   "They react with oxygen to make heat."
+  ],
+  "answer": 0,
+  "explain": "By absorbing and re-emitting thermal energy they trap heat near the Earth."
+ },
+ {
+  "id": "c10-0097",
+  "sub": "10.3",
+  "level": "extended",
+  "q": "Which pair of gases are the greenhouse gases named in the syllabus?",
+  "columns": null,
+  "options": [
+   "nitrogen and oxygen",
+   "argon and neon",
+   "carbon dioxide and methane",
+   "sulfur dioxide and carbon monoxide"
+  ],
+  "answer": 2,
+  "explain": "Carbon dioxide and methane absorb and emit thermal energy."
+ },
+ {
+  "id": "c10-0098",
+  "sub": "10.3",
+  "level": "extended",
+  "q": "Why is increased carbon dioxide in the atmosphere linked to climate change?",
+  "columns": null,
+  "options": [
+   "More ultraviolet light enters the atmosphere, making rain acidic.",
+   "Carbon dioxide reacts with oxygen to form ozone.",
+   "Carbon dioxide increases the number of microbes.",
+   "More thermal energy is trapped, so global temperatures rise."
+  ],
+  "answer": 3,
+  "explain": "Higher levels of greenhouse gases cause increased global warming, leading to climate change."
+ },
+ {
+  "id": "c10-0099",
+  "sub": "10.3",
+  "level": "extended",
+  "q": "Which statement about the greenhouse effect is correct?",
+  "columns": null,
+  "options": [
+   "Greenhouse gases absorb, reflect and emit thermal energy.",
+   "Greenhouse gases only absorb light.",
+   "Greenhouse gases produce thermal energy in the atmosphere from nothing.",
+   "Greenhouse gases remove thermal energy and cool the Earth."
+  ],
+  "answer": 0,
+  "explain": "The warming effect depends on absorption, reflection and emission of thermal energy."
+ },
+ {
+  "id": "c10-0100",
+  "sub": "10.3",
+  "level": "extended",
+  "q": "Methane is a more effective greenhouse gas than carbon dioxide per molecule. Which is the main natural source of methane?",
+  "columns": null,
+  "options": [
+   "incomplete combustion of coal",
+   "decomposition of vegetation and waste gases from digestion in animals",
+   "reaction of nitrogen and oxygen in car engines",
+   "photosynthesis in plants"
+  ],
+  "answer": 1,
+  "explain": "Methane is made by decomposition of vegetation and in the digestive systems of animals."
+ },
+ {
+  "id": "c10-0101",
+  "sub": "10.3",
+  "level": "extended",
+  "q": "How do oxides of nitrogen form in a car engine?",
+  "columns": null,
+  "options": [
+   "Nitrogen and oxygen from the air react at high temperature.",
+   "Nitrogen in the petrol burns.",
+   "Carbon in the petrol reacts with nitrogen in the air at low temperature.",
+   "Nitrogen reacts with carbon monoxide."
+  ],
+  "answer": 0,
+  "explain": "The very high temperature in the engine, plus spark, makes nitrogen and oxygen from air react."
+ },
+ {
+  "id": "c10-0102",
+  "sub": "10.3",
+  "level": "extended",
+  "q": "Which equation represents the formation of nitrogen monoxide in a car engine?",
+  "columns": null,
+  "options": [
+   "N₂ + O₂ → NO₂",
+   "N₂ + 2O₂ → 2NO",
+   "N₂ + O₂ → 2NO",
+   "N₂ + O₂ → N₂O"
+  ],
+  "answer": 2,
+  "explain": "One molecule of N₂ and one of O₂ give two molecules of NO; the equation balances as N₂ + O₂ → 2NO."
+ },
+ {
+  "id": "c10-0103",
+  "sub": "10.3",
+  "level": "extended",
+  "q": "Which equation shows a reaction in a catalytic converter?",
+  "columns": null,
+  "options": [
+   "CO + NO → CO₂ + N₂",
+   "2CO + 2NO → 2CO₂ + N₂",
+   "2CO + NO → 2CO₂ + N₂",
+   "CO + 2NO → CO₂ + N₂"
+  ],
+  "answer": 1,
+  "explain": "Only 2CO + 2NO → 2CO₂ + N₂ has equal numbers of C, O and N on both sides."
+ },
+ {
+  "id": "c10-0104",
+  "sub": "10.3",
+  "level": "extended",
+  "q": "What is the purpose of a catalytic converter in a car exhaust?",
+  "columns": null,
+  "options": [
+   "to filter out solids using a carbon filter",
+   "to make the engine produce more power",
+   "to remove carbon dioxide from the exhaust",
+   "to convert harmful gases into less harmful gases"
+  ],
+  "answer": 3,
+  "explain": "It changes carbon monoxide, oxides of nitrogen and unburned hydrocarbons into carbon dioxide, nitrogen and water."
+ },
+ {
+  "id": "c10-0105",
+  "sub": "10.3",
+  "level": "extended",
+  "q": "In the catalytic converter reaction 2CO + 2NO → 2CO₂ + N₂, which statement is correct?",
+  "columns": null,
+  "options": [
+   "Carbon monoxide is oxidised and nitrogen monoxide is reduced.",
+   "Carbon monoxide is reduced and nitrogen monoxide is oxidised.",
+   "Both gases are oxidised.",
+   "Both gases are reduced."
+  ],
+  "answer": 0,
+  "explain": "CO gains oxygen to become CO₂ (oxidation); NO loses oxygen to become N₂ (reduction)."
+ },
+ {
+  "id": "c10-0106",
+  "sub": "10.3",
+  "level": "extended",
+  "q": "Which substances are the products when carbon monoxide and nitrogen monoxide react in a catalytic converter?",
+  "columns": null,
+  "options": [
+   "carbon and nitrogen dioxide",
+   "carbon dioxide and nitrogen dioxide",
+   "carbon monoxide and oxygen",
+   "carbon dioxide and nitrogen"
+  ],
+  "answer": 3,
+  "explain": "The equation is 2CO + 2NO → 2CO₂ + N₂."
+ },
+ {
+  "id": "c10-0107",
+  "sub": "10.3",
+  "level": "extended",
+  "q": "Which equation represents the removal of sulfur dioxide with calcium oxide in flue gas desulfurisation?",
+  "columns": null,
+  "options": [
+   "CaO + SO₂ → CaS + O₂",
+   "CaO + 2SO₂ → CaSO₃",
+   "CaO + SO₂ → CaSO₃",
+   "Ca + SO₂ → CaSO₃"
+  ],
+  "answer": 2,
+  "explain": "The basic oxide CaO reacts with acidic SO₂ to give calcium sulfite, CaSO₃."
+ },
+ {
+  "id": "c10-0108",
+  "sub": "10.3",
+  "level": "extended",
+  "q": "Why does a catalytic converter reduce the effect of acid rain?",
+  "columns": null,
+  "options": [
+   "It converts sulfur dioxide into carbon dioxide.",
+   "It converts oxides of nitrogen into nitrogen.",
+   "It converts carbon dioxide into methane.",
+   "It filters out solid particulates only."
+  ],
+  "answer": 1,
+  "explain": "Removing oxides of nitrogen reduces the acid formed when they dissolve in rain water."
+ },
+ {
+  "id": "c10-0109",
+  "sub": "10.3",
+  "level": "extended",
+  "q": "Which is the balanced symbol equation for photosynthesis?",
+  "columns": null,
+  "options": [
+   "CO₂ + H₂O → C₆H₁₂O₆ + O₂",
+   "6CO₂ + 12H₂O → C₆H₁₂O₆ + 6O₂",
+   "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O",
+   "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂"
+  ],
+  "answer": 3,
+  "explain": "Both sides have 6 C, 12 H and 18 O."
+ },
+ {
+  "id": "c10-0110",
+  "sub": "10.3",
+  "level": "extended",
+  "q": "How many moles of oxygen are produced when 1 mole of glucose is made by photosynthesis?",
+  "columns": null,
+  "options": [
+   "6 mol",
+   "1 mol",
+   "3 mol",
+   "12 mol"
+  ],
+  "answer": 0,
+  "explain": "From 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂, 6 mol of O₂ form for every 1 mol of glucose."
+ },
+ {
+  "id": "c10-0111",
+  "sub": "10.3",
+  "level": "extended",
+  "q": "What mass of glucose, C₆H₁₂O₆, forms when 88 g of carbon dioxide is used in photosynthesis? (Ar: H = 1, C = 12, O = 16)",
+  "columns": null,
+  "options": [
+   "30 g",
+   "180 g",
+   "60 g",
+   "15 g"
+  ],
+  "answer": 2,
+  "explain": "6CO₂ (6 × 44 = 264 g) gives 180 g glucose. 88 g is 1/3 of 264 g, so the mass is 180 ÷ 3 = 60 g."
+ },
+ {
+  "id": "c10-0112",
+  "sub": "10.3",
+  "level": "extended",
+  "q": "What volume of oxygen, measured at room temperature and pressure, is made when 0.50 mol of glucose forms by photosynthesis? (1 mol of gas occupies 24 dm³)",
+  "columns": null,
+  "options": [
+   "12 dm³",
+   "72 dm³",
+   "24 dm³",
+   "144 dm³"
+  ],
+  "answer": 1,
+  "explain": "0.50 mol of glucose produces 6 × 0.50 = 3.0 mol of O₂, and 3.0 × 24 = 72 dm³."
+ },
+ {
+  "id": "c10-0113",
+  "sub": "10.3",
+  "level": "extended",
+  "q": "In the equation 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂, what is the Mr of glucose, C₆H₁₂O₆? (Ar: H = 1, C = 12, O = 16)",
+  "columns": null,
+  "options": [
+   "30",
+   "90",
+   "342",
+   "180"
+  ],
+  "answer": 3,
+  "explain": "Mr = (6 × 12) + (12 × 1) + (6 × 16) = 72 + 12 + 96 = 180."
+ },
+ {
+  "id": "c10-0114",
+  "sub": "10.3",
+  "level": "extended",
+  "q": "Which row correctly shows the reaction type and energy change in photosynthesis?",
+  "columns": [
+   "Process",
+   "Energy change"
+  ],
+  "options": [
+   "photosynthesis | exothermic",
+   "respiration | endothermic",
+   "photosynthesis | endothermic",
+   "combustion | endothermic"
+  ],
+  "answer": 2,
+  "explain": "Photosynthesis takes in energy from light, so it is endothermic."
+ },
+ {
+  "id": "c10-0115",
+  "sub": "10.3",
+  "level": "extended",
+  "q": "Why do plants and trees not remove all of the extra carbon dioxide produced by burning fossil fuels?",
+  "columns": null,
+  "options": [
+   "Plants only absorb methane.",
+   "Carbon dioxide is produced faster than plants can absorb it, and forests are being cleared.",
+   "Photosynthesis produces carbon dioxide.",
+   "Plants absorb carbon dioxide only in the dark."
+  ],
+  "answer": 1,
+  "explain": "Deforestation and large emissions mean more carbon dioxide is released than photosynthesis removes."
+ },
+ {
+  "id": "c10-0116",
+  "sub": "10.3",
+  "level": "extended",
+  "q": "Which row correctly shows a reactant and a product of photosynthesis?",
+  "columns": [
+   "Reactant",
+   "Product"
+  ],
+  "options": [
+   "carbon dioxide | oxygen",
+   "oxygen | carbon dioxide",
+   "glucose | water",
+   "water | carbon dioxide"
+  ],
+  "answer": 0,
+  "explain": "Carbon dioxide is a reactant and oxygen is a product; glucose is a product, not a reactant."
+ },
+ {
+  "id": "c10-0117",
+  "sub": "10.3",
+  "level": "extended",
+  "q": "A fossil fuel contains 2.0% sulfur by mass. What mass of sulfur dioxide forms when 1000 kg of the fuel burns completely? (Ar: O = 16, S = 32; S + O₂ → SO₂)",
+  "columns": null,
+  "options": [
+   "20 kg",
+   "40 kg",
+   "32 kg",
+   "64 kg"
+  ],
+  "answer": 1,
+  "explain": "Sulfur = 0.020 × 1000 = 20 kg. Each 32 g S gives 64 g SO₂, so 20 kg gives 40 kg."
+ },
+ {
+  "id": "c10-0118",
+  "sub": "10.3",
+  "level": "extended",
+  "q": "Which of these changes would reduce both carbon dioxide and methane levels in the atmosphere?",
+  "columns": null,
+  "options": [
+   "planting trees only",
+   "using low-sulfur fuels",
+   "fitting catalytic converters to cars",
+   "decreasing the use of fossil fuels and reducing livestock farming"
+  ],
+  "answer": 3,
+  "explain": "Less fossil fuel burning cuts carbon dioxide and fewer livestock cuts methane; low-sulfur fuels and converters tackle other pollutants."
+ },
+ {
+  "id": "c10-0119",
+  "sub": "10.3",
+  "level": "extended",
+  "q": "Which of these correctly describes incomplete combustion of methane that produces carbon monoxide?",
+  "columns": null,
+  "options": [
+   "2CH₄ + 3O₂ → 2CO + 4H₂O",
+   "CH₄ + 2O₂ → CO + 2H₂O",
+   "CH₄ + O₂ → CO + H₂O",
+   "CH₄ + 2O₂ → CO₂ + 2H₂O"
+  ],
+  "answer": 0,
+  "explain": "2CH₄ + 3O₂ → 2CO + 4H₂O has 2 C, 8 H and 6 O on both sides; the last option is the complete combustion."
+ },
+ {
+  "id": "c10-0120",
+  "sub": "10.3",
+  "level": "extended",
+  "q": "Complete combustion of 1 mole of methane, CH₄, produces how many moles of carbon dioxide?",
+  "columns": null,
+  "options": [
+   "2 mol",
+   "0.5 mol",
+   "1 mol",
+   "4 mol"
+  ],
+  "answer": 2,
+  "explain": "CH₄ + 2O₂ → CO₂ + 2H₂O, so 1 mol of CH₄ gives 1 mol of CO₂."
+ }
+]

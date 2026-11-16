@@ -1,0 +1,456 @@
+[
+  {
+    "id": "c1-0031",
+    "sub": "1.1",
+    "level": "core",
+    "q": "A balloon filled with air at room temperature is placed in a freezer. What happens to the balloon?",
+    "columns": null,
+    "options": [
+      "It expands.",
+      "It stays the same size.",
+      "It bursts.",
+      "It shrinks."
+    ],
+    "answer": 3,
+    "explain": "Cooling a gas lowers the speed of its particles, so the volume decreases at constant pressure."
+  },
+  {
+    "id": "c1-0032",
+    "sub": "1.1",
+    "level": "core",
+    "q": "A substance melts at 30 °C and boils at 250 °C. Over which temperature range is it a liquid?",
+    "columns": null,
+    "options": [
+      "Below 30 °C",
+      "Above 250 °C",
+      "At exactly 30 °C only",
+      "Between 30 °C and 250 °C"
+    ],
+    "answer": 3,
+    "explain": "A substance is liquid between its melting point and its boiling point."
+  },
+  {
+    "id": "c1-0033",
+    "sub": "1.2",
+    "level": "extended",
+    "q": "Gas X diffuses more slowly than gas Y at the same temperature and pressure. Which conclusion is correct?",
+    "columns": null,
+    "options": [
+      "Gas X has a greater relative molecular mass than gas Y.",
+      "Gas X has a smaller relative molecular mass than gas Y.",
+      "Gas X is at a higher temperature than gas Y.",
+      "Gas X has a lower density than gas Y."
+    ],
+    "answer": 0,
+    "explain": "A slower rate of diffusion under the same conditions means heavier particles, so a greater relative molecular mass."
+  },
+  {
+    "id": "c1-0034",
+    "sub": "1.1",
+    "level": "core",
+    "q": "A gas fills a flask of volume 1 dm³. All of the gas is moved to an empty 2 dm³ flask at the same temperature. What volume does the gas occupy?",
+    "columns": null,
+    "options": [
+      "2 dm³",
+      "1 dm³",
+      "0.5 dm³",
+      "3 dm³"
+    ],
+    "answer": 0,
+    "explain": "Gas particles spread out to fill all the space available, so the gas occupies the whole 2 dm³ flask."
+  },
+  {
+    "id": "c1-0035",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Mercury melts at −39 °C and boils at 357 °C. In which state is mercury at 20 °C?",
+    "columns": null,
+    "options": [
+      "Solid",
+      "Gas",
+      "Liquid",
+      "A mixture of solid and liquid"
+    ],
+    "answer": 2,
+    "explain": "20 °C is above the melting point (−39 °C) and below the boiling point (357 °C), so mercury is a liquid."
+  },
+  {
+    "id": "c1-0036",
+    "sub": "1.1",
+    "level": "core",
+    "q": "A diagram shows particles touching each other in a jumbled arrangement with no pattern. Which state of matter does it show?",
+    "columns": null,
+    "options": [
+      "Liquid",
+      "Solid",
+      "Gas",
+      "A mixture of solid and liquid"
+    ],
+    "answer": 0,
+    "explain": "Touching particles with no regular arrangement are a liquid."
+  },
+  {
+    "id": "c1-0037",
+    "sub": "1.1",
+    "level": "core",
+    "q": "What happens to the particles when steam condenses to water?",
+    "columns": null,
+    "options": [
+      "They gain energy and move closer together.",
+      "They lose energy and move further apart.",
+      "They lose energy and move closer together.",
+      "They become smaller and heavier."
+    ],
+    "answer": 2,
+    "explain": "Cooling removes energy, so the particles slow down and are pulled close together to form a liquid."
+  },
+  {
+    "id": "c1-0038",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Which statement about the forces between particles in a gas is correct?",
+    "columns": null,
+    "options": [
+      "They are very strong, so the particles stay in fixed positions.",
+      "They are strong enough to keep the particles in a regular pattern.",
+      "They are strong enough to give the gas a fixed shape.",
+      "They are very weak, so the particles move independently of each other."
+    ],
+    "answer": 3,
+    "explain": "The forces of attraction between gas particles are negligible because the particles are so far apart, so they move almost independently."
+  },
+  {
+    "id": "c1-0039",
+    "sub": "1.1",
+    "level": "core",
+    "q": "A pan of pure water is boiling at normal atmospheric pressure. What is the temperature of the water?",
+    "columns": null,
+    "options": [
+      "90 °C",
+      "110 °C",
+      "It rises steadily above 100 °C",
+      "100 °C"
+    ],
+    "answer": 3,
+    "explain": "Pure water boils at 100 °C at normal pressure, and its temperature stays constant while it boils."
+  },
+  {
+    "id": "c1-0040",
+    "sub": "1.2",
+    "level": "core",
+    "q": "Which statement about particles during diffusion is correct?",
+    "columns": null,
+    "options": [
+      "Particles only move from a region of low concentration to a region of high concentration.",
+      "Particles stop moving when the concentration is the same everywhere.",
+      "Particles move in both directions, but more particles move from the region of high concentration to the region of low concentration.",
+      "Particles only move when they are heated."
+    ],
+    "answer": 2,
+    "explain": "Random motion takes particles both ways, but there are more particles to move out of the high-concentration region, giving a net movement down the concentration gradient."
+  },
+  {
+    "id": "c1-0041",
+    "sub": "1.1",
+    "level": "extended",
+    "q": "The volume of a fixed mass of gas is reduced at constant temperature. Why does the pressure increase?",
+    "columns": null,
+    "options": [
+      "The same number of particles hit the walls more often because they are in a smaller space.",
+      "The particles move faster.",
+      "Each particle hits the walls with greater force.",
+      "More particles are added to the gas."
+    ],
+    "answer": 0,
+    "explain": "The speed of the particles is unchanged, but in a smaller volume they reach the walls more often, so the force per unit area rises."
+  },
+  {
+    "id": "c1-0042",
+    "sub": "1.1",
+    "level": "extended",
+    "q": "What happens to the particles during the horizontal section of a heating curve at the boiling point?",
+    "columns": null,
+    "options": [
+      "The average kinetic energy stays the same and the energy supplied separates the particles.",
+      "The average kinetic energy increases and the particles stay close together.",
+      "The average kinetic energy decreases as the particles separate.",
+      "Energy is released as the particles move apart."
+    ],
+    "answer": 0,
+    "explain": "At the boiling point the supplied energy overcomes the forces of attraction between particles, so the temperature is constant."
+  },
+  {
+    "id": "c1-0043",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Which pair of properties both apply to solids?",
+    "columns": null,
+    "options": [
+      "They flow easily and cannot be compressed.",
+      "They have a fixed shape and cannot easily be compressed.",
+      "They have a fixed shape and are easily compressed.",
+      "They flow easily and are easily compressed."
+    ],
+    "answer": 1,
+    "explain": "Solid particles are fixed in a pattern and already touching, so solids keep their shape and are not easily compressed."
+  },
+  {
+    "id": "c1-0044",
+    "sub": "1.2",
+    "level": "extended",
+    "q": "A helium-filled balloon deflates faster than an identical air-filled balloon. Which statement explains this?",
+    "columns": null,
+    "options": [
+      "Helium atoms are bigger than the molecules in air.",
+      "Helium atoms have a much lower mass than the molecules in air, so they diffuse out through the tiny holes in the rubber faster.",
+      "Helium reacts with the rubber of the balloon.",
+      "Helium atoms move more slowly than the molecules in air."
+    ],
+    "answer": 1,
+    "explain": "The lighter the particles, the faster they move at a given temperature and the faster they escape through the rubber."
+  },
+  {
+    "id": "c1-0045",
+    "sub": "1.1",
+    "level": "core",
+    "q": "A weather balloon rises into air where the pressure is lower. The temperature stays the same. What happens to the volume of gas in the balloon?",
+    "columns": null,
+    "options": [
+      "It decreases.",
+      "It stays the same.",
+      "It increases.",
+      "It increases and then decreases."
+    ],
+    "answer": 2,
+    "explain": "At constant temperature, a lower external pressure lets the gas expand."
+  },
+  {
+    "id": "c1-0046",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Which row correctly describes a liquid?",
+    "columns": [
+      "Shape",
+      "Volume",
+      "Easily compressed?"
+    ],
+    "options": [
+      "Fixed | Fixed | No",
+      "Takes the shape of its container | Fixed | Yes",
+      "Takes the shape of its container | Fixed | No",
+      "Takes the shape of its container | Not fixed | Yes"
+    ],
+    "answer": 2,
+    "explain": "A liquid flows to take the shape of its container, but its particles are close together so its volume is fixed and it is very hard to compress."
+  },
+  {
+    "id": "c1-0047",
+    "sub": "1.1",
+    "level": "extended",
+    "q": "Two flasks contain the same number of gas particles at the same temperature. One has a volume of 1 dm³ and the other 2 dm³. Which statement about the gas pressure is correct?",
+    "columns": null,
+    "options": [
+      "The pressure is higher in the 1 dm³ flask because the particles hit the walls more often.",
+      "The pressure is higher in the 2 dm³ flask because the particles move faster.",
+      "The pressure is the same in both flasks.",
+      "The pressure cannot be compared."
+    ],
+    "answer": 0,
+    "explain": "The speeds are the same, but particles in the smaller flask collide with the walls more frequently."
+  },
+  {
+    "id": "c1-0048",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Wet washing dries on a line on a day when the air temperature is 20 °C. Which change of state takes place?",
+    "columns": null,
+    "options": [
+      "Evaporating",
+      "Boiling",
+      "Melting",
+      "Condensing"
+    ],
+    "answer": 0,
+    "explain": "Water leaves the surface as vapour at a temperature well below its boiling point, which is evaporation. Boiling needs the liquid to reach its boiling point."
+  },
+  {
+    "id": "c1-0049",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Ice, liquid water and steam all contain H₂O. Which statement is correct?",
+    "columns": null,
+    "options": [
+      "The molecules in steam are larger than the molecules in ice.",
+      "The molecules in ice are different from the molecules in water.",
+      "Steam contains separate hydrogen and oxygen gases.",
+      "The molecules are the same in all three states, but their arrangement and movement are different."
+    ],
+    "answer": 3,
+    "explain": "A change of state does not change the particles themselves. Only their separation, arrangement and movement change."
+  },
+  {
+    "id": "c1-0050",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Drops of water form on the outside of a cold can of drink. Where does the water come from?",
+    "columns": null,
+    "options": [
+      "Water vapour in the air condenses on the cold surface.",
+      "Liquid from the drink seeps through the wall of the can.",
+      "Oxygen in the air changes into water.",
+      "Water in the air freezes and then melts."
+    ],
+    "answer": 0,
+    "explain": "Warm air contains water vapour, which loses energy and condenses on the cold can."
+  },
+  {
+    "id": "c1-0051",
+    "sub": "1.2",
+    "level": "core",
+    "q": "A small amount of perfume vapour is released in a sealed jar and left for a long time. How is the vapour distributed in the jar at the end?",
+    "columns": null,
+    "options": [
+      "It is concentrated at the top of the jar.",
+      "It is concentrated at the bottom of the jar.",
+      "It is spread evenly throughout the jar.",
+      "It stays near where it was released."
+    ],
+    "answer": 2,
+    "explain": "Diffusion continues until the particles are evenly distributed."
+  },
+  {
+    "id": "c1-0052",
+    "sub": "1.1",
+    "level": "extended",
+    "q": "Steam and liquid water are both at 100 °C. Which statement is correct?",
+    "columns": null,
+    "options": [
+      "Steam particles have a lower average kinetic energy.",
+      "The particles have the same average kinetic energy, but steam particles are much further apart.",
+      "Steam particles have a higher average kinetic energy because it is a gas.",
+      "Water particles have a higher average kinetic energy because they are closer together."
+    ],
+    "answer": 1,
+    "explain": "Temperature measures average kinetic energy, so it is the same in both. The extra energy supplied to turn water into steam went into separating the particles."
+  },
+  {
+    "id": "c1-0053",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Which statement about particles in a solid is correct?",
+    "columns": null,
+    "options": [
+      "They cannot move at all.",
+      "They move freely in all directions.",
+      "They cannot move from place to place, but they do vibrate.",
+      "They slide past one another."
+    ],
+    "answer": 2,
+    "explain": "Solid particles have energy, so they vibrate, but the forces holding them keep them in fixed positions."
+  },
+  {
+    "id": "c1-0054",
+    "sub": "1.1",
+    "level": "core",
+    "q": "What happens to the particles when a solid melts?",
+    "columns": null,
+    "options": [
+      "They become smaller.",
+      "They lose energy and move further apart.",
+      "They move far apart and become gas particles.",
+      "They gain energy and begin to slide past one another."
+    ],
+    "answer": 3,
+    "explain": "Melting supplies energy so the particles can leave their fixed positions and move around, while staying close together."
+  },
+  {
+    "id": "c1-0055",
+    "sub": "1.1",
+    "level": "extended",
+    "q": "How do the forces of attraction between particles in a gas compare with those in a liquid?",
+    "columns": null,
+    "options": [
+      "They are strong in a gas and very weak in a liquid.",
+      "They are strong in both.",
+      "They are very weak in both.",
+      "They are very weak in a gas and strong in a liquid."
+    ],
+    "answer": 3,
+    "explain": "Gas particles are far apart so the attractions are negligible, whereas in a liquid the particles are close enough to be held together."
+  },
+  {
+    "id": "c1-0056",
+    "sub": "1.2",
+    "level": "core",
+    "q": "Which statement about diffusion in solids is correct?",
+    "columns": null,
+    "options": [
+      "It is fastest in solids because the particles are close together.",
+      "It happens at the same rate as in gases.",
+      "It occurs only if the solid is stirred.",
+      "It is extremely slow because the particles only vibrate about fixed positions."
+    ],
+    "answer": 3,
+    "explain": "Solid particles cannot move around, so diffusion in solids is negligible compared with liquids and gases."
+  },
+  {
+    "id": "c1-0057",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Which statement describes the particles in a solid?",
+    "columns": null,
+    "options": [
+      "They are close together in a regular pattern and slide past one another.",
+      "They are close together in an irregular arrangement and move randomly.",
+      "They are close together in a regular pattern and vibrate about fixed positions.",
+      "They are far apart in a regular pattern and vibrate about fixed positions."
+    ],
+    "answer": 2,
+    "explain": "Solid particles are touching, arranged in a regular pattern, and can only vibrate about fixed positions."
+  },
+  {
+    "id": "c1-0058",
+    "sub": "1.1",
+    "level": "extended",
+    "q": "A gas is in a sealed rigid container. It is heated. Why does the pressure of the gas increase?",
+    "columns": null,
+    "options": [
+      "The particles expand and take up more space.",
+      "The particles move faster, so they hit the walls more often and with greater force.",
+      "More gas particles are produced.",
+      "The particles hit the walls less often but harder."
+    ],
+    "answer": 1,
+    "explain": "Faster particles collide with the walls more frequently and with more force, so the pressure increases at constant volume."
+  },
+  {
+    "id": "c1-0059",
+    "sub": "1.1",
+    "level": "extended",
+    "q": "A pure liquid with a freezing point of 50 °C is cooled steadily from 90 °C to 10 °C. Which description of its cooling curve is correct?",
+    "columns": null,
+    "options": [
+      "It falls steadily with no flat sections.",
+      "It is flat at 90 °C and then falls.",
+      "It falls to 50 °C and then rises.",
+      "It falls, is flat at 50 °C while freezing, then falls again."
+    ],
+    "answer": 3,
+    "explain": "The liquid cools until it reaches its freezing point. While it freezes, energy is released at the same rate as it is lost, so the temperature stays constant. The solid then cools further."
+  },
+  {
+    "id": "c1-0060",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Which change of state is the reverse of melting?",
+    "columns": null,
+    "options": [
+      "Condensing",
+      "Boiling",
+      "Evaporating",
+      "Freezing"
+    ],
+    "answer": 3,
+    "explain": "Melting is solid to liquid and freezing is liquid to solid."
+  }
+]

@@ -1,0 +1,459 @@
+[
+ {
+  "id": "c7-0061",
+  "sub": "7.3",
+  "level": "core",
+  "q": "Which acid is used to prepare a nitrate salt?",
+  "columns": null,
+  "options": [
+   "hydrochloric acid",
+   "nitric acid",
+   "sulfuric acid",
+   "ethanoic acid"
+  ],
+  "answer": 1,
+  "explain": "The name of the salt comes from the acid: nitric acid gives nitrates, hydrochloric acid gives chlorides and sulfuric acid gives sulfates."
+ },
+ {
+  "id": "c7-0062",
+  "sub": "7.3",
+  "level": "core",
+  "q": "Which compound is soluble in water?",
+  "columns": null,
+  "options": [
+   "calcium carbonate",
+   "copper(II) carbonate",
+   "potassium carbonate",
+   "magnesium carbonate"
+  ],
+  "answer": 2,
+  "explain": "Carbonates are insoluble except those of sodium, potassium and ammonium."
+ },
+ {
+  "id": "c7-0063",
+  "sub": "7.1",
+  "level": "core",
+  "q": "An acid is added to a solid and the mixture fizzes. The gas turns limewater milky. Which type of substance was the solid?",
+  "columns": null,
+  "options": [
+   "a metal",
+   "a hydroxide",
+   "a chloride",
+   "a carbonate"
+  ],
+  "answer": 3,
+  "explain": "Fizzing with CO₂ produced shows the solid is a carbonate. A metal would give hydrogen instead."
+ },
+ {
+  "id": "c7-0064",
+  "sub": "7.1",
+  "level": "extended",
+  "q": "Magnesium ribbon is added to 0.1 mol/dm³ hydrochloric acid and to 0.1 mol/dm³ ethanoic acid at the same temperature. What is seen?",
+  "columns": null,
+  "options": [
+   "Bubbles form faster in the ethanoic acid.",
+   "Bubbles form only in the hydrochloric acid.",
+   "Bubbles form at the same rate in both.",
+   "Bubbles form faster in the hydrochloric acid."
+  ],
+  "answer": 3,
+  "explain": "Hydrochloric acid has the higher concentration of H⁺ ions, so the reaction is faster. Ethanoic acid still reacts, but more slowly."
+ },
+ {
+  "id": "c7-0065",
+  "sub": "7.2",
+  "level": "core",
+  "q": "Which compound is formed when sulfur trioxide reacts with aqueous sodium hydroxide?",
+  "columns": null,
+  "options": [
+   "sodium sulfide",
+   "sulfuric acid",
+   "sodium sulfate",
+   "sodium oxide"
+  ],
+  "answer": 2,
+  "explain": "An acidic oxide with an alkali gives salt and water: SO₃ + 2NaOH → Na₂SO₄ + H₂O."
+ },
+ {
+  "id": "c7-0066",
+  "sub": "7.1",
+  "level": "core",
+  "q": "Universal indicator turns green in solution X. What does this show?",
+  "columns": null,
+  "options": [
+   "Solution X is a strong acid.",
+   "Solution X is neutral, with a pH of about 7.",
+   "Solution X is a weak alkali.",
+   "Solution X has a pH of about 12."
+  ],
+  "answer": 1,
+  "explain": "Universal indicator is green at pH 7, which is neutral. Acids give red, orange or yellow and alkalis give blue or purple."
+ },
+ {
+  "id": "c7-0067",
+  "sub": "7.1",
+  "level": "core",
+  "q": "Magnesium ribbon is added to dilute hydrochloric acid. Which products form?",
+  "columns": null,
+  "options": [
+   "magnesium chloride and water",
+   "magnesium hydroxide and hydrogen",
+   "magnesium chloride and hydrogen",
+   "magnesium oxide and chlorine"
+  ],
+  "answer": 2,
+  "explain": "An acid reacts with a reactive metal to form a salt and hydrogen gas: Mg + 2HCl → MgCl₂ + H₂."
+ },
+ {
+  "id": "c7-0068",
+  "sub": "7.2",
+  "level": "extended",
+  "q": "Which equation for the reaction of aluminium oxide with hydrochloric acid is correct?",
+  "columns": null,
+  "options": [
+   "Al₂O₃(s) + 2HCl(aq) → 2AlCl(aq) + H₂O(l)",
+   "Al₂O₃(s) + 6HCl(aq) → 2AlCl₃(aq) + 3H₂O(l)",
+   "Al₂O₃(s) + 6HCl(aq) → 2AlCl₃(aq) + 3H₂(g)",
+   "Al₂O₃(s) + 3HCl(aq) → AlCl₃(aq) + 3H₂O(l)"
+  ],
+  "answer": 1,
+  "explain": "Al³⁺ needs three Cl⁻, and each O²⁻ from the oxide combines with 2H⁺ to give water. The balanced equation shows 6HCl, 2AlCl₃ and 3H₂O."
+ },
+ {
+  "id": "c7-0069",
+  "sub": "7.1",
+  "level": "extended",
+  "q": "Which row correctly describes hydrochloric acid and ethanoic acid?",
+  "columns": [
+   "Acid",
+   "Strong or weak",
+   "Arrow in dissociation equation"
+  ],
+  "options": [
+   "Ethanoic acid | weak | ⇌",
+   "Ethanoic acid | strong | →",
+   "Hydrochloric acid | weak | ⇌",
+   "Hydrochloric acid | strong | ⇌"
+  ],
+  "answer": 0,
+  "explain": "Hydrochloric acid is strong and dissociates fully (→). Ethanoic acid is weak and partially dissociates (⇌)."
+ },
+ {
+  "id": "c7-0070",
+  "sub": "7.1",
+  "level": "extended",
+  "q": "Which statement defines a base?",
+  "columns": null,
+  "options": [
+   "a proton acceptor",
+   "a proton donor",
+   "an electron donor only",
+   "a substance that releases H⁺ ions in water"
+  ],
+  "answer": 0,
+  "explain": "In the Brønsted–Lowry definition, an acid donates protons (H⁺) and a base accepts them."
+ },
+ {
+  "id": "c7-0071",
+  "sub": "7.2",
+  "level": "extended",
+  "q": "Which row about aluminium oxide is correct?",
+  "columns": [
+   "Reaction with acids",
+   "Reaction with alkalis"
+  ],
+  "options": [
+   "reacts with acids: yes | reacts with alkalis: no",
+   "reacts with acids: no | reacts with alkalis: yes",
+   "reacts with acids: no | reacts with alkalis: no",
+   "reacts with acids: yes | reacts with alkalis: yes"
+  ],
+  "answer": 3,
+  "explain": "Aluminium oxide is amphoteric, so it reacts with both."
+ },
+ {
+  "id": "c7-0072",
+  "sub": "7.1",
+  "level": "core",
+  "q": "Which statement about methyl orange is correct?",
+  "columns": null,
+  "options": [
+   "It is blue in alkaline solutions.",
+   "It is yellow in alkaline solutions.",
+   "It is colourless in acidic solutions.",
+   "It is yellow in acidic solutions."
+  ],
+  "answer": 1,
+  "explain": "Methyl orange is red in acids and yellow in alkalis."
+ },
+ {
+  "id": "c7-0073",
+  "sub": "7.2",
+  "level": "core",
+  "q": "Which two oxides are both acidic?",
+  "columns": null,
+  "options": [
+   "CuO and CaO",
+   "CaO and SO₂",
+   "CuO and CO₂",
+   "SO₂ and CO₂"
+  ],
+  "answer": 3,
+  "explain": "SO₂ and CO₂ are both non-metal oxides, so both are acidic."
+ },
+ {
+  "id": "c7-0074",
+  "sub": "7.1",
+  "level": "extended",
+  "q": "Which statement about ethanoic acid is correct?",
+  "columns": null,
+  "options": [
+   "It does not react with carbonates because it is weak.",
+   "It is completely dissociated in water.",
+   "It reacts with metals to produce oxygen.",
+   "It reacts with sodium carbonate to produce carbon dioxide."
+  ],
+  "answer": 3,
+  "explain": "Weak acids still show the typical acid reactions. Ethanoic acid reacts with carbonates to give a salt, water and carbon dioxide."
+ },
+ {
+  "id": "c7-0075",
+  "sub": "7.1",
+  "level": "core",
+  "q": "Which substance, when warmed with ammonium chloride, releases ammonia gas?",
+  "columns": null,
+  "options": [
+   "sodium chloride",
+   "calcium hydroxide",
+   "dilute sulfuric acid",
+   "magnesium chloride"
+  ],
+  "answer": 1,
+  "explain": "A base displaces ammonia from ammonium salts; calcium hydroxide is a base. Salts and acids do not do this."
+ },
+ {
+  "id": "c7-0076",
+  "sub": "7.1",
+  "level": "core",
+  "q": "What is the colour of methyl orange in aqueous sodium hydroxide?",
+  "columns": null,
+  "options": [
+   "red",
+   "blue",
+   "yellow",
+   "colourless"
+  ],
+  "answer": 2,
+  "explain": "Methyl orange is red in acid and yellow in alkali."
+ },
+ {
+  "id": "c7-0077",
+  "sub": "7.3",
+  "level": "core",
+  "q": "Water is added to white anhydrous copper(II) sulfate. What is seen?",
+  "columns": null,
+  "options": [
+   "The solid turns black.",
+   "The solid turns blue and gets hot.",
+   "The solid stays white.",
+   "The solid turns pink."
+  ],
+  "answer": 1,
+  "explain": "Water recombines with copper(II) sulfate to give blue hydrated crystals in an exothermic change; this is a test for water."
+ },
+ {
+  "id": "c7-0078",
+  "sub": "7.1",
+  "level": "extended",
+  "q": "Which statement defines an acid?",
+  "columns": null,
+  "options": [
+   "a proton acceptor",
+   "a proton donor",
+   "a substance with a pH above 7",
+   "a substance that gains electrons"
+  ],
+  "answer": 1,
+  "explain": "An acid is a proton (H⁺) donor."
+ },
+ {
+  "id": "c7-0079",
+  "sub": "7.3",
+  "level": "extended",
+  "q": "Aqueous barium nitrate is added to aqueous potassium sulfate. Which ionic equation is correct?",
+  "columns": null,
+  "options": [
+   "Ba²⁺(aq) + 2NO₃⁻(aq) → Ba(NO₃)₂(s)",
+   "Ba²⁺(aq) + SO₄²⁻(aq) → BaSO₄(s)",
+   "K⁺(aq) + NO₃⁻(aq) → KNO₃(s)",
+   "Ba(aq) + SO₄(aq) → BaSO₄(s)"
+  ],
+  "answer": 1,
+  "explain": "Barium sulfate is the insoluble product. The K⁺ and NO₃⁻ ions are spectators and stay in solution."
+ },
+ {
+  "id": "c7-0080",
+  "sub": "7.1",
+  "level": "core",
+  "q": "What is the colour of thymolphthalein in dilute nitric acid?",
+  "columns": null,
+  "options": [
+   "blue",
+   "colourless",
+   "red",
+   "yellow"
+  ],
+  "answer": 1,
+  "explain": "Thymolphthalein is colourless in acids and blue in alkalis."
+ },
+ {
+  "id": "c7-0081",
+  "sub": "7.1",
+  "level": "core",
+  "q": "Sodium hydroxide solution is warmed with ammonium chloride. Which gas is given off?",
+  "columns": null,
+  "options": [
+   "ammonia",
+   "hydrogen",
+   "carbon dioxide",
+   "chlorine"
+  ],
+  "answer": 0,
+  "explain": "A base displaces ammonia from an ammonium salt: NaOH + NH₄Cl → NaCl + H₂O + NH₃. Ammonia turns damp red litmus paper blue."
+ },
+ {
+  "id": "c7-0082",
+  "sub": "7.1",
+  "level": "core",
+  "q": "Which ions are present in all aqueous solutions of acids?",
+  "columns": null,
+  "options": [
+   "OH⁻ ions",
+   "Cl⁻ ions",
+   "H⁺ ions",
+   "H₂ molecules"
+  ],
+  "answer": 2,
+  "explain": "Acids produce hydrogen ions, H⁺(aq), in water. This is what makes them acidic."
+ },
+ {
+  "id": "c7-0083",
+  "sub": "7.2",
+  "level": "extended",
+  "q": "A white oxide Y dissolves in dilute hydrochloric acid and also in aqueous sodium hydroxide. Which could be Y?",
+  "columns": null,
+  "options": [
+   "CaO",
+   "CO₂",
+   "CuO",
+   "Al₂O₃"
+  ],
+  "answer": 3,
+  "explain": "Dissolving in both acid and alkali shows amphoteric behaviour. Al₂O₃ is amphoteric."
+ },
+ {
+  "id": "c7-0084",
+  "sub": "7.1",
+  "level": "core",
+  "q": "Dilute sulfuric acid is added to solid sodium carbonate and the gas given off is bubbled through limewater. What is seen in the limewater?",
+  "columns": null,
+  "options": [
+   "It turns milky (cloudy).",
+   "It turns blue.",
+   "It stays clear and colourless.",
+   "It turns bright red."
+  ],
+  "answer": 0,
+  "explain": "Acids react with carbonates to give carbon dioxide, which turns limewater milky because insoluble calcium carbonate forms."
+ },
+ {
+  "id": "c7-0085",
+  "sub": "7.3",
+  "level": "extended",
+  "q": "During a titration to make a soluble salt, why is the experiment repeated without the indicator?",
+  "columns": null,
+  "options": [
+   "to speed up crystallisation",
+   "to make the solution more acidic",
+   "because the indicator reacts with the salt",
+   "so the crystals are not contaminated by the indicator"
+  ],
+  "answer": 3,
+  "explain": "The volumes found with indicator are used again with no indicator, so the salt solution is pure."
+ },
+ {
+  "id": "c7-0086",
+  "sub": "7.1",
+  "level": "core",
+  "q": "Which pair of solutions would neutralise each other?",
+  "columns": null,
+  "options": [
+   "dilute sulfuric acid and aqueous potassium hydroxide",
+   "dilute hydrochloric acid and dilute nitric acid",
+   "aqueous sodium hydroxide and aqueous potassium hydroxide",
+   "aqueous sodium chloride and water"
+  ],
+  "answer": 0,
+  "explain": "Neutralisation needs an acid and a base or alkali. The other pairs contain two acids, two alkalis, or no acid or alkali."
+ },
+ {
+  "id": "c7-0087",
+  "sub": "7.3",
+  "level": "core",
+  "q": "Which pair could be used to prepare magnesium sulfate?",
+  "columns": null,
+  "options": [
+   "dilute hydrochloric acid and magnesium carbonate",
+   "dilute sulfuric acid and excess copper",
+   "dilute sulfuric acid and excess magnesium carbonate",
+   "dilute nitric acid and magnesium hydroxide"
+  ],
+  "answer": 2,
+  "explain": "The sulfate comes from sulfuric acid and the magnesium from magnesium carbonate, an insoluble carbonate that can be used in excess."
+ },
+ {
+  "id": "c7-0088",
+  "sub": "7.3",
+  "level": "extended",
+  "q": "After a precipitation reaction, the solid is filtered. What should be done to remove soluble impurities?",
+  "columns": null,
+  "options": [
+   "boil the solid with acid",
+   "dissolve it in aqueous sodium hydroxide",
+   "heat it until it melts",
+   "wash the solid with distilled water"
+  ],
+  "answer": 3,
+  "explain": "The insoluble salt will not dissolve in water, but soluble impurities will wash away."
+ },
+ {
+  "id": "c7-0089",
+  "sub": "7.3",
+  "level": "core",
+  "q": "Which salt is insoluble in water?",
+  "columns": null,
+  "options": [
+   "sodium chloride",
+   "silver chloride",
+   "magnesium chloride",
+   "zinc chloride"
+  ],
+  "answer": 1,
+  "explain": "Chlorides are soluble except those of silver and lead."
+ },
+ {
+  "id": "c7-0090",
+  "sub": "7.2",
+  "level": "core",
+  "q": "Sulfur dioxide dissolves in water. What is the pH of the solution formed?",
+  "columns": null,
+  "options": [
+   "exactly 7",
+   "above 7 but below 10",
+   "below 7",
+   "about 14"
+  ],
+  "answer": 2,
+  "explain": "SO₂ is an acidic oxide so its solution is acidic, with pH below 7."
+ }
+]

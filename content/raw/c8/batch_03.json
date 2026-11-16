@@ -1,0 +1,458 @@
+[
+ {
+  "id": "c8-0061",
+  "sub": "8.3",
+  "level": "core",
+  "q": "What is the appearance of chlorine at r.t.p.?",
+  "columns": null,
+  "options": [
+   "a red-brown liquid",
+   "a grey-black solid",
+   "a pale yellow-green gas",
+   "a colourless gas"
+  ],
+  "answer": 2,
+  "explain": "Chlorine is a pale yellow-green gas at room temperature and pressure."
+ },
+ {
+  "id": "c8-0062",
+  "sub": "8.2",
+  "level": "core",
+  "q": "After sodium reacts completely with water, Universal Indicator is added to the solution. What colour does it turn?",
+  "columns": null,
+  "options": [
+   "red",
+   "purple",
+   "green",
+   "yellow"
+  ],
+  "answer": 1,
+  "explain": "Sodium hydroxide is a strong alkali, so the indicator turns purple (high pH)."
+ },
+ {
+  "id": "c8-0063",
+  "sub": "8.2",
+  "level": "core",
+  "q": "Lithium, sodium and potassium all react with water to form an alkaline solution. Which ion in the solution makes it alkaline?",
+  "columns": null,
+  "options": [
+   "H⁺",
+   "Li⁺",
+   "OH⁻",
+   "H₃O⁺"
+  ],
+  "answer": 2,
+  "explain": "The metal hydroxide dissolves to release hydroxide ions, OH⁻, which make the solution alkaline."
+ },
+ {
+  "id": "c8-0064",
+  "sub": "8.4",
+  "level": "extended",
+  "q": "Which statement about copper(II) and iron(II) compounds is correct?",
+  "columns": null,
+  "options": [
+   "Both can be coloured because they are compounds of transition elements.",
+   "Both are white because they contain metal ions.",
+   "Both are unreactive because the metals are unreactive.",
+   "Both contain ions with charge 1+."
+  ],
+  "answer": 0,
+  "explain": "Compounds of transition elements are generally coloured, such as blue copper(II) and green iron(II) compounds."
+ },
+ {
+  "id": "c8-0065",
+  "sub": "8.3",
+  "level": "extended",
+  "q": "Fluorine is at the top of Group VII. Which prediction is most likely to be correct?",
+  "columns": null,
+  "options": [
+   "It is a very reactive pale yellow gas.",
+   "It is an unreactive dark solid.",
+   "It is a monatomic gas.",
+   "It is a red-brown liquid."
+  ],
+  "answer": 0,
+  "explain": "Halogens are most reactive at the top of the group, and the elements get paler and less dense up the group."
+ },
+ {
+  "id": "c8-0066",
+  "sub": "8.4",
+  "level": "extended",
+  "q": "Which change is the oxidation of an iron(II) ion?",
+  "columns": null,
+  "options": [
+   "Fe²⁺ → Fe³⁺ + e⁻",
+   "Fe³⁺ + e⁻ → Fe²⁺",
+   "Fe²⁺ + 2e⁻ → Fe",
+   "Fe → Fe³⁺ + e⁻"
+  ],
+  "answer": 0,
+  "explain": "Oxidation is loss of electrons: Fe²⁺ loses one electron to form Fe³⁺."
+ },
+ {
+  "id": "c8-0067",
+  "sub": "8.4",
+  "level": "core",
+  "q": "In which part of the Periodic Table are the transition elements found?",
+  "columns": null,
+  "options": [
+   "on the far right, next to the noble gases",
+   "in the central block between Groups II and III",
+   "on the far left, in Group I",
+   "at the top of Group VII"
+  ],
+  "answer": 1,
+  "explain": "Transition elements form a block of metals between Group II and Group III."
+ },
+ {
+  "id": "c8-0068",
+  "sub": "8.1",
+  "level": "core",
+  "q": "Calcium is in Group II. What is the charge on a calcium ion?",
+  "columns": null,
+  "options": [
+   "2+",
+   "1+",
+   "2−",
+   "3+"
+  ],
+  "answer": 0,
+  "explain": "Group II atoms have two outer electrons, which they lose to form 2+ ions."
+ },
+ {
+  "id": "c8-0069",
+  "sub": "8.3",
+  "level": "extended",
+  "q": "Which pair of solutions would react together?",
+  "columns": null,
+  "options": [
+   "aqueous iodine and aqueous potassium bromide",
+   "aqueous iodine and aqueous sodium chloride",
+   "aqueous bromine and aqueous sodium chloride",
+   "aqueous bromine and aqueous potassium iodide"
+  ],
+  "answer": 3,
+  "explain": "Only a more reactive halogen can displace a less reactive halide ion: Br₂ is more reactive than I₂."
+ },
+ {
+  "id": "c8-0070",
+  "sub": "8.1",
+  "level": "extended",
+  "q": "Strontium, Sr, is in Group II. Which formula is most likely for strontium chloride?",
+  "columns": null,
+  "options": [
+   "SrCl₂",
+   "SrCl",
+   "Sr₂Cl",
+   "SrCl₃"
+  ],
+  "answer": 0,
+  "explain": "Group II elements form 2+ ions and chloride is Cl⁻, so two chloride ions balance one Sr²⁺ ion."
+ },
+ {
+  "id": "c8-0071",
+  "sub": "8.5",
+  "level": "core",
+  "q": "What is the electronic configuration of an argon atom?",
+  "columns": null,
+  "options": [
+   "2,8,7",
+   "2,8,18",
+   "2,8,1",
+   "2,8,8"
+  ],
+  "answer": 3,
+  "explain": "Argon has 18 electrons; its outer shell holds 8 electrons and is full."
+ },
+ {
+  "id": "c8-0072",
+  "sub": "8.4",
+  "level": "core",
+  "q": "Which description fits a transition element?",
+  "columns": null,
+  "options": [
+   "a non-metal with a low melting point and colourless compounds",
+   "a metal with a low melting point and white compounds",
+   "a gas with coloured compounds",
+   "a metal with a high melting point and coloured compounds"
+  ],
+  "answer": 3,
+  "explain": "Transition elements are metals with high melting points and coloured compounds."
+ },
+ {
+  "id": "c8-0073",
+  "sub": "8.4",
+  "level": "extended",
+  "q": "What is the name of the compound with the formula Fe₂(SO₄)₃?",
+  "columns": null,
+  "options": [
+   "iron(II) sulfate",
+   "iron(III) sulfate",
+   "iron(VI) sulfate",
+   "iron(III) sulfide"
+  ],
+  "answer": 1,
+  "explain": "The two Fe ions balance three SO₄²⁻ ions (total 6−), so each Fe is 3+."
+ },
+ {
+  "id": "c8-0074",
+  "sub": "8.4",
+  "level": "extended",
+  "q": "The compound FeCl₂ is named iron(II) chloride. What is the formula of iron(III) chloride?",
+  "columns": null,
+  "options": [
+   "Fe₃Cl",
+   "Fe₂Cl₃",
+   "FeCl₃",
+   "FeCl₂"
+  ],
+  "answer": 2,
+  "explain": "Iron(III) forms Fe³⁺, which needs three Cl⁻ ions to balance the charge."
+ },
+ {
+  "id": "c8-0075",
+  "sub": "8.2",
+  "level": "core",
+  "q": "Which statement about lithium, sodium and potassium is correct?",
+  "columns": null,
+  "options": [
+   "They are hard metals with very high melting points.",
+   "They are soft metals that can be cut with a knife.",
+   "They are brittle non-metals.",
+   "They are dense metals that sink in oil."
+  ],
+  "answer": 1,
+  "explain": "Group I metals are soft enough to cut, and they have low melting points and low densities."
+ },
+ {
+  "id": "c8-0076",
+  "sub": "8.2",
+  "level": "extended",
+  "q": "What is the formula of rubidium chloride, given that rubidium is in Group I?",
+  "columns": null,
+  "options": [
+   "RbCl₂",
+   "Rb₂Cl",
+   "Rb₂Cl₂",
+   "RbCl"
+  ],
+  "answer": 3,
+  "explain": "Group I metals form 1+ ions, so Rb⁺ combines 1 : 1 with Cl⁻."
+ },
+ {
+  "id": "c8-0077",
+  "sub": "8.1",
+  "level": "core",
+  "q": "Which element in Period 3 is a non-metal?",
+  "columns": null,
+  "options": [
+   "sodium",
+   "magnesium",
+   "sulfur",
+   "aluminium"
+  ],
+  "answer": 2,
+  "explain": "Sulfur is on the right-hand side of Period 3 and is a non-metal; the other three are metals."
+ },
+ {
+  "id": "c8-0078",
+  "sub": "8.1",
+  "level": "core",
+  "q": "An atom of an element in Group III has how many outer-shell electrons?",
+  "columns": null,
+  "options": [
+   "1",
+   "4",
+   "8",
+   "3"
+  ],
+  "answer": 3,
+  "explain": "The group number equals the number of outer-shell electrons for these groups, so Group III has 3."
+ },
+ {
+  "id": "c8-0079",
+  "sub": "8.4",
+  "level": "core",
+  "q": "Which statement correctly compares iron with sodium?",
+  "columns": null,
+  "options": [
+   "Iron has a higher melting point and a higher density.",
+   "Iron has a lower melting point and a higher density.",
+   "Iron has a higher melting point and a lower density.",
+   "Iron has a lower melting point and a lower density."
+  ],
+  "answer": 0,
+  "explain": "Iron is a typical transition metal with a high melting point and high density; sodium is soft with a low melting point and a low density."
+ },
+ {
+  "id": "c8-0080",
+  "sub": "8.3",
+  "level": "extended",
+  "q": "Why is chlorine more reactive than iodine?",
+  "columns": null,
+  "options": [
+   "A chlorine atom has more outer electrons than an iodine atom.",
+   "A chlorine atom has more electron shells than an iodine atom.",
+   "A chlorine atom attracts an extra electron more strongly than an iodine atom.",
+   "A chlorine atom loses electrons more easily than an iodine atom."
+  ],
+  "answer": 2,
+  "explain": "Chlorine's outer shell is nearer the nucleus, so the incoming electron is attracted more strongly."
+ },
+ {
+  "id": "c8-0081",
+  "sub": "8.4",
+  "level": "extended",
+  "q": "Which row correctly shows the oxidation numbers of iron in the two compounds?",
+  "columns": [
+   "FeSO₄",
+   "Fe₂(SO₄)₃"
+  ],
+  "options": [
+   "FeSO₄ +3 | Fe₂(SO₄)₃ +2",
+   "FeSO₄ +2 | Fe₂(SO₄)₃ +3",
+   "FeSO₄ +2 | Fe₂(SO₄)₃ +6",
+   "FeSO₄ +4 | Fe₂(SO₄)₃ +3"
+  ],
+  "answer": 1,
+  "explain": "FeSO₄ contains Fe²⁺ with SO₄²⁻, and Fe₂(SO₄)₃ contains Fe³⁺ ions."
+ },
+ {
+  "id": "c8-0082",
+  "sub": "8.1",
+  "level": "extended",
+  "q": "Which two elements are most likely to have similar chemical properties?",
+  "columns": null,
+  "options": [
+   "calcium and strontium",
+   "sodium and magnesium",
+   "carbon and oxygen",
+   "chlorine and argon"
+  ],
+  "answer": 0,
+  "explain": "Calcium and strontium are both in Group II, so their atoms have the same number of outer electrons."
+ },
+ {
+  "id": "c8-0083",
+  "sub": "8.1",
+  "level": "core",
+  "q": "Which row correctly describes the element sulfur?",
+  "columns": [
+   "Group",
+   "Charge of its ion"
+  ],
+  "options": [
+   "VI | 6+",
+   "VI | 2+",
+   "VI | 2−",
+   "II | 2−"
+  ],
+  "answer": 2,
+  "explain": "Sulfur has six outer electrons (Group VI) and gains two electrons to form S²⁻."
+ },
+ {
+  "id": "c8-0084",
+  "sub": "8.2",
+  "level": "core",
+  "q": "Which Group I metal is the most reactive?",
+  "columns": null,
+  "options": [
+   "lithium",
+   "sodium",
+   "They are equally reactive.",
+   "potassium"
+  ],
+  "answer": 3,
+  "explain": "Reactivity increases down Group I, so of these three potassium is the most reactive."
+ },
+ {
+  "id": "c8-0085",
+  "sub": "8.4",
+  "level": "core",
+  "q": "Which statement is a property of transition elements and their compounds?",
+  "columns": null,
+  "options": [
+   "Their compounds are always white.",
+   "Their compounds are often coloured.",
+   "They have very low melting points.",
+   "They have very low densities."
+  ],
+  "answer": 1,
+  "explain": "Transition element compounds are typically coloured, for example blue copper(II) sulfate."
+ },
+ {
+  "id": "c8-0086",
+  "sub": "8.1",
+  "level": "core",
+  "q": "Aluminium is in Group III and Period 3. What is the electronic configuration of an aluminium atom?",
+  "columns": null,
+  "options": [
+   "2,8,2",
+   "2,3,8",
+   "3,8,2",
+   "2,8,3"
+  ],
+  "answer": 3,
+  "explain": "Three shells are occupied (Period 3) and there are three outer electrons (Group III): 2,8,3."
+ },
+ {
+  "id": "c8-0087",
+  "sub": "8.5",
+  "level": "extended",
+  "q": "Which explanation of the unreactivity of neon is correct?",
+  "columns": null,
+  "options": [
+   "Its outer shell has 7 electrons and needs one more.",
+   "Its outer shell is full, so it neither gains nor loses electrons nor shares them easily.",
+   "Its outer shell has 1 electron which is lost easily.",
+   "Its atoms are joined in pairs by covalent bonds."
+  ],
+  "answer": 1,
+  "explain": "The configuration of 2,8 is stable, so neon does not form ions or covalent bonds."
+ },
+ {
+  "id": "c8-0088",
+  "sub": "8.3",
+  "level": "extended",
+  "q": "Which formula represents a molecule of chlorine?",
+  "columns": null,
+  "options": [
+   "Cl",
+   "Cl⁻",
+   "Cl₂⁻",
+   "Cl₂"
+  ],
+  "answer": 3,
+  "explain": "Halogens are diatomic: two atoms are joined by a covalent bond in each molecule."
+ },
+ {
+  "id": "c8-0089",
+  "sub": "8.2",
+  "level": "extended",
+  "q": "Why is potassium more reactive than lithium?",
+  "columns": null,
+  "options": [
+   "Its outer electron is closer to the nucleus, so it is lost more easily.",
+   "Its outer electron is further from the nucleus, so it is lost more easily.",
+   "It has more outer electrons to lose than lithium.",
+   "Its atoms have fewer protons than lithium atoms."
+  ],
+  "answer": 1,
+  "explain": "A potassium atom has more shells, so the single outer electron is held less strongly and is lost more readily."
+ },
+ {
+  "id": "c8-0090",
+  "sub": "8.3",
+  "level": "core",
+  "q": "Which mixture shows no reaction?",
+  "columns": null,
+  "options": [
+   "chlorine and aqueous sodium iodide",
+   "chlorine and aqueous sodium bromide",
+   "iodine and aqueous sodium chloride",
+   "bromine and aqueous sodium iodide"
+  ],
+  "answer": 2,
+  "explain": "A halogen only displaces a less reactive halogen; iodine is less reactive than chlorine, so it cannot displace it."
+ }
+]

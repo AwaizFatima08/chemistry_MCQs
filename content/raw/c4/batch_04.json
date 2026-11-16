@@ -1,0 +1,474 @@
+[
+ {
+  "id": "c4-0091",
+  "sub": "4.2",
+  "level": "core",
+  "q": "Which statement describes a hydrogen–oxygen fuel cell?",
+  "columns": null,
+  "options": [
+   "A cell that stores electricity and is recharged using hydrogen",
+   "A cell that uses a continuous supply of hydrogen and oxygen to produce electricity",
+   "A cell that burns hydrogen to heat water",
+   "A cell that makes hydrogen by electrolysing water"
+  ],
+  "answer": 1,
+  "explain": "A fuel cell converts the chemical energy of a fuel directly into electricity. It does not store charge like a rechargeable battery."
+ },
+ {
+  "id": "c4-0092",
+  "sub": "4.2",
+  "level": "core",
+  "q": "Which row correctly compares the waste released from the exhaust of two vehicles?",
+  "columns": [
+   "Vehicle",
+   "Fuel",
+   "Waste released"
+  ],
+  "options": [
+   "hydrogen fuel cell car | hydrogen | carbon dioxide",
+   "hydrogen fuel cell car | hydrogen | water",
+   "petrol car | petrol | water only",
+   "petrol car | petrol | hydrogen"
+  ],
+  "answer": 1,
+  "explain": "A fuel cell car releases only water. A petrol car also releases carbon dioxide, and pollutants such as carbon monoxide and nitrogen oxides."
+ },
+ {
+  "id": "c4-0093",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Which equation represents the electrolysis of molten lead(II) bromide?",
+  "columns": null,
+  "options": [
+   "PbBr₂(l) → Pb(s) + 2Br(g)",
+   "PbBr₂(l) → Pb(l) + Br₂(g)",
+   "2PbBr₂(l) → 2Pb(l) + Br₂(g)",
+   "PbBr₂(l) → PbBr(l) + Br(g)"
+  ],
+  "answer": 1,
+  "explain": "Lead(II) bromide decomposes into lead and bromine molecules. The equation PbBr₂ → Pb + Br₂ has one Pb and two Br on each side."
+ },
+ {
+  "id": "c4-0094",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Which equation represents the overall reaction in the electrolysis of molten sodium chloride?",
+  "columns": null,
+  "options": [
+   "NaCl(l) → Na(l) + Cl₂(g)",
+   "2NaCl(l) → Na₂(l) + 2Cl(g)",
+   "2NaCl(l) → 2Na(l) + Cl₂(g)",
+   "NaCl(l) → NaCl₂(l)"
+  ],
+  "answer": 2,
+  "explain": "Two formula units give two sodium atoms and one chlorine molecule. The atoms balance: 2 Na and 2 Cl on each side."
+ },
+ {
+  "id": "c4-0095",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Which row correctly shows the products of electrolysing different sodium chloride electrolytes using inert electrodes?",
+  "columns": [
+   "Electrolyte",
+   "Cathode product",
+   "Anode product"
+  ],
+  "options": [
+   "concentrated aqueous sodium chloride | sodium | chlorine",
+   "molten sodium chloride | hydrogen | chlorine",
+   "concentrated aqueous sodium chloride | hydrogen | oxygen",
+   "molten sodium chloride | sodium | chlorine"
+  ],
+  "answer": 3,
+  "explain": "The molten compound contains only Na⁺ and Cl⁻ ions. In the concentrated solution hydrogen forms at the cathode, and chlorine at the anode."
+ },
+ {
+  "id": "c4-0096",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Why does electroplating iron with chromium help to prevent rusting?",
+  "columns": null,
+  "options": [
+   "Chromium ions react with the iron to make it dense",
+   "Chromium is a gas that fills the iron's pores",
+   "The current makes the iron unreactive",
+   "The chromium layer keeps oxygen and water away from the iron"
+  ],
+  "answer": 3,
+  "explain": "Rusting needs both oxygen and water. A coating of unreactive metal on the surface stops them reaching the iron."
+ },
+ {
+  "id": "c4-0097",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Which ions are present in molten lead(II) bromide?",
+  "columns": null,
+  "options": [
+   "Pb²⁺ and Br⁻",
+   "Pb⁺ and Br₂⁻",
+   "Pb²⁺ and Br₂",
+   "Pb⁴⁺ and Br⁻"
+  ],
+  "answer": 0,
+  "explain": "Lead(II) bromide has the formula PbBr₂, made of Pb²⁺ and Br⁻ ions in a 1 : 2 ratio."
+ },
+ {
+  "id": "c4-0098",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Which row correctly shows the colour of a gas and the test used for it?",
+  "columns": [
+   "Gas",
+   "Colour",
+   "Test"
+  ],
+  "options": [
+   "hydrogen | colourless | relights a glowing splint",
+   "chlorine | pale green | bleaches damp litmus paper",
+   "oxygen | pale green | squeaky pop with a lighted splint",
+   "chlorine | colourless | turns limewater milky"
+  ],
+  "answer": 1,
+  "explain": "Chlorine is a pale green gas that bleaches damp litmus paper. Hydrogen gives a squeaky pop. Oxygen relights a glowing splint."
+ },
+ {
+  "id": "c4-0099",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Which element could be formed at the cathode during electrolysis?",
+  "columns": null,
+  "options": [
+   "Hydrogen",
+   "Oxygen",
+   "Chlorine",
+   "Bromine"
+  ],
+  "answer": 0,
+  "explain": "Hydrogen and metals form at the cathode. Oxygen, chlorine and bromine are non-metals that form at the anode."
+ },
+ {
+  "id": "c4-0100",
+  "sub": "4.1",
+  "level": "core",
+  "q": "Which element is formed at the anode in the electrolysis of dilute sulfuric acid?",
+  "columns": null,
+  "options": [
+   "Hydrogen",
+   "Sulfur",
+   "Oxygen",
+   "Copper"
+  ],
+  "answer": 2,
+  "explain": "Oxygen is a non-metal and forms at the anode. Hydrogen forms at the cathode."
+ },
+ {
+  "id": "c4-0101",
+  "sub": "4.1",
+  "level": "core",
+  "q": "A bracelet is to be plated with nickel. What must the electrolyte contain?",
+  "columns": null,
+  "options": [
+   "Nickel ions",
+   "Hydrogen ions only",
+   "Sulfur atoms",
+   "Carbon atoms"
+  ],
+  "answer": 0,
+  "explain": "The metal ions in the electrolyte are discharged at the cathode, so they must be ions of the plating metal."
+ },
+ {
+  "id": "c4-0102",
+  "sub": "4.2",
+  "level": "core",
+  "q": "What is stored in the tank of a hydrogen fuel cell car?",
+  "columns": null,
+  "options": [
+   "Petrol",
+   "Hydrogen gas",
+   "Water only",
+   "Oxygen gas"
+  ],
+  "answer": 1,
+  "explain": "The fuel is hydrogen. The oxygen is taken from the air."
+ },
+ {
+  "id": "c4-0103",
+  "sub": "4.2",
+  "level": "extended",
+  "q": "Which is a disadvantage of hydrogen fuel cell cars compared with petrol cars?",
+  "columns": null,
+  "options": [
+   "They release more carbon dioxide",
+   "They need to be recharged for many hours",
+   "They release carbon monoxide",
+   "Hydrogen is a flammable gas that is difficult to store"
+  ],
+  "answer": 3,
+  "explain": "Hydrogen has a very low density, so it is stored under high pressure, and it forms explosive mixtures with air."
+ },
+ {
+  "id": "c4-0104",
+  "sub": "4.2",
+  "level": "extended",
+  "q": "Which is an advantage of a hydrogen fuel cell compared with a petrol engine?",
+  "columns": null,
+  "options": [
+   "It converts chemical energy to electrical energy more efficiently",
+   "It uses a fuel that is very easy to store",
+   "It works without any oxygen",
+   "It is cheaper because hydrogen filling stations are widespread"
+  ],
+  "answer": 0,
+  "explain": "A fuel cell changes the energy directly to electricity, wasting less as heat than a petrol engine."
+ },
+ {
+  "id": "c4-0105",
+  "sub": "4.2",
+  "level": "extended",
+  "q": "Which is a practical disadvantage of hydrogen fuel cell vehicles at present?",
+  "columns": null,
+  "options": [
+   "There are few places to refuel them",
+   "They produce large amounts of carbon dioxide",
+   "The only waste product is water",
+   "Petrol is cheaper to make from water"
+  ],
+  "answer": 0,
+  "explain": "The refuelling network for hydrogen is much smaller than that for petrol, which limits how far and where drivers can go."
+ },
+ {
+  "id": "c4-0106",
+  "sub": "4.2",
+  "level": "extended",
+  "q": "Why might a hydrogen–oxygen fuel cell car not be fully free of carbon dioxide emissions overall?",
+  "columns": null,
+  "options": [
+   "The fuel cell releases carbon dioxide from the air",
+   "Most hydrogen is made from fossil fuels, which releases carbon dioxide",
+   "Water formed in the cell breaks down to carbon dioxide",
+   "Hydrogen contains carbon atoms"
+  ],
+  "answer": 1,
+  "explain": "Hydrogen is often made from natural gas (methane), and this process releases carbon dioxide. The car itself emits none."
+ },
+ {
+  "id": "c4-0107",
+  "sub": "4.2",
+  "level": "extended",
+  "q": "Which row correctly gives an advantage and a disadvantage of hydrogen–oxygen fuel cell cars?",
+  "columns": [
+   "Advantage",
+   "Disadvantage"
+  ],
+  "options": [
+   "only water is produced | hydrogen is difficult to store safely",
+   "only water is produced | nitrogen oxides are produced",
+   "carbon dioxide is not produced | the fuel is not flammable",
+   "the fuel is easy to store | water is a harmful product"
+  ],
+  "answer": 0,
+  "explain": "The only chemical product is water, which is an advantage. Storing hydrogen safely is difficult, which is a disadvantage."
+ },
+ {
+  "id": "c4-0108",
+  "sub": "4.2",
+  "level": "extended",
+  "q": "What happens to hydrogen in a hydrogen–oxygen fuel cell?",
+  "columns": null,
+  "options": [
+   "It is reduced by oxygen to form water",
+   "It is decomposed to form oxygen",
+   "It is oxidised by oxygen to form water",
+   "It is neutralised by oxygen"
+  ],
+  "answer": 2,
+  "explain": "Hydrogen gains oxygen and loses electrons, so it is oxidised. The electron flow gives the electric current."
+ },
+ {
+  "id": "c4-0109",
+  "sub": "4.2",
+  "level": "extended",
+  "q": "A hydrogen–oxygen fuel cell uses the reaction 2H₂ + O₂ → 2H₂O. What volume of oxygen reacts with 12 dm³ of hydrogen, measured under the same conditions?",
+  "columns": null,
+  "options": [
+   "12 dm³",
+   "24 dm³",
+   "3 dm³",
+   "6 dm³"
+  ],
+  "answer": 3,
+  "explain": "The equation shows 2 volumes of hydrogen react with 1 volume of oxygen, so oxygen = 12 ÷ 2 = 6 dm³."
+ },
+ {
+  "id": "c4-0110",
+  "sub": "4.2",
+  "level": "extended",
+  "q": "A fuel cell reacts 4.0 g of hydrogen completely with oxygen. What mass of water forms? (Ar: H = 1, O = 16)",
+  "columns": null,
+  "options": [
+   "18 g",
+   "72 g",
+   "32 g",
+   "36 g"
+  ],
+  "answer": 3,
+  "explain": "Moles of H₂ = 4.0 ÷ 2 = 2.0 mol. 2H₂ + O₂ → 2H₂O gives 2.0 mol of H₂O, so mass = 2.0 × 18 = 36 g."
+ },
+ {
+  "id": "c4-0111",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "Which equation represents the overall reaction during the electrolysis of dilute sulfuric acid with inert electrodes?",
+  "columns": null,
+  "options": [
+   "H₂SO₄(aq) → H₂(g) + SO₃(g) + O₂(g)",
+   "2H₂O(l) → 2H₂(g) + O₂(g)",
+   "2H₂(g) + O₂(g) → 2H₂O(l)",
+   "H₂O(l) → H₂(g) + O₂(g)"
+  ],
+  "answer": 1,
+  "explain": "Water is decomposed, so the acid acts only as a source of ions. The equation is balanced with 4 H and 2 O on each side."
+ },
+ {
+  "id": "c4-0112",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "In the electrolysis of aqueous copper(II) sulfate, a copper anode replaces a carbon anode. How does the change at the anode differ?",
+  "columns": null,
+  "options": [
+   "Oxygen is no longer produced, and the anode dissolves",
+   "More oxygen is produced at the anode",
+   "Hydrogen is produced at the anode",
+   "Copper is deposited on the anode"
+  ],
+  "answer": 0,
+  "explain": "Copper atoms are oxidised more easily than hydroxide ions, so the anode dissolves as Cu²⁺ and no oxygen forms."
+ },
+ {
+  "id": "c4-0113",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "Which ions are present in aqueous copper(II) sulfate?",
+  "columns": null,
+  "options": [
+   "Cu²⁺, SO₄²⁻, H⁺ and OH⁻",
+   "Cu⁺, SO₄⁻, H⁺ and OH⁻",
+   "Cu²⁺ and SO₄²⁻ only",
+   "Cu²⁺, S²⁻, O²⁻ and H₂"
+  ],
+  "answer": 0,
+  "explain": "The salt gives Cu²⁺ and SO₄²⁻ ions, and a little water also ionises into H⁺ and OH⁻ ions."
+ },
+ {
+  "id": "c4-0114",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "In concentrated aqueous sodium chloride, why are chloride ions discharged at the anode rather than hydroxide ions?",
+  "columns": null,
+  "options": [
+   "Chloride ions are less negatively charged than hydroxide ions",
+   "Hydroxide ions are not present in water",
+   "Chloride ions are present in much higher concentration than hydroxide ions",
+   "Chloride ions are smaller than hydroxide ions"
+  ],
+  "answer": 2,
+  "explain": "In a concentrated halide solution the halide ion is discharged in preference to OH⁻. In dilute solution, hydroxide ions are discharged instead."
+ },
+ {
+  "id": "c4-0115",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "Which row correctly describes the movement of charge during electrolysis?",
+  "columns": [
+   "In the wires",
+   "In the electrolyte"
+  ],
+  "options": [
+   "ions move | electrons move",
+   "electrons move | electrons move",
+   "electrons move | ions move",
+   "ions move | ions move"
+  ],
+  "answer": 2,
+  "explain": "The metal wires and electrodes conduct by movement of electrons. The electrolyte conducts by movement of ions."
+ },
+ {
+  "id": "c4-0116",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "Molten sodium chloride is electrolysed. 3 mol of chlorine gas, Cl₂, are formed at the anode. How many moles of electrons are released at the anode?",
+  "columns": null,
+  "options": [
+   "3 mol",
+   "1.5 mol",
+   "6 mol",
+   "12 mol"
+  ],
+  "answer": 2,
+  "explain": "2Cl⁻ → Cl₂ + 2e⁻ releases 2 mol of electrons per mole of Cl₂, so 3 × 2 = 6 mol."
+ },
+ {
+  "id": "c4-0117",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "In the electrolysis of molten lead(II) bromide, which ion is oxidised and which is reduced?",
+  "columns": null,
+  "options": [
+   "Br⁻ is reduced and Pb²⁺ is oxidised",
+   "Br⁻ is oxidised and Pb²⁺ is reduced",
+   "Both ions are oxidised",
+   "Both ions are reduced"
+  ],
+  "answer": 1,
+  "explain": "Bromide ions lose electrons (oxidation) at the anode. Lead ions gain electrons (reduction) at the cathode."
+ },
+ {
+  "id": "c4-0118",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "Concentrated aqueous copper(II) chloride is electrolysed using carbon electrodes. Which observations are made?",
+  "columns": null,
+  "options": [
+   "Colourless bubbles form at the cathode and a pale green gas at the anode",
+   "A pink-brown solid forms at the cathode and a pale green gas at the anode",
+   "A pink-brown solid forms at the cathode and colourless bubbles at the anode",
+   "Colourless bubbles form at both electrodes"
+  ],
+  "answer": 1,
+  "explain": "Copper forms at the cathode as a pink-brown solid. Chlorine, a pale green gas, forms at the anode."
+ },
+ {
+  "id": "c4-0119",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "Concentrated hydrochloric acid is electrolysed using carbon electrodes. Which products form?",
+  "columns": null,
+  "options": [
+   "Chlorine at the cathode and hydrogen at the anode",
+   "Hydrogen at the cathode and oxygen at the anode",
+   "Hydrogen at the cathode and chlorine at the anode",
+   "Oxygen at the cathode and chlorine at the anode"
+  ],
+  "answer": 2,
+  "explain": "Hydrogen ions are discharged at the cathode. In concentrated solution chloride ions are discharged at the anode as chlorine."
+ },
+ {
+  "id": "c4-0120",
+  "sub": "4.1",
+  "level": "extended",
+  "q": "In the electrolysis of molten lead(II) bromide, which row correctly describes an ion?",
+  "columns": [
+   "Ion",
+   "Moves towards",
+   "Change"
+  ],
+  "options": [
+   "Pb²⁺ | cathode | gains electrons",
+   "Pb²⁺ | anode | loses electrons",
+   "Br⁻ | cathode | gains electrons",
+   "Br⁻ | cathode | loses electrons"
+  ],
+  "answer": 0,
+  "explain": "Positive Pb²⁺ ions are attracted to the negative cathode, where they gain electrons."
+ }
+]

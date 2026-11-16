@@ -1,0 +1,462 @@
+[
+ {
+  "id": "c8-0031",
+  "sub": "8.4",
+  "level": "extended",
+  "q": "Which property shows that iron is a transition element?",
+  "columns": null,
+  "options": [
+   "It forms ions with different oxidation numbers.",
+   "It forms only one type of ion.",
+   "It always forms white compounds.",
+   "It has a lower density than Group I metals."
+  ],
+  "answer": 0,
+  "explain": "Transition elements have variable oxidation numbers: iron forms Fe²⁺ and Fe³⁺."
+ },
+ {
+  "id": "c8-0032",
+  "sub": "8.4",
+  "level": "core",
+  "q": "Which element is a transition element?",
+  "columns": null,
+  "options": [
+   "sodium",
+   "calcium",
+   "chlorine",
+   "nickel"
+  ],
+  "answer": 3,
+  "explain": "Nickel lies in the central block of the Periodic Table; the others are in Groups I, II and VII."
+ },
+ {
+  "id": "c8-0033",
+  "sub": "8.3",
+  "level": "core",
+  "q": "Bromine water is added to aqueous potassium iodide. Which observation and explanation are correct?",
+  "columns": null,
+  "options": [
+   "The solution turns brown because iodine displaces bromine.",
+   "The solution turns brown because bromine displaces iodine.",
+   "The solution stays orange because bromine is less reactive than iodine.",
+   "The solution turns colourless because bromine reacts with water."
+  ],
+  "answer": 1,
+  "explain": "Bromine is more reactive than iodine, so it displaces iodine, which colours the solution brown."
+ },
+ {
+  "id": "c8-0034",
+  "sub": "8.3",
+  "level": "core",
+  "q": "Chlorine, bromine and iodine each have how many electrons in their outer shell?",
+  "columns": null,
+  "options": [
+   "1",
+   "8",
+   "7",
+   "17"
+  ],
+  "answer": 2,
+  "explain": "They are all in Group VII, so each has 7 outer-shell electrons."
+ },
+ {
+  "id": "c8-0035",
+  "sub": "8.3",
+  "level": "extended",
+  "q": "Which formula is correct for sodium fluoride?",
+  "columns": null,
+  "options": [
+   "NaF₂",
+   "Na₂F",
+   "NaF",
+   "NaF₇"
+  ],
+  "answer": 2,
+  "explain": "Na⁺ and F⁻ have equal and opposite charges, so they combine 1 : 1."
+ },
+ {
+  "id": "c8-0036",
+  "sub": "8.4",
+  "level": "core",
+  "q": "Which row correctly describes the physical properties of transition elements such as iron and copper?",
+  "columns": [
+   "Density",
+   "Melting point"
+  ],
+  "options": [
+   "low density | high melting point",
+   "high density | low melting point",
+   "high density | high melting point",
+   "low density | low melting point"
+  ],
+  "answer": 2,
+  "explain": "Transition elements are dense metals with high melting points."
+ },
+ {
+  "id": "c8-0037",
+  "sub": "8.2",
+  "level": "core",
+  "q": "What is the test for the gas produced when potassium reacts with water?",
+  "columns": null,
+  "options": [
+   "A glowing splint relights.",
+   "Limewater turns milky.",
+   "Damp litmus paper is bleached.",
+   "A lit splint goes out with a squeaky pop."
+  ],
+  "answer": 3,
+  "explain": "Hydrogen is tested with a burning splint, which gives a squeaky pop."
+ },
+ {
+  "id": "c8-0038",
+  "sub": "8.1",
+  "level": "core",
+  "q": "An atom has the electronic configuration 2,8,8,1. Which statement about its position is correct?",
+  "columns": null,
+  "options": [
+   "It is in Group IV and Period 1.",
+   "It is in Group I and Period 3.",
+   "It is in Group VIII and Period 4.",
+   "It is in Group I and Period 4."
+  ],
+  "answer": 3,
+  "explain": "One outer electron gives Group I; four occupied shells give Period 4."
+ },
+ {
+  "id": "c8-0039",
+  "sub": "8.1",
+  "level": "extended",
+  "q": "Sodium is in Group I and oxygen is in Group VI. What is the formula of sodium oxide?",
+  "columns": null,
+  "options": [
+   "Na₂O",
+   "NaO",
+   "NaO₂",
+   "Na₃O"
+  ],
+  "answer": 0,
+  "explain": "Na⁺ and O²⁻ combine in the ratio 2 : 1, giving Na₂O."
+ },
+ {
+  "id": "c8-0040",
+  "sub": "8.5",
+  "level": "core",
+  "q": "Which statement describes the noble gases?",
+  "columns": null,
+  "options": [
+   "They are diatomic gases.",
+   "They are diatomic liquids.",
+   "They are monatomic gases.",
+   "They are monatomic solids."
+  ],
+  "answer": 2,
+  "explain": "Noble gases exist as separate single atoms because they do not form bonds."
+ },
+ {
+  "id": "c8-0041",
+  "sub": "8.2",
+  "level": "core",
+  "q": "A freshly cut piece of sodium quickly becomes dull. What is the reason?",
+  "columns": null,
+  "options": [
+   "The surface melts in the air.",
+   "The surface reacts with nitrogen to form a gas.",
+   "The surface dissolves in the air.",
+   "The surface reacts with oxygen in the air."
+  ],
+  "answer": 3,
+  "explain": "Sodium is reactive and its shiny surface is quickly covered with a layer of oxide."
+ },
+ {
+  "id": "c8-0042",
+  "sub": "8.2",
+  "level": "core",
+  "q": "Which row shows the general trends down Group I?",
+  "columns": [
+   "Melting point",
+   "Density",
+   "Reactivity"
+  ],
+  "options": [
+   "increases | decreases | increases",
+   "decreases | decreases | decreases",
+   "decreases | increases | increases",
+   "increases | increases | decreases"
+  ],
+  "answer": 2,
+  "explain": "Down Group I the melting point decreases while the density and the reactivity generally increase."
+ },
+ {
+  "id": "c8-0043",
+  "sub": "8.5",
+  "level": "core",
+  "q": "Which group of the Periodic Table contains the noble gases?",
+  "columns": null,
+  "options": [
+   "Group I",
+   "Group VII",
+   "Group VIII",
+   "Group IV"
+  ],
+  "answer": 2,
+  "explain": "The noble gases are in Group VIII (also called Group 0)."
+ },
+ {
+  "id": "c8-0044",
+  "sub": "8.2",
+  "level": "core",
+  "q": "Rubidium is in Group I below potassium. How does it react with water?",
+  "columns": null,
+  "options": [
+   "Less vigorously than potassium",
+   "At the same rate as potassium",
+   "It does not react",
+   "More vigorously than potassium"
+  ],
+  "answer": 3,
+  "explain": "Reactivity increases down the group, so rubidium reacts more vigorously than potassium."
+ },
+ {
+  "id": "c8-0045",
+  "sub": "8.4",
+  "level": "core",
+  "q": "Which compound is blue in colour?",
+  "columns": null,
+  "options": [
+   "copper(II) sulfate",
+   "sodium chloride",
+   "magnesium oxide",
+   "potassium nitrate"
+  ],
+  "answer": 0,
+  "explain": "Copper(II) compounds are coloured (blue), while compounds of Group I and II metals are usually white."
+ },
+ {
+  "id": "c8-0046",
+  "sub": "8.5",
+  "level": "extended",
+  "q": "Which statement is true for noble gases?",
+  "columns": null,
+  "options": [
+   "Their atoms do not form ions in ordinary reactions.",
+   "Their atoms readily form 1− ions.",
+   "Their atoms readily form 2+ ions.",
+   "Their atoms form diatomic molecules by covalent bonds."
+  ],
+  "answer": 0,
+  "explain": "Because their outer shells are full, they do not form ions or covalent bonds under ordinary conditions."
+ },
+ {
+  "id": "c8-0047",
+  "sub": "8.1",
+  "level": "core",
+  "q": "Which statement describes the elements from lithium to neon across Period 2?",
+  "columns": null,
+  "options": [
+   "The number of occupied electron shells increases by one each time.",
+   "The number of outer-shell electrons decreases by one each time.",
+   "The number of outer-shell electrons increases by one from each element to the next.",
+   "The number of protons stays the same."
+  ],
+  "answer": 2,
+  "explain": "All Period 2 atoms have two shells, while the outer electron count rises from 1 to 8."
+ },
+ {
+  "id": "c8-0048",
+  "sub": "8.2",
+  "level": "core",
+  "q": "What is the charge on the ion formed by every Group I metal?",
+  "columns": null,
+  "options": [
+   "1−",
+   "1+",
+   "2+",
+   "7+"
+  ],
+  "answer": 1,
+  "explain": "Each Group I atom has one outer electron which it loses to form a 1+ ion."
+ },
+ {
+  "id": "c8-0049",
+  "sub": "8.5",
+  "level": "core",
+  "q": "Why do the noble gases not form compounds easily?",
+  "columns": null,
+  "options": [
+   "They have only one outer electron.",
+   "They do not need to gain, lose or share electrons.",
+   "They have unfilled outer shells.",
+   "They are all radioactive."
+  ],
+  "answer": 1,
+  "explain": "The outer shells are full, so atoms have no tendency to react."
+ },
+ {
+  "id": "c8-0050",
+  "sub": "8.1",
+  "level": "core",
+  "q": "What happens to the character of the elements across Period 3, from sodium to chlorine?",
+  "columns": null,
+  "options": [
+   "non-metallic character changes to metallic character",
+   "metallic character changes to non-metallic character",
+   "every element stays metallic",
+   "every element stays non-metallic"
+  ],
+  "answer": 1,
+  "explain": "Sodium, magnesium and aluminium are metals on the left; sulfur and chlorine are non-metals on the right."
+ },
+ {
+  "id": "c8-0051",
+  "sub": "8.2",
+  "level": "extended",
+  "q": "Why are sodium and potassium stored under oil?",
+  "columns": null,
+  "options": [
+   "They react with oxygen and water in the air.",
+   "They are too dense to be kept in air.",
+   "They would melt at room temperature.",
+   "They would turn into non-metals."
+  ],
+  "answer": 0,
+  "explain": "Group I metals are very reactive and would react with oxygen and moisture if they were left exposed."
+ },
+ {
+  "id": "c8-0052",
+  "sub": "8.3",
+  "level": "extended",
+  "q": "In the reaction Cl₂ + 2Br⁻ → 2Cl⁻ + Br₂, which statement is correct?",
+  "columns": null,
+  "options": [
+   "Chlorine is oxidised and bromide ions are reduced.",
+   "Both chlorine and bromide ions are reduced.",
+   "Chlorine is reduced and bromide ions are oxidised.",
+   "Both chlorine and bromide ions are oxidised."
+  ],
+  "answer": 2,
+  "explain": "Chlorine gains electrons (reduction); bromide ions lose electrons (oxidation)."
+ },
+ {
+  "id": "c8-0053",
+  "sub": "8.5",
+  "level": "core",
+  "q": "Why is argon used to fill filament lamps?",
+  "columns": null,
+  "options": [
+   "It reacts with the filament to make light.",
+   "It does not react with the hot filament.",
+   "It is denser than the filament.",
+   "It reacts with oxygen to protect the filament."
+  ],
+  "answer": 1,
+  "explain": "Argon is unreactive, so it prevents the filament from burning without reacting with it."
+ },
+ {
+  "id": "c8-0054",
+  "sub": "8.3",
+  "level": "core",
+  "q": "Which row gives a halogen and its correct appearance at r.t.p.?",
+  "columns": [
+   "Halogen",
+   "Appearance at r.t.p."
+  ],
+  "options": [
+   "chlorine | grey-black solid",
+   "iodine | pale yellow-green gas",
+   "bromine | grey-black solid",
+   "bromine | red-brown liquid"
+  ],
+  "answer": 3,
+  "explain": "Bromine is a red-brown liquid; chlorine is a gas and iodine is a solid."
+ },
+ {
+  "id": "c8-0055",
+  "sub": "8.1",
+  "level": "extended",
+  "q": "Fluorine is a pale yellow gas, chlorine is a pale yellow-green gas and bromine is a red-brown liquid. What is the most likely appearance of iodine at r.t.p.?",
+  "columns": null,
+  "options": [
+   "grey-black solid",
+   "pale yellow gas",
+   "orange liquid",
+   "white solid"
+  ],
+  "answer": 0,
+  "explain": "Halogens get darker and denser down the group, and the physical state changes from gas to liquid to solid."
+ },
+ {
+  "id": "c8-0056",
+  "sub": "8.2",
+  "level": "extended",
+  "q": "Which equation correctly shows potassium reacting with water?",
+  "columns": null,
+  "options": [
+   "K(s) + H₂O(l) → KOH(aq) + H₂(g)",
+   "2K(s) + 2H₂O(l) → 2KOH(aq) + H₂(g)",
+   "2K(s) + H₂O(l) → K₂O(s) + H₂(g)",
+   "K(s) + 2H₂O(l) → K(OH)₂(aq) + H₂(g)"
+  ],
+  "answer": 1,
+  "explain": "Potassium forms K⁺, so the hydroxide is KOH; two K and two H₂O balance the equation."
+ },
+ {
+  "id": "c8-0057",
+  "sub": "8.1",
+  "level": "extended",
+  "q": "The melting points of three Group I metals are: lithium 181 °C, sodium 98 °C, potassium 63 °C. Which value is most likely for rubidium?",
+  "columns": null,
+  "options": [
+   "75 °C",
+   "98 °C",
+   "181 °C",
+   "39 °C"
+  ],
+  "answer": 3,
+  "explain": "Melting points fall steadily down Group I, so rubidium must be lower than potassium (63 °C)."
+ },
+ {
+  "id": "c8-0058",
+  "sub": "8.2",
+  "level": "core",
+  "q": "Which gas is made when sodium reacts with water?",
+  "columns": null,
+  "options": [
+   "oxygen",
+   "hydrogen",
+   "carbon dioxide",
+   "chlorine"
+  ],
+  "answer": 1,
+  "explain": "Group I metals displace hydrogen from water, forming hydrogen gas and a metal hydroxide."
+ },
+ {
+  "id": "c8-0059",
+  "sub": "8.5",
+  "level": "core",
+  "q": "Which atom has a full outer shell of electrons?",
+  "columns": null,
+  "options": [
+   "fluorine",
+   "sodium",
+   "neon",
+   "oxygen"
+  ],
+  "answer": 2,
+  "explain": "Neon has the configuration 2,8, which is a full outer shell; the other atoms have incomplete outer shells."
+ },
+ {
+  "id": "c8-0060",
+  "sub": "8.1",
+  "level": "extended",
+  "q": "Magnesium forms MgO and calcium forms CaO. Which is the formula of barium oxide?",
+  "columns": null,
+  "options": [
+   "Ba₂O",
+   "BaO₂",
+   "BaO",
+   "Ba₂O₂"
+  ],
+  "answer": 2,
+  "explain": "Barium is in Group II and forms Ba²⁺, which combines 1 : 1 with O²⁻."
+ }
+]

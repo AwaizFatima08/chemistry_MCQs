@@ -1,0 +1,463 @@
+[
+ {
+  "id": "c10-0031",
+  "sub": "10.1",
+  "level": "extended",
+  "q": "A chemist wants to know whether a colourless liquid is pure ethanol or ethanol mixed with water. Which result best shows it is a mixture?",
+  "columns": null,
+  "options": [
+   "The liquid is colourless.",
+   "The anhydrous copper(II) sulfate turns blue.",
+   "The liquid burns in air.",
+   "The liquid has no smell."
+  ],
+  "answer": 1,
+  "explain": "Pure ethanol would not turn anhydrous copper(II) sulfate blue; a colour change shows water is present."
+ },
+ {
+  "id": "c10-0032",
+  "sub": "10.1",
+  "level": "extended",
+  "q": "Which pair of substances in water both harm aquatic life?",
+  "columns": null,
+  "options": [
+   "dissolved oxygen and plastics",
+   "sewage and dissolved oxygen",
+   "minerals from metal compounds and dissolved oxygen",
+   "plastics and sewage"
+  ],
+  "answer": 3,
+  "explain": "Plastics harm aquatic life and sewage brings harmful microbes; dissolved oxygen and essential minerals are beneficial."
+ },
+ {
+  "id": "c10-0033",
+  "sub": "10.1",
+  "level": "extended",
+  "q": "Which statement about adding anhydrous copper(II) sulfate to a liquid is correct?",
+  "columns": null,
+  "options": [
+   "It turns pink if the liquid is pure water.",
+   "It turns blue only if the liquid is pure water.",
+   "It shows the boiling point of the liquid.",
+   "It only shows that water is present, not that the water is pure."
+  ],
+  "answer": 3,
+  "explain": "The test is for the presence of water; it cannot tell pure water from solutions."
+ },
+ {
+  "id": "c10-0034",
+  "sub": "10.1",
+  "level": "extended",
+  "q": "In a purity check a student finds that a liquid melts at −5 °C. Which statement is correct if the liquid is supposed to be pure water?",
+  "columns": null,
+  "options": [
+   "The water is impure because its melting point is below 0 °C.",
+   "The water is pure because water melts below 0 °C.",
+   "The water is impure because its melting point is above 0 °C.",
+   "The water is pure because it is liquid."
+  ],
+  "answer": 0,
+  "explain": "Pure water melts at exactly 0 °C; a lower melting point shows dissolved impurities."
+ },
+ {
+  "id": "c10-0035",
+  "sub": "10.1",
+  "level": "extended",
+  "q": "A water company uses carbon in a filter bed. What property of the carbon makes it suitable?",
+  "columns": null,
+  "options": [
+   "It kills microbes by releasing chlorine.",
+   "It removes substances that cause bad taste and smell.",
+   "It settles out large solid particles.",
+   "It adds minerals to the water."
+  ],
+  "answer": 1,
+  "explain": "Carbon removes the substances responsible for unpleasant tastes and odours; microbes are killed by chlorine."
+ },
+ {
+  "id": "c10-0036",
+  "sub": "10.1",
+  "level": "extended",
+  "q": "Which statement about tap water and distilled water is correct?",
+  "columns": null,
+  "options": [
+   "Distilled water contains more dissolved substances than tap water.",
+   "Tap water and distilled water contain the same chemicals.",
+   "Tap water contains more dissolved substances than distilled water.",
+   "Distilled water contains dissolved oxygen but tap water does not."
+  ],
+  "answer": 2,
+  "explain": "Tap water contains dissolved substances; distillation removes them."
+ },
+ {
+  "id": "c10-0037",
+  "sub": "10.1",
+  "level": "core",
+  "q": "Which of these is a source of harmful microbes in natural water?",
+  "columns": null,
+  "options": [
+   "sewage",
+   "dissolved oxygen",
+   "phosphates",
+   "carbon"
+  ],
+  "answer": 0,
+  "explain": "Sewage contains microbes that cause disease."
+ },
+ {
+  "id": "c10-0038",
+  "sub": "10.2",
+  "level": "core",
+  "q": "Which compound is used as a fertiliser?",
+  "columns": null,
+  "options": [
+   "sodium chloride",
+   "ammonium nitrate",
+   "calcium carbonate",
+   "copper(II) sulfate"
+  ],
+  "answer": 1,
+  "explain": "Ammonium salts and nitrates supply nitrogen to plants."
+ },
+ {
+  "id": "c10-0039",
+  "sub": "10.2",
+  "level": "core",
+  "q": "Which three elements are provided by an NPK fertiliser?",
+  "columns": null,
+  "options": [
+   "nitrogen, potassium and sulfur",
+   "nickel, phosphorus and potassium",
+   "nitrogen, phosphorus and plutonium",
+   "nitrogen, phosphorus and potassium"
+  ],
+  "answer": 3,
+  "explain": "N, P and K are the symbols for nitrogen, phosphorus and potassium."
+ },
+ {
+  "id": "c10-0040",
+  "sub": "10.2",
+  "level": "core",
+  "q": "Why do farmers add fertilisers to soil?",
+  "columns": null,
+  "options": [
+   "to kill harmful microbes in the soil",
+   "to make the soil acidic",
+   "to replace elements that crops have removed so plants grow better",
+   "to add carbon dioxide to the air"
+  ],
+  "answer": 2,
+  "explain": "Crops take up nitrogen, phosphorus and potassium from soil; fertilisers replace them for improved growth."
+ },
+ {
+  "id": "c10-0041",
+  "sub": "10.2",
+  "level": "core",
+  "q": "Which of these is an ammonium salt that is used as a fertiliser?",
+  "columns": null,
+  "options": [
+   "Na₂SO₄",
+   "CaSO₄",
+   "(NH₄)₂SO₄",
+   "K₂SO₄"
+  ],
+  "answer": 2,
+  "explain": "(NH₄)₂SO₄ is ammonium sulfate and contains the ammonium ion, NH₄⁺, which provides nitrogen."
+ },
+ {
+  "id": "c10-0042",
+  "sub": "10.2",
+  "level": "core",
+  "q": "Which formula is ammonium nitrate?",
+  "columns": null,
+  "options": [
+   "NH₄NO₃",
+   "NH₄NO₂",
+   "NH₃NO₃",
+   "(NH₄)₂NO₃"
+  ],
+  "answer": 0,
+  "explain": "Ammonium nitrate contains the NH₄⁺ ion and the NO₃⁻ ion in a 1 : 1 ratio."
+ },
+ {
+  "id": "c10-0043",
+  "sub": "10.2",
+  "level": "core",
+  "q": "Which row correctly matches the symbol with the element in NPK fertilisers?",
+  "columns": [
+   "Symbol",
+   "Element"
+  ],
+  "options": [
+   "N | potassium",
+   "K | nitrogen",
+   "P | potassium",
+   "P | phosphorus"
+  ],
+  "answer": 3,
+  "explain": "N is nitrogen, P is phosphorus and K is potassium."
+ },
+ {
+  "id": "c10-0044",
+  "sub": "10.2",
+  "level": "core",
+  "q": "What is meant by an NPK fertiliser?",
+  "columns": null,
+  "options": [
+   "a fertiliser containing only nitrogen",
+   "a fertiliser containing compounds of nitrogen, phosphorus and potassium",
+   "a fertiliser made from sodium, phosphorus and krypton",
+   "a fertiliser that adds only potassium"
+  ],
+  "answer": 1,
+  "explain": "NPK fertilisers supply all three of the elements needed for improved plant growth."
+ },
+ {
+  "id": "c10-0045",
+  "sub": "10.2",
+  "level": "core",
+  "q": "Potassium nitrate is used as a fertiliser. Which elements does it provide?",
+  "columns": null,
+  "options": [
+   "nitrogen and potassium",
+   "nitrogen and phosphorus",
+   "phosphorus and potassium",
+   "nitrogen only"
+  ],
+  "answer": 0,
+  "explain": "KNO₃ contains potassium and nitrogen (in the nitrate ion)."
+ },
+ {
+  "id": "c10-0046",
+  "sub": "10.2",
+  "level": "core",
+  "q": "Which statement about fertilisers is correct?",
+  "columns": null,
+  "options": [
+   "Fertilisers are always insoluble.",
+   "Fertilisers must dissolve in water so that plant roots can absorb them.",
+   "Fertilisers are made only from metals.",
+   "Fertilisers remove nitrogen from the soil."
+  ],
+  "answer": 1,
+  "explain": "Plants absorb nutrients dissolved in water through their roots."
+ },
+ {
+  "id": "c10-0047",
+  "sub": "10.2",
+  "level": "core",
+  "q": "Excess fertiliser is washed from fields into a river. Which problem may this cause?",
+  "columns": null,
+  "options": [
+   "The river water becomes pure.",
+   "The river water boils.",
+   "Nitrates and phosphates reduce the oxygen in the water.",
+   "Chlorine is formed in the water."
+  ],
+  "answer": 2,
+  "explain": "Nitrates and phosphates lead to deoxygenation of water."
+ },
+ {
+  "id": "c10-0048",
+  "sub": "10.2",
+  "level": "extended",
+  "q": "Which of the following is NOT used as a fertiliser?",
+  "columns": null,
+  "options": [
+   "ammonium phosphate",
+   "potassium nitrate",
+   "ammonium sulfate",
+   "sodium chloride"
+  ],
+  "answer": 3,
+  "explain": "Sodium chloride does not supply N, P or K in a form useful to plants."
+ },
+ {
+  "id": "c10-0049",
+  "sub": "10.2",
+  "level": "core",
+  "q": "Ammonium phosphate, (NH₄)₃PO₄, is used as a fertiliser. Which elements does it supply?",
+  "columns": null,
+  "options": [
+   "nitrogen and potassium",
+   "nitrogen and phosphorus",
+   "phosphorus and potassium",
+   "nitrogen only"
+  ],
+  "answer": 1,
+  "explain": "(NH₄)₃PO₄ contains nitrogen (in NH₄⁺) and phosphorus (in PO₄³⁻)."
+ },
+ {
+  "id": "c10-0050",
+  "sub": "10.2",
+  "level": "extended",
+  "q": "What is the percentage by mass of nitrogen in ammonium nitrate, NH₄NO₃? (Ar: H = 1, N = 14, O = 16)",
+  "columns": null,
+  "options": [
+   "17.5%",
+   "28%",
+   "70%",
+   "35%"
+  ],
+  "answer": 3,
+  "explain": "Mr = 14 + 4 + 14 + 48 = 80. The two N atoms have mass 28, so 28 ÷ 80 × 100 = 35%."
+ },
+ {
+  "id": "c10-0051",
+  "sub": "10.2",
+  "level": "extended",
+  "q": "Which fertiliser has the highest percentage by mass of nitrogen? (Ar: H = 1, N = 14, O = 16, S = 32)",
+  "columns": null,
+  "options": [
+   "(NH₄)₂SO₄",
+   "NH₄Cl",
+   "NH₄NO₃",
+   "(NH₄)₃PO₄"
+  ],
+  "answer": 2,
+  "explain": "NH₄NO₃: 28/80 = 35%; (NH₄)₂SO₄: 28/132 = 21%; NH₄Cl: 14/53.5 = 26%; (NH₄)₃PO₄: 42/149 = 28%, so NH₄NO₃ is highest."
+ },
+ {
+  "id": "c10-0052",
+  "sub": "10.2",
+  "level": "extended",
+  "q": "Ammonia reacts with sulfuric acid to make the fertiliser ammonium sulfate. Which equation is correct?",
+  "columns": null,
+  "options": [
+   "2NH₃ + H₂SO₄ → (NH₄)₂SO₄",
+   "NH₃ + H₂SO₄ → NH₄SO₄",
+   "NH₃ + 2H₂SO₄ → (NH₄)₂SO₄",
+   "2NH₃ + H₂SO₄ → NH₄(SO₄)₂"
+  ],
+  "answer": 0,
+  "explain": "Two NH₃ each gain one H⁺ to form 2NH₄⁺, which pair with one SO₄²⁻."
+ },
+ {
+  "id": "c10-0053",
+  "sub": "10.2",
+  "level": "extended",
+  "q": "Which equation represents the formation of the fertiliser ammonium nitrate from ammonia?",
+  "columns": null,
+  "options": [
+   "NH₃ + HNO₂ → NH₄NO₃",
+   "2NH₃ + HNO₃ → NH₄NO₃",
+   "NH₃ + 2HNO₃ → NH₄NO₃",
+   "NH₃ + HNO₃ → NH₄NO₃"
+  ],
+  "answer": 3,
+  "explain": "One NH₃ accepts one H⁺ from HNO₃ to give NH₄⁺ and NO₃⁻."
+ },
+ {
+  "id": "c10-0054",
+  "sub": "10.2",
+  "level": "extended",
+  "q": "A bag contains 40 kg of ammonium nitrate, NH₄NO₃. What mass of nitrogen does it contain? (Ar: H = 1, N = 14, O = 16)",
+  "columns": null,
+  "options": [
+   "7 kg",
+   "28 kg",
+   "14 kg",
+   "35 kg"
+  ],
+  "answer": 2,
+  "explain": "Mr = 80 and N is 28/80 = 35% of the mass, so 0.35 × 40 = 14 kg."
+ },
+ {
+  "id": "c10-0055",
+  "sub": "10.2",
+  "level": "extended",
+  "q": "A student warms a fertiliser with sodium hydroxide solution and a gas is released that turns damp red litmus paper blue. Which ion is present in the fertiliser?",
+  "columns": null,
+  "options": [
+   "NH₄⁺",
+   "NO₃⁻",
+   "K⁺",
+   "SO₄²⁻"
+  ],
+  "answer": 0,
+  "explain": "Ammonium ions react with warm sodium hydroxide to release ammonia, an alkaline gas that turns damp red litmus blue."
+ },
+ {
+  "id": "c10-0056",
+  "sub": "10.2",
+  "level": "extended",
+  "q": "Which statement explains why a farmer might use ammonium nitrate rather than potassium chloride on a field lacking nitrogen?",
+  "columns": null,
+  "options": [
+   "Potassium chloride contains nitrogen but ammonium nitrate does not.",
+   "Ammonium nitrate contains nitrogen but potassium chloride does not.",
+   "Ammonium nitrate is insoluble but potassium chloride is soluble.",
+   "Potassium chloride has a higher percentage of nitrogen."
+  ],
+  "answer": 1,
+  "explain": "Plants need nitrogen compounds; KCl contains no nitrogen."
+ },
+ {
+  "id": "c10-0057",
+  "sub": "10.2",
+  "level": "extended",
+  "q": "Which row correctly lists a fertiliser and the elements from NPK that it provides?",
+  "columns": [
+   "Fertiliser",
+   "Elements provided"
+  ],
+  "options": [
+   "(NH₄)₂HPO₄ | N and P",
+   "KNO₃ | P and K",
+   "NH₄NO₃ | N and K",
+   "KCl | N and K"
+  ],
+  "answer": 0,
+  "explain": "(NH₄)₂HPO₄ has ammonium nitrogen and phosphate phosphorus; KNO₃ gives N and K, NH₄NO₃ gives only N, KCl gives only K."
+ },
+ {
+  "id": "c10-0058",
+  "sub": "10.3",
+  "level": "core",
+  "q": "What is the approximate percentage of nitrogen in clean, dry air?",
+  "columns": null,
+  "options": [
+   "21%",
+   "78%",
+   "1%",
+   "99%"
+  ],
+  "answer": 1,
+  "explain": "Clean, dry air is approximately 78% nitrogen, N₂."
+ },
+ {
+  "id": "c10-0059",
+  "sub": "10.3",
+  "level": "core",
+  "q": "Which gas makes up approximately 21% of clean, dry air?",
+  "columns": null,
+  "options": [
+   "nitrogen",
+   "carbon dioxide",
+   "argon",
+   "oxygen"
+  ],
+  "answer": 3,
+  "explain": "Oxygen, O₂, is about 21% of clean, dry air."
+ },
+ {
+  "id": "c10-0060",
+  "sub": "10.3",
+  "level": "core",
+  "q": "Which row correctly gives the approximate composition of clean, dry air?",
+  "columns": [
+   "Gas",
+   "Approx. %",
+   "Gas",
+   "Approx. %"
+  ],
+  "options": [
+   "nitrogen | 21% | oxygen | 78%",
+   "nitrogen | 50% | oxygen | 50%",
+   "nitrogen | 78% | oxygen | 21%",
+   "nitrogen | 78% | oxygen | 1%"
+  ],
+  "answer": 2,
+  "explain": "Air is about 78% nitrogen and 21% oxygen, with the remainder noble gases and carbon dioxide."
+ }
+]

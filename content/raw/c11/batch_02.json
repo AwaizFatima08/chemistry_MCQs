@@ -1,0 +1,460 @@
+[
+ {
+  "id": "c11-0031",
+  "sub": "11.3",
+  "level": "core",
+  "q": "Which statement about petroleum is correct?",
+  "columns": null,
+  "options": [
+   "It is a single compound of carbon and hydrogen.",
+   "It is a mixture of carbon and hydrogen elements.",
+   "It is a mixture of hydrocarbons.",
+   "It is a mixture of alcohols and carboxylic acids."
+  ],
+  "answer": 2,
+  "explain": "Petroleum is a mixture of many different hydrocarbons, which are separated into fractions."
+ },
+ {
+  "id": "c11-0032",
+  "sub": "11.6",
+  "level": "core",
+  "q": "What are the products of the complete combustion of ethanol?",
+  "columns": null,
+  "options": [
+   "carbon dioxide and water",
+   "carbon monoxide and hydrogen",
+   "carbon and water",
+   "ethanoic acid and water"
+  ],
+  "answer": 0,
+  "explain": "Ethanol burns in excess oxygen: C₂H₅OH + 3O₂ → 2CO₂ + 3H₂O."
+ },
+ {
+  "id": "c11-0033",
+  "sub": "11.7",
+  "level": "core",
+  "q": "Which equation represents the reaction of ethanoic acid with sodium hydroxide?",
+  "columns": null,
+  "options": [
+   "CH₃COOH + NaOH → CH₃CONa + H₂O",
+   "CH₃COOH + NaOH → CH₃COONa + H₂O",
+   "CH₃COOH + 2NaOH → CH₃COONa + 2H₂O",
+   "CH₃COOH + NaOH → CH₃COONa + H₂"
+  ],
+  "answer": 1,
+  "explain": "A base and an acid give a salt and water. The equation CH₃COOH + NaOH → CH₃COONa + H₂O is balanced."
+ },
+ {
+  "id": "c11-0034",
+  "sub": "11.8",
+  "level": "core",
+  "q": "Which monomer can form an addition polymer?",
+  "columns": null,
+  "options": [
+   "propane, CH₃CH₂CH₃",
+   "ethanol, CH₃CH₂OH",
+   "ethanoic acid, CH₃COOH",
+   "propene, CH₃CH=CH₂"
+  ],
+  "answer": 3,
+  "explain": "Addition polymerisation needs a monomer with a C=C double bond. Propene has one but propane does not."
+ },
+ {
+  "id": "c11-0035",
+  "sub": "11.5",
+  "level": "core",
+  "q": "What is observed when ethene is bubbled through aqueous bromine?",
+  "columns": null,
+  "options": [
+   "The orange solution stays orange.",
+   "The orange solution turns colourless.",
+   "The solution turns purple.",
+   "A white precipitate forms."
+  ],
+  "answer": 1,
+  "explain": "Ethene is unsaturated and reacts with bromine by addition, so the colour of the aqueous bromine disappears."
+ },
+ {
+  "id": "c11-0036",
+  "sub": "11.4",
+  "level": "extended",
+  "q": "What is the role of ultraviolet light in the reaction of methane with chlorine?",
+  "columns": null,
+  "options": [
+   "It acts as a catalyst.",
+   "It provides the activation energy.",
+   "It removes the hydrogen chloride formed.",
+   "It supplies the carbon atoms."
+  ],
+  "answer": 1,
+  "explain": "The reaction is photochemical: ultraviolet light provides the activation energy, Ea, needed to start the reaction."
+ },
+ {
+  "id": "c11-0037",
+  "sub": "11.8",
+  "level": "core",
+  "q": "Which row correctly describes the formation of poly(ethene)?",
+  "columns": [
+   "Monomer",
+   "Type of polymerisation",
+   "Products"
+  ],
+  "options": [
+   "ethene | addition | poly(ethene) only",
+   "ethene | condensation | poly(ethene) and water",
+   "ethane | addition | poly(ethene) only",
+   "ethane | condensation | poly(ethene) and water"
+  ],
+  "answer": 0,
+  "explain": "Ethene molecules join by addition polymerisation, so the polymer is the only product."
+ },
+ {
+  "id": "c11-0038",
+  "sub": "11.1",
+  "level": "extended",
+  "q": "Which pair of compounds are structural isomers of each other?",
+  "columns": null,
+  "options": [
+   "CH₃CH₂OH and CH₃COOH",
+   "CH₃CH₂CH₂CH₂OH and CH₃CH(OH)CH₂CH₃",
+   "CH₃CH₂CH₃ and CH₃CH₂CH₂CH₃",
+   "CH₂=CH₂ and CH₃CH₃"
+  ],
+  "answer": 1,
+  "explain": "Structural isomers have the same molecular formula (here C₄H₁₀O) but different structural formulae. The other pairs have different molecular formulae."
+ },
+ {
+  "id": "c11-0039",
+  "sub": "11.2",
+  "level": "extended",
+  "q": "What is the name of the compound CH₃CH₂CH₂COOH?",
+  "columns": null,
+  "options": [
+   "propanoic acid",
+   "butanoic acid",
+   "butanol",
+   "butyl ethanoate"
+  ],
+  "answer": 1,
+  "explain": "The chain has four carbon atoms, including the carbon in –COOH, and the –COOH group, so the name is butanoic acid."
+ },
+ {
+  "id": "c11-0040",
+  "sub": "11.3",
+  "level": "core",
+  "q": "The fractions in petroleum are separated by fractional distillation. Which property allows this separation?",
+  "columns": null,
+  "options": [
+   "The fractions have different colours.",
+   "The fractions have different solubilities in water.",
+   "The fractions have different electrical conductivities.",
+   "The fractions have different boiling points."
+  ],
+  "answer": 3,
+  "explain": "Hydrocarbons of different chain length have different boiling points, so they condense at different heights in the fractionating column."
+ },
+ {
+  "id": "c11-0041",
+  "sub": "11.5",
+  "level": "extended",
+  "q": "What is true of every addition reaction?",
+  "columns": null,
+  "options": [
+   "Two products are always formed.",
+   "A small molecule is always lost.",
+   "Only one product is formed.",
+   "Ultraviolet light is always needed."
+  ],
+  "answer": 2,
+  "explain": "In an addition reaction two reactants join to give a single product."
+ },
+ {
+  "id": "c11-0042",
+  "sub": "11.6",
+  "level": "core",
+  "q": "Which two uses of ethanol are correct?",
+  "columns": null,
+  "options": [
+   "a lubricant and a fuel",
+   "a solvent and a polymer",
+   "a solvent and a fuel",
+   "a fuel and a feedstock for making bitumen"
+  ],
+  "answer": 2,
+  "explain": "Ethanol is used as a solvent, for example in perfumes and paints, and as a fuel."
+ },
+ {
+  "id": "c11-0043",
+  "sub": "11.7",
+  "level": "core",
+  "q": "What is the formula of calcium ethanoate?",
+  "columns": null,
+  "options": [
+   "CH₃COOCa",
+   "CH₃(COO)₂Ca",
+   "(CH₃COO)₂Ca",
+   "(CH₃COO)Ca₂"
+  ],
+  "answer": 2,
+  "explain": "Calcium forms Ca²⁺ and ethanoate is CH₃COO⁻, so two ethanoate ions are needed: (CH₃COO)₂Ca."
+ },
+ {
+  "id": "c11-0044",
+  "sub": "11.8",
+  "level": "extended",
+  "q": "What is the repeat unit of poly(propene)?",
+  "columns": null,
+  "options": [
+   "–CH₂–CH(CH₃)–",
+   "–CH₂–CH₂–CH₂–",
+   "–CH(CH₃)–CH(CH₃)–",
+   "–CH₂–CH₂–"
+  ],
+  "answer": 0,
+  "explain": "Propene, CH₃CH=CH₂, opens its double bond to give –CH₂–CH(CH₃)–, with the CH₃ group as a side group."
+ },
+ {
+  "id": "c11-0045",
+  "sub": "11.4",
+  "level": "extended",
+  "q": "Methane reacts with chlorine in sunlight. Which pair of products forms in a monosubstitution?",
+  "columns": null,
+  "options": [
+   "CH₂Cl₂ and H₂",
+   "CH₃Cl and H₂",
+   "CCl₄ and HCl",
+   "CH₃Cl and HCl"
+  ],
+  "answer": 3,
+  "explain": "One H atom is replaced by one Cl atom: CH₄ + Cl₂ → CH₃Cl + HCl."
+ },
+ {
+  "id": "c11-0046",
+  "sub": "11.1",
+  "level": "extended",
+  "q": "Which statement about the members of a homologous series is correct?",
+  "columns": null,
+  "options": [
+   "Each member has the same relative molecular mass.",
+   "Each member has identical physical properties.",
+   "Each member has the same number of carbon atoms.",
+   "Each member differs from the next by a –CH₂– unit."
+  ],
+  "answer": 3,
+  "explain": "Successive members differ by –CH₂–, so their relative molecular masses and physical properties change gradually along the series."
+ },
+ {
+  "id": "c11-0047",
+  "sub": "11.2",
+  "level": "extended",
+  "q": "What is the name of the compound with the structural formula CH₃CH(OH)CH₃?",
+  "columns": null,
+  "options": [
+   "propan-1-ol",
+   "propanal",
+   "propene",
+   "propan-2-ol"
+  ],
+  "answer": 3,
+  "explain": "It has three carbons with the –OH group on the second carbon atom, so it is propan-2-ol."
+ },
+ {
+  "id": "c11-0048",
+  "sub": "11.3",
+  "level": "core",
+  "q": "Which row correctly compares a fraction collected at the top of the fractionating column with a fraction collected at the bottom?",
+  "columns": [
+   "Chain length",
+   "Boiling point",
+   "Viscosity"
+  ],
+  "options": [
+   "shorter chains | higher boiling point | less viscous",
+   "longer chains | lower boiling point | more viscous",
+   "shorter chains | lower boiling point | more viscous",
+   "shorter chains | lower boiling point | less viscous"
+  ],
+  "answer": 3,
+  "explain": "Fractions at the top have shorter hydrocarbon chains, lower boiling points, higher volatility and lower viscosity."
+ },
+ {
+  "id": "c11-0049",
+  "sub": "11.8",
+  "level": "extended",
+  "q": "The repeat unit of poly(chloroethene) is –CH₂–CHCl–. What is the monomer?",
+  "columns": null,
+  "options": [
+   "CH₃CH₂Cl",
+   "CHCl=CHCl",
+   "CH₂=CHCl",
+   "CH₃CHCl₂"
+  ],
+  "answer": 2,
+  "explain": "For an addition polymer, replace the single bond in the chain by a double bond: CH₂=CHCl is chloroethene."
+ },
+ {
+  "id": "c11-0050",
+  "sub": "11.5",
+  "level": "extended",
+  "q": "What is the product when ethene reacts with hydrogen in the presence of a nickel catalyst?",
+  "columns": null,
+  "options": [
+   "ethanol",
+   "ethane",
+   "ethyne",
+   "poly(ethene)"
+  ],
+  "answer": 1,
+  "explain": "Hydrogen adds across the C=C bond: CH₂=CH₂ + H₂ → CH₃CH₃."
+ },
+ {
+  "id": "c11-0051",
+  "sub": "11.6",
+  "level": "extended",
+  "q": "What is an advantage of making ethanol by hydration of ethene instead of by fermentation?",
+  "columns": null,
+  "options": [
+   "It uses a renewable raw material.",
+   "It works at a lower temperature.",
+   "It is faster and gives purer ethanol.",
+   "It is a batch process."
+  ],
+  "answer": 2,
+  "explain": "Hydration is a fast continuous process that gives pure ethanol. Fermentation is slow, uses lower temperature and gives an impure product."
+ },
+ {
+  "id": "c11-0052",
+  "sub": "11.7",
+  "level": "extended",
+  "q": "Ethanol is oxidised by warming it with acidified aqueous potassium manganate(VII). What colour change is seen?",
+  "columns": null,
+  "options": [
+   "purple to colourless",
+   "colourless to purple",
+   "orange to green",
+   "blue to colourless"
+  ],
+  "answer": 0,
+  "explain": "Acidified manganate(VII) is purple and is reduced to a colourless solution as it oxidises the ethanol to ethanoic acid."
+ },
+ {
+  "id": "c11-0053",
+  "sub": "11.8",
+  "level": "extended",
+  "q": "What small molecule is lost when nylon forms from a dicarboxylic acid and a diamine?",
+  "columns": null,
+  "options": [
+   "hydrogen",
+   "carbon dioxide",
+   "water",
+   "hydrogen chloride"
+  ],
+  "answer": 2,
+  "explain": "Nylon forms by condensation polymerisation: each amide link is formed with the loss of one molecule of water."
+ },
+ {
+  "id": "c11-0054",
+  "sub": "11.4",
+  "level": "extended",
+  "q": "Which equation represents the monosubstitution of ethane by chlorine in ultraviolet light?",
+  "columns": null,
+  "options": [
+   "C₂H₆ + Cl₂ → C₂H₄Cl₂ + H₂",
+   "C₂H₆ + Cl₂ → C₂H₅Cl + HCl",
+   "C₂H₆ + Cl₂ → C₂H₆Cl₂",
+   "C₂H₆ + 2Cl₂ → C₂H₅Cl + 2HCl"
+  ],
+  "answer": 1,
+  "explain": "In monosubstitution one hydrogen atom is replaced by one chlorine atom, and the displaced hydrogen forms HCl. The other equations are not balanced or show other products."
+ },
+ {
+  "id": "c11-0055",
+  "sub": "11.1",
+  "level": "core",
+  "q": "What is the formula of the carboxylic acid with four carbon atoms in each molecule, using the general formula CₙH₂ₙ₊₁COOH?",
+  "columns": null,
+  "options": [
+   "C₃H₇COOH",
+   "C₄H₉COOH",
+   "C₄H₇COOH",
+   "C₃H₅COOH"
+  ],
+  "answer": 0,
+  "explain": "The –COOH group contains one carbon atom, so the four-carbon acid has n = 3, giving C₃H₇COOH."
+ },
+ {
+  "id": "c11-0056",
+  "sub": "11.2",
+  "level": "extended",
+  "q": "What is the name of CH₃CH=CHCH₃?",
+  "columns": null,
+  "options": [
+   "but-1-ene",
+   "butane",
+   "but-3-ene",
+   "but-2-ene"
+  ],
+  "answer": 3,
+  "explain": "The chain has four carbons and the double bond starts at carbon 2, giving but-2-ene."
+ },
+ {
+  "id": "c11-0057",
+  "sub": "11.3",
+  "level": "core",
+  "q": "Which fraction from petroleum is used to make roads?",
+  "columns": null,
+  "options": [
+   "bitumen",
+   "naphtha",
+   "kerosene",
+   "lubricating oil"
+  ],
+  "answer": 0,
+  "explain": "Bitumen is the thick residue at the bottom of the column and is used for road surfaces."
+ },
+ {
+  "id": "c11-0058",
+  "sub": "11.5",
+  "level": "extended",
+  "q": "Which structural formula represents the product of the reaction of ethene with bromine?",
+  "columns": null,
+  "options": [
+   "CH₂BrCH₂Br",
+   "CH₃CH₂Br",
+   "CH₂=CHBr",
+   "CH₃CHBr₂"
+  ],
+  "answer": 0,
+  "explain": "Bromine adds across the double bond, so each carbon atom gets one bromine atom. The product is 1,2-dibromoethane."
+ },
+ {
+  "id": "c11-0059",
+  "sub": "11.8",
+  "level": "extended",
+  "q": "Which link joins the monomer units in nylon?",
+  "columns": null,
+  "options": [
+   "–COO–",
+   "–CH₂CH₂–",
+   "–CONH–",
+   "–C=C–"
+  ],
+  "answer": 2,
+  "explain": "Nylon is a polyamide, so its monomer units are joined by amide links, –CONH–."
+ },
+ {
+  "id": "c11-0060",
+  "sub": "11.6",
+  "level": "extended",
+  "q": "What is a disadvantage of making ethanol by hydration of ethene?",
+  "columns": null,
+  "options": [
+   "The reaction is very slow.",
+   "It produces a mixture of ethanol and carbon dioxide.",
+   "It needs yeast, which dies easily.",
+   "The ethene comes from petroleum, which is non-renewable."
+  ],
+  "answer": 3,
+  "explain": "Ethene is made from petroleum, a finite resource. Fermentation uses sugar from plants, which is renewable."
+ }
+]

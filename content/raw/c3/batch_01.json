@@ -1,0 +1,458 @@
+[
+ {
+  "id": "c3-0001",
+  "sub": "3.2",
+  "level": "core",
+  "q": "What is the relative formula mass, Mr, of magnesium hydroxide, Mg(OH)₂? (Ar: H = 1, O = 16, Mg = 24)",
+  "columns": null,
+  "options": [
+   "41",
+   "42",
+   "82",
+   "58"
+  ],
+  "answer": 3,
+  "explain": "Mr = 24 + 2 × (16 + 1) = 24 + 34 = 58."
+ },
+ {
+  "id": "c3-0002",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "A hydrocarbon contains 2.4 g of carbon and 0.6 g of hydrogen. What is its empirical formula? (Ar: H = 1, C = 12)",
+  "columns": null,
+  "options": [
+   "CH₃",
+   "CH₂",
+   "CH₄",
+   "C₂H₆"
+  ],
+  "answer": 0,
+  "explain": "Moles: C = 2.4 ÷ 12 = 0.20; H = 0.6 ÷ 1 = 0.6. The ratio is 1 : 3, so the empirical formula is CH₃."
+ },
+ {
+  "id": "c3-0003",
+  "sub": "3.1",
+  "level": "extended",
+  "q": "Iron(III) ions are Fe³⁺ and sulfate ions are SO₄²⁻. What is the formula of iron(III) sulfate?",
+  "columns": null,
+  "options": [
+   "FeSO₄",
+   "Fe₃(SO₄)₂",
+   "Fe(SO₄)₃",
+   "Fe₂(SO₄)₃"
+  ],
+  "answer": 3,
+  "explain": "The lowest common multiple of 3 and 2 is 6: two Fe³⁺ (+6) balance three SO₄²⁻ (−6)."
+ },
+ {
+  "id": "c3-0004",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "What is the amount, in moles, of 11 g of carbon dioxide, CO₂? (Ar: C = 12, O = 16)",
+  "columns": null,
+  "options": [
+   "0.25 mol",
+   "0.50 mol",
+   "4.0 mol",
+   "484 mol"
+  ],
+  "answer": 0,
+  "explain": "Mr of CO₂ = 44. Moles = mass ÷ molar mass = 11 ÷ 44 = 0.25 mol."
+ },
+ {
+  "id": "c3-0005",
+  "sub": "3.1",
+  "level": "core",
+  "q": "A model of a molecule shows one carbon atom joined to four hydrogen atoms. What is the formula of the compound?",
+  "columns": null,
+  "options": [
+   "C₄H",
+   "CH₂",
+   "C₄H₄",
+   "CH₄"
+  ],
+  "answer": 3,
+  "explain": "The model has 1 carbon atom and 4 hydrogen atoms, so the formula is CH₄ (methane)."
+ },
+ {
+  "id": "c3-0006",
+  "sub": "3.2",
+  "level": "core",
+  "q": "Chlorine has two isotopes: 75% is chlorine-35 and 25% is chlorine-37. What is the relative atomic mass of chlorine?",
+  "columns": null,
+  "options": [
+   "35.0",
+   "35.5",
+   "36.0",
+   "36.5"
+  ],
+  "answer": 1,
+  "explain": "Ar = (0.75 × 35) + (0.25 × 37) = 26.25 + 9.25 = 35.5."
+ },
+ {
+  "id": "c3-0007",
+  "sub": "3.2",
+  "level": "core",
+  "q": "What is the relative formula mass, Mr, of iron(III) oxide, Fe₂O₃? (Ar: O = 16, Fe = 56)",
+  "columns": null,
+  "options": [
+   "72",
+   "88",
+   "160",
+   "216"
+  ],
+  "answer": 2,
+  "explain": "Mr = (2 × 56) + (3 × 16) = 112 + 48 = 160."
+ },
+ {
+  "id": "c3-0008",
+  "sub": "3.3",
+  "level": "core",
+  "q": "Which pair of units can be used for the concentration of a solution?",
+  "columns": null,
+  "options": [
+   "g/dm³ and mol/dm³",
+   "g/mol and cm³/dm³",
+   "dm³/mol and g/cm³",
+   "mol/g and dm³/g"
+  ],
+  "answer": 0,
+  "explain": "Concentration is the amount of solute (in g or mol) in 1 dm³ of solution, so g/dm³ and mol/dm³."
+ },
+ {
+  "id": "c3-0009",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "Which sample contains the same number of atoms as 12 g of carbon? (Ar: C = 12, Mg = 24)",
+  "columns": null,
+  "options": [
+   "24 g of magnesium",
+   "12 g of magnesium",
+   "24 g of carbon",
+   "48 g of magnesium"
+  ],
+  "answer": 0,
+  "explain": "12 g of carbon is 1 mol of atoms. 24 g of magnesium is also 1 mol (24 ÷ 24), so it has the same number of atoms."
+ },
+ {
+  "id": "c3-0010",
+  "sub": "3.1",
+  "level": "core",
+  "q": "Which statement describes the molecular formula of a compound?",
+  "columns": null,
+  "options": [
+   "The number and type of different atoms in one molecule of the compound",
+   "The simplest whole number ratio of the atoms in the compound",
+   "The total number of atoms in one mole of the compound",
+   "The number of molecules in one gram of the compound"
+  ],
+  "answer": 0,
+  "explain": "A molecular formula shows the actual number of each type of atom in one molecule, for example C₂H₆ for ethane. The simplest ratio is the empirical formula."
+ },
+ {
+  "id": "c3-0011",
+  "sub": "3.1",
+  "level": "core",
+  "q": "Which row gives the correct name and formula?",
+  "columns": [
+   "Name",
+   "Formula"
+  ],
+  "options": [
+   "carbon dioxide | CO",
+   "ammonia | NH₃",
+   "water | H₃O",
+   "methane | C₂H₄"
+  ],
+  "answer": 1,
+  "explain": "Ammonia is NH₃. Carbon dioxide is CO₂ (CO is carbon monoxide), water is H₂O and methane is CH₄."
+ },
+ {
+  "id": "c3-0012",
+  "sub": "3.2",
+  "level": "core",
+  "q": "Which gas has the largest relative molecular mass? (Ar: H = 1, C = 12, N = 14, O = 16, S = 32)",
+  "columns": null,
+  "options": [
+   "N₂",
+   "SO₂",
+   "CO",
+   "NH₃"
+  ],
+  "answer": 1,
+  "explain": "Mr values: SO₂ = 64, N₂ = 28, CO = 28 and NH₃ = 17, so SO₂ is the largest."
+ },
+ {
+  "id": "c3-0013",
+  "sub": "3.2",
+  "level": "core",
+  "q": "What is the relative molecular mass, Mr, of sulfuric acid, H₂SO₄? (Ar: H = 1, O = 16, S = 32)",
+  "columns": null,
+  "options": [
+   "98",
+   "90",
+   "96",
+   "99"
+  ],
+  "answer": 0,
+  "explain": "Mr = (2 × 1) + 32 + (4 × 16) = 2 + 32 + 64 = 98."
+ },
+ {
+  "id": "c3-0014",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "A sample of 0.20 mol of a metal M has a mass of 13 g. What is the relative atomic mass of M?",
+  "columns": null,
+  "options": [
+   "2.6",
+   "65",
+   "6.5",
+   "13"
+  ],
+  "answer": 1,
+  "explain": "Molar mass = mass ÷ moles = 13 ÷ 0.20 = 65 g/mol, so Ar = 65."
+ },
+ {
+  "id": "c3-0015",
+  "sub": "3.1",
+  "level": "extended",
+  "q": "Aqueous calcium hydroxide neutralises aqueous nitric acid, forming aqueous calcium nitrate and water. Which is the correct balanced equation?",
+  "columns": null,
+  "options": [
+   "Ca(OH)₂(aq) + 2HNO₃(aq) → Ca(NO₃)₂(aq) + 2H₂O(l)",
+   "Ca(OH)₂(aq) + HNO₃(aq) → Ca(NO₃)₂(aq) + H₂O(l)",
+   "Ca(OH)₂(aq) + 2HNO₃(aq) → CaNO₃(aq) + 2H₂O(l)",
+   "CaOH(aq) + HNO₃(aq) → CaNO₃(aq) + H₂O(l)"
+  ],
+  "answer": 0,
+  "explain": "Two OH⁻ ions need two H⁺ ions, and calcium nitrate is Ca(NO₃)₂, giving 2H₂O in total."
+ },
+ {
+  "id": "c3-0016",
+  "sub": "3.1",
+  "level": "core",
+  "q": "Copper(II) carbonate is heated and decomposes. Which word equation is correct?",
+  "columns": null,
+  "options": [
+   "copper(II) carbonate → copper(II) oxide + carbon dioxide",
+   "copper(II) carbonate → copper + carbon dioxide + oxygen",
+   "copper(II) carbonate → copper(II) oxide + carbon monoxide",
+   "copper(II) carbonate → copper(II) oxide + oxygen"
+  ],
+  "answer": 0,
+  "explain": "Metal carbonates such as copper(II) carbonate decompose on heating to the metal oxide and carbon dioxide."
+ },
+ {
+  "id": "c3-0017",
+  "sub": "3.1",
+  "level": "extended",
+  "q": "A model of an ionic lattice shows alternating calcium ions (Ca²⁺) and fluoride ions (F⁻), with twice as many fluoride ions as calcium ions. What is the formula of the compound?",
+  "columns": null,
+  "options": [
+   "CaF",
+   "Ca₂F",
+   "Ca₂F₂",
+   "CaF₂"
+  ],
+  "answer": 3,
+  "explain": "The ions are in the ratio 1 Ca²⁺ : 2 F⁻, which balances the charge, giving CaF₂."
+ },
+ {
+  "id": "c3-0018",
+  "sub": "3.1",
+  "level": "core",
+  "q": "Fe₂O₃(s) + ?CO(g) → ?Fe(l) + ?CO₂(g). What are the numbers in front of CO, Fe and CO₂ in the balanced equation?",
+  "columns": null,
+  "options": [
+   "2, 3, 2",
+   "3, 2, 3",
+   "3, 1, 3",
+   "1, 2, 1"
+  ],
+  "answer": 1,
+  "explain": "Fe₂O₃ + 3CO → 2Fe + 3CO₂ has 2 Fe, 3 C and 6 O on each side."
+ },
+ {
+  "id": "c3-0019",
+  "sub": "3.1",
+  "level": "core",
+  "q": "Which word equation shows sodium hydroxide being neutralised by hydrochloric acid?",
+  "columns": null,
+  "options": [
+   "sodium hydroxide + hydrochloric acid → sodium chloride + hydrogen",
+   "sodium hydroxide + hydrochloric acid → sodium oxide + water",
+   "sodium hydroxide + hydrochloric acid → sodium + chlorine + water",
+   "sodium hydroxide + hydrochloric acid → sodium chloride + water"
+  ],
+  "answer": 3,
+  "explain": "An alkali and an acid react to form a salt and water. The salt from hydrochloric acid and sodium hydroxide is sodium chloride."
+ },
+ {
+  "id": "c3-0020",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "What is the percentage by mass of water in hydrated copper(II) sulfate, CuSO₄·5H₂O? (Ar: H = 1, O = 16, S = 32, Cu = 64)",
+  "columns": null,
+  "options": [
+   "36%",
+   "18%",
+   "56%",
+   "64%"
+  ],
+  "answer": 0,
+  "explain": "Mr = 160 + 90 = 250. Percentage of water = 90 ÷ 250 × 100 = 36%."
+ },
+ {
+  "id": "c3-0021",
+  "sub": "3.3",
+  "level": "core",
+  "q": "Four solutions of the same solute are made. Which is the most concentrated?",
+  "columns": null,
+  "options": [
+   "2 g in 250 cm³ of solution",
+   "5 g in 1 dm³ of solution",
+   "1 g in 100 cm³ of solution",
+   "3 g in 500 cm³ of solution"
+  ],
+  "answer": 2,
+  "explain": "In g/dm³ the concentrations are 10, 8, 5 and 6 respectively, so 1 g in 100 cm³ (10 g/dm³) is the highest."
+ },
+ {
+  "id": "c3-0022",
+  "sub": "3.3",
+  "level": "core",
+  "q": "What does a concentration of 0.5 mol/dm³ mean?",
+  "columns": null,
+  "options": [
+   "There is 0.5 mol of solute in every 1 dm³ of solution",
+   "There is 0.5 g of solute in every 1 dm³ of solution",
+   "There is 0.5 mol of solute in every 1 cm³ of solution",
+   "There is 0.5 mol of solute in 100 cm³ of water"
+  ],
+  "answer": 0,
+  "explain": "mol/dm³ means moles of solute per dm³ of the whole solution."
+ },
+ {
+  "id": "c3-0023",
+  "sub": "3.1",
+  "level": "core",
+  "q": "A clean iron nail is placed in blue copper(II) sulfate solution. Solid copper forms and a pale green solution of iron(II) sulfate remains. Which equation has the correct state symbols?",
+  "columns": null,
+  "options": [
+   "Fe(aq) + CuSO₄(s) → FeSO₄(aq) + Cu(s)",
+   "Fe(s) + CuSO₄(aq) → FeSO₄(aq) + Cu(s)",
+   "Fe(s) + CuSO₄(aq) → FeSO₄(s) + Cu(aq)",
+   "Fe(l) + CuSO₄(l) → FeSO₄(l) + Cu(l)"
+  ],
+  "answer": 1,
+  "explain": "The iron nail and the copper formed are solids (s), while both salts are dissolved in water, (aq)."
+ },
+ {
+  "id": "c3-0024",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "What is the percentage by mass of magnesium in magnesium oxide, MgO? (Ar: O = 16, Mg = 24)",
+  "columns": null,
+  "options": [
+   "24%",
+   "40%",
+   "60%",
+   "50%"
+  ],
+  "answer": 2,
+  "explain": "Mr of MgO = 40. Percentage of Mg = 24 ÷ 40 × 100 = 60%."
+ },
+ {
+  "id": "c3-0025",
+  "sub": "3.2",
+  "level": "core",
+  "q": "What is the relative formula mass, Mr, of ammonium sulfate, (NH₄)₂SO₄? (Ar: H = 1, N = 14, O = 16, S = 32)",
+  "columns": null,
+  "options": [
+   "114",
+   "118",
+   "132",
+   "150"
+  ],
+  "answer": 2,
+  "explain": "Mr = 2 × (14 + 4) + 32 + (4 × 16) = 36 + 32 + 64 = 132."
+ },
+ {
+  "id": "c3-0026",
+  "sub": "3.1",
+  "level": "extended",
+  "q": "Which row correctly gives the ions present and the formula of the compound?",
+  "columns": [
+   "Ions present",
+   "Formula"
+  ],
+  "options": [
+   "Na⁺ and O²⁻ | NaO",
+   "Al³⁺ and Cl⁻ | Al₃Cl",
+   "Ca²⁺ and Cl⁻ | CaCl₂",
+   "K⁺ and SO₄²⁻ | KSO₄"
+  ],
+  "answer": 2,
+  "explain": "Ca²⁺ needs two Cl⁻ to balance charge. The correct formulae of the others are Na₂O, AlCl₃ and K₂SO₄."
+ },
+ {
+  "id": "c3-0027",
+  "sub": "3.3",
+  "level": "core",
+  "q": "What is 0.025 dm³ in cm³?",
+  "columns": null,
+  "options": [
+   "2.5 cm³",
+   "250 cm³",
+   "25 cm³",
+   "0.25 cm³"
+  ],
+  "answer": 2,
+  "explain": "1 dm³ = 1000 cm³, so 0.025 × 1000 = 25 cm³."
+ },
+ {
+  "id": "c3-0028",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "4.0 g of sodium hydroxide is dissolved in water and made up to 500 cm³ of solution. What is the concentration in mol/dm³? (Ar: H = 1, O = 16, Na = 23)",
+  "columns": null,
+  "options": [
+   "0.20",
+   "0.050",
+   "0.10",
+   "0.80"
+  ],
+  "answer": 0,
+  "explain": "Moles = 4.0 ÷ 40 = 0.10 mol. Concentration = 0.10 ÷ 0.500 dm³ = 0.20 mol/dm³."
+ },
+ {
+  "id": "c3-0029",
+  "sub": "3.3",
+  "level": "extended",
+  "q": "2.50 g of impure limestone reacts with excess hydrochloric acid and gives 0.0150 mol of carbon dioxide. Assume the impurities do not react. What is the percentage purity of the calcium carbonate? (Ar: C = 12, O = 16, Ca = 40)",
+  "columns": null,
+  "options": [
+   "1.5%",
+   "40%",
+   "150%",
+   "60%"
+  ],
+  "answer": 3,
+  "explain": "0.0150 mol of CO₂ means 0.0150 mol of CaCO₃ = 0.0150 × 100 = 1.50 g. Purity = 1.50 ÷ 2.50 × 100 = 60%."
+ },
+ {
+  "id": "c3-0030",
+  "sub": "3.1",
+  "level": "extended",
+  "q": "Glucose has the molecular formula C₆H₁₂O₆. What is its empirical formula?",
+  "columns": null,
+  "options": [
+   "C₃H₆O₃",
+   "CH₂O",
+   "C₆H₁₂O₆",
+   "CHO"
+  ],
+  "answer": 1,
+  "explain": "Divide the numbers of atoms by their highest common factor, 6, to give C : H : O = 1 : 2 : 1."
+ }
+]

@@ -1,0 +1,459 @@
+[
+ {
+  "id": "c2-0061",
+  "sub": "2.5",
+  "level": "core",
+  "q": "Which pair of properties is typical of a simple molecular compound?",
+  "columns": null,
+  "options": [
+   "High melting point and conducts electricity when molten",
+   "Low melting point and does not conduct electricity",
+   "Low melting point and conducts electricity when solid",
+   "High melting point and does not conduct electricity"
+  ],
+  "answer": 1,
+  "explain": "Simple molecular compounds have weak forces between molecules and no ions or free electrons to carry charge."
+ },
+ {
+  "id": "c2-0062",
+  "sub": "2.5",
+  "level": "extended",
+  "q": "In a molecule of carbon dioxide, CO₂, how many pairs of electrons are shared in total?",
+  "columns": null,
+  "options": [
+   "2",
+   "3",
+   "4",
+   "8"
+  ],
+  "answer": 2,
+  "explain": "Each carbon–oxygen bond is a double bond (two shared pairs), and there are two of them."
+ },
+ {
+  "id": "c2-0063",
+  "sub": "2.2",
+  "level": "core",
+  "q": "Calcium has proton number 20. Which statement about a calcium atom is correct?",
+  "columns": null,
+  "options": [
+   "It has 2 occupied shells and 4 outer electrons, so it is in Period 2, Group IV",
+   "It has 4 occupied shells and 8 outer electrons, so it is in Period 4, Group VIII",
+   "It has 2 occupied shells and 2 outer electrons, so it is in Period 2, Group II",
+   "It has 4 occupied shells and 2 outer electrons, so it is in Period 4, Group II"
+  ],
+  "answer": 3,
+  "explain": "Calcium is 2,8,8,2: four shells give Period 4 and two outer electrons give Group II."
+ },
+ {
+  "id": "c2-0064",
+  "sub": "2.3",
+  "level": "core",
+  "q": "Carbon-14 is an isotope of carbon with proton number 6. How many neutrons does an atom of carbon-14 have?",
+  "columns": null,
+  "options": [
+   "6",
+   "14",
+   "20",
+   "8"
+  ],
+  "answer": 3,
+  "explain": "Neutrons = mass number − proton number = 14 − 6 = 8."
+ },
+ {
+  "id": "c2-0065",
+  "sub": "2.4",
+  "level": "extended",
+  "q": "Which description of the formation of magnesium oxide is correct?",
+  "columns": null,
+  "options": [
+   "Each magnesium atom shares two electrons with an oxygen atom",
+   "Each oxygen atom transfers two electrons to a magnesium atom",
+   "Each magnesium atom transfers two electrons to an oxygen atom, forming Mg²⁺ and O²⁻",
+   "Each magnesium atom transfers one electron to an oxygen atom"
+  ],
+  "answer": 2,
+  "explain": "Magnesium (2,8,2) loses two electrons and oxygen (2,6) gains two, so both ions have the configuration 2,8."
+ },
+ {
+  "id": "c2-0066",
+  "sub": "2.2",
+  "level": "core",
+  "q": "What is the relative charge of an electron?",
+  "columns": null,
+  "options": [
+   "+1",
+   "−1",
+   "0",
+   "−1/1840"
+  ],
+  "answer": 1,
+  "explain": "An electron has a relative charge of −1. Its relative mass is very small (about 1/1840), which is separate from its charge."
+ },
+ {
+  "id": "c2-0067",
+  "sub": "2.1",
+  "level": "core",
+  "q": "Which statement describes a compound?",
+  "columns": null,
+  "options": [
+   "Two or more elements mixed together in any proportions",
+   "A substance made of only one type of atom",
+   "Two or more elements chemically combined in a fixed ratio",
+   "A substance that can be separated by filtration"
+  ],
+  "answer": 2,
+  "explain": "A compound has atoms of different elements chemically bonded in a fixed ratio; a mixture has no chemical bonding between its parts."
+ },
+ {
+  "id": "c2-0068",
+  "sub": "2.4",
+  "level": "extended",
+  "q": "What is the formula of the ionic compound formed from Al³⁺ and O²⁻ ions?",
+  "columns": null,
+  "options": [
+   "AlO",
+   "Al₂O₃",
+   "Al₃O₂",
+   "Al₂O"
+  ],
+  "answer": 1,
+  "explain": "Two Al³⁺ give +6 and three O²⁻ give −6, so the ratio is 2 : 3."
+ },
+ {
+  "id": "c2-0069",
+  "sub": "2.3",
+  "level": "extended",
+  "q": "Why do isotopes of the same element have the same chemical properties?",
+  "columns": null,
+  "options": [
+   "They have the same number of electrons and the same electronic configuration",
+   "They have the same number of neutrons",
+   "They have the same mass number",
+   "They have the same relative atomic mass"
+  ],
+  "answer": 0,
+  "explain": "Chemical reactions involve the electrons, and isotopes have identical electron arrangements, so they react in the same way."
+ },
+ {
+  "id": "c2-0070",
+  "sub": "2.2",
+  "level": "core",
+  "q": "Compared with a proton, how does the mass of an electron compare?",
+  "columns": null,
+  "options": [
+   "It is much smaller, about 1/1840 of the mass",
+   "It is the same",
+   "It is about twice as large",
+   "It is exactly zero"
+  ],
+  "answer": 0,
+  "explain": "An electron has a very small mass, about 1/1840 of a proton, so it is negligible when calculating mass number."
+ },
+ {
+  "id": "c2-0071",
+  "sub": "2.4",
+  "level": "core",
+  "q": "A sodium atom has 11 protons. How many electrons does the Na⁺ ion contain?",
+  "columns": null,
+  "options": [
+   "11",
+   "12",
+   "9",
+   "10"
+  ],
+  "answer": 3,
+  "explain": "The ion has lost one electron from the neutral atom, so 11 − 1 = 10."
+ },
+ {
+  "id": "c2-0072",
+  "sub": "2.2",
+  "level": "core",
+  "q": "Why are the Group VIII noble gases very unreactive?",
+  "columns": null,
+  "options": [
+   "Their atoms have only one outer electron",
+   "Their atoms have a full outer shell of electrons",
+   "Their atoms have no electrons",
+   "Their atoms have empty outer shells"
+  ],
+  "answer": 1,
+  "explain": "A full outer shell is a stable arrangement, so noble gas atoms do not need to gain, lose or share electrons."
+ },
+ {
+  "id": "c2-0073",
+  "sub": "2.4",
+  "level": "core",
+  "q": "In lithium fluoride, how many electrons are in the outer shell of the fluoride ion, F⁻?",
+  "columns": null,
+  "options": [
+   "7",
+   "9",
+   "1",
+   "8"
+  ],
+  "answer": 3,
+  "explain": "The fluorine atom (2,7) gains one electron from lithium, giving 2,8 with 8 outer electrons."
+ },
+ {
+  "id": "c2-0074",
+  "sub": "2.3",
+  "level": "extended",
+  "q": "Copper has two isotopes: ⁶³Cu (69%) and ⁶⁵Cu (31%). What is the relative atomic mass of copper, to one decimal place?",
+  "columns": null,
+  "options": [
+   "64.0",
+   "63.0",
+   "64.4",
+   "63.6"
+  ],
+  "answer": 3,
+  "explain": "(69 × 63 + 31 × 65) ÷ 100 = (4347 + 2015) ÷ 100 = 63.62, which is 63.6."
+ },
+ {
+  "id": "c2-0075",
+  "sub": "2.7",
+  "level": "extended",
+  "q": "Why does a hammered ionic crystal shatter while a hammered metal bends?",
+  "columns": null,
+  "options": [
+   "Metals have weaker bonds than ionic compounds",
+   "In an ionic crystal like ions are forced next to each other and repel, but in a metal the electrons keep the ions bonded",
+   "Ionic crystals have no bonds between ions",
+   "Metals have fewer particles than ionic crystals"
+  ],
+  "answer": 1,
+  "explain": "Moving layers in an ionic lattice line up like charges, which repel and split the crystal; in metals the sea of electrons maintains bonding."
+ },
+ {
+  "id": "c2-0076",
+  "sub": "2.1",
+  "level": "core",
+  "q": "Which row correctly classifies each substance?",
+  "columns": [
+   "Sodium",
+   "Carbon dioxide",
+   "Seawater"
+  ],
+  "options": [
+   "compound | element | mixture",
+   "element | mixture | compound",
+   "element | compound | mixture",
+   "mixture | compound | element"
+  ],
+  "answer": 2,
+  "explain": "Sodium contains one type of atom (element), carbon dioxide has carbon and oxygen chemically bonded (compound) and seawater is salt dissolved in water (mixture)."
+ },
+ {
+  "id": "c2-0077",
+  "sub": "2.6",
+  "level": "core",
+  "q": "How many other carbon atoms is each carbon atom bonded to in diamond?",
+  "columns": null,
+  "options": [
+   "2",
+   "4",
+   "3",
+   "6"
+  ],
+  "answer": 1,
+  "explain": "In diamond each carbon atom forms four strong covalent bonds in a tetrahedral arrangement."
+ },
+ {
+  "id": "c2-0078",
+  "sub": "2.3",
+  "level": "core",
+  "q": "Which statement defines isotopes?",
+  "columns": null,
+  "options": [
+   "Atoms of different elements with the same number of neutrons",
+   "Atoms of the same element with the same number of protons but different numbers of neutrons",
+   "Atoms of the same element with different numbers of protons",
+   "Atoms with the same mass number but different proton numbers"
+  ],
+  "answer": 1,
+  "explain": "Isotopes have the same proton number, so they are the same element, but different neutron numbers give different mass numbers."
+ },
+ {
+  "id": "c2-0079",
+  "sub": "2.7",
+  "level": "extended",
+  "q": "Which row correctly describes a metal?",
+  "columns": [
+   "Particles present",
+   "Electrical conductivity"
+  ],
+  "options": [
+   "positive ions and negative ions | conducts when solid",
+   "positive ions and delocalised electrons | conducts when solid",
+   "positive ions and delocalised electrons | does not conduct when solid",
+   "neutral molecules | conducts when solid"
+  ],
+  "answer": 1,
+  "explain": "A metal lattice contains positive ions and delocalised electrons, which allow it to conduct even as a solid."
+ },
+ {
+  "id": "c2-0080",
+  "sub": "2.1",
+  "level": "core",
+  "q": "Iron filings and sulfur powder are stirred together, giving a mixture. The mixture is then heated strongly and iron(II) sulfide forms. Which statement is correct?",
+  "columns": null,
+  "options": [
+   "Iron(II) sulfide is a mixture, because it contains iron and sulfur",
+   "Iron(II) sulfide is a compound, and iron can be removed from the mixture with a magnet but not from the compound",
+   "Iron(II) sulfide is an element, because it is a single solid",
+   "Iron can be removed from iron(II) sulfide with a magnet, as in the mixture"
+  ],
+  "answer": 1,
+  "explain": "In the compound the iron is chemically bonded to sulfur, so it loses its magnetic behaviour; in the mixture the iron keeps its properties and can be pulled out by a magnet."
+ },
+ {
+  "id": "c2-0081",
+  "sub": "2.1",
+  "level": "extended",
+  "q": "Bronze is made by melting copper and tin together. Which statement about bronze is correct?",
+  "columns": null,
+  "options": [
+   "It is a mixture, because the copper and tin are not chemically combined in a fixed ratio",
+   "It is a compound, because it is made by heating",
+   "It is an element, because it looks like a single metal",
+   "It is a compound, because it has a higher melting point than tin"
+  ],
+  "answer": 0,
+  "explain": "Bronze (an alloy) is a mixture of metals; its composition can vary and the metals are not chemically bonded to form a compound."
+ },
+ {
+  "id": "c2-0082",
+  "sub": "2.1",
+  "level": "extended",
+  "q": "Which method can be used to break a compound down into its elements?",
+  "columns": null,
+  "options": [
+   "Filtering it",
+   "Using a magnet",
+   "Passing an electric current through it when molten (electrolysis)",
+   "Letting it evaporate"
+  ],
+  "answer": 2,
+  "explain": "The elements in a compound are chemically bonded, so a chemical change such as electrolysis is needed; physical methods separate only mixtures."
+ },
+ {
+  "id": "c2-0083",
+  "sub": "2.4",
+  "level": "extended",
+  "q": "In a sodium chloride lattice, how is each ion surrounded?",
+  "columns": null,
+  "options": [
+   "By ions of the same charge",
+   "By neutral molecules",
+   "By delocalised electrons",
+   "By ions of the opposite charge"
+  ],
+  "answer": 3,
+  "explain": "The lattice alternates positive and negative ions so that attractions between opposite charges are maximised."
+ },
+ {
+  "id": "c2-0084",
+  "sub": "2.1",
+  "level": "core",
+  "q": "Which of these is a mixture?",
+  "columns": null,
+  "options": [
+   "Air",
+   "Carbon dioxide",
+   "Sodium chloride",
+   "Pure water"
+  ],
+  "answer": 0,
+  "explain": "Air contains nitrogen, oxygen and other gases that are not chemically joined, so it is a mixture. The others are pure compounds."
+ },
+ {
+  "id": "c2-0085",
+  "sub": "2.5",
+  "level": "core",
+  "q": "Which pair of elements forms a covalent compound?",
+  "columns": null,
+  "options": [
+   "Sodium and chlorine",
+   "Magnesium and oxygen",
+   "Potassium and fluorine",
+   "Carbon and chlorine"
+  ],
+  "answer": 3,
+  "explain": "Covalent bonds form between non-metal atoms. The other pairs each contain a metal and a non-metal."
+ },
+ {
+  "id": "c2-0086",
+  "sub": "2.2",
+  "level": "core",
+  "q": "What is the electronic configuration of a sodium ion, Na⁺ (sodium has proton number 11)?",
+  "columns": null,
+  "options": [
+   "2,8",
+   "2,8,1",
+   "2,8,2",
+   "2,7"
+  ],
+  "answer": 0,
+  "explain": "The sodium atom (2,8,1) loses one electron to form Na⁺, leaving 10 electrons arranged 2,8."
+ },
+ {
+  "id": "c2-0087",
+  "sub": "2.6",
+  "level": "core",
+  "q": "Why is graphite used for the electrodes in electrolysis?",
+  "columns": null,
+  "options": [
+   "It conducts electricity because it contains ions",
+   "It is very hard",
+   "It conducts electricity because it has delocalised electrons",
+   "It has a low melting point"
+  ],
+  "answer": 2,
+  "explain": "Each carbon atom in graphite uses only three outer electrons for bonding, leaving one delocalised electron that carries charge."
+ },
+ {
+  "id": "c2-0088",
+  "sub": "2.6",
+  "level": "extended",
+  "q": "Why is silicon(IV) oxide hard and has a high melting point?",
+  "columns": null,
+  "options": [
+   "It has strong forces between separate molecules",
+   "It has a lattice of positive ions in a sea of electrons",
+   "It has layers that slide over each other",
+   "It has a giant structure of strong covalent bonds, like diamond"
+  ],
+  "answer": 3,
+  "explain": "Its giant covalent lattice means a very large number of strong bonds have to be broken to melt it."
+ },
+ {
+  "id": "c2-0089",
+  "sub": "2.5",
+  "level": "extended",
+  "q": "In a molecule of ethene, C₂H₄, how many pairs of electrons are shared in total?",
+  "columns": null,
+  "options": [
+   "4",
+   "6",
+   "5",
+   "8"
+  ],
+  "answer": 1,
+  "explain": "There are four C–H single bonds (4 pairs) and a C=C double bond (2 pairs), giving 6 shared pairs."
+ },
+ {
+  "id": "c2-0090",
+  "sub": "2.7",
+  "level": "extended",
+  "q": "What is the nature of the force that holds a metallic lattice together?",
+  "columns": null,
+  "options": [
+   "Attraction between shared pairs of electrons and nuclei only",
+   "Repulsion between neighbouring positive ions",
+   "Attraction between positive ions and negative delocalised electrons",
+   "Attraction between metal ions and non-metal ions"
+  ],
+  "answer": 2,
+  "explain": "Oppositely charged ions and electrons attract each other electrostatically; this is stronger than the repulsion between ions."
+ }
+]

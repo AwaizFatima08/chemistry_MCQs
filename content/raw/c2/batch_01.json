@@ -1,0 +1,459 @@
+[
+ {
+  "id": "c2-0001",
+  "sub": "2.2",
+  "level": "core",
+  "q": "Chlorine has proton number 17. Which statement about chlorine is correct?",
+  "columns": null,
+  "options": [
+   "Its electronic configuration is 2,8,7 and it is in Group VII",
+   "Its electronic configuration is 2,8,7 and it is in Group III",
+   "Its electronic configuration is 2,7,8 and it is in Group VII",
+   "Its electronic configuration is 2,8,7 and it is in Period 7"
+  ],
+  "answer": 0,
+  "explain": "17 electrons give 2,8,7. Seven outer electrons means Group VII, and three occupied shells means Period 3."
+ },
+ {
+  "id": "c2-0002",
+  "sub": "2.5",
+  "level": "extended",
+  "q": "Which statement about the carbon atom in a molecule of CO₂ is correct?",
+  "columns": null,
+  "options": [
+   "It shares two pairs of electrons and has two non-bonding pairs",
+   "It shares four pairs of electrons and has no non-bonding pairs",
+   "It shares four pairs of electrons and has two non-bonding pairs",
+   "It shares two pairs of electrons and has no non-bonding pairs"
+  ],
+  "answer": 1,
+  "explain": "Carbon forms two double bonds, so it shares 4 pairs, using all of its 4 outer electrons; no non-bonding pairs remain."
+ },
+ {
+  "id": "c2-0003",
+  "sub": "2.2",
+  "level": "core",
+  "q": "Which electronic configuration belongs to a noble gas?",
+  "columns": null,
+  "options": [
+   "2,8,8",
+   "2,8,7",
+   "2,8,1",
+   "2,8,8,1"
+  ],
+  "answer": 0,
+  "explain": "2,8,8 is argon, with a full outer shell. The others have incomplete outer shells."
+ },
+ {
+  "id": "c2-0004",
+  "sub": "2.4",
+  "level": "core",
+  "q": "What is the formula of potassium bromide?",
+  "columns": null,
+  "options": [
+   "K₂Br",
+   "KBr₂",
+   "KBr",
+   "K₂Br₂"
+  ],
+  "answer": 2,
+  "explain": "Potassium forms K⁺ and bromine forms Br⁻; equal charges mean one of each ion."
+ },
+ {
+  "id": "c2-0005",
+  "sub": "2.6",
+  "level": "core",
+  "q": "Which row correctly describes the electrical conductivity of the two forms of carbon?",
+  "columns": [
+   "Diamond",
+   "Graphite"
+  ],
+  "options": [
+   "conducts | conducts",
+   "does not conduct | does not conduct",
+   "conducts | does not conduct",
+   "does not conduct | conducts"
+  ],
+  "answer": 3,
+  "explain": "All the outer electrons in diamond are used in bonding; graphite has delocalised electrons between its layers."
+ },
+ {
+  "id": "c2-0006",
+  "sub": "2.5",
+  "level": "core",
+  "q": "How many non-bonding pairs of electrons are in the outer shell of nitrogen in ammonia, NH₃?",
+  "columns": null,
+  "options": [
+   "0",
+   "1",
+   "2",
+   "3"
+  ],
+  "answer": 1,
+  "explain": "Nitrogen has 5 outer electrons: 3 are shared with hydrogens and the other 2 form one non-bonding pair."
+ },
+ {
+  "id": "c2-0007",
+  "sub": "2.4",
+  "level": "extended",
+  "q": "Which formula is correct for lithium oxide, made of Li⁺ and O²⁻ ions?",
+  "columns": null,
+  "options": [
+   "Li₂O",
+   "LiO",
+   "LiO₂",
+   "Li₂O₂"
+  ],
+  "answer": 0,
+  "explain": "Two Li⁺ ions (+2) balance one O²⁻ ion (−2)."
+ },
+ {
+  "id": "c2-0008",
+  "sub": "2.3",
+  "level": "core",
+  "q": "Which row correctly gives the numbers of particles in the ion ³⁹₁₉K⁺?",
+  "columns": [
+   "Protons",
+   "Neutrons",
+   "Electrons"
+  ],
+  "options": [
+   "19 | 20 | 18",
+   "19 | 20 | 20",
+   "19 | 39 | 18",
+   "20 | 19 | 18"
+  ],
+  "answer": 0,
+  "explain": "Protons = 19, neutrons = 39 − 19 = 20, and the 1+ charge means one electron fewer than the protons: 18."
+ },
+ {
+  "id": "c2-0009",
+  "sub": "2.2",
+  "level": "core",
+  "q": "Which particle contains 18 electrons?",
+  "columns": null,
+  "options": [
+   "K⁺ (proton number 19)",
+   "Na⁺ (proton number 11)",
+   "Cl (proton number 17)",
+   "Ca (proton number 20)"
+  ],
+  "answer": 0,
+  "explain": "K⁺ has 19 − 1 = 18 electrons. Na⁺ has 10, a chlorine atom has 17 and a calcium atom has 20."
+ },
+ {
+  "id": "c2-0010",
+  "sub": "2.3",
+  "level": "core",
+  "q": "The symbol ¹⁴₇N represents an atom. Which statement is correct?",
+  "columns": null,
+  "options": [
+   "The atom has 7 protons and 7 neutrons",
+   "The atom has 14 protons and 7 neutrons",
+   "The atom has 7 protons and 14 neutrons",
+   "The atom has 7 protons and 21 neutrons"
+  ],
+  "answer": 0,
+  "explain": "The lower number is the proton number (7). Neutrons = 14 − 7 = 7."
+ },
+ {
+  "id": "c2-0011",
+  "sub": "2.2",
+  "level": "core",
+  "q": "Which statement about the proton number (atomic number) is correct?",
+  "columns": null,
+  "options": [
+   "It is the number of protons and neutrons in an atom",
+   "It is the number of neutrons in an atom",
+   "It is the number of protons in the nucleus of an atom",
+   "It is the number of outer shell electrons"
+  ],
+  "answer": 2,
+  "explain": "Proton number is defined as the number of protons in the nucleus, and it identifies the element."
+ },
+ {
+  "id": "c2-0012",
+  "sub": "2.4",
+  "level": "core",
+  "q": "An oxygen atom (2,6) forms an ion. What is the ion?",
+  "columns": null,
+  "options": [
+   "O⁶⁻",
+   "O²⁺",
+   "O⁺",
+   "O²⁻"
+  ],
+  "answer": 3,
+  "explain": "Oxygen gains two electrons to complete its outer shell, giving 2,8 and a charge of 2−."
+ },
+ {
+  "id": "c2-0013",
+  "sub": "2.3",
+  "level": "core",
+  "q": "Which pair of atoms are isotopes of each other?",
+  "columns": null,
+  "options": [
+   "¹⁴₆C and ¹⁴₇N",
+   "¹²₆C and ¹⁴₆C",
+   "¹²₆C and ¹²₅B",
+   "¹⁶₈O and ¹⁴₆C"
+  ],
+  "answer": 1,
+  "explain": "Both carbon atoms have 6 protons but different mass numbers (12 and 14), so they differ in neutron number only."
+ },
+ {
+  "id": "c2-0014",
+  "sub": "2.2",
+  "level": "core",
+  "q": "What is the mass number (nucleon number) of an atom?",
+  "columns": null,
+  "options": [
+   "The number of protons only",
+   "The total number of protons and neutrons in its nucleus",
+   "The total number of protons and electrons",
+   "The number of neutrons only"
+  ],
+  "answer": 1,
+  "explain": "Mass number counts the particles in the nucleus: protons plus neutrons."
+ },
+ {
+  "id": "c2-0015",
+  "sub": "2.3",
+  "level": "core",
+  "q": "How many protons and neutrons are in an atom of ¹²₆C (the number 12 is the mass number, 6 is the proton number)?",
+  "columns": null,
+  "options": [
+   "6 protons and 12 neutrons",
+   "12 protons and 6 neutrons",
+   "12 protons and 12 neutrons",
+   "6 protons and 6 neutrons"
+  ],
+  "answer": 3,
+  "explain": "Protons = 6; neutrons = 12 − 6 = 6."
+ },
+ {
+  "id": "c2-0016",
+  "sub": "2.7",
+  "level": "extended",
+  "q": "Which is the best description of metallic bonding?",
+  "columns": null,
+  "options": [
+   "The attraction between oppositely charged ions in a lattice",
+   "The sharing of pairs of electrons between atoms",
+   "The electrostatic attraction between positive ions in a lattice and a sea of delocalised electrons",
+   "The weak attraction between neutral atoms"
+  ],
+  "answer": 2,
+  "explain": "A metal is a giant lattice of positive ions surrounded by delocalised electrons that are free to move."
+ },
+ {
+  "id": "c2-0017",
+  "sub": "2.5",
+  "level": "core",
+  "q": "How many pairs of electrons are shared in a molecule of methane, CH₄?",
+  "columns": null,
+  "options": [
+   "4",
+   "2",
+   "8",
+   "1"
+  ],
+  "answer": 0,
+  "explain": "Carbon forms four single bonds, one with each hydrogen atom, so four pairs are shared."
+ },
+ {
+  "id": "c2-0018",
+  "sub": "2.7",
+  "level": "extended",
+  "q": "Why are metals malleable?",
+  "columns": null,
+  "options": [
+   "Layers of positive ions can slide over each other while the electrons keep them bonded",
+   "Their atoms are held in separate molecules",
+   "Their ions repel each other when forced",
+   "The bonds between atoms break and re-form with the same partners"
+  ],
+  "answer": 0,
+  "explain": "The sea of electrons holds the ions together even when layers move, so the metal changes shape without breaking."
+ },
+ {
+  "id": "c2-0019",
+  "sub": "2.5",
+  "level": "core",
+  "q": "How many covalent bonds are in one molecule of water, H₂O?",
+  "columns": null,
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "answer": 1,
+  "explain": "The oxygen atom shares one pair of electrons with each of the two hydrogen atoms."
+ },
+ {
+  "id": "c2-0020",
+  "sub": "2.6",
+  "level": "extended",
+  "q": "Which substance has a structure most similar to silicon(IV) oxide?",
+  "columns": null,
+  "options": [
+   "Graphite",
+   "Diamond",
+   "Sodium chloride",
+   "Methane"
+  ],
+  "answer": 1,
+  "explain": "Both diamond and SiO₂ are giant covalent structures in which each atom is bonded to four others."
+ },
+ {
+  "id": "c2-0021",
+  "sub": "2.4",
+  "level": "core",
+  "q": "Which sample of sodium chloride conducts electricity?",
+  "columns": null,
+  "options": [
+   "Solid sodium chloride",
+   "A pressed pellet of solid sodium chloride",
+   "Dry crystals of sodium chloride",
+   "Molten sodium chloride"
+  ],
+  "answer": 3,
+  "explain": "Ions are free to move only when the compound is molten or dissolved in water; they are fixed in position in the solid."
+ },
+ {
+  "id": "c2-0022",
+  "sub": "2.6",
+  "level": "core",
+  "q": "Why is diamond used in cutting tools?",
+  "columns": null,
+  "options": [
+   "It is soft and easily shaped",
+   "It conducts electricity well",
+   "It has layers that slide",
+   "It is very hard because of its strong covalent bonds in all directions"
+  ],
+  "answer": 3,
+  "explain": "Each carbon atom is held by four strong covalent bonds in a rigid structure, making diamond extremely hard."
+ },
+ {
+  "id": "c2-0023",
+  "sub": "2.6",
+  "level": "core",
+  "q": "Diamond has a very high melting point. What is the reason?",
+  "columns": null,
+  "options": [
+   "Many strong covalent bonds must be broken to melt it",
+   "Weak forces between molecules must be overcome",
+   "Strong ionic attractions must be overcome",
+   "The bonds between layers are very strong"
+  ],
+  "answer": 0,
+  "explain": "Diamond is a giant covalent structure, so melting requires breaking large numbers of strong covalent bonds."
+ },
+ {
+  "id": "c2-0024",
+  "sub": "2.3",
+  "level": "extended",
+  "q": "Magnesium has three isotopes: ²⁴Mg (79%), ²⁵Mg (10%) and ²⁶Mg (11%). What is its relative atomic mass, to one decimal place?",
+  "columns": null,
+  "options": [
+   "24.3",
+   "25.0",
+   "24.0",
+   "24.9"
+  ],
+  "answer": 0,
+  "explain": "(79 × 24 + 10 × 25 + 11 × 26) ÷ 100 = (1896 + 250 + 286) ÷ 100 = 24.32, which is 24.3."
+ },
+ {
+  "id": "c2-0025",
+  "sub": "2.2",
+  "level": "extended",
+  "q": "A particle has 17 protons and 18 electrons. Which is correct?",
+  "columns": null,
+  "options": [
+   "It is a neutral atom",
+   "It is a positive ion with a charge of 1+",
+   "It is a negative ion with a charge of 1−",
+   "It is a negative ion with a charge of 2−"
+  ],
+  "answer": 2,
+  "explain": "One more electron than protons gives a net charge of −1, so the particle is an anion (Cl⁻)."
+ },
+ {
+  "id": "c2-0026",
+  "sub": "2.2",
+  "level": "core",
+  "q": "Which particles are found in the nucleus of an atom?",
+  "columns": null,
+  "options": [
+   "Protons and neutrons",
+   "Protons and electrons",
+   "Neutrons and electrons",
+   "Electrons only"
+  ],
+  "answer": 0,
+  "explain": "The nucleus contains protons and neutrons; electrons are found in shells outside the nucleus."
+ },
+ {
+  "id": "c2-0027",
+  "sub": "2.1",
+  "level": "core",
+  "q": "Which statement about the components of a mixture is correct?",
+  "columns": null,
+  "options": [
+   "They are joined by chemical bonds in a fixed ratio",
+   "They always lose their own properties",
+   "They can only be separated by a chemical reaction",
+   "They keep their own properties and can be separated by physical methods"
+  ],
+  "answer": 3,
+  "explain": "The parts of a mixture are not chemically combined, so each keeps its own properties and can be separated by physical methods such as filtration or distillation."
+ },
+ {
+  "id": "c2-0028",
+  "sub": "2.7",
+  "level": "extended",
+  "q": "Why do metals conduct electricity?",
+  "columns": null,
+  "options": [
+   "Delocalised electrons are free to move through the lattice",
+   "Positive ions are free to move through the lattice",
+   "Metals contain negative ions",
+   "Metals contain molecules that carry charge"
+  ],
+  "answer": 0,
+  "explain": "Metal ions are fixed in the lattice, but the delocalised electrons carry charge when a voltage is applied."
+ },
+ {
+  "id": "c2-0029",
+  "sub": "2.6",
+  "level": "core",
+  "q": "Why is graphite used as a lubricant?",
+  "columns": null,
+  "options": [
+   "Its layers can slide over each other easily",
+   "It has very strong covalent bonds between layers",
+   "It is a good insulator",
+   "It has a very low melting point"
+  ],
+  "answer": 0,
+  "explain": "The forces between layers are weak, so the layers slide past each other."
+ },
+ {
+  "id": "c2-0030",
+  "sub": "2.2",
+  "level": "core",
+  "q": "What is the electronic configuration of a chloride ion, Cl⁻ (chlorine has proton number 17)?",
+  "columns": null,
+  "options": [
+   "2,8,7",
+   "2,8,6",
+   "2,8,9",
+   "2,8,8"
+  ],
+  "answer": 3,
+  "explain": "The chlorine atom (2,8,7) gains one electron, giving 18 electrons arranged 2,8,8."
+ }
+]

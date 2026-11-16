@@ -1,0 +1,455 @@
+[
+ {
+  "id": "c12-0031",
+  "sub": "12.3",
+  "level": "core",
+  "q": "In paper chromatography, which substance in a mixture travels the furthest up the paper?",
+  "columns": null,
+  "options": [
+   "the one most soluble in the solvent and least attracted to the paper",
+   "the one least soluble in the solvent and most attracted to the paper",
+   "the one with the darkest colour",
+   "the one that is the most dense"
+  ],
+  "answer": 0,
+  "explain": "A substance that dissolves well in the solvent and sticks weakly to the paper is carried further by the moving solvent."
+ },
+ {
+  "id": "c12-0032",
+  "sub": "12.3",
+  "level": "core",
+  "q": "A black ink is tested by chromatography and gives four separate coloured spots. What does this show?",
+  "columns": null,
+  "options": [
+   "The ink is a single pure substance.",
+   "The ink contains at least four different coloured substances.",
+   "The ink contains exactly one dye in four forms.",
+   "The ink is insoluble in the solvent."
+  ],
+  "answer": 1,
+  "explain": "Each separate spot is a different substance, so there are at least four. Two substances with identical movement would overlap into one spot."
+ },
+ {
+  "id": "c12-0033",
+  "sub": "12.3",
+  "level": "core",
+  "q": "The beaker used for chromatography is often covered with a lid. Why?",
+  "columns": null,
+  "options": [
+   "to make the solvent move faster up the paper",
+   "to stop the solvent evaporating from the beaker",
+   "to keep the paper dry",
+   "to stop the dyes being seen"
+  ],
+  "answer": 1,
+  "explain": "The lid keeps the air saturated with solvent vapour, so the solvent does not evaporate from the paper and the run is more reliable."
+ },
+ {
+  "id": "c12-0034",
+  "sub": "12.3",
+  "level": "core",
+  "q": "Some coloured dyes are insoluble in water. What can be done to separate them by paper chromatography?",
+  "columns": null,
+  "options": [
+   "Use a thicker piece of paper.",
+   "Heat the paper until the dyes dissolve.",
+   "Use a different suitable solvent, such as ethanol.",
+   "Use ink instead of the dyes."
+  ],
+  "answer": 2,
+  "explain": "The solvent must dissolve the substances to be separated, so if water does not dissolve them another solvent such as ethanol is chosen."
+ },
+ {
+  "id": "c12-0035",
+  "sub": "12.3",
+  "level": "core",
+  "q": "Which observation on a chromatogram is evidence that a substance is impure?",
+  "columns": null,
+  "options": [
+   "It forms more than one spot.",
+   "It forms one spot that is not at the solvent front.",
+   "It forms a single coloured spot.",
+   "It stays on the starting line."
+  ],
+  "answer": 0,
+  "explain": "A pure substance produces one spot. More than one spot means more than one substance is present."
+ },
+ {
+  "id": "c12-0036",
+  "sub": "12.3",
+  "level": "core",
+  "q": "Which method can be used to show that a green ink is a mixture of dyes?",
+  "columns": null,
+  "options": [
+   "filtration",
+   "evaporation to dryness",
+   "crystallisation",
+   "paper chromatography with a suitable solvent"
+  ],
+  "answer": 3,
+  "explain": "Chromatography separates soluble coloured substances so each dye appears as a separate spot. The other methods do not separate dyes."
+ },
+ {
+  "id": "c12-0037",
+  "sub": "12.3",
+  "level": "core",
+  "q": "What is a chromatogram?",
+  "columns": null,
+  "options": [
+   "the solvent that moves up the paper",
+   "the paper showing the positions of the separated substances after the run",
+   "the line on which the mixture is first placed",
+   "the substance that does not move"
+  ],
+  "answer": 1,
+  "explain": "A chromatogram is the paper record of the separation: the spots show where each substance finished."
+ },
+ {
+  "id": "c12-0038",
+  "sub": "12.3",
+  "level": "extended",
+  "q": "Amino acids are colourless. What must be done to see their positions on a chromatogram?",
+  "columns": null,
+  "options": [
+   "Run the chromatogram in the dark.",
+   "Use a thicker piece of paper.",
+   "Add more of the amino acids to the starting line.",
+   "Spray the paper with a locating agent that reacts with them to form coloured spots."
+  ],
+  "answer": 3,
+  "explain": "Colourless substances cannot be seen on the paper, so a locating agent that reacts with them to give a colour is applied after the run."
+ },
+ {
+  "id": "c12-0039",
+  "sub": "12.3",
+  "level": "extended",
+  "q": "On a chromatogram a spot travels 3.6 cm while the solvent travels 7.2 cm. What is the Rf value?",
+  "columns": null,
+  "options": [
+   "2.0",
+   "0.36",
+   "0.50",
+   "3.6"
+  ],
+  "answer": 2,
+  "explain": "Rf = distance travelled by the substance ÷ distance travelled by the solvent = 3.6 ÷ 7.2 = 0.50."
+ },
+ {
+  "id": "c12-0040",
+  "sub": "12.3",
+  "level": "extended",
+  "q": "The solvent front moves 8.0 cm up the paper. A substance has an Rf value of 0.35. How far does the substance travel?",
+  "columns": null,
+  "options": [
+   "2.8 cm",
+   "22.9 cm",
+   "8.35 cm",
+   "0.44 cm"
+  ],
+  "answer": 0,
+  "explain": "Distance = Rf × solvent distance = 0.35 × 8.0 = 2.8 cm."
+ },
+ {
+  "id": "c12-0041",
+  "sub": "12.3",
+  "level": "extended",
+  "q": "Which statement about Rf values is correct?",
+  "columns": null,
+  "options": [
+   "An Rf value is measured in cm and can be larger than 1.",
+   "An Rf value is larger when the substance is less soluble in the solvent.",
+   "An Rf value is the distance moved by the solvent divided by that moved by the substance.",
+   "An Rf value has no units and cannot be greater than 1."
+  ],
+  "answer": 3,
+  "explain": "Rf is a ratio of two distances, so it has no units. The substance can never travel further than the solvent, so Rf is never greater than 1."
+ },
+ {
+  "id": "c12-0042",
+  "sub": "12.3",
+  "level": "extended",
+  "q": "In one solvent, substances W, X, Y and Z have Rf values 0.25, 0.40, 0.55 and 0.80. In the same solvent an unknown spot travels 2.2 cm while the solvent front travels 5.5 cm. Which substance is it?",
+  "columns": null,
+  "options": [
+   "W",
+   "Y",
+   "X",
+   "Z"
+  ],
+  "answer": 2,
+  "explain": "Rf of the unknown = 2.2 ÷ 5.5 = 0.40, which matches substance X."
+ },
+ {
+  "id": "c12-0043",
+  "sub": "12.3",
+  "level": "extended",
+  "q": "A student stops a chromatography run earlier than planned, with the same paper and solvent. What happens to the Rf value of a substance?",
+  "columns": null,
+  "options": [
+   "It decreases because the substance has moved a shorter distance.",
+   "It stays the same because both distances change in the same proportion.",
+   "It increases because the solvent has moved a shorter distance.",
+   "It becomes zero."
+  ],
+  "answer": 1,
+  "explain": "Rf is the ratio of the two distances. Stopping earlier shortens both distances proportionally, so the ratio is unchanged."
+ },
+ {
+  "id": "c12-0044",
+  "sub": "12.3",
+  "level": "extended",
+  "q": "In the same solvent, substance P has an Rf value of 0.72 and substance Q has an Rf value of 0.31. Which statement is correct?",
+  "columns": null,
+  "options": [
+   "P is more soluble in the solvent or less attracted to the paper than Q.",
+   "Q travelled further than P.",
+   "P is less soluble in the solvent than Q.",
+   "P and Q must be the same substance."
+  ],
+  "answer": 0,
+  "explain": "The higher Rf value means P travelled further relative to the solvent. That occurs when it dissolves better in the solvent or sticks less to the paper."
+ },
+ {
+  "id": "c12-0045",
+  "sub": "12.4",
+  "level": "core",
+  "q": "Which technique separates undissolved chalk powder from water?",
+  "columns": null,
+  "options": [
+   "simple distillation",
+   "crystallisation",
+   "fractional distillation",
+   "filtration"
+  ],
+  "answer": 3,
+  "explain": "The chalk is insoluble, so it stays on the filter paper as the residue while the water passes through as the filtrate."
+ },
+ {
+  "id": "c12-0046",
+  "sub": "12.4",
+  "level": "core",
+  "q": "Which method is used to obtain crystals of copper(II) sulfate from a solution of copper(II) sulfate?",
+  "columns": null,
+  "options": [
+   "Heat the solution until all the water has evaporated.",
+   "Heat the solution to evaporate some of the water, then leave it to cool so that crystals form.",
+   "Filter the solution and keep the filtrate.",
+   "Distil the solution and collect the distillate."
+  ],
+  "answer": 1,
+  "explain": "Partly evaporating the water gives a hot saturated solution; on cooling the solubility falls, so crystals form. Distilling would collect water, not crystals."
+ },
+ {
+  "id": "c12-0047",
+  "sub": "12.4",
+  "level": "core",
+  "q": "In a simple distillation apparatus, how should cooling water pass through the condenser?",
+  "columns": null,
+  "options": [
+   "in at the top and out at the bottom, so that the jacket drains quickly",
+   "in and out at the same level",
+   "in at the bottom and out at the top, so that the jacket stays full of water",
+   "in at the bottom and out through the flask"
+  ],
+  "answer": 2,
+  "explain": "Water entering at the bottom rises and fills the jacket, so the condenser stays cold along its whole length."
+ },
+ {
+  "id": "c12-0048",
+  "sub": "12.4",
+  "level": "core",
+  "q": "A mixture of ethanol (boiling point 78 °C) and water (boiling point 100 °C) is heated in fractional distillation apparatus. Which liquid is collected first?",
+  "columns": null,
+  "options": [
+   "ethanol, because it has the lower boiling point",
+   "water, because it has the higher boiling point",
+   "ethanol, because it is denser",
+   "water, because it has the lower relative molecular mass"
+  ],
+  "answer": 0,
+  "explain": "The liquid with the lower boiling point evaporates and reaches the top of the column first, so ethanol is collected first."
+ },
+ {
+  "id": "c12-0049",
+  "sub": "12.4",
+  "level": "core",
+  "q": "A mixture contains sand and sodium chloride. Which sequence of steps separates both substances?",
+  "columns": null,
+  "options": [
+   "Add water and stir, filter, then evaporate the filtrate to obtain the salt.",
+   "Heat the mixture strongly and collect the vapour.",
+   "Filter the dry mixture and then add water to the filtrate.",
+   "Add water, evaporate the mixture, then filter the residue."
+  ],
+  "answer": 0,
+  "explain": "Salt dissolves and sand does not. Filtering removes the sand as the residue, and evaporating the salt solution leaves solid sodium chloride."
+ },
+ {
+  "id": "c12-0050",
+  "sub": "12.4",
+  "level": "core",
+  "q": "A student heats an unknown solid and it melts completely between 120 °C and 126 °C. The pure compound melts at 130 °C. What can be concluded?",
+  "columns": null,
+  "options": [
+   "The sample is pure.",
+   "The sample is a different pure substance.",
+   "The sample is an element.",
+   "The sample is impure."
+  ],
+  "answer": 3,
+  "explain": "A pure substance melts sharply at its fixed melting point. Impurities lower the melting point and make the solid melt over a range of temperatures."
+ },
+ {
+  "id": "c12-0051",
+  "sub": "12.4",
+  "level": "core",
+  "q": "A colourless liquid boils over the range 78–84 °C. What does this suggest?",
+  "columns": null,
+  "options": [
+   "The liquid is a pure substance.",
+   "The liquid is an element.",
+   "The liquid is a mixture.",
+   "The liquid is a solid dissolved in water."
+  ],
+  "answer": 2,
+  "explain": "A pure liquid boils at one fixed temperature. A range of boiling temperatures shows that more than one substance is present."
+ },
+ {
+  "id": "c12-0052",
+  "sub": "12.4",
+  "level": "core",
+  "q": "Which row correctly describes how a pure solid and an impure solid melt?",
+  "columns": [
+   "Pure solid",
+   "Impure solid"
+  ],
+  "options": [
+   "melts over a range of temperatures | melts at one sharp temperature",
+   "melts at one sharp temperature | melts over a range of temperatures",
+   "melts at one sharp temperature | melts at a higher sharp temperature",
+   "melts over a range of temperatures | melts over a range at a higher temperature"
+  ],
+  "answer": 1,
+  "explain": "A pure solid has a sharp melting point. Impurities usually lower the melting point and spread the melting over a range."
+ },
+ {
+  "id": "c12-0053",
+  "sub": "12.4",
+  "level": "core",
+  "q": "What is the purpose of the glass beads or rings in a fractionating column?",
+  "columns": null,
+  "options": [
+   "They stop the liquid from boiling.",
+   "They react with the vapours.",
+   "They keep the column hot at the top.",
+   "They provide a large surface area for repeated condensing and evaporating."
+  ],
+  "answer": 3,
+  "explain": "Vapour condenses on the large surface and re-evaporates repeatedly, so the vapour that reaches the top is richer in the more volatile liquid."
+ },
+ {
+  "id": "c12-0054",
+  "sub": "12.4",
+  "level": "core",
+  "q": "A mixture of three miscible liquids X (boiling point 65 °C), Y (82 °C) and Z (118 °C) is separated by fractional distillation. In which order are they collected?",
+  "columns": null,
+  "options": [
+   "X, then Y, then Z",
+   "Z, then Y, then X",
+   "Y, then X, then Z",
+   "X, Y and Z all together"
+  ],
+  "answer": 0,
+  "explain": "Liquids distil in order of increasing boiling point, so the one with the lowest boiling point (X) is collected first."
+ },
+ {
+  "id": "c12-0055",
+  "sub": "12.4",
+  "level": "extended",
+  "q": "Why is crystallisation by cooling a hot saturated solution preferred to evaporating all the water from copper(II) sulfate solution to obtain hydrated crystals?",
+  "columns": null,
+  "options": [
+   "Cooling makes the crystals dissolve in the solvent.",
+   "Evaporating to dryness makes the crystals blue.",
+   "Evaporating to dryness would drive off the water of crystallisation and could leave impurities mixed in the solid.",
+   "Evaporating to dryness is not possible with water."
+  ],
+  "answer": 2,
+  "explain": "Heating strongly removes the water that is part of the hydrated crystals. Crystallising from a saturated solution gives larger, purer crystals."
+ },
+ {
+  "id": "c12-0056",
+  "sub": "12.4",
+  "level": "core",
+  "q": "A mixture of sodium chloride and sand is separated by adding water. Which property difference makes this possible?",
+  "columns": null,
+  "options": [
+   "Sand has a lower melting point than sodium chloride.",
+   "Sodium chloride is soluble in water but sand is not.",
+   "Sodium chloride is magnetic but sand is not.",
+   "Sand is denser than water but sodium chloride is not."
+  ],
+  "answer": 1,
+  "explain": "Adding a suitable solvent dissolves only the soluble substance, which allows the insoluble substance to be removed by filtration."
+ },
+ {
+  "id": "c12-0057",
+  "sub": "12.4",
+  "level": "extended",
+  "q": "Aqueous sodium chloride boils at 103 °C at normal atmospheric pressure. What does this show?",
+  "columns": null,
+  "options": [
+   "It is pure water, because boiling points vary.",
+   "It is pure water at higher pressure.",
+   "It is pure sodium chloride.",
+   "It is not pure water, because the dissolved salt raises the boiling point."
+  ],
+  "answer": 3,
+  "explain": "Pure water boils at 100 °C at normal pressure. Dissolved impurities raise the boiling point, so 103 °C shows the liquid is a solution."
+ },
+ {
+  "id": "c12-0058",
+  "sub": "12.4",
+  "level": "core",
+  "q": "Seawater is separated by simple distillation. What collects in the receiving flask?",
+  "columns": null,
+  "options": [
+   "pure water, as the distillate",
+   "salt, as the residue",
+   "seawater with less salt",
+   "a mixture of salt and water vapour"
+  ],
+  "answer": 0,
+  "explain": "Water evaporates and condenses in the condenser, so it is collected as the distillate. The salt stays in the distillation flask."
+ },
+ {
+  "id": "c12-0059",
+  "sub": "12.4",
+  "level": "core",
+  "q": "In a simple distillation, where should the bulb of the thermometer be placed?",
+  "columns": null,
+  "options": [
+   "in the liquid at the bottom of the flask",
+   "in the condenser",
+   "level with the side arm of the flask, in the vapour",
+   "in the receiving flask"
+  ],
+  "answer": 2,
+  "explain": "The thermometer is meant to read the temperature of the vapour that is about to leave the flask, which is the boiling point of the liquid."
+ },
+ {
+  "id": "c12-0060",
+  "sub": "12.4",
+  "level": "core",
+  "q": "Four pure solids melt at these temperatures: P 41 °C, Q 80 °C, R 114 °C, S 135 °C. An unknown pure solid melts sharply at 80 °C. Which is it most likely to be?",
+  "columns": null,
+  "options": [
+   "P",
+   "Q",
+   "R",
+   "S"
+  ],
+  "answer": 1,
+  "explain": "A pure substance has a specific melting point, so an unknown that melts sharply at 80 °C is most likely to be Q."
+ }
+]

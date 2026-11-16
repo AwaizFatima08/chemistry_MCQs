@@ -1,0 +1,463 @@
+[
+ {
+  "id": "c11-0061",
+  "sub": "11.7",
+  "level": "extended",
+  "q": "How is ethanoic acid made in vinegar production?",
+  "columns": null,
+  "options": [
+   "Yeast reduces ethanol with hydrogen.",
+   "Ethene is hydrated using steam and an acid catalyst.",
+   "Bacteria oxidise ethanol using oxygen from the air.",
+   "Ethanol is cracked at high temperature."
+  ],
+  "answer": 2,
+  "explain": "In vinegar production bacteria oxidise ethanol in dilute alcoholic drinks such as wine to ethanoic acid."
+ },
+ {
+  "id": "c11-0062",
+  "sub": "11.8",
+  "level": "extended",
+  "q": "Which pair of monomers forms a polyester?",
+  "columns": null,
+  "options": [
+   "a dicarboxylic acid and a diamine",
+   "a dicarboxylic acid and a diol",
+   "an alkene and a diol",
+   "two different alkenes"
+  ],
+  "answer": 1,
+  "explain": "A polyester forms when a dicarboxylic acid reacts with a diol. The ester links form with loss of water."
+ },
+ {
+  "id": "c11-0063",
+  "sub": "11.5",
+  "level": "extended",
+  "q": "Ethene reacts with steam at 300 °C and 60 atm. What is the structural formula of the product?",
+  "columns": null,
+  "options": [
+   "CH₃CH₃",
+   "CH₃CH₂OH",
+   "CH₃COOH",
+   "CH₂=CHOH"
+  ],
+  "answer": 1,
+  "explain": "Steam adds across the C=C bond in the presence of an acid catalyst to make ethanol."
+ },
+ {
+  "id": "c11-0064",
+  "sub": "11.1",
+  "level": "extended",
+  "q": "Why is the molecular formula C₂H₆O not an unambiguous description of ethanol?",
+  "columns": null,
+  "options": [
+   "It does not show how the atoms are arranged, so it could also be CH₃OCH₃.",
+   "It does not show the number of carbon atoms in the molecule.",
+   "It does not show which elements are present in the molecule.",
+   "It shows the compound as an ionic substance."
+  ],
+  "answer": 0,
+  "explain": "A molecular formula gives only the atoms present. CH₃CH₂OH and CH₃OCH₃ share the formula C₂H₆O, so the structural formula is needed to be unambiguous."
+ },
+ {
+  "id": "c11-0065",
+  "sub": "11.2",
+  "level": "extended",
+  "q": "An ester is made from ethanol and propanoic acid. What is its name?",
+  "columns": null,
+  "options": [
+   "propyl ethanoate",
+   "ethyl ethanoate",
+   "propyl propanoate",
+   "ethyl propanoate"
+  ],
+  "answer": 3,
+  "explain": "The alcohol provides the first part of the name (ethyl) and the acid provides the second part (propanoate), so the ester is ethyl propanoate."
+ },
+ {
+  "id": "c11-0066",
+  "sub": "11.3",
+  "level": "core",
+  "q": "Which fraction of petroleum is used as jet fuel?",
+  "columns": null,
+  "options": [
+   "kerosene / paraffin",
+   "gasoline / petrol",
+   "diesel oil",
+   "naphtha"
+  ],
+  "answer": 0,
+  "explain": "Kerosene is used as aircraft fuel. Gasoline is the fuel for cars and diesel oil is for diesel engines."
+ },
+ {
+  "id": "c11-0067",
+  "sub": "11.4",
+  "level": "core",
+  "q": "A student bubbles ethane through aqueous bromine. What is observed?",
+  "columns": null,
+  "options": [
+   "The aqueous bromine turns colourless.",
+   "The aqueous bromine turns purple.",
+   "The aqueous bromine stays orange.",
+   "A white precipitate forms."
+  ],
+  "answer": 2,
+  "explain": "Ethane is a saturated alkane and does not react with aqueous bromine under these conditions, so there is no colour change."
+ },
+ {
+  "id": "c11-0068",
+  "sub": "11.8",
+  "level": "extended",
+  "q": "Which row correctly describes condensation polymerisation?",
+  "columns": [
+   "Monomer feature",
+   "Products"
+  ],
+  "options": [
+   "one C=C per monomer | polymer only",
+   "two functional groups per monomer | polymer and a small molecule",
+   "two functional groups per monomer | polymer only",
+   "one C=C per monomer | polymer and a small molecule"
+  ],
+  "answer": 1,
+  "explain": "Condensation monomers have two functional groups, and a small molecule such as water is lost as each link forms. Addition polymerisation needs C=C and gives only the polymer."
+ },
+ {
+  "id": "c11-0069",
+  "sub": "11.6",
+  "level": "extended",
+  "q": "What is a disadvantage of making ethanol by fermentation?",
+  "columns": null,
+  "options": [
+   "It is a slow batch process that gives a dilute, impure product.",
+   "It needs a very high pressure.",
+   "It uses a non-renewable raw material.",
+   "It produces a pure product that needs no further processing."
+  ],
+  "answer": 0,
+  "explain": "Fermentation gives a dilute mixture, so the ethanol must be separated by distillation, and each batch takes days."
+ },
+ {
+  "id": "c11-0070",
+  "sub": "11.7",
+  "level": "extended",
+  "q": "What is formed when ethanoic acid reacts with ethanol in the presence of an acid catalyst?",
+  "columns": null,
+  "options": [
+   "ethyl ethanoate and hydrogen",
+   "ethyl ethanoate and water",
+   "ethanol and ethanoic acid",
+   "diethyl ether and carbon dioxide"
+  ],
+  "answer": 1,
+  "explain": "A carboxylic acid and an alcohol react to form an ester and water: CH₃COOH + C₂H₅OH ⇌ CH₃COOC₂H₅ + H₂O."
+ },
+ {
+  "id": "c11-0071",
+  "sub": "11.5",
+  "level": "extended",
+  "q": "Which equation shows propene reacting with hydrogen?",
+  "columns": null,
+  "options": [
+   "CH₃CH=CH₂ + H₂ → CH₃CH=CH₃",
+   "CH₃CH=CH₂ + H₂ → CH₃CH₂CH₃",
+   "CH₃CH=CH₂ + H₂ → CH₃CH₂CH₂H",
+   "CH₃CH=CH₂ + H₂ → CH₃CH₂CH₂OH"
+  ],
+  "answer": 1,
+  "explain": "Hydrogen adds across the double bond to form the saturated alkane propane, CH₃CH₂CH₃. The other formulae are incorrect."
+ },
+ {
+  "id": "c11-0072",
+  "sub": "11.8",
+  "level": "extended",
+  "q": "What can be done with PET plastic?",
+  "columns": null,
+  "options": [
+   "It can be cracked to form crude oil.",
+   "It can be converted back into monomers and re-polymerised.",
+   "It can be fermented to form ethanol.",
+   "It can be dissolved to form alkenes."
+  ],
+  "answer": 1,
+  "explain": "PET can be broken down to its monomers and the monomers re-polymerised to make new PET."
+ },
+ {
+  "id": "c11-0073",
+  "sub": "11.1",
+  "level": "core",
+  "q": "The displayed formula of ethene shows every atom and bond. How many covalent bonds does it show, counting the double bond as two bonds?",
+  "columns": null,
+  "options": [
+   "6",
+   "5",
+   "7",
+   "8"
+  ],
+  "answer": 0,
+  "explain": "Ethene (C₂H₄) has four C–H bonds and one C=C double bond, which counts as two bonds, giving 4 + 2 = 6."
+ },
+ {
+  "id": "c11-0074",
+  "sub": "11.2",
+  "level": "extended",
+  "q": "What is the name of the ester with the formula CH₃COOCH₃?",
+  "columns": null,
+  "options": [
+   "ethyl methanoate",
+   "methyl methanoate",
+   "ethyl ethanoate",
+   "methyl ethanoate"
+  ],
+  "answer": 3,
+  "explain": "The acid part has two carbons (ethanoate) and the alcohol part has one (methyl), so it is methyl ethanoate."
+ },
+ {
+  "id": "c11-0075",
+  "sub": "11.3",
+  "level": "extended",
+  "q": "Which fraction of petroleum is used as a chemical feedstock?",
+  "columns": null,
+  "options": [
+   "fuel oil",
+   "bitumen",
+   "naphtha",
+   "refinery gas"
+  ],
+  "answer": 2,
+  "explain": "Naphtha is used as a feedstock for making many other chemicals. Refinery gas is used for heating and cooking."
+ },
+ {
+  "id": "c11-0076",
+  "sub": "11.4",
+  "level": "extended",
+  "q": "What is a substitution reaction?",
+  "columns": null,
+  "options": [
+   "One atom or group of atoms is replaced by another atom or group of atoms.",
+   "Two molecules combine to form one product.",
+   "One large molecule breaks into smaller molecules.",
+   "Atoms are added across a carbon–carbon double bond."
+  ],
+  "answer": 0,
+  "explain": "In substitution an atom or group is replaced, such as H replaced by Cl in an alkane. Addition reactions join two molecules into one product."
+ },
+ {
+  "id": "c11-0077",
+  "sub": "11.8",
+  "level": "extended",
+  "q": "What are proteins?",
+  "columns": null,
+  "options": [
+   "natural polyesters made from sugar monomers",
+   "addition polymers made from alkene monomers",
+   "natural polyamides made from amino acid monomers",
+   "synthetic polyamides made from diamines"
+  ],
+  "answer": 2,
+  "explain": "Proteins are natural polymers with amide links, formed from amino acid monomers."
+ },
+ {
+  "id": "c11-0078",
+  "sub": "11.6",
+  "level": "core",
+  "q": "Why is air kept out during the fermentation of glucose to make ethanol?",
+  "columns": null,
+  "options": [
+   "Oxygen would make the yeast produce carbon dioxide.",
+   "Oxygen would make the glucose insoluble.",
+   "Oxygen would raise the temperature to 300 °C.",
+   "Oxygen would oxidise the ethanol to ethanoic acid."
+  ],
+  "answer": 3,
+  "explain": "In air the ethanol is oxidised by bacteria to ethanoic acid, so the mixture would turn into vinegar."
+ },
+ {
+  "id": "c11-0079",
+  "sub": "11.7",
+  "level": "extended",
+  "q": "Which structural formula represents the ester formed from ethanoic acid and methanol?",
+  "columns": null,
+  "options": [
+   "CH₃CH₂COOH",
+   "HCOOCH₂CH₃",
+   "CH₃OCH₃",
+   "CH₃COOCH₃"
+  ],
+  "answer": 3,
+  "explain": "The ester link –COO– joins the two parts: CH₃CO– from the acid and –OCH₃ from methanol, giving CH₃COOCH₃ (methyl ethanoate)."
+ },
+ {
+  "id": "c11-0080",
+  "sub": "11.5",
+  "level": "extended",
+  "q": "But-2-ene reacts with bromine. What is the structural formula of the product?",
+  "columns": null,
+  "options": [
+   "CH₃CH₂CHBrCH₃",
+   "CH₂BrCH₂CH₂CH₃",
+   "CH₃CHBrCHBrCH₃",
+   "CH₃CH=CBr₂CH₃"
+  ],
+  "answer": 2,
+  "explain": "One Br atom adds to each carbon of the C=C bond, giving CH₃CHBrCHBrCH₃ (2,3-dibromobutane)."
+ },
+ {
+  "id": "c11-0081",
+  "sub": "11.1",
+  "level": "core",
+  "q": "Which row correctly describes ethene?",
+  "columns": [
+   "General formula",
+   "Carbon–carbon bonding",
+   "Saturated or unsaturated"
+  ],
+  "options": [
+   "CₙH₂ₙ₊₂ | contains a C=C double bond | unsaturated",
+   "CₙH₂ₙ | contains only single C–C bonds | saturated",
+   "CₙH₂ₙ₊₂ | contains only single C–C bonds | unsaturated",
+   "CₙH₂ₙ | contains a C=C double bond | unsaturated"
+  ],
+  "answer": 3,
+  "explain": "Ethene is an alkene (CₙH₂ₙ) with a C=C double bond, so it is unsaturated."
+ },
+ {
+  "id": "c11-0082",
+  "sub": "11.2",
+  "level": "core",
+  "q": "Ethene reacts with steam in the presence of an acid catalyst. What is the name of the product?",
+  "columns": null,
+  "options": [
+   "ethane",
+   "ethanoic acid",
+   "ethyl ethanoate",
+   "ethanol"
+  ],
+  "answer": 3,
+  "explain": "Steam adds across the C=C bond of ethene to form ethanol, CH₃CH₂OH."
+ },
+ {
+  "id": "c11-0083",
+  "sub": "11.3",
+  "level": "core",
+  "q": "Which fraction of petroleum is used as a fuel for ships and for home heating systems?",
+  "columns": null,
+  "options": [
+   "lubricating oil",
+   "fuel oil",
+   "gasoline / petrol",
+   "kerosene / paraffin"
+  ],
+  "answer": 1,
+  "explain": "Fuel oil is burned in ships and in home heating systems. Lubricating oil is used for lubricants, waxes and polishes."
+ },
+ {
+  "id": "c11-0084",
+  "sub": "11.8",
+  "level": "extended",
+  "q": "Which two functional groups does every amino acid molecule contain?",
+  "columns": null,
+  "options": [
+   "an amino group, –NH₂, and a carboxylic acid group, –COOH",
+   "a hydroxyl group, –OH, and an ester group, –COO–",
+   "two carboxylic acid groups, –COOH",
+   "two amino groups, –NH₂"
+  ],
+  "answer": 0,
+  "explain": "Amino acids have an –NH₂ group at one end and a –COOH group at the other. They link through these groups to make the amide bonds in a protein."
+ },
+ {
+  "id": "c11-0085",
+  "sub": "11.4",
+  "level": "extended",
+  "q": "Which row correctly describes the reaction of methane with chlorine to form chloromethane?",
+  "columns": [
+   "Type of reaction",
+   "Condition",
+   "Number of products"
+  ],
+  "options": [
+   "addition | ultraviolet light | one product",
+   "substitution | no light needed | two products",
+   "addition | no light needed | two products",
+   "substitution | ultraviolet light | two products"
+  ],
+  "answer": 3,
+  "explain": "Methane and chlorine undergo a photochemical substitution reaction that forms CH₃Cl and HCl."
+ },
+ {
+  "id": "c11-0086",
+  "sub": "11.5",
+  "level": "core",
+  "q": "Which substances can be manufactured by the cracking of larger alkane molecules?",
+  "columns": null,
+  "options": [
+   "alcohols and oxygen",
+   "alkenes and carbon dioxide",
+   "alkenes and hydrogen",
+   "carboxylic acids and water"
+  ],
+  "answer": 2,
+  "explain": "Cracking breaks alkanes into shorter alkanes, alkenes and hydrogen."
+ },
+ {
+  "id": "c11-0087",
+  "sub": "11.8",
+  "level": "extended",
+  "q": "Which statement about nylon and protein is correct?",
+  "columns": null,
+  "options": [
+   "Both contain the amide link –CONH–.",
+   "Both are made by addition polymerisation.",
+   "Both contain the ester link –COO–.",
+   "Both are made from alkene monomers."
+  ],
+  "answer": 0,
+  "explain": "Nylon and proteins are polyamides made by condensation polymerisation and both have –CONH– links."
+ },
+ {
+  "id": "c11-0088",
+  "sub": "11.6",
+  "level": "core",
+  "q": "Which gas is also produced during the fermentation of aqueous glucose by yeast?",
+  "columns": null,
+  "options": [
+   "carbon dioxide",
+   "hydrogen",
+   "oxygen",
+   "ethene"
+  ],
+  "answer": 0,
+  "explain": "Fermentation produces ethanol and carbon dioxide. The carbon dioxide turns limewater milky."
+ },
+ {
+  "id": "c11-0089",
+  "sub": "11.7",
+  "level": "core",
+  "q": "Which gas is produced when ethanoic acid reacts with zinc?",
+  "columns": null,
+  "options": [
+   "carbon dioxide",
+   "hydrogen",
+   "oxygen",
+   "chlorine"
+  ],
+  "answer": 1,
+  "explain": "Acids react with reactive metals to produce hydrogen, which gives a squeaky pop with a lighted splint."
+ },
+ {
+  "id": "c11-0090",
+  "sub": "11.1",
+  "level": "extended",
+  "q": "Which compound is a structural isomer of but-1-ene, CH₃CH₂CH=CH₂?",
+  "columns": null,
+  "options": [
+   "CH₃CH₂CH₂CH₃",
+   "CH₂=CHCH₃",
+   "CH₃CH=CHCH₃",
+   "CH₃CH₂CH₂CH₂OH"
+  ],
+  "answer": 2,
+  "explain": "CH₃CH=CHCH₃ (but-2-ene) is C₄H₈ like but-1-ene but has the double bond in a different position. The others have different molecular formulae."
+ }
+]

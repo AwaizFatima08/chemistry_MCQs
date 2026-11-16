@@ -1,0 +1,459 @@
+[
+ {
+  "id": "c6-0061",
+  "sub": "6.3",
+  "level": "extended",
+  "q": "Why must a reversible reaction be carried out in a closed system for equilibrium to be reached?",
+  "columns": null,
+  "options": [
+   "So that no reactants or products can escape",
+   "So that a catalyst can be added",
+   "So that the forward reaction is faster than the reverse reaction",
+   "So that heat can escape"
+  ],
+  "answer": 0,
+  "explain": "If a gas could escape, the reaction mixture could not be returned to the reactants and equilibrium would not be reached."
+ },
+ {
+  "id": "c6-0062",
+  "sub": "6.3",
+  "level": "extended",
+  "q": "For the reaction 2SO₂(g) + O₂(g) ⇌ 2SO₃(g) at equilibrium, which statement is correct?",
+  "columns": null,
+  "options": [
+   "Both the forward and reverse reactions are still taking place",
+   "Only the forward reaction is taking place",
+   "Neither reaction is taking place",
+   "Only the reverse reaction is taking place"
+  ],
+  "answer": 0,
+  "explain": "Equilibrium is dynamic. Both reactions continue but at equal rates, so there is no overall change."
+ },
+ {
+  "id": "c6-0063",
+  "sub": "6.3",
+  "level": "extended",
+  "q": "Which symbol equation represents the reaction in the Haber process?",
+  "columns": null,
+  "options": [
+   "2N₂(g) + 3H₂(g) ⇌ 4NH₃(g)",
+   "N₂(g) + 3H₂(g) ⇌ 2NH₃(g)",
+   "N₂(g) + 2H₂(g) ⇌ 2NH₃(g)",
+   "N₂(g) + H₂(g) ⇌ NH₃(g)"
+  ],
+  "answer": 1,
+  "explain": "Only N₂ + 3H₂ ⇌ 2NH₃ has equal numbers of N atoms (2) and H atoms (6) on each side."
+ },
+ {
+  "id": "c6-0064",
+  "sub": "6.3",
+  "level": "extended",
+  "q": "Which row correctly gives a raw material and its source for the Haber process?",
+  "columns": [
+   "Raw material",
+   "Source"
+  ],
+  "options": [
+   "Hydrogen | liquid air",
+   "Nitrogen | methane",
+   "Hydrogen | air",
+   "Nitrogen | air"
+  ],
+  "answer": 3,
+  "explain": "Nitrogen comes from the air. Hydrogen comes from methane (natural gas)."
+ },
+ {
+  "id": "c6-0065",
+  "sub": "6.3",
+  "level": "extended",
+  "q": "Which are the typical conditions used in the Haber process?",
+  "columns": null,
+  "options": [
+   "25 °C, 200 atm, platinum catalyst",
+   "450 °C, 200 atm, vanadium(V) oxide catalyst",
+   "450 °C, 200 atm, iron catalyst",
+   "450 °C, 2 atm, iron catalyst"
+  ],
+  "answer": 2,
+  "explain": "The Haber process uses about 450 °C, 20 000 kPa (200 atm) and an iron catalyst."
+ },
+ {
+  "id": "c6-0066",
+  "sub": "6.3",
+  "level": "extended",
+  "q": "Which are the typical conditions used for the conversion of sulfur dioxide to sulfur trioxide in the Contact process?",
+  "columns": null,
+  "options": [
+   "450 °C, 2 atm, vanadium(V) oxide catalyst",
+   "450 °C, 200 atm, iron catalyst",
+   "450 °C, 200 atm, vanadium(V) oxide catalyst",
+   "450 °C, 2 atm, iron catalyst"
+  ],
+  "answer": 0,
+  "explain": "The Contact process uses about 450 °C, 200 kPa (2 atm) and a vanadium(V) oxide catalyst."
+ },
+ {
+  "id": "c6-0067",
+  "sub": "6.3",
+  "level": "extended",
+  "q": "Which equation shows the conversion of sulfur dioxide to sulfur trioxide in the Contact process?",
+  "columns": null,
+  "options": [
+   "S(s) + O₂(g) ⇌ SO₂(g)",
+   "2SO₂(g) + 2O₂(g) ⇌ 2SO₃(g)",
+   "2SO₂(g) + O₂(g) ⇌ 2SO₃(g)",
+   "SO₂(g) + O₂(g) ⇌ SO₃(g)"
+  ],
+  "answer": 2,
+  "explain": "2SO₂ + O₂ ⇌ 2SO₃ has 2 S atoms and 6 O atoms on each side. The others are unbalanced or show a different reaction."
+ },
+ {
+  "id": "c6-0068",
+  "sub": "6.3",
+  "level": "extended",
+  "q": "What are the sources of sulfur dioxide for the Contact process?",
+  "columns": null,
+  "options": [
+   "Neutralising sulfuric acid with ammonia",
+   "Cracking crude oil",
+   "Fractional distillation of liquid air",
+   "Burning sulfur or roasting sulfide ores in air"
+  ],
+  "answer": 3,
+  "explain": "Sulfur dioxide is made by burning sulfur in air or by roasting metal sulfide ores. Oxygen comes from the air."
+ },
+ {
+  "id": "c6-0069",
+  "sub": "6.3",
+  "level": "extended",
+  "q": "The forward reaction in the Haber process, N₂(g) + 3H₂(g) ⇌ 2NH₃(g), is exothermic. What happens to the equilibrium yield of ammonia if the temperature is increased at constant pressure?",
+  "columns": null,
+  "options": [
+   "It increases, because the equilibrium shifts to the right",
+   "It increases, because the rate of reaction increases",
+   "It stays the same",
+   "It decreases, because the equilibrium shifts to the left"
+  ],
+  "answer": 3,
+  "explain": "Increasing the temperature favours the endothermic (reverse) direction, so the equilibrium shifts to the left and less ammonia is present."
+ },
+ {
+  "id": "c6-0070",
+  "sub": "6.3",
+  "level": "extended",
+  "q": "Why does increasing the pressure increase the equilibrium yield of ammonia in N₂(g) + 3H₂(g) ⇌ 2NH₃(g)?",
+  "columns": null,
+  "options": [
+   "The reaction is exothermic, so high pressure favours it",
+   "There are fewer gas molecules on the right, so the equilibrium shifts to the right",
+   "High pressure acts as a catalyst",
+   "There are more gas molecules on the right, so the equilibrium shifts to the right"
+  ],
+  "answer": 1,
+  "explain": "There are 4 gas molecules on the left and 2 on the right. Higher pressure favours the side with fewer gas molecules."
+ },
+ {
+  "id": "c6-0071",
+  "sub": "6.3",
+  "level": "extended",
+  "q": "The reaction H₂(g) + I₂(g) ⇌ 2HI(g) is at equilibrium. What is the effect of increasing the pressure at constant temperature?",
+  "columns": null,
+  "options": [
+   "The position of equilibrium does not change, as there are equal numbers of gas molecules on both sides",
+   "The reaction stops",
+   "The equilibrium shifts to the left",
+   "The equilibrium shifts to the right"
+  ],
+  "answer": 0,
+  "explain": "There are 2 gas molecules on each side, so pressure does not favour either direction."
+ },
+ {
+  "id": "c6-0072",
+  "sub": "6.3",
+  "level": "extended",
+  "q": "The equilibrium 2NO₂(g) ⇌ N₂O₄(g) has NO₂ as a brown gas and N₂O₄ as a colourless gas. The forward reaction is exothermic. A sealed tube of the equilibrium mixture is cooled. What is observed?",
+  "columns": null,
+  "options": [
+   "The mixture becomes paler as the equilibrium shifts to the right",
+   "The colour does not change",
+   "The mixture becomes paler as the equilibrium shifts to the left",
+   "The mixture becomes darker brown as the equilibrium shifts to the left"
+  ],
+  "answer": 0,
+  "explain": "Cooling favours the exothermic forward reaction, so more colourless N₂O₄ forms and the brown colour fades."
+ },
+ {
+  "id": "c6-0073",
+  "sub": "6.3",
+  "level": "extended",
+  "q": "In the Haber process, ammonia is removed as it forms. What is the effect on the position of equilibrium?",
+  "columns": null,
+  "options": [
+   "It shifts to the right, so more ammonia is formed",
+   "The reaction can no longer take place",
+   "It does not change",
+   "It shifts to the left, so less ammonia is formed"
+  ],
+  "answer": 0,
+  "explain": "Removing a product lowers its concentration, so the system makes more of it to restore equilibrium."
+ },
+ {
+  "id": "c6-0074",
+  "sub": "6.3",
+  "level": "extended",
+  "q": "What is the effect of the iron catalyst on the Haber process?",
+  "columns": null,
+  "options": [
+   "It shifts the equilibrium to the left",
+   "It shifts the equilibrium to the right",
+   "It does not change the position of equilibrium but equilibrium is reached faster",
+   "Equilibrium is never reached"
+  ],
+  "answer": 2,
+  "explain": "A catalyst speeds up the forward and reverse reactions equally, so equilibrium is reached sooner but the position is unchanged."
+ },
+ {
+  "id": "c6-0075",
+  "sub": "6.3",
+  "level": "extended",
+  "q": "Why is a temperature of 450 °C used in the Haber process rather than a much lower temperature?",
+  "columns": null,
+  "options": [
+   "A lower temperature would decrease the rate and also decrease the yield",
+   "A lower temperature would give too slow a rate, so 450 °C is a compromise between rate and yield",
+   "450 °C gives the highest possible yield of ammonia",
+   "A lower temperature would increase the rate but decrease the yield"
+  ],
+  "answer": 1,
+  "explain": "The forward reaction is exothermic, so a low temperature gives a higher yield but too slow a rate. 450 °C gives an acceptable rate and yield."
+ },
+ {
+  "id": "c6-0076",
+  "sub": "6.3",
+  "level": "extended",
+  "q": "Why is a pressure much higher than 200 atm not used in the Haber process?",
+  "columns": null,
+  "options": [
+   "Higher pressure would decrease the equilibrium yield of ammonia",
+   "Higher pressure would decrease the rate of reaction",
+   "The equipment would be very expensive to build and run, and more dangerous",
+   "The iron catalyst stops working above 200 atm"
+  ],
+  "answer": 2,
+  "explain": "Higher pressure increases the yield but needs stronger, more costly equipment and creates a greater safety risk, so 200 atm is a compromise."
+ },
+ {
+  "id": "c6-0077",
+  "sub": "6.3",
+  "level": "extended",
+  "q": "Why is the Contact process carried out at only about 2 atm?",
+  "columns": null,
+  "options": [
+   "Vanadium(V) oxide does not work above 2 atm",
+   "Higher pressure would shift the equilibrium to the left",
+   "Sulfur dioxide would become a solid at higher pressure",
+   "The yield of sulfur trioxide is already high, so higher pressure would add cost for little gain"
+  ],
+  "answer": 3,
+  "explain": "The conversion of SO₂ to SO₃ is high at about 2 atm and 450 °C. High-pressure equipment would add cost and safety risk with little extra yield."
+ },
+ {
+  "id": "c6-0078",
+  "sub": "6.3",
+  "level": "extended",
+  "q": "The forward reaction in the Contact process is exothermic. Why is a temperature of 450 °C used instead of 100 °C?",
+  "columns": null,
+  "options": [
+   "At 100 °C the vanadium(V) oxide catalyst would be used up",
+   "At 100 °C the yield of sulfur trioxide would be lower",
+   "At 100 °C the rate would be too slow, even though the equilibrium yield would be higher",
+   "At 450 °C the equilibrium yield is the highest possible"
+  ],
+  "answer": 2,
+  "explain": "Lower temperature favours the exothermic forward reaction but the rate becomes too slow. 450 °C is a compromise."
+ },
+ {
+  "id": "c6-0079",
+  "sub": "6.3",
+  "level": "extended",
+  "q": "What is the purpose of the vanadium(V) oxide catalyst in the Contact process?",
+  "columns": null,
+  "options": [
+   "To increase the rate at which equilibrium is reached",
+   "To react permanently with oxygen",
+   "To increase the equilibrium yield of sulfur trioxide",
+   "To supply the sulfur dioxide"
+  ],
+  "answer": 0,
+  "explain": "The catalyst makes the reaction faster but does not change the position of equilibrium."
+ },
+ {
+  "id": "c6-0080",
+  "sub": "6.3",
+  "level": "extended",
+  "q": "In the Haber process the unreacted nitrogen and hydrogen are recycled to the reactor. What is the reason?",
+  "columns": null,
+  "options": [
+   "The gases must be cooled before they are used",
+   "The reaction cannot start without recycled gases",
+   "The recycled gases act as a catalyst",
+   "Only part of the mixture reacts on each pass, and recycling avoids wasting the reactants"
+  ],
+  "answer": 3,
+  "explain": "At equilibrium the mixture still contains much unreacted gas, so recycling it makes use of all the reactants and saves money."
+ },
+ {
+  "id": "c6-0081",
+  "sub": "6.3",
+  "level": "extended",
+  "q": "Which row correctly describes the Haber process?",
+  "columns": [
+   "Process",
+   "Raw materials",
+   "Catalyst"
+  ],
+  "options": [
+   "Contact | nitrogen from air, hydrogen from methane | vanadium(V) oxide",
+   "Haber | nitrogen from air, hydrogen from methane | iron",
+   "Contact | sulfur dioxide from burning sulfur, oxygen from air | iron",
+   "Haber | nitrogen from air, hydrogen from methane | vanadium(V) oxide"
+  ],
+  "answer": 1,
+  "explain": "The Haber process uses nitrogen from air and hydrogen from methane with an iron catalyst. The Contact process uses vanadium(V) oxide and different raw materials."
+ },
+ {
+  "id": "c6-0082",
+  "sub": "6.3",
+  "level": "extended",
+  "q": "For a reversible reaction the forward reaction is endothermic. Which change increases the yield of products at equilibrium?",
+  "columns": null,
+  "options": [
+   "Increasing the temperature",
+   "Decreasing the temperature",
+   "Adding a catalyst and decreasing the temperature",
+   "Adding a catalyst"
+  ],
+  "answer": 0,
+  "explain": "Raising the temperature favours the endothermic direction, so the equilibrium shifts towards the products. A catalyst does not change the position."
+ },
+ {
+  "id": "c6-0083",
+  "sub": "6.3",
+  "level": "extended",
+  "q": "A reversible reaction starts with only reactants and reaches equilibrium in a closed system. Which statement about the rates is correct?",
+  "columns": null,
+  "options": [
+   "The reverse rate is always greater than the forward rate",
+   "The forward rate increases until it is zero",
+   "The forward rate decreases and the reverse rate increases until they are equal",
+   "The rates stay different but the concentrations stop changing"
+  ],
+  "answer": 2,
+  "explain": "The forward rate falls as reactants are used, and the reverse rate rises as products build up. At equilibrium they are equal."
+ },
+ {
+  "id": "c6-0084",
+  "sub": "6.3",
+  "level": "extended",
+  "q": "In the Haber process N₂(g) + 3H₂(g) ⇌ 2NH₃(g), what is the maximum amount of ammonia that could be made from 3.0 mol of hydrogen with excess nitrogen if the reaction went to completion?",
+  "columns": null,
+  "options": [
+   "2.0 mol",
+   "1.5 mol",
+   "3.0 mol",
+   "6.0 mol"
+  ],
+  "answer": 0,
+  "explain": "The mole ratio H₂ : NH₃ is 3 : 2, so 3.0 mol of H₂ gives 3.0 × 2/3 = 2.0 mol of NH₃."
+ },
+ {
+  "id": "c6-0085",
+  "sub": "6.4",
+  "level": "core",
+  "q": "What is the name of the compound with formula Fe₂O₃?",
+  "columns": null,
+  "options": [
+   "Iron(VI) oxide",
+   "Iron(V) oxide",
+   "Iron(II) oxide",
+   "Iron(III) oxide"
+  ],
+  "answer": 3,
+  "explain": "Two Fe ions balance three O²⁻ ions (total 6−), so each iron ion is 3+. The Roman numeral III shows the oxidation number of iron."
+ },
+ {
+  "id": "c6-0086",
+  "sub": "6.4",
+  "level": "core",
+  "q": "What is the formula of copper(I) oxide?",
+  "columns": null,
+  "options": [
+   "CuO₂",
+   "Cu₂O₃",
+   "CuO",
+   "Cu₂O"
+  ],
+  "answer": 3,
+  "explain": "Copper(I) has an oxidation number of +1, so two Cu⁺ ions are needed to balance one O²⁻ ion."
+ },
+ {
+  "id": "c6-0087",
+  "sub": "6.4",
+  "level": "core",
+  "q": "Which compound contains iron in the +2 oxidation state?",
+  "columns": null,
+  "options": [
+   "FeCl₃",
+   "Fe₂O₃",
+   "Fe₂(SO₄)₃",
+   "FeCl₂"
+  ],
+  "answer": 3,
+  "explain": "In FeCl₂ two Cl⁻ ions balance one Fe²⁺. The other compounds contain iron(III)."
+ },
+ {
+  "id": "c6-0088",
+  "sub": "6.4",
+  "level": "core",
+  "q": "What does the (IV) mean in the name manganese(IV) oxide?",
+  "columns": null,
+  "options": [
+   "There are four manganese atoms in the formula",
+   "There are four oxygen atoms in the formula",
+   "Manganese is in Group IV of the Periodic Table",
+   "The oxidation number of manganese is +4"
+  ],
+  "answer": 3,
+  "explain": "The Roman numeral gives the oxidation number of the metal. Manganese(IV) oxide is MnO₂."
+ },
+ {
+  "id": "c6-0089",
+  "sub": "6.4",
+  "level": "core",
+  "q": "Which statement describes a redox reaction?",
+  "columns": null,
+  "options": [
+   "Only oxidation takes place",
+   "A solution changes from acidic to neutral",
+   "Oxidation and reduction take place at the same time",
+   "A solid dissolves in water"
+  ],
+  "answer": 2,
+  "explain": "Redox means reduction and oxidation together. One substance is oxidised while another is reduced."
+ },
+ {
+  "id": "c6-0090",
+  "sub": "6.4",
+  "level": "core",
+  "q": "Which is the definition of oxidation in terms of oxygen?",
+  "columns": null,
+  "options": [
+   "Loss of oxygen",
+   "Gain of water",
+   "Loss of mass",
+   "Gain of oxygen"
+  ],
+  "answer": 3,
+  "explain": "A substance is oxidised when it gains oxygen, and reduced when it loses oxygen."
+ }
+]

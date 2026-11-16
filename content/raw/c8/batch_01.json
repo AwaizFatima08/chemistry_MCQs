@@ -1,0 +1,462 @@
+[
+  {
+    "id": "c8-0001",
+    "sub": "8.1",
+    "level": "extended",
+    "q": "Element X reacts with cold water more violently than potassium does. Where is X most likely to be in the Periodic Table?",
+    "columns": null,
+    "options": [
+      "below potassium in Group I",
+      "above sodium in Group I",
+      "below calcium in Group II",
+      "below chlorine in Group VII"
+    ],
+    "answer": 0,
+    "explain": "Reactivity of Group I metals increases down the group, so X is a Group I metal below potassium."
+  },
+  {
+    "id": "c8-0002",
+    "sub": "8.5",
+    "level": "core",
+    "q": "A balloon is filled with helium. Which property of helium makes it suitable?",
+    "columns": null,
+    "options": [
+      "It is reactive and denser than air.",
+      "It is unreactive and denser than air.",
+      "It is unreactive and less dense than air.",
+      "It is flammable and less dense than air."
+    ],
+    "answer": 2,
+    "explain": "Helium is unreactive, so it is safe, and it has a lower density than air so the balloon rises."
+  },
+  {
+    "id": "c8-0003",
+    "sub": "8.2",
+    "level": "extended",
+    "q": "Potassium has a relative atomic mass of 39. What volume of hydrogen at r.t.p. is made when 0.39 g of potassium reacts completely with water? (1 mol of gas occupies 24 dm³ at r.t.p.)",
+    "columns": null,
+    "options": [
+      "120 cm³",
+      "240 cm³",
+      "60 cm³",
+      "12 cm³"
+    ],
+    "answer": 0,
+    "explain": "0.39 g = 0.010 mol K; 2K + 2H₂O → 2KOH + H₂ gives 0.0050 mol H₂; 0.0050 × 24 000 = 120 cm³."
+  },
+  {
+    "id": "c8-0004",
+    "sub": "8.1",
+    "level": "core",
+    "q": "Which pair of elements is in the same period of the Periodic Table?",
+    "columns": null,
+    "options": [
+      "sodium and potassium",
+      "sodium and chlorine",
+      "lithium and sodium",
+      "fluorine and chlorine"
+    ],
+    "answer": 1,
+    "explain": "Sodium and chlorine both have three occupied shells (Period 3); the other pairs are in the same group."
+  },
+  {
+    "id": "c8-0005",
+    "sub": "8.4",
+    "level": "extended",
+    "q": "What is the oxidation number of iron in Fe₂O₃?",
+    "columns": null,
+    "options": [
+      "+2",
+      "+6",
+      "+3",
+      "+1.5"
+    ],
+    "answer": 2,
+    "explain": "Three O²⁻ give a total of 6−, so each of the two iron atoms must be +3."
+  },
+  {
+    "id": "c8-0006",
+    "sub": "8.3",
+    "level": "extended",
+    "q": "Reactivity of the halogens decreases down Group VII. Which halogen is the most reactive?",
+    "columns": null,
+    "options": [
+      "iodine",
+      "bromine",
+      "chlorine",
+      "astatine"
+    ],
+    "answer": 2,
+    "explain": "Reactivity decreases down Group VII, so chlorine, at the top of this list, is the most reactive."
+  },
+  {
+    "id": "c8-0007",
+    "sub": "8.3",
+    "level": "extended",
+    "q": "0.10 mol of chlorine reacts with excess aqueous potassium bromide. What mass of bromine (relative molecular mass 160) is formed?",
+    "columns": null,
+    "options": [
+      "16 g",
+      "8.0 g",
+      "32 g",
+      "160 g"
+    ],
+    "answer": 0,
+    "explain": "Cl₂ + 2KBr → 2KCl + Br₂ gives 0.10 mol Br₂, and 0.10 × 160 = 16 g."
+  },
+  {
+    "id": "c8-0008",
+    "sub": "8.5",
+    "level": "extended",
+    "q": "The densities of three noble gases at r.t.p. are: helium 0.17 g/dm³, neon 0.84 g/dm³, argon 1.66 g/dm³. Which is the most likely density of krypton?",
+    "columns": null,
+    "options": [
+      "0.50 g/dm³",
+      "1.2 g/dm³",
+      "1.66 g/dm³",
+      "3.5 g/dm³"
+    ],
+    "answer": 3,
+    "explain": "Density rises down the group, so krypton, below argon, must be greater than 1.66 g/dm³."
+  },
+  {
+    "id": "c8-0009",
+    "sub": "8.1",
+    "level": "extended",
+    "q": "The boiling points of three halogens are: chlorine −35 °C, bromine 59 °C, iodine 184 °C. Which is the most likely boiling point of astatine?",
+    "columns": null,
+    "options": [
+      "about 100 °C",
+      "about 350 °C",
+      "about 0 °C",
+      "about −100 °C"
+    ],
+    "answer": 1,
+    "explain": "Boiling points rise down Group VII, so astatine, below iodine, should be above 184 °C."
+  },
+  {
+    "id": "c8-0010",
+    "sub": "8.3",
+    "level": "core",
+    "q": "What is the appearance of bromine at r.t.p.?",
+    "columns": null,
+    "options": [
+      "a pale yellow-green gas",
+      "a grey-black solid",
+      "a red-brown liquid",
+      "a pale yellow liquid"
+    ],
+    "answer": 2,
+    "explain": "Bromine is a red-brown liquid at r.t.p.; chlorine is a gas and iodine is a solid."
+  },
+  {
+    "id": "c8-0011",
+    "sub": "8.2",
+    "level": "extended",
+    "q": "Caesium is in Group I below rubidium. Which property is it most likely to have compared with potassium?",
+    "columns": null,
+    "options": [
+      "a higher melting point",
+      "a lower melting point",
+      "a lower reactivity",
+      "a higher hardness"
+    ],
+    "answer": 1,
+    "explain": "Melting points decrease down Group I, so caesium melts at a lower temperature than potassium."
+  },
+  {
+    "id": "c8-0012",
+    "sub": "8.1",
+    "level": "core",
+    "q": "Which statement about the positions of metals and non-metals in the Periodic Table is correct?",
+    "columns": null,
+    "options": [
+      "Metals are mainly on the right; non-metals are mainly on the left.",
+      "Metals are found only in the centre; non-metals are found only at the edges.",
+      "Metals are mainly on the left and in the centre; non-metals are mainly on the right.",
+      "Metals and non-metals are mixed evenly across every period."
+    ],
+    "answer": 2,
+    "explain": "Metallic character is strongest on the left and in the centre, and non-metals are grouped towards the right."
+  },
+  {
+    "id": "c8-0013",
+    "sub": "8.3",
+    "level": "core",
+    "q": "Which row correctly describes chlorine, bromine and iodine at r.t.p.?",
+    "columns": [
+      "Chlorine",
+      "Bromine",
+      "Iodine"
+    ],
+    "options": [
+      "gas | liquid | solid",
+      "liquid | gas | solid",
+      "gas | solid | liquid",
+      "solid | liquid | gas"
+    ],
+    "answer": 0,
+    "explain": "Chlorine is a gas, bromine is a liquid and iodine is a solid, so the state changes down the group."
+  },
+  {
+    "id": "c8-0014",
+    "sub": "8.3",
+    "level": "extended",
+    "q": "Astatine is below iodine in Group VII. Which property is it most likely to have?",
+    "columns": null,
+    "options": [
+      "It is a dark-coloured solid.",
+      "It is a pale gas.",
+      "It is a monatomic gas.",
+      "It is a red-brown liquid."
+    ],
+    "answer": 0,
+    "explain": "Halogens get darker and denser down the group, so astatine is a dark solid."
+  },
+  {
+    "id": "c8-0015",
+    "sub": "8.4",
+    "level": "core",
+    "q": "Compared with Group I metals, transition elements are generally",
+    "columns": null,
+    "options": [
+      "softer and weaker",
+      "less dense",
+      "more reactive with water",
+      "harder and stronger"
+    ],
+    "answer": 3,
+    "explain": "Transition metals are hard and strong with high densities, unlike soft, low-density Group I metals."
+  },
+  {
+    "id": "c8-0016",
+    "sub": "8.5",
+    "level": "extended",
+    "q": "Why are the noble gases unreactive?",
+    "columns": null,
+    "options": [
+      "Their atoms have no electrons.",
+      "Their atoms have a single outer electron.",
+      "Their atoms are very large and heavy.",
+      "Their atoms have full outer shells of electrons."
+    ],
+    "answer": 3,
+    "explain": "A full outer shell is stable, so noble gas atoms do not need to gain, lose or share electrons."
+  },
+  {
+    "id": "c8-0017",
+    "sub": "8.3",
+    "level": "core",
+    "q": "How many electrons does a chlorine atom gain to form a chloride ion?",
+    "columns": null,
+    "options": [
+      "2",
+      "1",
+      "7",
+      "8"
+    ],
+    "answer": 1,
+    "explain": "A chlorine atom has 7 outer electrons and gains one electron to complete its outer shell."
+  },
+  {
+    "id": "c8-0018",
+    "sub": "8.5",
+    "level": "core",
+    "q": "Which row correctly describes chlorine and argon at r.t.p.?",
+    "columns": [
+      "Chlorine",
+      "Argon"
+    ],
+    "options": [
+      "single atoms | diatomic molecules",
+      "diatomic molecules | diatomic molecules",
+      "single atoms | single atoms",
+      "diatomic molecules | single atoms"
+    ],
+    "answer": 3,
+    "explain": "Chlorine exists as Cl₂ molecules, whereas argon is monatomic and exists as single atoms."
+  },
+  {
+    "id": "c8-0019",
+    "sub": "8.2",
+    "level": "extended",
+    "q": "Which equation correctly shows lithium reacting with water?",
+    "columns": null,
+    "options": [
+      "Li(s) + H₂O(l) → LiOH(aq) + H₂(g)",
+      "2Li(s) + H₂O(l) → Li₂O(s) + H₂(g)",
+      "Li(s) + 2H₂O(l) → LiO₂(aq) + 2H₂(g)",
+      "2Li(s) + 2H₂O(l) → 2LiOH(aq) + H₂(g)"
+    ],
+    "answer": 3,
+    "explain": "The balanced equation has two Li, four H and two O on each side, with LiOH as the alkali."
+  },
+  {
+    "id": "c8-0020",
+    "sub": "8.2",
+    "level": "extended",
+    "q": "A Group I metal M is predicted to react with chlorine. Which equation is correct?",
+    "columns": null,
+    "options": [
+      "M(s) + Cl₂(g) → MCl₂(s)",
+      "M(s) + Cl₂(g) → MCl(s)",
+      "2M(s) + Cl₂(g) → 2MCl(s)",
+      "2M(s) + Cl₂(g) → M₂Cl₂(l)"
+    ],
+    "answer": 2,
+    "explain": "M forms M⁺ ions, so the product is MCl; two atoms of M are needed for one Cl₂ molecule."
+  },
+  {
+    "id": "c8-0021",
+    "sub": "8.2",
+    "level": "core",
+    "q": "Potassium is added to water. Which observation is correct?",
+    "columns": null,
+    "options": [
+      "It sinks to the bottom and fizzes slowly.",
+      "It stays still and slowly dissolves.",
+      "It floats and burns with a red flame.",
+      "It moves quickly on the surface and burns with a lilac flame."
+    ],
+    "answer": 3,
+    "explain": "Potassium reacts vigorously, melts and the hydrogen produced burns with a lilac flame."
+  },
+  {
+    "id": "c8-0022",
+    "sub": "8.3",
+    "level": "extended",
+    "q": "Which equation shows chlorine displacing bromine from aqueous potassium bromide?",
+    "columns": null,
+    "options": [
+      "Cl₂(aq) + KBr(aq) → KCl(aq) + Br₂(aq)",
+      "Br₂(aq) + 2KCl(aq) → 2KBr(aq) + Cl₂(aq)",
+      "Cl₂(aq) + 2KBr(aq) → 2KCl(aq) + Br₂(aq)",
+      "Cl₂(aq) + 2KBr(aq) → KCl₂(aq) + 2Br(aq)"
+    ],
+    "answer": 2,
+    "explain": "Two bromide ions must be displaced to form one Br₂ molecule, so the equation needs 2KBr and 2KCl."
+  },
+  {
+    "id": "c8-0023",
+    "sub": "8.3",
+    "level": "extended",
+    "q": "Which ionic equation represents the reaction of chlorine with aqueous potassium iodide?",
+    "columns": null,
+    "options": [
+      "Cl₂ + I⁻ → Cl⁻ + I₂",
+      "Cl₂ + 2I⁻ → 2Cl + I₂",
+      "Cl₂ + 2K⁺ → 2Cl⁻ + 2K",
+      "Cl₂ + 2I⁻ → 2Cl⁻ + I₂"
+    ],
+    "answer": 3,
+    "explain": "Potassium ions are spectators. The halide ions are exchanged and the charges balance on both sides."
+  },
+  {
+    "id": "c8-0024",
+    "sub": "8.1",
+    "level": "core",
+    "q": "Which row correctly names the horizontal rows and the vertical columns of the Periodic Table?",
+    "columns": [
+      "Horizontal rows",
+      "Vertical columns"
+    ],
+    "options": [
+      "group | period",
+      "block | period",
+      "period | group",
+      "group | block"
+    ],
+    "answer": 2,
+    "explain": "Horizontal rows are called periods and vertical columns are called groups."
+  },
+  {
+    "id": "c8-0025",
+    "sub": "8.2",
+    "level": "extended",
+    "q": "Sodium reacts with water to give sodium hydroxide. When all of 2.3 g of sodium (Aᵣ = 23) is used to make 1.0 dm³ of solution, what is the concentration of the sodium hydroxide?",
+    "columns": null,
+    "options": [
+      "0.20 mol/dm³",
+      "0.10 mol/dm³",
+      "1.0 mol/dm³",
+      "2.3 mol/dm³"
+    ],
+    "answer": 1,
+    "explain": "2.3 g is 0.10 mol Na, which gives 0.10 mol NaOH in 1.0 dm³, so the concentration is 0.10 mol/dm³."
+  },
+  {
+    "id": "c8-0026",
+    "sub": "8.4",
+    "level": "core",
+    "q": "Manganese(IV) oxide is added to hydrogen peroxide solution. Oxygen is released rapidly. Which statement is correct?",
+    "columns": null,
+    "options": [
+      "The manganese(IV) oxide acts as a catalyst.",
+      "The manganese(IV) oxide is the reactant that makes oxygen.",
+      "The manganese(IV) oxide is permanently used up.",
+      "The manganese(IV) oxide acts as an oxidising agent only."
+    ],
+    "answer": 0,
+    "explain": "Manganese(IV) oxide speeds up the decomposition of hydrogen peroxide and is unchanged at the end."
+  },
+  {
+    "id": "c8-0027",
+    "sub": "8.4",
+    "level": "core",
+    "q": "Iron is used in the Haber process to speed up the reaction without being used up. What is iron acting as?",
+    "columns": null,
+    "options": [
+      "a reactant",
+      "a product",
+      "an indicator",
+      "a catalyst"
+    ],
+    "answer": 3,
+    "explain": "A catalyst increases the rate of a reaction and is not used up, and transition elements often act as catalysts."
+  },
+  {
+    "id": "c8-0028",
+    "sub": "8.3",
+    "level": "core",
+    "q": "How does the density of the halogens change down Group VII?",
+    "columns": null,
+    "options": [
+      "It decreases.",
+      "It increases.",
+      "It stays the same.",
+      "It decreases then increases."
+    ],
+    "answer": 1,
+    "explain": "The density increases down the group, as shown by the change from gas to liquid to solid."
+  },
+  {
+    "id": "c8-0029",
+    "sub": "8.1",
+    "level": "core",
+    "q": "In the Periodic Table the elements are arranged in order of increasing",
+    "columns": null,
+    "options": [
+      "proton number",
+      "relative atomic mass",
+      "number of neutrons",
+      "number of outer electrons"
+    ],
+    "answer": 0,
+    "explain": "The modern Periodic Table is ordered by proton (atomic) number, the number of protons in the nucleus."
+  },
+  {
+    "id": "c8-0030",
+    "sub": "8.3",
+    "level": "core",
+    "q": "How does the colour of the halogens change down the group?",
+    "columns": null,
+    "options": [
+      "It gets paler.",
+      "It stays the same.",
+      "It gets darker.",
+      "It changes from dark to pale and back."
+    ],
+    "answer": 2,
+    "explain": "The colours go from pale yellow-green to red-brown to grey-black, getting darker."
+  }
+]

@@ -1,0 +1,452 @@
+[
+ {
+  "id": "c7-0001",
+  "sub": "7.1",
+  "level": "core",
+  "q": "Calcium carbonate is added to dilute hydrochloric acid. Which equation is correct?",
+  "columns": null,
+  "options": [
+   "CaCO₃(s) + 2HCl(aq) → CaCl₂(aq) + H₂O(l) + CO₂(g)",
+   "CaCO₃(s) + 2HCl(aq) → CaCl₂(aq) + H₂(g) + CO₂(g)",
+   "CaCO₃(s) + HCl(aq) → CaCl(aq) + H₂O(l) + CO₂(g)",
+   "CaCO₃(s) + 2HCl(aq) → CaCl₂(aq) + H₂O(l) + CO(g)"
+  ],
+  "answer": 0,
+  "explain": "Acid + carbonate → salt + water + carbon dioxide. Calcium forms Ca²⁺, so two Cl⁻ are needed and 2HCl balances the equation."
+ },
+ {
+  "id": "c7-0002",
+  "sub": "7.3",
+  "level": "core",
+  "q": "What is meant by an anhydrous substance?",
+  "columns": null,
+  "options": [
+   "a substance dissolved in water",
+   "a substance containing no water",
+   "a substance that absorbs water from air",
+   "a substance chemically combined with water"
+  ],
+  "answer": 1,
+  "explain": "Anhydrous means 'without water'."
+ },
+ {
+  "id": "c7-0003",
+  "sub": "7.1",
+  "level": "core",
+  "q": "A solution turns red litmus paper blue and turns thymolphthalein blue. What can be concluded?",
+  "columns": null,
+  "options": [
+   "The solution is alkaline.",
+   "The solution is acidic.",
+   "The solution is neutral.",
+   "The solution is a salt solution only."
+  ],
+  "answer": 0,
+  "explain": "Both red litmus turning blue and thymolphthalein turning blue are positive tests for an alkali."
+ },
+ {
+  "id": "c7-0004",
+  "sub": "7.2",
+  "level": "core",
+  "q": "Which statement about the oxide of an element X is correct if the solution made by dissolving it in water turns litmus red?",
+  "columns": null,
+  "options": [
+   "X is probably a metal.",
+   "X is probably a noble gas.",
+   "X is probably a non-metal.",
+   "X must be a transition element."
+  ],
+  "answer": 2,
+  "explain": "A non-metal oxide dissolving in water gives an acidic solution, which turns litmus red."
+ },
+ {
+  "id": "c7-0005",
+  "sub": "7.3",
+  "level": "core",
+  "q": "A student wants to prepare pure crystals of potassium nitrate. Which reagents should be used?",
+  "columns": null,
+  "options": [
+   "potassium and dilute nitric acid",
+   "potassium carbonate and dilute hydrochloric acid",
+   "potassium hydroxide and dilute sulfuric acid",
+   "potassium hydroxide solution and dilute nitric acid"
+  ],
+  "answer": 3,
+  "explain": "Potassium is too reactive to add directly. The alkali and acid are mixed in exact amounts found by titration."
+ },
+ {
+  "id": "c7-0006",
+  "sub": "7.2",
+  "level": "extended",
+  "q": "Which observation is expected when excess dilute sodium hydroxide is added to solid aluminium oxide with stirring?",
+  "columns": null,
+  "options": [
+   "The solid turns blue.",
+   "The solid dissolves.",
+   "A gas is given off.",
+   "The solid is unchanged."
+  ],
+  "answer": 1,
+  "explain": "Because it is amphoteric, aluminium oxide reacts with the alkali and dissolves."
+ },
+ {
+  "id": "c7-0007",
+  "sub": "7.2",
+  "level": "extended",
+  "q": "Which equation for the reaction of zinc oxide with sulfuric acid is correct?",
+  "columns": null,
+  "options": [
+   "ZnO(s) + H₂SO₄(aq) → ZnSO₄(aq) + H₂O(l)",
+   "ZnO(s) + H₂SO₄(aq) → ZnSO₄(aq) + H₂(g)",
+   "ZnO(s) + H₂SO₄(aq) → Zn(OH)₂(s) + SO₃(g)",
+   "ZnO(s) + 2H₂SO₄(aq) → Zn(SO₄)₂(aq) + 2H₂O(l)"
+  ],
+  "answer": 0,
+  "explain": "Zinc forms Zn²⁺, so the salt is ZnSO₄. The metal oxide acts as a base, giving a salt and water."
+ },
+ {
+  "id": "c7-0008",
+  "sub": "7.1",
+  "level": "extended",
+  "q": "Solutions of hydrochloric acid and ethanoic acid have the same concentration of 0.1 mol/dm³. Which statement is correct?",
+  "columns": null,
+  "options": [
+   "Hydrochloric acid has the lower pH.",
+   "Ethanoic acid has the lower pH.",
+   "Both have the same pH.",
+   "Ethanoic acid has the higher concentration of H⁺ ions."
+  ],
+  "answer": 0,
+  "explain": "Hydrochloric acid is fully dissociated so it has more H⁺ ions per dm³ and a lower pH than the partly dissociated ethanoic acid."
+ },
+ {
+  "id": "c7-0009",
+  "sub": "7.1",
+  "level": "core",
+  "q": "A solution has a pH of 10. What is the colour of litmus in this solution?",
+  "columns": null,
+  "options": [
+   "blue",
+   "red",
+   "green",
+   "colourless"
+  ],
+  "answer": 0,
+  "explain": "pH 10 is alkaline and litmus is blue in alkaline solutions."
+ },
+ {
+  "id": "c7-0010",
+  "sub": "7.1",
+  "level": "extended",
+  "q": "Which substance acts as a proton acceptor in the equation NH₃ + H⁺ → NH₄⁺?",
+  "columns": null,
+  "options": [
+   "NH₃",
+   "H⁺",
+   "NH₄⁺",
+   "The H⁺ ion and NH₄⁺ ion together"
+  ],
+  "answer": 0,
+  "explain": "NH₃ gains an H⁺ ion, so it accepts a proton and is acting as a base."
+ },
+ {
+  "id": "c7-0011",
+  "sub": "7.1",
+  "level": "extended",
+  "q": "Ammonia reacts with water: NH₃ + H₂O ⇌ NH₄⁺ + OH⁻. Which species acts as the proton donor in the forward reaction?",
+  "columns": null,
+  "options": [
+   "NH₃",
+   "NH₄⁺",
+   "H₂O",
+   "OH⁻"
+  ],
+  "answer": 2,
+  "explain": "Water donates an H⁺ ion to ammonia, which accepts it. The proton donor is the acid."
+ },
+ {
+  "id": "c7-0012",
+  "sub": "7.2",
+  "level": "core",
+  "q": "Which oxide reacts with dilute sulfuric acid to form a salt and water?",
+  "columns": null,
+  "options": [
+   "carbon dioxide",
+   "sulfur dioxide",
+   "silicon(IV) oxide",
+   "copper(II) oxide"
+  ],
+  "answer": 3,
+  "explain": "A basic oxide neutralises an acid. CuO + H₂SO₄ → CuSO₄ + H₂O."
+ },
+ {
+  "id": "c7-0013",
+  "sub": "7.1",
+  "level": "extended",
+  "q": "Which equation shows that hydrochloric acid is a strong acid?",
+  "columns": null,
+  "options": [
+   "HCl(aq) ⇌ H⁺(aq) + Cl⁻(aq)",
+   "HCl(aq) → H⁺(aq) + Cl⁻(aq)",
+   "HCl(aq) → H₂(g) + Cl₂(g)",
+   "HCl(aq) → HCl(g)"
+  ],
+  "answer": 1,
+  "explain": "The single forward arrow shows complete dissociation into H⁺ and Cl⁻ ions."
+ },
+ {
+  "id": "c7-0014",
+  "sub": "7.1",
+  "level": "core",
+  "q": "A student adds magnesium ribbon to dilute hydrochloric acid. Which observation is correct?",
+  "columns": null,
+  "options": [
+   "The ribbon turns blue and no bubbles are seen.",
+   "The ribbon gets smaller and bubbles are seen.",
+   "A white precipitate forms at once.",
+   "The solution turns red and the ribbon grows."
+  ],
+  "answer": 1,
+  "explain": "Magnesium reacts with the acid, dissolving and releasing bubbles of hydrogen gas."
+ },
+ {
+  "id": "c7-0015",
+  "sub": "7.1",
+  "level": "extended",
+  "q": "What is meant by a strong acid?",
+  "columns": null,
+  "options": [
+   "an acid with a high concentration",
+   "an acid that reacts only with metals",
+   "an acid that is partially dissociated in aqueous solution",
+   "an acid that is completely dissociated in aqueous solution"
+  ],
+  "answer": 3,
+  "explain": "Strength describes the extent of dissociation, not concentration. A strong acid dissociates fully into ions."
+ },
+ {
+  "id": "c7-0016",
+  "sub": "7.3",
+  "level": "extended",
+  "q": "What is meant by water of crystallisation?",
+  "columns": null,
+  "options": [
+   "water used to dissolve a solid before crystallising",
+   "water left on the crystals after filtering",
+   "water molecules that are part of the structure of hydrated crystals",
+   "water formed when an acid reacts with a base"
+  ],
+  "answer": 2,
+  "explain": "Water of crystallisation is the fixed number of water molecules chemically combined within the crystals."
+ },
+ {
+  "id": "c7-0017",
+  "sub": "7.3",
+  "level": "core",
+  "q": "Which acid and base are used to prepare copper(II) sulfate crystals from copper(II) oxide?",
+  "columns": null,
+  "options": [
+   "dilute sulfuric acid and excess copper(II) oxide",
+   "dilute hydrochloric acid and excess copper(II) oxide",
+   "dilute sulfuric acid and excess copper",
+   "dilute nitric acid and excess copper(II) oxide"
+  ],
+  "answer": 0,
+  "explain": "The salt contains sulfate, so sulfuric acid is needed. Copper(II) oxide is an insoluble base that can be added in excess."
+ },
+ {
+  "id": "c7-0018",
+  "sub": "7.3",
+  "level": "extended",
+  "q": "Pink cobalt(II) chloride crystals, CoCl₂•6H₂O, are heated. Which colour change occurs?",
+  "columns": null,
+  "options": [
+   "pink to blue",
+   "blue to pink",
+   "blue to white",
+   "white to blue"
+  ],
+  "answer": 0,
+  "explain": "Hydrated cobalt(II) chloride is pink. When heated it loses water and turns blue."
+ },
+ {
+  "id": "c7-0019",
+  "sub": "7.2",
+  "level": "extended",
+  "q": "Which statement about the oxides of period 3 elements and their character is correct?",
+  "columns": null,
+  "options": [
+   "Sodium oxide is amphoteric.",
+   "Aluminium oxide shows both acidic and basic properties.",
+   "Sulfur dioxide is basic.",
+   "Aluminium oxide is acidic only."
+  ],
+  "answer": 1,
+  "explain": "Al₂O₃ is amphoteric, sodium oxide is basic and sulfur dioxide is acidic."
+ },
+ {
+  "id": "c7-0020",
+  "sub": "7.3",
+  "level": "extended",
+  "q": "Which pair of aqueous solutions could be used to make lead(II) sulfate?",
+  "columns": null,
+  "options": [
+   "lead(II) nitrate and sodium chloride",
+   "lead(II) nitrate and sodium sulfate",
+   "lead(II) chloride and potassium nitrate",
+   "sodium nitrate and potassium sulfate"
+  ],
+  "answer": 1,
+  "explain": "Pb²⁺ with SO₄²⁻ gives insoluble lead(II) sulfate; the sodium nitrate formed is soluble and stays in the filtrate."
+ },
+ {
+  "id": "c7-0021",
+  "sub": "7.2",
+  "level": "core",
+  "q": "Calcium oxide is added to water and the solution is tested with red litmus paper. What is observed?",
+  "columns": null,
+  "options": [
+   "The litmus stays red.",
+   "The litmus turns colourless.",
+   "The litmus turns yellow.",
+   "The litmus turns blue."
+  ],
+  "answer": 3,
+  "explain": "CaO + H₂O → Ca(OH)₂ forms an alkaline solution, which turns red litmus blue."
+ },
+ {
+  "id": "c7-0022",
+  "sub": "7.3",
+  "level": "core",
+  "q": "Why can lead(II) nitrate not be made by adding excess lead to dilute nitric acid?",
+  "columns": null,
+  "options": [
+   "Lead nitrate is insoluble.",
+   "Lead reacts explosively.",
+   "The reaction makes chlorine.",
+   "Lead is too unreactive to react well with dilute acid."
+  ],
+  "answer": 3,
+  "explain": "Lead reacts only very slowly with dilute acids. Lead(II) oxide or carbonate is usually used instead."
+ },
+ {
+  "id": "c7-0023",
+  "sub": "7.3",
+  "level": "core",
+  "q": "Which compound is formed when excess zinc carbonate is added to dilute sulfuric acid?",
+  "columns": null,
+  "options": [
+   "zinc sulfate",
+   "zinc sulfite",
+   "zinc hydroxide",
+   "zinc chloride"
+  ],
+  "answer": 0,
+  "explain": "ZnCO₃ + H₂SO₄ → ZnSO₄ + H₂O + CO₂."
+ },
+ {
+  "id": "c7-0024",
+  "sub": "7.1",
+  "level": "extended",
+  "q": "A 25.0 cm³ sample of aqueous sodium hydroxide of concentration 0.100 mol/dm³ is neutralised by 20.0 cm³ of hydrochloric acid. What is the concentration of the acid?",
+  "columns": null,
+  "options": [
+   "0.125 mol/dm³",
+   "0.0800 mol/dm³",
+   "0.100 mol/dm³",
+   "0.500 mol/dm³"
+  ],
+  "answer": 0,
+  "explain": "Moles NaOH = 0.0250 × 0.100 = 0.00250 mol. NaOH and HCl react 1:1, so the concentration of HCl = 0.00250 ÷ 0.0200 = 0.125 mol/dm³."
+ },
+ {
+  "id": "c7-0025",
+  "sub": "7.1",
+  "level": "core",
+  "q": "Which solution would turn universal indicator paper purple?",
+  "columns": null,
+  "options": [
+   "dilute hydrochloric acid, pH 1",
+   "distilled water, pH 7",
+   "aqueous sodium hydroxide, pH 13",
+   "ethanoic acid, pH 3"
+  ],
+  "answer": 2,
+  "explain": "Strongly alkaline solutions of about pH 13 turn universal indicator purple."
+ },
+ {
+  "id": "c7-0026",
+  "sub": "7.1",
+  "level": "core",
+  "q": "Which ions are always present in aqueous solutions of alkalis?",
+  "columns": null,
+  "options": [
+   "OH⁻ ions",
+   "H⁺ ions",
+   "Na⁺ ions",
+   "O²⁻ ions"
+  ],
+  "answer": 0,
+  "explain": "Alkalis produce hydroxide ions, OH⁻(aq), in water. Not all alkalis contain Na⁺."
+ },
+ {
+  "id": "c7-0027",
+  "sub": "7.1",
+  "level": "core",
+  "q": "What is the colour of litmus in dilute hydrochloric acid?",
+  "columns": null,
+  "options": [
+   "blue",
+   "yellow",
+   "colourless",
+   "red"
+  ],
+  "answer": 3,
+  "explain": "Litmus is red in acidic solutions and blue in alkaline solutions."
+ },
+ {
+  "id": "c7-0028",
+  "sub": "7.3",
+  "level": "extended",
+  "q": "What is the formula of hydrated copper(II) sulfate?",
+  "columns": null,
+  "options": [
+   "CuSO₄•5H₂O",
+   "CuSO₄•H₂O",
+   "CuSO₄•10H₂O",
+   "CuSO₄•2H₂O"
+  ],
+  "answer": 0,
+  "explain": "Hydrated copper(II) sulfate crystals contain five molecules of water per formula unit."
+ },
+ {
+  "id": "c7-0029",
+  "sub": "7.3",
+  "level": "core",
+  "q": "A salt solution is cooled and crystals form. What should be done to dry the crystals?",
+  "columns": null,
+  "options": [
+   "Pat them dry between filter paper.",
+   "Heat them strongly in a crucible.",
+   "Dissolve them again in water.",
+   "Leave them in the filtrate."
+  ],
+  "answer": 0,
+  "explain": "Gentle drying keeps the water of crystallisation; strong heating would drive it off."
+ },
+ {
+  "id": "c7-0030",
+  "sub": "7.1",
+  "level": "core",
+  "q": "Ammonium nitrate is warmed with calcium hydroxide. The gas produced turns damp red litmus paper blue. Which gas is it?",
+  "columns": null,
+  "options": [
+   "hydrogen",
+   "carbon dioxide",
+   "oxygen",
+   "ammonia"
+  ],
+  "answer": 3,
+  "explain": "Ammonia is the only common alkaline gas, so it turns damp red litmus blue. It is displaced from ammonium salts by bases."
+ }
+]

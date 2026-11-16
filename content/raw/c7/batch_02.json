@@ -1,0 +1,462 @@
+[
+ {
+  "id": "c7-0031",
+  "sub": "7.2",
+  "level": "extended",
+  "q": "Which two oxides are amphoteric?",
+  "columns": null,
+  "options": [
+   "CuO and CaO",
+   "CO₂ and SO₂",
+   "Al₂O₃ and CaO",
+   "Al₂O₃ and ZnO"
+  ],
+  "answer": 3,
+  "explain": "Aluminium oxide and zinc oxide are the amphoteric oxides in the syllabus. CuO and CaO are basic and CO₂ and SO₂ are acidic."
+ },
+ {
+  "id": "c7-0032",
+  "sub": "7.3",
+  "level": "core",
+  "q": "Which pair of solutions, when mixed, forms a white precipitate?",
+  "columns": null,
+  "options": [
+   "aqueous sodium nitrate and aqueous potassium chloride",
+   "aqueous potassium sulfate and aqueous sodium nitrate",
+   "aqueous ammonium chloride and aqueous sodium sulfate",
+   "aqueous silver nitrate and aqueous sodium chloride"
+  ],
+  "answer": 3,
+  "explain": "Silver chloride is an insoluble chloride. The other mixtures contain only soluble products."
+ },
+ {
+  "id": "c7-0033",
+  "sub": "7.1",
+  "level": "extended",
+  "q": "What happens when hydrochloric acid dissolves in water?",
+  "columns": null,
+  "options": [
+   "The molecules are partially dissociated into H⁺ and Cl⁻ ions.",
+   "The molecules stay intact as HCl molecules.",
+   "The molecules react to make H₂ and Cl₂.",
+   "The molecules are completely dissociated into H⁺ and Cl⁻ ions."
+  ],
+  "answer": 3,
+  "explain": "HCl is a strong acid, so every molecule dissociates in aqueous solution."
+ },
+ {
+  "id": "c7-0034",
+  "sub": "7.2",
+  "level": "extended",
+  "q": "Solid zinc oxide dissolves in both dilute hydrochloric acid and aqueous sodium hydroxide. What does this show?",
+  "columns": null,
+  "options": [
+   "Zinc oxide is amphoteric.",
+   "Zinc oxide is acidic.",
+   "Zinc oxide is basic.",
+   "Zinc oxide is neutral."
+  ],
+  "answer": 0,
+  "explain": "Reacting with both acid and alkali shows amphoteric behaviour."
+ },
+ {
+  "id": "c7-0035",
+  "sub": "7.1",
+  "level": "extended",
+  "q": "Aqueous potassium hydroxide and dilute nitric acid are mixed in the correct proportions. Which ionic equation represents the reaction?",
+  "columns": null,
+  "options": [
+   "K⁺(aq) + NO₃⁻(aq) → KNO₃(s)",
+   "KOH(aq) + HNO₃(aq) → H₂O(l)",
+   "H⁺(aq) + OH⁻(aq) → H₂O(l)",
+   "H₂(g) + O₂(g) → H₂O(l)"
+  ],
+  "answer": 2,
+  "explain": "K⁺ and NO₃⁻ are spectator ions. Only H⁺ and OH⁻ combine to form water."
+ },
+ {
+  "id": "c7-0036",
+  "sub": "7.1",
+  "level": "extended",
+  "q": "Which pair of solutions contains the same concentration of acid but a different concentration of hydrogen ions?",
+  "columns": null,
+  "options": [
+   "0.1 mol/dm³ HCl and 0.1 mol/dm³ CH₃COOH",
+   "0.1 mol/dm³ HCl and 0.1 mol/dm³ HCl",
+   "0.1 mol/dm³ HCl and 0.01 mol/dm³ HCl",
+   "0.1 mol/dm³ NaOH and 0.1 mol/dm³ KOH"
+  ],
+  "answer": 0,
+  "explain": "A strong acid releases all its H⁺, whereas the weak acid releases only a small fraction, even at the same concentration."
+ },
+ {
+  "id": "c7-0037",
+  "sub": "7.3",
+  "level": "core",
+  "q": "Why can sodium chloride not be prepared by adding excess sodium to dilute hydrochloric acid?",
+  "columns": null,
+  "options": [
+   "Sodium does not react with acids.",
+   "The reaction is dangerously violent.",
+   "Sodium chloride is insoluble.",
+   "The reaction produces oxygen."
+  ],
+  "answer": 1,
+  "explain": "Sodium is too reactive and would react explosively with the acid. Titration with sodium hydroxide is used instead."
+ },
+ {
+  "id": "c7-0038",
+  "sub": "7.3",
+  "level": "extended",
+  "q": "Which pair of aqueous solutions does NOT form a precipitate when mixed?",
+  "columns": null,
+  "options": [
+   "silver nitrate and potassium chloride",
+   "sodium chloride and potassium nitrate",
+   "barium chloride and sodium sulfate",
+   "lead(II) nitrate and sodium sulfate"
+  ],
+  "answer": 1,
+  "explain": "Sodium chloride and potassium nitrate can only form soluble compounds (NaNO₃ and KCl), so no precipitate forms."
+ },
+ {
+  "id": "c7-0039",
+  "sub": "7.1",
+  "level": "extended",
+  "q": "In the reaction HCl(g) + H₂O(l) → H₃O⁺(aq) + Cl⁻(aq), which species acts as a base?",
+  "columns": null,
+  "options": [
+   "HCl",
+   "H₃O⁺",
+   "H₂O",
+   "Cl⁻"
+  ],
+  "answer": 2,
+  "explain": "Water accepts a proton from HCl to form H₃O⁺, so water is the proton acceptor."
+ },
+ {
+  "id": "c7-0040",
+  "sub": "7.1",
+  "level": "core",
+  "q": "Which equation for the reaction of zinc with dilute sulfuric acid is correct?",
+  "columns": null,
+  "options": [
+   "Zn(s) + H₂SO₄(aq) → ZnSO₄(aq) + H₂(g)",
+   "Zn(s) + H₂SO₄(aq) → ZnO(s) + H₂SO₃(aq)",
+   "Zn(s) + H₂SO₄(aq) → ZnSO₄(aq) + H₂O(l)",
+   "Zn(s) + 2H₂SO₄(aq) → Zn(SO₄)₂(aq) + 2H₂(g)"
+  ],
+  "answer": 0,
+  "explain": "A metal and an acid form a salt and hydrogen. Zinc forms Zn²⁺, so the salt is ZnSO₄ and the equation is already balanced."
+ },
+ {
+  "id": "c7-0041",
+  "sub": "7.2",
+  "level": "extended",
+  "q": "Aluminium oxide reacts with both hydrochloric acid and sodium hydroxide. Which is the correct reason?",
+  "columns": null,
+  "options": [
+   "It is amphoteric.",
+   "It is a strong oxidising agent.",
+   "It is a soluble alkali.",
+   "It is a non-metal oxide."
+  ],
+  "answer": 0,
+  "explain": "Amphoteric oxides react as bases with acids and as acids with alkalis."
+ },
+ {
+  "id": "c7-0042",
+  "sub": "7.3",
+  "level": "core",
+  "q": "Blue hydrated copper(II) sulfate crystals are heated strongly. What is the colour change?",
+  "columns": null,
+  "options": [
+   "white to blue",
+   "blue to black",
+   "pink to blue",
+   "blue to white"
+  ],
+  "answer": 3,
+  "explain": "Heating removes the water of crystallisation to form white anhydrous copper(II) sulfate."
+ },
+ {
+  "id": "c7-0043",
+  "sub": "7.2",
+  "level": "core",
+  "q": "Which oxide is basic?",
+  "columns": null,
+  "options": [
+   "carbon dioxide",
+   "sulfur dioxide",
+   "calcium oxide",
+   "sulfur trioxide"
+  ],
+  "answer": 2,
+  "explain": "Oxides of metals are basic. CaO is a metal oxide, but the other three are non-metal oxides, which are acidic."
+ },
+ {
+  "id": "c7-0044",
+  "sub": "7.3",
+  "level": "core",
+  "q": "Which row correctly shows the solubility of the salts in water?",
+  "columns": [
+   "Salt",
+   "Solubility"
+  ],
+  "options": [
+   "silver nitrate | insoluble",
+   "barium chloride | insoluble",
+   "lead(II) sulfate | insoluble",
+   "potassium sulfate | insoluble"
+  ],
+  "answer": 2,
+  "explain": "Lead(II) sulfate is one of the insoluble sulfates. Nitrates, most chlorides and sulfates of potassium are soluble."
+ },
+ {
+  "id": "c7-0045",
+  "sub": "7.2",
+  "level": "core",
+  "q": "Which row classifies the oxides correctly?",
+  "columns": [
+   "Oxide",
+   "Type of oxide"
+  ],
+  "options": [
+   "CuO | basic",
+   "CO₂ | basic",
+   "SO₂ | basic",
+   "CaO | acidic"
+  ],
+  "answer": 0,
+  "explain": "CuO and CaO are metal oxides so they are basic, while CO₂ and SO₂ are acidic."
+ },
+ {
+  "id": "c7-0046",
+  "sub": "7.1",
+  "level": "extended",
+  "q": "Which of these is the best description of an alkali in terms of ions?",
+  "columns": null,
+  "options": [
+   "a substance that produces OH⁻ ions in aqueous solution",
+   "a substance that produces H⁺ ions in aqueous solution",
+   "a substance that releases electrons in water",
+   "a substance that is insoluble in water"
+  ],
+  "answer": 0,
+  "explain": "Alkalis form hydroxide ions in water. They are soluble bases."
+ },
+ {
+  "id": "c7-0047",
+  "sub": "7.3",
+  "level": "core",
+  "q": "Which compound is soluble in water?",
+  "columns": null,
+  "options": [
+   "lead(II) chloride",
+   "lead(II) sulfate",
+   "lead(II) carbonate",
+   "lead(II) nitrate"
+  ],
+  "answer": 3,
+  "explain": "All nitrates are soluble. Lead chloride, sulfate and carbonate are insoluble."
+ },
+ {
+  "id": "c7-0048",
+  "sub": "7.1",
+  "level": "core",
+  "q": "Which substance is a base but is not an alkali?",
+  "columns": null,
+  "options": [
+   "sodium hydroxide",
+   "potassium hydroxide",
+   "hydrochloric acid",
+   "copper(II) oxide"
+  ],
+  "answer": 3,
+  "explain": "Copper(II) oxide is a metal oxide so it is a base, but it is insoluble in water so it does not form an alkaline solution."
+ },
+ {
+  "id": "c7-0049",
+  "sub": "7.1",
+  "level": "extended",
+  "q": "Which statement about strong and weak acids is correct?",
+  "columns": null,
+  "options": [
+   "A strong acid must be concentrated.",
+   "A weak acid does not react with carbonates.",
+   "A weak acid can have a high concentration.",
+   "A strong acid is partially dissociated."
+  ],
+  "answer": 2,
+  "explain": "Strength and concentration are different. Concentration is how much acid is dissolved; strength is how much dissociates."
+ },
+ {
+  "id": "c7-0050",
+  "sub": "7.3",
+  "level": "core",
+  "q": "Which statement about nitrates is correct?",
+  "columns": null,
+  "options": [
+   "All nitrates are insoluble in water.",
+   "Lead nitrate is insoluble.",
+   "All nitrates are soluble in water.",
+   "Only sodium nitrate is soluble."
+  ],
+  "answer": 2,
+  "explain": "Every nitrate dissolves in water, so no precipitate forms from a nitrate by itself."
+ },
+ {
+  "id": "c7-0051",
+  "sub": "7.3",
+  "level": "core",
+  "q": "Which hydroxide is soluble in water?",
+  "columns": null,
+  "options": [
+   "sodium hydroxide",
+   "copper(II) hydroxide",
+   "iron(II) hydroxide",
+   "zinc hydroxide"
+  ],
+  "answer": 0,
+  "explain": "Hydroxides are insoluble except sodium, potassium, ammonium and calcium (partially)."
+ },
+ {
+  "id": "c7-0052",
+  "sub": "7.3",
+  "level": "core",
+  "q": "Excess calcium carbonate is added to dilute nitric acid. Which observation shows the reaction is complete?",
+  "columns": null,
+  "options": [
+   "The solution turns blue.",
+   "A precipitate forms.",
+   "Bubbles stop and some solid remains.",
+   "The solution becomes hot and boils."
+  ],
+  "answer": 2,
+  "explain": "CO₂ bubbles stop when all the acid is used, and the leftover solid shows the carbonate is in excess."
+ },
+ {
+  "id": "c7-0053",
+  "sub": "7.1",
+  "level": "extended",
+  "q": "Which equation shows that ethanoic acid is a weak acid?",
+  "columns": null,
+  "options": [
+   "CH₃COOH(aq) → H⁺(aq) + CH₃COO⁻(aq)",
+   "CH₃COOH(aq) ⇌ H⁺(aq) + CH₃COO⁻(aq)",
+   "CH₃COOH(aq) → CH₃ + COOH⁻(aq)",
+   "CH₃COOH(aq) + H⁺(aq) → CH₃COO⁻(aq)"
+  ],
+  "answer": 1,
+  "explain": "The reversible arrow shows that only some molecules dissociate, so ethanoic acid is weak."
+ },
+ {
+  "id": "c7-0054",
+  "sub": "7.1",
+  "level": "core",
+  "q": "Copper(II) oxide reacts with dilute sulfuric acid. Which are the products?",
+  "columns": null,
+  "options": [
+   "copper(II) sulfate and hydrogen",
+   "copper(II) hydroxide and sulfur dioxide",
+   "copper(II) sulfate and carbon dioxide",
+   "copper(II) sulfate and water"
+  ],
+  "answer": 3,
+  "explain": "An acid and a base form a salt and water: CuO + H₂SO₄ → CuSO₄ + H₂O. No gas is made."
+ },
+ {
+  "id": "c7-0055",
+  "sub": "7.2",
+  "level": "core",
+  "q": "Sulfur dioxide, SO₂, is a non-metal oxide. How is it classified?",
+  "columns": null,
+  "options": [
+   "basic oxide",
+   "acidic oxide",
+   "amphoteric oxide",
+   "neutral metal oxide"
+  ],
+  "answer": 1,
+  "explain": "Non-metal oxides such as SO₂ and CO₂ are acidic oxides because they react with bases and form acidic solutions."
+ },
+ {
+  "id": "c7-0056",
+  "sub": "7.3",
+  "level": "core",
+  "q": "Which salts are always soluble?",
+  "columns": null,
+  "options": [
+   "calcium salts",
+   "lead salts",
+   "silver salts",
+   "sodium, potassium and ammonium salts"
+  ],
+  "answer": 3,
+  "explain": "All salts of sodium, potassium and ammonium are soluble."
+ },
+ {
+  "id": "c7-0057",
+  "sub": "7.1",
+  "level": "core",
+  "q": "Which row shows the colours of the indicators correctly?",
+  "columns": [
+   "Indicator",
+   "Colour in dilute acid",
+   "Colour in aqueous alkali"
+  ],
+  "options": [
+   "litmus | blue | red",
+   "thymolphthalein | blue | colourless",
+   "methyl orange | yellow | red",
+   "methyl orange | red | yellow"
+  ],
+  "answer": 3,
+  "explain": "Methyl orange is red in acid and yellow in alkali. Litmus is red in acid and blue in alkali. Thymolphthalein is colourless in acid and blue in alkali."
+ },
+ {
+  "id": "c7-0058",
+  "sub": "7.1",
+  "level": "extended",
+  "q": "Which statement about a solution of a weak acid is correct?",
+  "columns": null,
+  "options": [
+   "It contains both undissociated molecules and ions.",
+   "It contains only ions.",
+   "It contains only undissociated molecules.",
+   "It always has a pH above 7."
+  ],
+  "answer": 0,
+  "explain": "Only some molecules of a weak acid dissociate, so molecules and ions are both present."
+ },
+ {
+  "id": "c7-0059",
+  "sub": "7.3",
+  "level": "core",
+  "q": "Excess zinc is added to dilute hydrochloric acid until no more reacts. Which step is carried out next?",
+  "columns": null,
+  "options": [
+   "filter off the unreacted zinc",
+   "add more hydrochloric acid",
+   "add universal indicator",
+   "cool the mixture in ice"
+  ],
+  "answer": 0,
+  "explain": "Excess zinc is removed by filtration, leaving zinc chloride solution."
+ },
+ {
+  "id": "c7-0060",
+  "sub": "7.2",
+  "level": "core",
+  "q": "Carbon dioxide is bubbled through aqueous sodium hydroxide. What does this show about carbon dioxide?",
+  "columns": null,
+  "options": [
+   "It is a basic oxide because it reacts with a base.",
+   "It is a basic oxide because it forms a salt.",
+   "It is an acidic oxide because it reacts with acids.",
+   "It is an acidic oxide because it reacts with a base."
+  ],
+  "answer": 3,
+  "explain": "Acidic oxides react with bases to form a salt (here sodium carbonate) and water."
+ }
+]

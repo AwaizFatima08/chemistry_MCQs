@@ -1,0 +1,462 @@
+[
+ {
+  "id": "c10-0001",
+  "sub": "10.1",
+  "level": "core",
+  "q": "A colourless liquid is added to anhydrous cobalt(II) chloride paper and the paper changes colour. Which change shows that the liquid contains water?",
+  "columns": null,
+  "options": [
+   "pink to blue",
+   "white to blue",
+   "blue to white",
+   "blue to pink"
+  ],
+  "answer": 3,
+  "explain": "Anhydrous cobalt(II) chloride is blue and turns pink when water is added."
+ },
+ {
+  "id": "c10-0002",
+  "sub": "10.1",
+  "level": "core",
+  "q": "What happens to anhydrous copper(II) sulfate when water is added to it?",
+  "columns": null,
+  "options": [
+   "It turns from blue to white.",
+   "It turns from blue to pink.",
+   "It turns from white to blue.",
+   "It turns from pink to blue."
+  ],
+  "answer": 2,
+  "explain": "Anhydrous copper(II) sulfate is white; hydrated copper(II) sulfate is blue."
+ },
+ {
+  "id": "c10-0003",
+  "sub": "10.1",
+  "level": "core",
+  "q": "Which row correctly gives the colour change when water is detected?",
+  "columns": [
+   "Test chemical",
+   "Colour before water",
+   "Colour after water"
+  ],
+  "options": [
+   "anhydrous cobalt(II) chloride | pink | blue",
+   "anhydrous cobalt(II) chloride | blue | pink",
+   "anhydrous copper(II) sulfate | blue | white",
+   "anhydrous copper(II) sulfate | white | pink"
+  ],
+  "answer": 1,
+  "explain": "Cobalt(II) chloride goes blue to pink; copper(II) sulfate goes white to blue."
+ },
+ {
+  "id": "c10-0004",
+  "sub": "10.1",
+  "level": "core",
+  "q": "What is the boiling point of pure water at normal atmospheric pressure?",
+  "columns": null,
+  "options": [
+   "100 °C",
+   "0 °C",
+   "25 °C",
+   "373 °C"
+  ],
+  "answer": 0,
+  "explain": "Pure water boils at 100 °C at normal pressure."
+ },
+ {
+  "id": "c10-0005",
+  "sub": "10.1",
+  "level": "core",
+  "q": "A student wants to show that a sample of water is pure. Which result would be the best evidence?",
+  "columns": null,
+  "options": [
+   "It turns anhydrous copper(II) sulfate blue.",
+   "It is colourless and has no smell.",
+   "It melts at exactly 0 °C and boils at exactly 100 °C.",
+   "It boils at 100 °C but melts over a range of temperatures."
+  ],
+  "answer": 2,
+  "explain": "Pure substances have sharp, fixed melting and boiling points. The copper(II) sulfate test only shows that water is present."
+ },
+ {
+  "id": "c10-0006",
+  "sub": "10.1",
+  "level": "core",
+  "q": "A colourless liquid turns anhydrous copper(II) sulfate blue. Which conclusion is correct?",
+  "columns": null,
+  "options": [
+   "The liquid is pure water.",
+   "The liquid contains water but may not be pure water.",
+   "The liquid contains no dissolved substances.",
+   "The liquid boils at exactly 100 °C."
+  ],
+  "answer": 1,
+  "explain": "The test only detects water. Salt solution or other mixtures containing water give the same result."
+ },
+ {
+  "id": "c10-0007",
+  "sub": "10.1",
+  "level": "core",
+  "q": "A sample of water freezes at −2 °C and boils at 102 °C. What does this show?",
+  "columns": null,
+  "options": [
+   "The water is pure.",
+   "The thermometer must be broken.",
+   "The water contains dissolved oxygen only.",
+   "The water contains dissolved impurities."
+  ],
+  "answer": 3,
+  "explain": "Impurities lower the melting point and raise the boiling point, so the sample is not pure water."
+ },
+ {
+  "id": "c10-0008",
+  "sub": "10.1",
+  "level": "core",
+  "q": "Why is distilled water used in practical chemistry rather than tap water?",
+  "columns": null,
+  "options": [
+   "It contains fewer chemical impurities.",
+   "It is always at a lower temperature.",
+   "It contains more dissolved oxygen.",
+   "It is a better solvent for ionic compounds."
+  ],
+  "answer": 0,
+  "explain": "Tap water contains dissolved substances that could react with the chemicals used or change results."
+ },
+ {
+  "id": "c10-0009",
+  "sub": "10.1",
+  "level": "core",
+  "q": "Which substance in natural water is beneficial to aquatic life?",
+  "columns": null,
+  "options": [
+   "sewage",
+   "nitrates",
+   "dissolved oxygen",
+   "plastics"
+  ],
+  "answer": 2,
+  "explain": "Fish and other aquatic animals need dissolved oxygen to respire."
+ },
+ {
+  "id": "c10-0010",
+  "sub": "10.1",
+  "level": "core",
+  "q": "Which statement about metal compounds in natural water is correct?",
+  "columns": null,
+  "options": [
+   "Some provide essential minerals but some are toxic.",
+   "All of them are harmful to living things.",
+   "All of them are needed for life.",
+   "None of them is found in natural water."
+  ],
+  "answer": 0,
+  "explain": "Some metal compounds supply minerals needed by living things, while others, such as lead compounds, are toxic."
+ },
+ {
+  "id": "c10-0011",
+  "sub": "10.1",
+  "level": "core",
+  "q": "Which statement about sewage in water is correct?",
+  "columns": null,
+  "options": [
+   "It increases the dissolved oxygen needed by fish.",
+   "It contains harmful microbes that cause disease.",
+   "It is removed from water by adding anhydrous copper(II) sulfate.",
+   "It is the main source of phosphates from fertilisers."
+  ],
+  "answer": 1,
+  "explain": "Sewage contains microbes that can cause diseases such as cholera."
+ },
+ {
+  "id": "c10-0012",
+  "sub": "10.1",
+  "level": "core",
+  "q": "What is a harmful effect of plastics in water?",
+  "columns": null,
+  "options": [
+   "They remove nitrates from the water.",
+   "They increase the dissolved oxygen concentration.",
+   "They kill all microbes in the water.",
+   "They harm aquatic life."
+  ],
+  "answer": 3,
+  "explain": "Animals can swallow plastics or become trapped in them, which damages aquatic life."
+ },
+ {
+  "id": "c10-0013",
+  "sub": "10.1",
+  "level": "core",
+  "q": "Nitrates and phosphates from fertilisers run into a river. What is the main harmful effect on the river?",
+  "columns": null,
+  "options": [
+   "The river becomes more acidic and all metals dissolve.",
+   "The river water becomes pure.",
+   "The concentration of dissolved oxygen increases.",
+   "The water becomes deoxygenated and aquatic life is damaged."
+  ],
+  "answer": 3,
+  "explain": "Excess nitrates and phosphates lead to deoxygenation of the water, which damages aquatic life."
+ },
+ {
+  "id": "c10-0014",
+  "sub": "10.1",
+  "level": "core",
+  "q": "Which substances in natural water come from fertilisers?",
+  "columns": null,
+  "options": [
+   "chlorides and carbonates",
+   "nitrates and phosphates",
+   "plastics and sewage",
+   "dissolved oxygen and carbon"
+  ],
+  "answer": 1,
+  "explain": "Fertilisers supply nitrogen as nitrates and phosphorus as phosphates, which wash into water."
+ },
+ {
+  "id": "c10-0015",
+  "sub": "10.1",
+  "level": "core",
+  "q": "Which source gives phosphates in natural water?",
+  "columns": null,
+  "options": [
+   "sewage and plastics only",
+   "carbon filters and chlorine",
+   "fertilisers and detergents",
+   "dissolved oxygen"
+  ],
+  "answer": 2,
+  "explain": "Phosphates enter water from fertilisers and from detergents."
+ },
+ {
+  "id": "c10-0016",
+  "sub": "10.1",
+  "level": "core",
+  "q": "What is the purpose of the sedimentation and filtration stages in treating the domestic water supply?",
+  "columns": null,
+  "options": [
+   "to remove solid particles",
+   "to kill microbes",
+   "to remove tastes and odours",
+   "to add dissolved oxygen"
+  ],
+  "answer": 0,
+  "explain": "Sedimentation lets large solids settle and filtration removes smaller solids."
+ },
+ {
+  "id": "c10-0017",
+  "sub": "10.1",
+  "level": "core",
+  "q": "Why is carbon used in the treatment of domestic water?",
+  "columns": null,
+  "options": [
+   "to kill microbes",
+   "to remove tastes and odours",
+   "to remove solids",
+   "to add chlorine to the water"
+  ],
+  "answer": 1,
+  "explain": "Carbon adsorbs the substances that cause unpleasant tastes and smells."
+ },
+ {
+  "id": "c10-0018",
+  "sub": "10.1",
+  "level": "core",
+  "q": "Why is chlorine added to the domestic water supply?",
+  "columns": null,
+  "options": [
+   "to remove tastes and odours",
+   "to settle out solid particles",
+   "to make the water neutral",
+   "to kill microbes"
+  ],
+  "answer": 3,
+  "explain": "Chlorination kills microbes that could cause disease."
+ },
+ {
+  "id": "c10-0019",
+  "sub": "10.1",
+  "level": "core",
+  "q": "Which row correctly matches each water treatment stage with its purpose?",
+  "columns": [
+   "Stage",
+   "Purpose"
+  ],
+  "options": [
+   "filtration | removes solids",
+   "chlorination | removes tastes and odours",
+   "carbon | kills microbes",
+   "sedimentation | kills microbes"
+  ],
+  "answer": 0,
+  "explain": "Filtration removes solids; carbon removes tastes and smells; chlorine kills microbes."
+ },
+ {
+  "id": "c10-0020",
+  "sub": "10.1",
+  "level": "core",
+  "q": "Which list gives the stages of domestic water treatment in the correct order?",
+  "columns": null,
+  "options": [
+   "chlorination, carbon, sedimentation and filtration",
+   "carbon, chlorination, sedimentation and filtration",
+   "sedimentation and filtration, carbon, chlorination",
+   "sedimentation and filtration, chlorination, carbon"
+  ],
+  "answer": 2,
+  "explain": "Solids are removed first, then carbon removes tastes and odours, and chlorine is added to kill microbes."
+ },
+ {
+  "id": "c10-0021",
+  "sub": "10.1",
+  "level": "core",
+  "q": "A student tests a liquid for water. Which test is suitable?",
+  "columns": null,
+  "options": [
+   "Add damp litmus paper and see if it turns blue.",
+   "Add silver nitrate solution and look for a white solid.",
+   "Heat the liquid and see if it burns with a pop.",
+   "Add anhydrous cobalt(II) chloride and see if it turns pink."
+  ],
+  "answer": 3,
+  "explain": "Anhydrous cobalt(II) chloride is blue and turns pink in the presence of water."
+ },
+ {
+  "id": "c10-0022",
+  "sub": "10.1",
+  "level": "core",
+  "q": "What does a sharp melting point of a solid show?",
+  "columns": null,
+  "options": [
+   "The solid is an element.",
+   "The solid is pure.",
+   "The solid is ionic.",
+   "The solid contains water."
+  ],
+  "answer": 1,
+  "explain": "Pure substances melt at one fixed temperature; impure substances melt over a range of temperatures."
+ },
+ {
+  "id": "c10-0023",
+  "sub": "10.1",
+  "level": "core",
+  "q": "Which statement about distillation of natural water is correct?",
+  "columns": null,
+  "options": [
+   "It removes dissolved solids because they stay behind when the water evaporates.",
+   "It adds dissolved oxygen to the water.",
+   "It leaves the dissolved solids in the distillate.",
+   "It increases the number of microbes in the water."
+  ],
+  "answer": 0,
+  "explain": "Water evaporates and condenses; dissolved solids are left behind, giving distilled water."
+ },
+ {
+  "id": "c10-0024",
+  "sub": "10.1",
+  "level": "core",
+  "q": "Why must the domestic water supply be treated before drinking?",
+  "columns": null,
+  "options": [
+   "to remove all the dissolved oxygen",
+   "to make it contain only hydrogen and oxygen",
+   "to remove solids and kill harmful microbes",
+   "to add nitrates to it"
+  ],
+  "answer": 2,
+  "explain": "Raw water contains solids and microbes that can cause disease."
+ },
+ {
+  "id": "c10-0025",
+  "sub": "10.1",
+  "level": "extended",
+  "q": "Which description of anhydrous cobalt(II) chloride is correct?",
+  "columns": null,
+  "options": [
+   "It is blue and used to test for water.",
+   "It is pink and used to test for water.",
+   "It is white and used to test for water.",
+   "It is blue and used to test for oxygen."
+  ],
+  "answer": 0,
+  "explain": "Anhydrous cobalt(II) chloride is blue; it turns pink when water is present."
+ },
+ {
+  "id": "c10-0026",
+  "sub": "10.1",
+  "level": "extended",
+  "q": "A student boils a liquid and the thermometer reading rises steadily from 98 °C to 104 °C. What is the best conclusion?",
+  "columns": null,
+  "options": [
+   "The liquid is pure water.",
+   "The liquid is a pure element.",
+   "The liquid contains only dissolved oxygen.",
+   "The liquid is a mixture, not a pure substance."
+  ],
+  "answer": 3,
+  "explain": "A pure liquid boils at one fixed temperature, so a steady rise through a range means a mixture."
+ },
+ {
+  "id": "c10-0027",
+  "sub": "10.1",
+  "level": "extended",
+  "q": "A dissolved impurity is added to pure water. How do the melting and boiling points change?",
+  "columns": null,
+  "options": [
+   "The melting point is raised and the boiling point is lowered.",
+   "Both are raised.",
+   "The melting point is lowered and the boiling point is raised.",
+   "Both are lowered."
+  ],
+  "answer": 2,
+  "explain": "Impurities lower the melting point and raise the boiling point compared with the pure substance."
+ },
+ {
+  "id": "c10-0028",
+  "sub": "10.1",
+  "level": "extended",
+  "q": "Which row correctly shows an effect of each substance in natural water?",
+  "columns": [
+   "Substance",
+   "Effect"
+  ],
+  "options": [
+   "sewage | provides oxygen for aquatic life",
+   "dissolved oxygen | needed by fish",
+   "plastics | increase dissolved oxygen",
+   "phosphates | kill microbes"
+  ],
+  "answer": 1,
+  "explain": "Fish use dissolved oxygen; sewage and plastics are pollutants and phosphates cause deoxygenation."
+ },
+ {
+  "id": "c10-0029",
+  "sub": "10.1",
+  "level": "extended",
+  "q": "Which statement about the effect of nitrates and phosphates on a lake is correct?",
+  "columns": null,
+  "options": [
+   "They lead to deoxygenation of the water, which damages aquatic life.",
+   "They increase the oxygen concentration so fish grow faster.",
+   "They kill microbes in the lake.",
+   "They convert sewage into harmless solids."
+  ],
+  "answer": 0,
+  "explain": "Extra nutrients lead to deoxygenation of the water, damaging aquatic life."
+ },
+ {
+  "id": "c10-0030",
+  "sub": "10.1",
+  "level": "extended",
+  "q": "Why is chlorination carried out after the filtration stage rather than before it?",
+  "columns": null,
+  "options": [
+   "Chlorine would turn into carbon if added earlier.",
+   "Filtration produces the microbes that must be killed.",
+   "Solids are removed first so the chlorine can kill microbes more effectively.",
+   "Chlorine only works on solids."
+  ],
+  "answer": 2,
+  "explain": "Removing solids first leaves cleaner water so that chlorine can reach and kill microbes more effectively."
+ }
+]

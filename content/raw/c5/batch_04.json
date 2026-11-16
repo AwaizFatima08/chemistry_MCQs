@@ -1,0 +1,463 @@
+[
+ {
+  "id": "c5-0091",
+  "sub": "5.1",
+  "level": "core",
+  "q": "Green copper(II) carbonate is heated in a test tube. It turns black as copper(II) oxide forms and carbon dioxide is given off. What type of reaction is this?",
+  "columns": null,
+  "options": [
+   "exothermic, because the solid changes colour",
+   "exothermic, because energy is continuously taken in from the burner",
+   "endothermic, because energy is continuously taken in from the burner",
+   "endothermic, because energy is released to the burner"
+  ],
+  "answer": 2,
+  "explain": "Thermal decomposition needs a continual supply of heat, so it is endothermic."
+ },
+ {
+  "id": "c5-0092",
+  "sub": "5.1",
+  "level": "extended",
+  "q": "On a labelled reaction pathway diagram for an endothermic reaction, which two features are always drawn?",
+  "columns": null,
+  "options": [
+   "an arrow for Ea from the reactants level up to the peak, and an arrow for ΔH upward from the reactants level to the higher products level",
+   "an arrow for Ea from the reactants level to the products level, and an arrow for ΔH from the reactants level up to the peak",
+   "an arrow for Ea from the products level to the peak, and an arrow for ΔH downward from the reactants level to the lower products level",
+   "an arrow for Ea from the reactants level up to the peak, and an arrow for ΔH downward from the reactants level to the lower products level"
+  ],
+  "answer": 0,
+  "explain": "For endothermic reactions the products sit above the reactants, so ΔH points up; Ea is always measured from the reactants to the peak."
+ },
+ {
+  "id": "c5-0093",
+  "sub": "5.1",
+  "level": "core",
+  "q": "A reaction pathway diagram shows reactants at 20 kJ/mol and products at 90 kJ/mol. What does the diagram show?",
+  "columns": null,
+  "options": [
+   "an endothermic reaction that takes in 70 kJ/mol from the surroundings",
+   "an endothermic reaction that takes in 110 kJ/mol from the surroundings",
+   "an exothermic reaction that releases 70 kJ/mol to the surroundings",
+   "an exothermic reaction that releases 110 kJ/mol to the surroundings"
+  ],
+  "answer": 0,
+  "explain": "The products are higher than the reactants by 90 − 20 = 70 kJ/mol, so 70 kJ/mol is absorbed."
+ },
+ {
+  "id": "c5-0094",
+  "sub": "5.1",
+  "level": "extended",
+  "q": "What is the energy change for the process Cl₂(g) → 2Cl(g), given that the Cl–Cl bond energy is 243 kJ/mol?",
+  "columns": null,
+  "options": [
+   "+243 kJ/mol",
+   "+486 kJ/mol",
+   "−486 kJ/mol",
+   "−243 kJ/mol"
+  ],
+  "answer": 0,
+  "explain": "Breaking one mole of Cl–Cl bonds is endothermic and requires 243 kJ."
+ },
+ {
+  "id": "c5-0095",
+  "sub": "5.1",
+  "level": "core",
+  "q": "Which process is endothermic?",
+  "columns": null,
+  "options": [
+   "respiration in living cells",
+   "the neutralisation of hydrochloric acid by sodium hydroxide",
+   "the thermal decomposition of calcium carbonate",
+   "the burning of magnesium in air"
+  ],
+  "answer": 2,
+  "explain": "Calcium carbonate only decomposes if thermal energy is continually supplied, so it is endothermic."
+ },
+ {
+  "id": "c5-0096",
+  "sub": "5.1",
+  "level": "extended",
+  "q": "On a labelled reaction pathway diagram for an exothermic reaction, in which direction does the arrow for ΔH point?",
+  "columns": null,
+  "options": [
+   "upwards, from the level of the reactants to the top of the curve",
+   "upwards, from the level of the reactants to the level of the products",
+   "downwards, from the top of the curve to the horizontal axis",
+   "downwards, from the level of the reactants to the level of the products"
+  ],
+  "answer": 3,
+  "explain": "ΔH is the change in energy from reactants to products; for an exothermic reaction the products are lower, so the arrow points down."
+ },
+ {
+  "id": "c5-0097",
+  "sub": "5.1",
+  "level": "core",
+  "q": "Fireworks burn quickly and give out heat, light and sound. Which statement about the chemical reactions is correct?",
+  "columns": null,
+  "options": [
+   "They are endothermic because the temperature rises.",
+   "They are exothermic because energy is taken in from the surroundings.",
+   "They are endothermic because light energy is produced.",
+   "They are exothermic because energy is transferred to the surroundings."
+  ],
+  "answer": 3,
+  "explain": "Heat, light and sound are all forms of energy released to the surroundings."
+ },
+ {
+  "id": "c5-0098",
+  "sub": "5.1",
+  "level": "core",
+  "q": "Why does a candle flame keep the surrounding air warm?",
+  "columns": null,
+  "options": [
+   "The wax is a reactant that stores thermal energy only.",
+   "The combustion of wax is exothermic and absorbs thermal energy.",
+   "The combustion of wax is exothermic and releases thermal energy.",
+   "The combustion of wax is endothermic and releases thermal energy."
+  ],
+  "answer": 2,
+  "explain": "Combustion transfers thermal energy to the surroundings."
+ },
+ {
+  "id": "c5-0099",
+  "sub": "5.1",
+  "level": "extended",
+  "q": "Which row correctly describes an exothermic reaction in terms of bond energies?",
+  "columns": [
+   "Sign of ΔH",
+   "Bond energies"
+  ],
+  "options": [
+   "negative | energy to break bonds is greater than energy released making bonds",
+   "positive | energy to break bonds is equal to energy released making bonds",
+   "positive | energy to break bonds is less than energy released making bonds",
+   "negative | energy to break bonds is less than energy released making bonds"
+  ],
+  "answer": 3,
+  "explain": "In an exothermic reaction ΔH = broken − made is negative because making bonds releases more energy."
+ },
+ {
+  "id": "c5-0100",
+  "sub": "5.1",
+  "level": "core",
+  "q": "Which row correctly describes an endothermic reaction?",
+  "columns": [
+   "Thermal energy",
+   "Temperature of surroundings",
+   "Energy of products compared with reactants"
+  ],
+  "options": [
+   "thermal energy given out to surroundings | temperature of surroundings increases | energy of products higher than reactants",
+   "thermal energy taken in from surroundings | temperature of surroundings increases | energy of products lower than reactants",
+   "thermal energy taken in from surroundings | temperature of surroundings decreases | energy of products higher than reactants",
+   "thermal energy given out to surroundings | temperature of surroundings decreases | energy of products higher than reactants"
+  ],
+  "answer": 2,
+  "explain": "In an endothermic reaction energy goes in, the surroundings cool and the products end up higher in energy."
+ },
+ {
+  "id": "c5-0101",
+  "sub": "5.1",
+  "level": "core",
+  "q": "Which of these changes would show a temperature decrease if carried out in an insulated cup?",
+  "columns": null,
+  "options": [
+   "magnesium reacting with dilute sulfuric acid",
+   "sodium hydroxide dissolving in water",
+   "ammonium chloride dissolving in water",
+   "calcium oxide reacting with water"
+  ],
+  "answer": 2,
+  "explain": "Dissolving ammonium chloride is endothermic; the other three give out heat."
+ },
+ {
+  "id": "c5-0102",
+  "sub": "5.1",
+  "level": "core",
+  "q": "Which statement about a reaction pathway diagram of an exothermic reaction is correct?",
+  "columns": null,
+  "options": [
+   "The temperature of the surroundings falls because the products are at a higher energy level than the reactants.",
+   "The temperature of the surroundings rises because the products are at a higher energy level than the reactants.",
+   "The temperature of the surroundings rises because the products are at a lower energy level than the reactants.",
+   "The temperature of the surroundings falls because the products are at a lower energy level than the reactants."
+  ],
+  "answer": 2,
+  "explain": "The energy lost by the chemicals is gained by the surroundings, which warm up."
+ },
+ {
+  "id": "c5-0103",
+  "sub": "5.1",
+  "level": "extended",
+  "q": "How many moles of O–H bonds are formed when 1 mol of methane burns completely in oxygen to form carbon dioxide and water, CH₄ + 2O₂ → CO₂ + 2H₂O?",
+  "columns": null,
+  "options": [
+   "1 mol",
+   "8 mol",
+   "4 mol",
+   "2 mol"
+  ],
+  "answer": 2,
+  "explain": "Each H₂O has two O–H bonds and 2 mol of water are formed, so 2 × 2 = 4 mol of O–H bonds."
+ },
+ {
+  "id": "c5-0104",
+  "sub": "5.1",
+  "level": "core",
+  "q": "Which observation would a student expect when ammonium nitrate dissolves in water in a beaker?",
+  "columns": null,
+  "options": [
+   "The beaker feels warm because thermal energy is given out to the surroundings.",
+   "The beaker feels cold because thermal energy is taken in from the surroundings.",
+   "The beaker feels warm because thermal energy is taken in from the surroundings.",
+   "The beaker feels cold because thermal energy is given out to the surroundings."
+  ],
+  "answer": 1,
+  "explain": "Dissolving ammonium nitrate is endothermic, so the water and the beaker cool."
+ },
+ {
+  "id": "c5-0105",
+  "sub": "5.1",
+  "level": "core",
+  "q": "Which of these correctly pairs a process with the effect on the temperature of its surroundings?",
+  "columns": null,
+  "options": [
+   "thermal decomposition of calcium carbonate: increases",
+   "burning ethanol: increases",
+   "photosynthesis: increases",
+   "burning ethanol: decreases"
+  ],
+  "answer": 1,
+  "explain": "Burning ethanol is exothermic so the surroundings warm; the other two absorb energy."
+ },
+ {
+  "id": "c5-0106",
+  "sub": "5.1",
+  "level": "core",
+  "q": "Solid sodium hydroxide dissolves in water and the beaker becomes warm. What type of change is this?",
+  "columns": null,
+  "options": [
+   "exothermic, because thermal energy is absorbed from the surroundings",
+   "exothermic, because thermal energy is released to the surroundings",
+   "endothermic, because the solid disappears",
+   "endothermic, because thermal energy is released to the surroundings"
+  ],
+  "answer": 1,
+  "explain": "A warming beaker shows thermal energy is released, so dissolving sodium hydroxide is exothermic."
+ },
+ {
+  "id": "c5-0107",
+  "sub": "5.1",
+  "level": "extended",
+  "q": "Which statement explains why a reaction is endothermic in terms of bonds?",
+  "columns": null,
+  "options": [
+   "More energy is needed to break the bonds in the reactants than is released when bonds form in the products.",
+   "Bond making takes in energy and bond breaking releases energy.",
+   "Energy is released when the bonds in the reactants break.",
+   "More energy is released when bonds form in the products than is needed to break the bonds in the reactants."
+  ],
+  "answer": 0,
+  "explain": "A net absorption of energy occurs when bond breaking costs more than bond making returns."
+ },
+ {
+  "id": "c5-0108",
+  "sub": "5.1",
+  "level": "extended",
+  "q": "Use the bond energies (N≡N 945, O=O 498, N=O 630, all in kJ/mol) to calculate ΔH for N₂(g) + O₂(g) → 2NO(g).",
+  "columns": null,
+  "options": [
+   "+183 kJ/mol",
+   "+1443 kJ/mol",
+   "−183 kJ/mol",
+   "−1260 kJ/mol"
+  ],
+  "answer": 0,
+  "explain": "Broken: 945 + 498 = 1443. Made: 2 × 630 = 1260. ΔH = 1443 − 1260 = +183 kJ/mol (endothermic)."
+ },
+ {
+  "id": "c5-0109",
+  "sub": "5.1",
+  "level": "core",
+  "q": "Which equation represents an exothermic reaction?",
+  "columns": null,
+  "options": [
+   "C(s) + O₂(g) → CO₂(g)",
+   "CaCO₃(s) → CaO(s) + CO₂(g)",
+   "CuCO₃(s) → CuO(s) + CO₂(g)",
+   "6CO₂(g) + 6H₂O(l) → C₆H₁₂O₆(aq) + 6O₂(g)"
+  ],
+  "answer": 0,
+  "explain": "Burning carbon in oxygen is combustion, which is exothermic; the others take in energy."
+ },
+ {
+  "id": "c5-0110",
+  "sub": "5.1",
+  "level": "extended",
+  "q": "Which statement about breaking and making bonds when hydrogen burns, 2H₂ + O₂ → 2H₂O, is correct?",
+  "columns": null,
+  "options": [
+   "H–H and O=O bonds are broken, releasing energy, and O–H bonds are formed, taking in energy.",
+   "H–H and O=O bonds are broken, taking in energy, and O–H bonds are formed, releasing energy.",
+   "H–H and O=O bonds are formed, releasing energy, and O–H bonds are broken, taking in energy.",
+   "Only O–H bonds are involved and no bonds are broken."
+  ],
+  "answer": 1,
+  "explain": "In the reactants the H–H and O=O bonds are broken (endothermic); in the product the new O–H bonds form (exothermic)."
+ },
+ {
+  "id": "c5-0111",
+  "sub": "5.1",
+  "level": "extended",
+  "q": "The enthalpy change for burning 1 mol of hydrogen in oxygen is written as ΔH = −286 kJ/mol. What does the negative sign tell you?",
+  "columns": null,
+  "options": [
+   "The reaction needs a catalyst.",
+   "Thermal energy is released to the surroundings.",
+   "Thermal energy is taken in from the surroundings.",
+   "The activation energy is negative."
+  ],
+  "answer": 1,
+  "explain": "A negative ΔH is the sign of an exothermic reaction."
+ },
+ {
+  "id": "c5-0112",
+  "sub": "5.1",
+  "level": "core",
+  "q": "Calcium carbonate must be heated strongly the whole time for it to decompose; if heating stops, the decomposition stops. Why?",
+  "columns": null,
+  "options": [
+   "The reaction is exothermic, so the energy released stops the reaction.",
+   "The reaction is endothermic, so it continuously gives out thermal energy to the surroundings.",
+   "The reaction is exothermic, so it continuously needs thermal energy from the surroundings.",
+   "The reaction is endothermic, so it continuously needs thermal energy from the surroundings."
+  ],
+  "answer": 3,
+  "explain": "Endothermic reactions take in energy, so they carry on only while energy is supplied."
+ },
+ {
+  "id": "c5-0113",
+  "sub": "5.1",
+  "level": "extended",
+  "q": "Use the bond energies (C=C 614, Br–Br 193, C–C 347, C–Br 285, all in kJ/mol) to calculate ΔH for C₂H₄(g) + Br₂(g) → C₂H₄Br₂(g).",
+  "columns": null,
+  "options": [
+   "−110 kJ/mol",
+   "−917 kJ/mol",
+   "−807 kJ/mol",
+   "+110 kJ/mol"
+  ],
+  "answer": 0,
+  "explain": "Broken: 614 + 193 = 807. Made: 347 + 2 × 285 = 917. ΔH = 807 − 917 = −110 kJ/mol."
+ },
+ {
+  "id": "c5-0114",
+  "sub": "5.1",
+  "level": "core",
+  "q": "Which row correctly links an observation to the type of reaction?",
+  "columns": [
+   "Observation",
+   "Type of reaction",
+   "Energy transfer"
+  ],
+  "options": [
+   "temperature of mixture falls | endothermic | energy taken in from surroundings",
+   "temperature of mixture falls | exothermic | energy given out to surroundings",
+   "temperature of mixture rises | endothermic | energy given out to surroundings",
+   "temperature of mixture rises | endothermic | energy taken in from surroundings"
+  ],
+  "answer": 0,
+  "explain": "A falling temperature indicates an endothermic reaction that absorbs energy from its surroundings."
+ },
+ {
+  "id": "c5-0115",
+  "sub": "5.1",
+  "level": "extended",
+  "q": "Reaction X and reaction Y both have ΔH = −100 kJ/mol. Reaction X has Ea = 60 kJ/mol and reaction Y has Ea = 120 kJ/mol. Which statement is correct?",
+  "columns": null,
+  "options": [
+   "Both reactions are endothermic.",
+   "They release the same energy overall, but at a given temperature X has more particles able to react.",
+   "Y releases more energy overall because its activation energy is greater.",
+   "X releases more energy overall because its activation energy is less."
+  ],
+  "answer": 1,
+  "explain": "ΔH is the same so the overall energy released is the same; the lower Ea of X means a larger fraction of collisions are successful."
+ },
+ {
+  "id": "c5-0116",
+  "sub": "5.1",
+  "level": "core",
+  "q": "Which is a use of an exothermic reaction?",
+  "columns": null,
+  "options": [
+   "growing crops by photosynthesis",
+   "using ammonium nitrate in an instant cold pack",
+   "burning natural gas to heat a home",
+   "decomposing limestone to make quicklime"
+  ],
+  "answer": 2,
+  "explain": "Burning natural gas gives out thermal energy; the other uses involve reactions that take in energy."
+ },
+ {
+  "id": "c5-0117",
+  "sub": "5.1",
+  "level": "extended",
+  "q": "Use the bond energies (C–H 413, Cl–Cl 243, C–Cl 339, H–Cl 432, all in kJ/mol) to calculate ΔH for CH₄(g) + Cl₂(g) → CH₃Cl(g) + HCl(g).",
+  "columns": null,
+  "options": [
+   "+115 kJ/mol",
+   "−115 kJ/mol",
+   "+656 kJ/mol",
+   "−771 kJ/mol"
+  ],
+  "answer": 1,
+  "explain": "Broken: 413 + 243 = 656. Made: 339 + 432 = 771. ΔH = 656 − 771 = −115 kJ/mol."
+ },
+ {
+  "id": "c5-0118",
+  "sub": "5.1",
+  "level": "core",
+  "q": "On a reaction pathway diagram for any reaction, where are the reactants shown?",
+  "columns": null,
+  "options": [
+   "on the vertical axis, at the bottom",
+   "at the right-hand end of the curve, after the reaction is finished",
+   "at the left-hand end of the curve, on the horizontal line before the reaction starts",
+   "at the top of the curve, at the highest point"
+  ],
+  "answer": 2,
+  "explain": "The pathway reads from left to right: reactants first, then the climb to the peak, then the products."
+ },
+ {
+  "id": "c5-0119",
+  "sub": "5.1",
+  "level": "core",
+  "q": "The equation for photosynthesis is 6CO₂(g) + 6H₂O(l) → C₆H₁₂O₆(aq) + 6O₂(g). Which statement is correct?",
+  "columns": null,
+  "options": [
+   "The reaction is exothermic because oxygen is produced.",
+   "The reaction is endothermic because it takes in energy from sunlight.",
+   "The reaction is endothermic because it gives out energy to the plant.",
+   "The reaction is exothermic because it takes in energy from sunlight."
+  ],
+  "answer": 1,
+  "explain": "Photosynthesis absorbs energy from light, so it is endothermic."
+ },
+ {
+  "id": "c5-0120",
+  "sub": "5.1",
+  "level": "core",
+  "q": "A hand warmer contains iron powder that reacts with oxygen from the air and gets warm. What does this show about the reaction?",
+  "columns": null,
+  "options": [
+   "It is exothermic because thermal energy is released to the surroundings.",
+   "It is endothermic because oxygen is used up.",
+   "It is exothermic because thermal energy is taken in from the air.",
+   "It is endothermic because the pack becomes warm."
+  ],
+  "answer": 0,
+  "explain": "The pack warms up because the reaction gives out thermal energy, which is exothermic."
+ }
+]

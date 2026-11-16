@@ -1,0 +1,455 @@
+[
+  {
+    "id": "c1-0001",
+    "sub": "1.2",
+    "level": "core",
+    "q": "In which state of matter does diffusion happen fastest?",
+    "columns": null,
+    "options": [
+      "Liquid",
+      "Solid",
+      "Gas",
+      "It happens at the same rate in all three states"
+    ],
+    "answer": 2,
+    "explain": "Gas particles move fastest and furthest between collisions, so gases diffuse quickest."
+  },
+  {
+    "id": "c1-0002",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Which statement describes the particles in a gas?",
+    "columns": null,
+    "options": [
+      "They are far apart, in a regular pattern and vibrate about fixed positions.",
+      "They are close together, randomly arranged and move quickly in all directions.",
+      "They are far apart, randomly arranged and move quickly in all directions.",
+      "They are far apart, randomly arranged and vibrate about fixed positions."
+    ],
+    "answer": 2,
+    "explain": "Gas particles have large separations, no pattern and fast random motion in all directions."
+  },
+  {
+    "id": "c1-0003",
+    "sub": "1.2",
+    "level": "extended",
+    "q": "The relative molecular masses of four gases are CH₄ = 16, NH₃ = 17, HCl = 36.5 and Cl₂ = 71. Which list shows the order of rate of diffusion from fastest to slowest?",
+    "columns": null,
+    "options": [
+      "CH₄, NH₃, HCl, Cl₂",
+      "Cl₂, HCl, NH₃, CH₄",
+      "NH₃, CH₄, HCl, Cl₂",
+      "CH₄, NH₃, Cl₂, HCl"
+    ],
+    "answer": 0,
+    "explain": "The lower the relative molecular mass, the faster the diffusion, so the order of rate follows increasing Mr."
+  },
+  {
+    "id": "c1-0004",
+    "sub": "1.1",
+    "level": "core",
+    "q": "A diagram shows particles touching each other in neat rows and columns. Which state of matter does it show?",
+    "columns": null,
+    "options": [
+      "Liquid",
+      "Solid",
+      "Gas",
+      "A mixture of liquid and gas"
+    ],
+    "answer": 1,
+    "explain": "Touching particles in a regular pattern are a solid."
+  },
+  {
+    "id": "c1-0005",
+    "sub": "1.1",
+    "level": "extended",
+    "q": "On a heating curve, the horizontal section for boiling is much longer than the one for melting. Why?",
+    "columns": null,
+    "options": [
+      "There are more particles in the sample when it boils.",
+      "The temperature rises faster during boiling.",
+      "Boiling releases energy that slows down the heating.",
+      "More energy is needed to completely separate the particles when boiling than to free them from fixed positions when melting."
+    ],
+    "answer": 3,
+    "explain": "During boiling the attractions between particles are completely overcome, which needs far more energy than loosening them in melting."
+  },
+  {
+    "id": "c1-0006",
+    "sub": "1.1",
+    "level": "core",
+    "q": "A sealed syringe contains air. The plunger is pushed in slowly and the temperature stays the same. What happens to the volume and the pressure of the air?",
+    "columns": null,
+    "options": [
+      "The volume decreases and the pressure decreases.",
+      "The volume increases and the pressure increases.",
+      "The volume and the pressure stay the same.",
+      "The volume decreases and the pressure increases."
+    ],
+    "answer": 3,
+    "explain": "Squeezing the same amount of gas into a smaller space makes the pressure rise."
+  },
+  {
+    "id": "c1-0007",
+    "sub": "1.1",
+    "level": "extended",
+    "q": "A gas in a cylinder with a movable piston is heated at constant external pressure. Which explanation of the increase in volume is correct?",
+    "columns": null,
+    "options": [
+      "The particles themselves become larger.",
+      "The particles gain mass.",
+      "The forces of attraction between the particles increase.",
+      "The particles move faster and hit the piston harder, so the gas expands until the pressure matches the external pressure."
+    ],
+    "answer": 3,
+    "explain": "Faster particles push the piston out, and the gas expands until the collisions per unit area fall back to match the external pressure."
+  },
+  {
+    "id": "c1-0008",
+    "sub": "1.2",
+    "level": "extended",
+    "q": "Hydrogen has Mr = 2 and oxygen has Mr = 32. Which row correctly compares their diffusion at the same temperature?",
+    "columns": [
+      "Gas that diffuses faster",
+      "Reason"
+    ],
+    "options": [
+      "Oxygen | Higher relative molecular mass",
+      "Hydrogen | Lower relative molecular mass",
+      "Hydrogen | Higher relative molecular mass",
+      "Oxygen | Lower relative molecular mass"
+    ],
+    "answer": 1,
+    "explain": "Hydrogen diffuses faster because its relative molecular mass is lower."
+  },
+  {
+    "id": "c1-0009",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Which list contains only changes of state in which the substance gains energy?",
+    "columns": null,
+    "options": [
+      "Melting, freezing, boiling",
+      "Freezing, condensing, evaporating",
+      "Melting, boiling, evaporating",
+      "Condensing, boiling, melting"
+    ],
+    "answer": 2,
+    "explain": "Melting, boiling and evaporating all need an energy input. Freezing and condensing release energy."
+  },
+  {
+    "id": "c1-0010",
+    "sub": "1.2",
+    "level": "extended",
+    "q": "Which gas diffuses fastest at the same temperature and pressure?",
+    "columns": null,
+    "options": [
+      "Helium, He",
+      "Methane, CH₄",
+      "Nitrogen, N₂",
+      "Carbon dioxide, CO₂"
+    ],
+    "answer": 0,
+    "explain": "Helium has the smallest relative mass (Ar = 4, compared with Mr = 16, 28 and 44 for the others), so it diffuses fastest."
+  },
+  {
+    "id": "c1-0011",
+    "sub": "1.1",
+    "level": "core",
+    "q": "A diagram shows a few particles that are widely spaced and not touching. Which state of matter does it show?",
+    "columns": null,
+    "options": [
+      "Solid",
+      "Gas",
+      "Liquid",
+      "A mixture of solid and liquid"
+    ],
+    "answer": 1,
+    "explain": "Widely spaced particles that do not touch are a gas."
+  },
+  {
+    "id": "c1-0012",
+    "sub": "1.1",
+    "level": "extended",
+    "q": "Why can a liquid evaporate below its boiling point?",
+    "columns": null,
+    "options": [
+      "All the particles in the liquid have enough energy to escape.",
+      "Some particles at the surface have enough energy to escape from the liquid.",
+      "The covalent bonds in the molecules break.",
+      "The pressure at the surface is zero."
+    ],
+    "answer": 1,
+    "explain": "Particles in a liquid have a range of energies, so a few at the surface have enough energy to overcome the attractions and leave."
+  },
+  {
+    "id": "c1-0013",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Ethanoic acid melts at 17 °C and boils at 118 °C. In which state is it at 10 °C?",
+    "columns": null,
+    "options": [
+      "Liquid",
+      "Solid",
+      "Gas",
+      "A mixture of solid and gas"
+    ],
+    "answer": 1,
+    "explain": "10 °C is below the melting point of 17 °C, so the substance is solid."
+  },
+  {
+    "id": "c1-0014",
+    "sub": "1.1",
+    "level": "extended",
+    "q": "Which statement about temperature is correct?",
+    "columns": null,
+    "options": [
+      "It is a measure of the average kinetic energy of the particles.",
+      "It is a measure of the number of particles.",
+      "It is a measure of the mass of the particles.",
+      "It is a measure of the size of the particles."
+    ],
+    "answer": 0,
+    "explain": "A higher temperature means that the particles have a higher average kinetic energy."
+  },
+  {
+    "id": "c1-0015",
+    "sub": "1.2",
+    "level": "extended",
+    "q": "Ammonia and hydrogen chloride are placed at opposite ends of a tube. They take several minutes to meet in the tube, although the particles move very fast. Why?",
+    "columns": null,
+    "options": [
+      "The particles are too heavy to move.",
+      "The particles collide with air particles, which change their direction.",
+      "The particles repel one another.",
+      "The particles only move when the tube is shaken."
+    ],
+    "answer": 1,
+    "explain": "Many collisions with the air in the tube make the movement of each particle a random zigzag, so the net progress is slow."
+  },
+  {
+    "id": "c1-0016",
+    "sub": "1.1",
+    "level": "core",
+    "q": "What is the name of the change of state from solid to liquid?",
+    "columns": null,
+    "options": [
+      "Freezing",
+      "Melting",
+      "Boiling",
+      "Condensing"
+    ],
+    "answer": 1,
+    "explain": "A solid turns into a liquid by melting. Freezing is the reverse change."
+  },
+  {
+    "id": "c1-0017",
+    "sub": "1.2",
+    "level": "extended",
+    "q": "Which gas diffuses fastest at the same temperature and pressure?",
+    "columns": null,
+    "options": [
+      "Argon, Ar (Ar = 40)",
+      "Oxygen, O₂ (Mr = 32)",
+      "Neon, Ne (Ar = 20)",
+      "Fluorine, F₂ (Mr = 38)"
+    ],
+    "answer": 2,
+    "explain": "Neon has the smallest relative mass of the four gases, so it diffuses fastest."
+  },
+  {
+    "id": "c1-0018",
+    "sub": "1.2",
+    "level": "extended",
+    "q": "Which gas diffuses most slowly at the same temperature and pressure?",
+    "columns": null,
+    "options": [
+      "Ammonia, NH₃",
+      "Methane, CH₄",
+      "Nitrogen, N₂",
+      "Hydrogen chloride, HCl"
+    ],
+    "answer": 3,
+    "explain": "HCl has the largest relative molecular mass (Mr = 36.5, compared with 17, 16 and 28), so it diffuses slowest."
+  },
+  {
+    "id": "c1-0019",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Which statement about a solid is correct?",
+    "columns": null,
+    "options": [
+      "It has a fixed shape but its volume changes to fill its container.",
+      "It has a fixed shape and a fixed volume.",
+      "It has no fixed shape but it has a fixed volume.",
+      "It has no fixed shape and no fixed volume."
+    ],
+    "answer": 1,
+    "explain": "The particles in a solid are held in fixed positions, so both its shape and its volume are fixed."
+  },
+  {
+    "id": "c1-0020",
+    "sub": "1.2",
+    "level": "core",
+    "q": "In which situation does diffusion take place?",
+    "columns": null,
+    "options": [
+      "A fan blows smoke across a room.",
+      "A spoon stirs sugar into tea.",
+      "A pump moves water through a pipe.",
+      "The smell of cooking spreads through a house with no draughts."
+    ],
+    "answer": 3,
+    "explain": "In the others the movement is caused by a fan, a spoon or a pump. Diffusion happens because of random particle motion alone."
+  },
+  {
+    "id": "c1-0021",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Nitrogen melts at −210 °C and boils at −196 °C. In which state is nitrogen at −150 °C?",
+    "columns": null,
+    "options": [
+      "Gas",
+      "Liquid",
+      "Solid",
+      "A mixture of liquid and solid"
+    ],
+    "answer": 0,
+    "explain": "−150 °C is above the boiling point of −196 °C, so nitrogen is a gas."
+  },
+  {
+    "id": "c1-0022",
+    "sub": "1.1",
+    "level": "extended",
+    "q": "Which explanation of the properties of a liquid is correct?",
+    "columns": null,
+    "options": [
+      "The forces between particles hold them in fixed positions, so the shape is fixed.",
+      "The forces between particles are negligible, so the liquid fills its container.",
+      "The forces between particles keep them close, so the volume is fixed, but they are too weak to hold the particles in fixed positions, so the shape changes.",
+      "The particles are far apart, so the liquid can be compressed easily."
+    ],
+    "answer": 2,
+    "explain": "Moderate attractions in a liquid keep particles touching but allow them to move past one another."
+  },
+  {
+    "id": "c1-0023",
+    "sub": "1.1",
+    "level": "extended",
+    "q": "The heating curve of a pure solid has two horizontal sections. What is happening in the first horizontal section?",
+    "columns": null,
+    "options": [
+      "The solid is being warmed.",
+      "The liquid is boiling.",
+      "The solid is melting.",
+      "The gas is being warmed."
+    ],
+    "answer": 2,
+    "explain": "The first flat section is at the melting point, where solid and liquid are present together. The second flat section is boiling."
+  },
+  {
+    "id": "c1-0024",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Which change of state occurs when energy is removed from a liquid?",
+    "columns": null,
+    "options": [
+      "Melting",
+      "Freezing",
+      "Boiling",
+      "Evaporating"
+    ],
+    "answer": 1,
+    "explain": "Taking energy away from a liquid makes its particles move more slowly until they are held in fixed positions, which is freezing."
+  },
+  {
+    "id": "c1-0025",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Why can a liquid flow?",
+    "columns": null,
+    "options": [
+      "Its particles can slide past one another.",
+      "Its particles are held in a regular lattice.",
+      "Its particles are far apart and move freely.",
+      "Its particles only vibrate about fixed positions."
+    ],
+    "answer": 0,
+    "explain": "Liquid particles are close together but not held in fixed positions, so they can move past each other."
+  },
+  {
+    "id": "c1-0026",
+    "sub": "1.2",
+    "level": "core",
+    "q": "Which observation is an example of diffusion in a liquid?",
+    "columns": null,
+    "options": [
+      "Bubbles rise to the surface of a fizzy drink.",
+      "A puddle gets smaller on a sunny day.",
+      "An ice cube floats in a glass of water.",
+      "A purple crystal is placed in still water and the purple colour gradually spreads through the water."
+    ],
+    "answer": 3,
+    "explain": "The purple particles from the crystal spread through the water by random motion."
+  },
+  {
+    "id": "c1-0027",
+    "sub": "1.1",
+    "level": "extended",
+    "q": "The temperature of a pure substance is recorded as it is heated at a steady rate.\n0–2 minutes: rises from −20 °C to 0 °C\n2–6 minutes: stays at 0 °C\n6–14 minutes: rises from 0 °C to 100 °C\n14–26 minutes: stays at 100 °C\nWhat is present after 4 minutes?",
+    "columns": null,
+    "options": [
+      "Solid only",
+      "Liquid only",
+      "Liquid and gas",
+      "Solid and liquid"
+    ],
+    "answer": 3,
+    "explain": "The temperature is constant at 0 °C between 2 and 6 minutes, which is the melting point, so solid and liquid are both present."
+  },
+  {
+    "id": "c1-0028",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Why can a gas be compressed but a solid cannot?",
+    "columns": null,
+    "options": [
+      "Gas particles are much smaller than solid particles.",
+      "Gas particles have no mass.",
+      "Solid particles move too fast to be pushed together.",
+      "Gas particles are far apart with much empty space, but solid particles are already touching."
+    ],
+    "answer": 3,
+    "explain": "Compression reduces the spaces between particles. There is a lot of space in a gas but almost none in a solid."
+  },
+  {
+    "id": "c1-0029",
+    "sub": "1.1",
+    "level": "core",
+    "q": "Four substances have these melting points and boiling points.\nP: −219 °C and −188 °C\nQ: −7 °C and 59 °C\nR: 801 °C and 1413 °C\nS: 0 °C and 100 °C\nWhich substance is a gas at 25 °C?",
+    "columns": null,
+    "options": [
+      "Q",
+      "P",
+      "R",
+      "S"
+    ],
+    "answer": 1,
+    "explain": "Only P has a boiling point below 25 °C, so only P is a gas at 25 °C. Q and S are liquids, and R is a solid."
+  },
+  {
+    "id": "c1-0030",
+    "sub": "1.1",
+    "level": "extended",
+    "q": "A hot gas is cooled steadily and its temperature is recorded. The cooling curve has a horizontal section at 78 °C. Which change of state is happening in this section?",
+    "columns": null,
+    "options": [
+      "Boiling",
+      "Freezing",
+      "Condensing",
+      "Melting"
+    ],
+    "answer": 2,
+    "explain": "A flat section on a cooling curve at a substance's boiling point (the same temperature as for condensing) shows the gas changing to liquid."
+  }
+]

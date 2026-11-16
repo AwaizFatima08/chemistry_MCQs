@@ -1,0 +1,474 @@
+[
+ {
+  "id": "c5-0001",
+  "sub": "5.1",
+  "level": "core",
+  "q": "A reaction pathway diagram shows reactants at 80 kJ/mol and products at 30 kJ/mol. What does the diagram show?",
+  "columns": null,
+  "options": [
+   "an exothermic reaction that releases 50 kJ/mol to the surroundings",
+   "an exothermic reaction that releases 110 kJ/mol to the surroundings",
+   "an endothermic reaction that takes in 50 kJ/mol from the surroundings",
+   "an endothermic reaction that takes in 110 kJ/mol from the surroundings"
+  ],
+  "answer": 0,
+  "explain": "The products are lower than the reactants by 80 − 30 = 50 kJ/mol, so 50 kJ/mol is given out."
+ },
+ {
+  "id": "c5-0002",
+  "sub": "5.1",
+  "level": "core",
+  "q": "What is shown on the vertical axis of a reaction pathway diagram?",
+  "columns": null,
+  "options": [
+   "time",
+   "temperature",
+   "concentration",
+   "energy"
+  ],
+  "answer": 3,
+  "explain": "A reaction pathway diagram plots the energy of the particles against the progress of the reaction."
+ },
+ {
+  "id": "c5-0003",
+  "sub": "5.1",
+  "level": "extended",
+  "q": "Which statement about the sign of ΔH is correct?",
+  "columns": null,
+  "options": [
+   "ΔH is positive for exothermic reactions and negative for endothermic reactions.",
+   "ΔH is positive for both exothermic and endothermic reactions.",
+   "ΔH is negative for both exothermic and endothermic reactions.",
+   "ΔH is negative for exothermic reactions and positive for endothermic reactions."
+  ],
+  "answer": 3,
+  "explain": "A negative ΔH means the system loses energy to the surroundings; a positive ΔH means it gains energy."
+ },
+ {
+  "id": "c5-0004",
+  "sub": "5.1",
+  "level": "core",
+  "q": "Which row is correct for respiration and photosynthesis?",
+  "columns": [
+   "Respiration",
+   "Photosynthesis"
+  ],
+  "options": [
+   "respiration: exothermic | photosynthesis: exothermic",
+   "respiration: endothermic | photosynthesis: exothermic",
+   "respiration: endothermic | photosynthesis: endothermic",
+   "respiration: exothermic | photosynthesis: endothermic"
+  ],
+  "answer": 3,
+  "explain": "Respiration releases energy, while photosynthesis takes in energy from sunlight."
+ },
+ {
+  "id": "c5-0005",
+  "sub": "5.1",
+  "level": "core",
+  "q": "A pathway diagram has reactants at 120 kJ/mol and products at 200 kJ/mol. Which statement is correct?",
+  "columns": null,
+  "options": [
+   "320 kJ/mol of thermal energy is given out to the surroundings.",
+   "80 kJ/mol of thermal energy is taken in from the surroundings.",
+   "320 kJ/mol of thermal energy is taken in from the surroundings.",
+   "80 kJ/mol of thermal energy is given out to the surroundings."
+  ],
+  "answer": 1,
+  "explain": "200 − 120 = 80 kJ/mol higher for the products, so that much energy is absorbed."
+ },
+ {
+  "id": "c5-0006",
+  "sub": "5.1",
+  "level": "extended",
+  "q": "What is the definition of activation energy, Ea?",
+  "columns": null,
+  "options": [
+   "the minimum energy that colliding particles must have in order to react",
+   "the energy released when the products of a reaction are formed",
+   "the average kinetic energy of all the particles in the reaction mixture",
+   "the difference in energy between the reactants and the products"
+  ],
+  "answer": 0,
+  "explain": "Particles that collide with less than the activation energy do not react."
+ },
+ {
+  "id": "c5-0007",
+  "sub": "5.1",
+  "level": "core",
+  "q": "Which process is exothermic?",
+  "columns": null,
+  "options": [
+   "the combustion of methane in a Bunsen burner",
+   "the reaction of citric acid with sodium hydrogencarbonate",
+   "the dissolving of ammonium nitrate in water",
+   "the thermal decomposition of calcium carbonate"
+  ],
+  "answer": 0,
+  "explain": "Burning fuels releases a large amount of thermal energy; the other three take in energy and cool their surroundings."
+ },
+ {
+  "id": "c5-0008",
+  "sub": "5.1",
+  "level": "core",
+  "q": "Which row correctly describes two chemical processes?",
+  "columns": [
+   "Dissolving ammonium nitrate in water",
+   "Burning methane in air"
+  ],
+  "options": [
+   "dissolving ammonium nitrate: exothermic | burning methane: exothermic",
+   "dissolving ammonium nitrate: exothermic | burning methane: endothermic",
+   "dissolving ammonium nitrate: endothermic | burning methane: endothermic",
+   "dissolving ammonium nitrate: endothermic | burning methane: exothermic"
+  ],
+  "answer": 3,
+  "explain": "Ammonium nitrate dissolves with a fall in temperature, while burning methane releases heat."
+ },
+ {
+  "id": "c5-0009",
+  "sub": "5.1",
+  "level": "extended",
+  "q": "A catalyst is added to a reaction. Which row describes the effect on the activation energy and on ΔH?",
+  "columns": [
+   "Activation energy",
+   "Enthalpy change"
+  ],
+  "options": [
+   "Ea is lowered | ΔH becomes more negative",
+   "Ea is lowered | ΔH is unchanged",
+   "Ea is raised | ΔH is unchanged",
+   "Ea is unchanged | ΔH is lowered"
+  ],
+  "answer": 1,
+  "explain": "A catalyst gives an alternative pathway with a lower activation energy, but the energy levels of the reactants and the products do not change."
+ },
+ {
+  "id": "c5-0010",
+  "sub": "5.1",
+  "level": "core",
+  "q": "The overall equation for aerobic respiration is C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O. Which statement is correct?",
+  "columns": null,
+  "options": [
+   "The reaction is exothermic and releases energy for the body.",
+   "The reaction is endothermic and releases energy for the body.",
+   "The reaction is endothermic and takes in energy from the body.",
+   "The reaction is exothermic and takes in energy from the body."
+  ],
+  "answer": 0,
+  "explain": "Respiration breaks down glucose and releases energy, so it is exothermic."
+ },
+ {
+  "id": "c5-0011",
+  "sub": "5.1",
+  "level": "extended",
+  "q": "The reaction N₂(g) + 3H₂(g) → 2NH₃(g) has ΔH = −92 kJ/mol. What is ΔH for the reverse reaction, 2NH₃(g) → N₂(g) + 3H₂(g)?",
+  "columns": null,
+  "options": [
+   "−92 kJ/mol",
+   "+184 kJ/mol",
+   "0 kJ/mol",
+   "+92 kJ/mol"
+  ],
+  "answer": 3,
+  "explain": "The reverse reaction takes in the same amount of energy that the forward reaction releases, so ΔH changes sign."
+ },
+ {
+  "id": "c5-0012",
+  "sub": "5.1",
+  "level": "core",
+  "q": "Which of these processes takes in thermal energy from the surroundings?",
+  "columns": null,
+  "options": [
+   "the rusting of iron in a hand warmer",
+   "the thermal decomposition of limestone to make quicklime",
+   "the reaction of an acid with an alkali",
+   "the burning of coal in a power station"
+  ],
+  "answer": 1,
+  "explain": "Quicklime production needs a kiln heated to a high temperature, so it is endothermic."
+ },
+ {
+  "id": "c5-0013",
+  "sub": "5.1",
+  "level": "core",
+  "q": "During an investigation, which measurement would show that a reaction is exothermic?",
+  "columns": null,
+  "options": [
+   "The volume of the reaction mixture decreases.",
+   "The temperature of the reaction mixture decreases.",
+   "The temperature of the reaction mixture increases.",
+   "The mass of the reaction mixture increases."
+  ],
+  "answer": 2,
+  "explain": "A temperature increase of the mixture is the evidence of energy being released."
+ },
+ {
+  "id": "c5-0014",
+  "sub": "5.1",
+  "level": "extended",
+  "q": "In a reaction the bonds in the reactants are stronger overall than the bonds in the products. Which statement is correct?",
+  "columns": null,
+  "options": [
+   "The same energy is absorbed and released, so ΔH is positive.",
+   "More energy is absorbed breaking bonds than is released making bonds, so ΔH is negative.",
+   "More energy is absorbed breaking bonds than is released making bonds, so ΔH is positive.",
+   "More energy is released making bonds than is absorbed breaking bonds, so ΔH is positive."
+  ],
+  "answer": 2,
+  "explain": "Stronger bonds in reactants need more energy to break than the weaker product bonds return, giving a net absorption."
+ },
+ {
+  "id": "c5-0015",
+  "sub": "5.1",
+  "level": "core",
+  "q": "Which statement describes an exothermic reaction?",
+  "columns": null,
+  "options": [
+   "It transfers thermal energy to the surroundings, so the temperature of the surroundings falls.",
+   "It transfers thermal energy to the surroundings, so the temperature of the surroundings rises.",
+   "It takes in thermal energy from the surroundings, so the temperature of the surroundings rises.",
+   "It takes in thermal energy from the surroundings, so the temperature of the surroundings falls."
+  ],
+  "answer": 1,
+  "explain": "In an exothermic reaction thermal energy is given out to the surroundings, which warm up."
+ },
+ {
+  "id": "c5-0016",
+  "sub": "5.1",
+  "level": "core",
+  "q": "Which statement about the chemical energy stored in the substances in an exothermic reaction is correct?",
+  "columns": null,
+  "options": [
+   "The products store more chemical energy than the reactants.",
+   "The products store less chemical energy than the reactants.",
+   "The reactants store no chemical energy.",
+   "The products store the same chemical energy as the reactants."
+  ],
+  "answer": 1,
+  "explain": "The energy lost from the chemical store is transferred to the surroundings as thermal energy."
+ },
+ {
+  "id": "c5-0017",
+  "sub": "5.1",
+  "level": "core",
+  "q": "Which description matches the reaction pathway diagram of an exothermic reaction?",
+  "columns": null,
+  "options": [
+   "The curve rises from the reactants to a peak and then falls to a products line that is lower than the reactants line.",
+   "The curve falls from the reactants to a minimum and then rises to a products line that is higher than the reactants line.",
+   "The curve rises from the reactants to a peak and then falls to a products line that is higher than the reactants line.",
+   "The curve is a straight horizontal line from the reactants to the products."
+  ],
+  "answer": 0,
+  "explain": "For exothermic reactions the products end at a lower energy level than the reactants."
+ },
+ {
+  "id": "c5-0018",
+  "sub": "5.1",
+  "level": "core",
+  "q": "Hydrogen burns in oxygen: 2H₂(g) + O₂(g) → 2H₂O(g). Why can hydrogen be used as a rocket fuel?",
+  "columns": null,
+  "options": [
+   "The reaction is endothermic and releases a large amount of thermal energy.",
+   "The reaction is endothermic and takes in a large amount of thermal energy.",
+   "The reaction is exothermic and releases a large amount of thermal energy.",
+   "The reaction is exothermic and takes in a large amount of thermal energy."
+  ],
+  "answer": 2,
+  "explain": "Burning hydrogen is exothermic: energy released heats the exhaust gases and drives the rocket."
+ },
+ {
+  "id": "c5-0019",
+  "sub": "5.1",
+  "level": "extended",
+  "q": "Which description shows the effect of a catalyst on a reaction pathway diagram?",
+  "columns": null,
+  "options": [
+   "A second curve with a lower peak is drawn ending at a lower products level.",
+   "A second curve with a lower peak is drawn between the same reactants and products levels.",
+   "A second curve with the same peak is drawn between a lower products level.",
+   "A second curve with a higher peak is drawn between the same reactants and products levels."
+  ],
+  "answer": 1,
+  "explain": "The catalyst lowers Ea but does not change the starting or finishing energy levels, so ΔH is the same."
+ },
+ {
+  "id": "c5-0020",
+  "sub": "5.1",
+  "level": "core",
+  "q": "Experiment 1: the temperature of the mixture goes from 18 °C to 27 °C. Experiment 2: the temperature of the mixture goes from 18 °C to 11 °C. Which row is correct?",
+  "columns": [
+   "Experiment 1",
+   "Experiment 2"
+  ],
+  "options": [
+   "Exp. 1 endothermic | Exp. 2 exothermic",
+   "Exp. 1 endothermic | Exp. 2 endothermic",
+   "Exp. 1 exothermic | Exp. 2 exothermic",
+   "Exp. 1 exothermic | Exp. 2 endothermic"
+  ],
+  "answer": 3,
+  "explain": "A temperature rise (Exp. 1) means exothermic; a fall (Exp. 2) means endothermic."
+ },
+ {
+  "id": "c5-0021",
+  "sub": "5.1",
+  "level": "core",
+  "q": "An instant cold pack for a sports injury contains solid ammonium nitrate and a bag of water. When the bag is broken the pack becomes cold. Why?",
+  "columns": null,
+  "options": [
+   "Dissolving ammonium nitrate is exothermic and gives out thermal energy to the surroundings.",
+   "Dissolving ammonium nitrate is endothermic and gives out thermal energy to the surroundings.",
+   "Dissolving ammonium nitrate is exothermic and takes in thermal energy from the surroundings.",
+   "Dissolving ammonium nitrate is endothermic and takes in thermal energy from the surroundings."
+  ],
+  "answer": 3,
+  "explain": "The pack cools because the process absorbs energy from the water and from the injured skin."
+ },
+ {
+  "id": "c5-0022",
+  "sub": "5.1",
+  "level": "core",
+  "q": "Which row correctly describes the neutralisation of an acid by an alkali?",
+  "columns": [
+   "Type of reaction",
+   "Thermal energy",
+   "Temperature change"
+  ],
+  "options": [
+   "endothermic | thermal energy transferred to surroundings | temperature of surroundings increases",
+   "exothermic | thermal energy transferred to surroundings | temperature of surroundings increases",
+   "endothermic | thermal energy taken in from surroundings | temperature of surroundings increases",
+   "exothermic | thermal energy taken in from surroundings | temperature of surroundings decreases"
+  ],
+  "answer": 1,
+  "explain": "Neutralisation is exothermic: energy is given out and the temperature of the mixture goes up."
+ },
+ {
+  "id": "c5-0023",
+  "sub": "5.1",
+  "level": "extended",
+  "q": "In a reaction, the total energy needed to break all the bonds in the reactants is 1860 kJ/mol. The total energy released when all the bonds in the products form is 1450 kJ/mol. What is ΔH and what type of reaction is it?",
+  "columns": null,
+  "options": [
+   "ΔH = −410 kJ/mol; endothermic",
+   "ΔH = +410 kJ/mol; exothermic",
+   "ΔH = −3310 kJ/mol; exothermic",
+   "ΔH = +410 kJ/mol; endothermic"
+  ],
+  "answer": 3,
+  "explain": "ΔH = 1860 − 1450 = +410 kJ/mol; a positive value means endothermic."
+ },
+ {
+  "id": "c5-0024",
+  "sub": "5.1",
+  "level": "extended",
+  "q": "Use the bond energies (C≡O 1077, O=O 498, C=O 805, all in kJ/mol) to calculate ΔH for 2CO(g) + O₂(g) → 2CO₂(g).",
+  "columns": null,
+  "options": [
+   "−2652 kJ/mol",
+   "−3220 kJ/mol",
+   "+568 kJ/mol",
+   "−568 kJ/mol"
+  ],
+  "answer": 3,
+  "explain": "Broken: 2 × 1077 + 498 = 2652. Made: 4 × 805 = 3220. ΔH = 2652 − 3220 = −568 kJ/mol."
+ },
+ {
+  "id": "c5-0025",
+  "sub": "5.1",
+  "level": "core",
+  "q": "After an exothermic reaction in a beaker, the temperature of the mixture rises to a maximum and then slowly falls back to room temperature. Why does it fall?",
+  "columns": null,
+  "options": [
+   "The products take in the thermal energy that the reactants gave out.",
+   "The reaction becomes endothermic after it has finished.",
+   "Thermal energy is gradually transferred from the mixture to the cooler surroundings.",
+   "Thermal energy is gradually transferred from the cooler surroundings to the mixture."
+  ],
+  "answer": 2,
+  "explain": "Once the reaction has finished the warm solution loses energy to the cooler surroundings until the temperatures equalise."
+ },
+ {
+  "id": "c5-0026",
+  "sub": "5.1",
+  "level": "core",
+  "q": "A student writes: 'Because this reaction is exothermic, the products have more energy than the reactants.' How can the statement be corrected?",
+  "columns": null,
+  "options": [
+   "Because this reaction is endothermic, the products have more energy than the reactants.",
+   "Because this reaction is exothermic, the temperature of the surroundings falls.",
+   "Because this reaction is exothermic, the products have less energy than the reactants.",
+   "Because this reaction is exothermic, thermal energy is taken in from the surroundings."
+  ],
+  "answer": 2,
+  "explain": "Exothermic means energy is released, so the products must end with less chemical energy."
+ },
+ {
+  "id": "c5-0027",
+  "sub": "5.1",
+  "level": "core",
+  "q": "Which description matches the reaction pathway diagram of an endothermic reaction?",
+  "columns": null,
+  "options": [
+   "The curve rises from the reactants to a peak and then falls to a products line that is higher than the reactants line.",
+   "The curve is a straight horizontal line from the reactants to the products.",
+   "The curve rises from the reactants to a peak and then falls to a products line that is lower than the reactants line.",
+   "The curve falls from the reactants to a minimum and then rises to a products line that is lower than the reactants line."
+  ],
+  "answer": 0,
+  "explain": "For endothermic reactions the products end at a higher energy level than the reactants."
+ },
+ {
+  "id": "c5-0028",
+  "sub": "5.1",
+  "level": "extended",
+  "q": "A reaction pathway diagram shows reactants at 50 kJ/mol, a peak at 210 kJ/mol and products at 130 kJ/mol. What are the values of ΔH and Ea?",
+  "columns": [
+   "ΔH",
+   "Ea"
+  ],
+  "options": [
+   "ΔH = +80 kJ/mol | Ea = +160 kJ/mol",
+   "ΔH = −80 kJ/mol | Ea = +160 kJ/mol",
+   "ΔH = +80 kJ/mol | Ea = +80 kJ/mol",
+   "ΔH = +160 kJ/mol | Ea = +80 kJ/mol"
+  ],
+  "answer": 0,
+  "explain": "ΔH = 130 − 50 = +80 kJ/mol (endothermic); Ea = 210 − 50 = 160 kJ/mol."
+ },
+ {
+  "id": "c5-0029",
+  "sub": "5.1",
+  "level": "core",
+  "q": "A student mixes two solutions in a polystyrene cup. The thermometer reading falls from 22 °C to 15 °C. What can be concluded?",
+  "columns": null,
+  "options": [
+   "The reaction is exothermic because thermal energy was taken in from the surroundings.",
+   "The reaction is exothermic because thermal energy was released to the surroundings.",
+   "The reaction is endothermic because thermal energy was released to the surroundings.",
+   "The reaction is endothermic because thermal energy was taken in from the surroundings."
+  ],
+  "answer": 3,
+  "explain": "A fall in temperature means energy flowed from the solution into the reaction, so it is endothermic."
+ },
+ {
+  "id": "c5-0030",
+  "sub": "5.1",
+  "level": "core",
+  "q": "Blue hydrated copper(II) sulfate is heated and turns white. When water is added to the white solid it turns blue again and the test tube becomes warm. Which row is correct?",
+  "columns": [
+   "Heating blue hydrated copper(II) sulfate",
+   "Adding water to white anhydrous copper(II) sulfate"
+  ],
+  "options": [
+   "heating the blue solid: endothermic | adding water to the white solid: exothermic",
+   "heating the blue solid: exothermic | adding water to the white solid: endothermic",
+   "heating the blue solid: endothermic | adding water to the white solid: endothermic",
+   "heating the blue solid: exothermic | adding water to the white solid: exothermic"
+  ],
+  "answer": 0,
+  "explain": "Heat is taken in to remove water (endothermic); the reverse reaction releases energy and warms the tube."
+ }
+]

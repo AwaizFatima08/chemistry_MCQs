@@ -1,0 +1,472 @@
+[
+ {
+  "id": "c11-0091",
+  "sub": "11.2",
+  "level": "extended",
+  "q": "Which structural formula represents butan-2-ol?",
+  "columns": null,
+  "options": [
+   "CH₃CH₂CH₂CH₂OH",
+   "CH₃CH₂CH₂CH₃",
+   "CH₃CH(OH)CH₂CH₃",
+   "CH₃CH₂CH₂COOH"
+  ],
+  "answer": 2,
+  "explain": "Butan-2-ol has four carbons in a chain with the –OH group on carbon 2. CH₃CH₂CH₂CH₂OH is butan-1-ol."
+ },
+ {
+  "id": "c11-0092",
+  "sub": "11.3",
+  "level": "extended",
+  "q": "Which fraction from the fractionating column has the lowest boiling points?",
+  "columns": null,
+  "options": [
+   "gasoline / petrol",
+   "diesel oil",
+   "bitumen",
+   "refinery gas"
+  ],
+  "answer": 3,
+  "explain": "Refinery gas contains the smallest molecules, so it has the lowest boiling points and is collected at the top."
+ },
+ {
+  "id": "c11-0093",
+  "sub": "11.8",
+  "level": "extended",
+  "q": "A sample of poly(ethene) has a relative molecular mass of 28 000. How many ethene units, C₂H₄, are in each molecule?",
+  "columns": null,
+  "options": [
+   "2000",
+   "28",
+   "14 000",
+   "1000"
+  ],
+  "answer": 3,
+  "explain": "The relative molecular mass of C₂H₄ is 28, so the number of units is 28 000 ÷ 28 = 1000."
+ },
+ {
+  "id": "c11-0094",
+  "sub": "11.5",
+  "level": "core",
+  "q": "Which row correctly describes the reaction of ethane and ethene with aqueous bromine?",
+  "columns": [
+   "Hydrocarbon",
+   "Effect on aqueous bromine",
+   "Saturated or unsaturated"
+  ],
+  "options": [
+   "ethane | decolourised | saturated",
+   "ethene | no change | unsaturated",
+   "ethene | decolourised | unsaturated",
+   "ethane | no change | unsaturated"
+  ],
+  "answer": 2,
+  "explain": "Only the unsaturated alkene, ethene, decolourises aqueous bromine. Ethane is saturated and causes no change."
+ },
+ {
+  "id": "c11-0095",
+  "sub": "11.4",
+  "level": "core",
+  "q": "Which compound is a saturated hydrocarbon?",
+  "columns": null,
+  "options": [
+   "C₄H₈",
+   "C₂H₅OH",
+   "C₄H₁₀",
+   "C₃H₆"
+  ],
+  "answer": 2,
+  "explain": "C₄H₁₀ is butane, an alkane with only single bonds. C₄H₈ and C₃H₆ are alkenes and C₂H₅OH is not a hydrocarbon."
+ },
+ {
+  "id": "c11-0096",
+  "sub": "11.6",
+  "level": "core",
+  "q": "Which row correctly describes the manufacture of ethanol by the addition of steam to ethene?",
+  "columns": [
+   "Method",
+   "Raw materials",
+   "Catalyst"
+  ],
+  "options": [
+   "fermentation | ethene and steam | yeast",
+   "hydration of ethene | glucose | acid catalyst",
+   "fermentation | glucose | acid catalyst",
+   "hydration of ethene | ethene and steam | acid catalyst"
+  ],
+  "answer": 3,
+  "explain": "Hydration uses ethene and steam with an acid catalyst. Fermentation uses aqueous glucose with yeast."
+ },
+ {
+  "id": "c11-0097",
+  "sub": "11.7",
+  "level": "core",
+  "q": "Which compound is a carboxylic acid?",
+  "columns": null,
+  "options": [
+   "CH₃CH₂OH",
+   "CH₃CH₂COOH",
+   "CH₃COOCH₃",
+   "CH₃CH₂CH₃"
+  ],
+  "answer": 1,
+  "explain": "Carboxylic acids contain the –COOH functional group. CH₃CH₂COOH is propanoic acid."
+ },
+ {
+  "id": "c11-0098",
+  "sub": "11.8",
+  "level": "extended",
+  "q": "A chain in a protein is made from 5 amino acid molecules joined together. How many water molecules are formed?",
+  "columns": null,
+  "options": [
+   "5",
+   "6",
+   "4",
+   "10"
+  ],
+  "answer": 2,
+  "explain": "Joining n monomers in a chain makes n – 1 links, and each link forms with the loss of one water molecule. For 5 amino acids that is 4 water molecules."
+ },
+ {
+  "id": "c11-0099",
+  "sub": "11.1",
+  "level": "core",
+  "q": "Why do members of the same homologous series have similar chemical properties?",
+  "columns": null,
+  "options": [
+   "They have the same relative molecular mass.",
+   "They have the same functional group.",
+   "They have the same number of carbon atoms.",
+   "They have the same physical state at room temperature."
+  ],
+  "answer": 1,
+  "explain": "The functional group determines how a compound reacts, and every member of a series has the same one."
+ },
+ {
+  "id": "c11-0100",
+  "sub": "11.2",
+  "level": "extended",
+  "q": "Which pair of compounds reacts to form the ester propyl methanoate?",
+  "columns": null,
+  "options": [
+   "propanoic acid and methanol",
+   "methanoic acid and propan-2-ol",
+   "methanoic acid and propan-1-ol",
+   "ethanoic acid and propan-1-ol"
+  ],
+  "answer": 2,
+  "explain": "The first part of the name (propyl) comes from the unbranched alcohol propan-1-ol, and the second part (methanoate) comes from methanoic acid."
+ },
+ {
+  "id": "c11-0101",
+  "sub": "11.3",
+  "level": "core",
+  "q": "Which fraction is used for lubricants, waxes and polishes?",
+  "columns": null,
+  "options": [
+   "lubricating oil",
+   "refinery gas",
+   "diesel oil",
+   "gasoline / petrol"
+  ],
+  "answer": 0,
+  "explain": "Lubricating oil has long, viscous molecules suitable for lubricants, waxes and polishes."
+ },
+ {
+  "id": "c11-0102",
+  "sub": "11.5",
+  "level": "extended",
+  "q": "Which reaction is an addition reaction?",
+  "columns": null,
+  "options": [
+   "CH₄ + Cl₂ → CH₃Cl + HCl",
+   "C₂H₄ + Br₂ → C₂H₄Br₂",
+   "C₂H₅OH + 3O₂ → 2CO₂ + 3H₂O",
+   "C₁₀H₂₂ → C₈H₁₈ + C₂H₄"
+  ],
+  "answer": 1,
+  "explain": "In C₂H₄ + Br₂ → C₂H₄Br₂ two molecules join to form one product. The other reactions are substitution, combustion and cracking."
+ },
+ {
+  "id": "c11-0103",
+  "sub": "11.8",
+  "level": "extended",
+  "q": "Which pair of monomers could form a polyamide?",
+  "columns": null,
+  "options": [
+   "HOOC(CH₂)₄COOH and HO(CH₂)₆OH",
+   "H₂N(CH₂)₆NH₂ and HO(CH₂)₆OH",
+   "HOOC(CH₂)₄COOH and H₂N(CH₂)₆NH₂",
+   "CH₂=CH₂ and H₂N(CH₂)₆NH₂"
+  ],
+  "answer": 2,
+  "explain": "A polyamide needs a dicarboxylic acid and a diamine. A diol with a dicarboxylic acid would give a polyester."
+ },
+ {
+  "id": "c11-0104",
+  "sub": "11.4",
+  "level": "core",
+  "q": "Which poisonous gas can form when an alkane burns in a limited supply of oxygen?",
+  "columns": null,
+  "options": [
+   "carbon dioxide",
+   "carbon monoxide",
+   "hydrogen",
+   "sulfur trioxide"
+  ],
+  "answer": 1,
+  "explain": "Incomplete combustion produces carbon monoxide, which is toxic, and sometimes carbon (soot)."
+ },
+ {
+  "id": "c11-0105",
+  "sub": "11.6",
+  "level": "extended",
+  "q": "4.6 g of ethanol, C₂H₅OH, burns completely. What volume of carbon dioxide is formed at room temperature and pressure? (Mᵣ of ethanol = 46; 1 mole of gas occupies 24 dm³ at r.t.p.)",
+  "columns": null,
+  "options": [
+   "2.4 dm³",
+   "7.2 dm³",
+   "9.6 dm³",
+   "4.8 dm³"
+  ],
+  "answer": 3,
+  "explain": "4.6 ÷ 46 = 0.10 mol ethanol. C₂H₅OH + 3O₂ → 2CO₂ + 3H₂O gives 0.20 mol CO₂, and 0.20 × 24 = 4.8 dm³."
+ },
+ {
+  "id": "c11-0106",
+  "sub": "11.7",
+  "level": "extended",
+  "q": "25.0 cm³ of sodium hydroxide of concentration 0.200 mol/dm³ is exactly neutralised by ethanoic acid. How many moles of ethanoic acid react?",
+  "columns": null,
+  "options": [
+   "5.00 × 10⁻³ mol",
+   "5.00 × 10⁻² mol",
+   "1.25 × 10⁻³ mol",
+   "8.00 × 10⁻² mol"
+  ],
+  "answer": 0,
+  "explain": "Moles of NaOH = 0.0250 dm³ × 0.200 mol/dm³ = 5.00 × 10⁻³ mol. The reaction is 1 : 1, so 5.00 × 10⁻³ mol of acid reacts."
+ },
+ {
+  "id": "c11-0107",
+  "sub": "11.1",
+  "level": "extended",
+  "q": "How do the boiling points of the alkanes change as the number of carbon atoms increases?",
+  "columns": null,
+  "options": [
+   "They increase gradually.",
+   "They decrease gradually.",
+   "They stay the same.",
+   "They increase for odd numbers of carbon atoms only."
+  ],
+  "answer": 0,
+  "explain": "Physical properties show a trend along a homologous series. Longer molecules have stronger forces between them, so boiling points rise."
+ },
+ {
+  "id": "c11-0108",
+  "sub": "11.2",
+  "level": "core",
+  "q": "Which row correctly describes ethanol?",
+  "columns": [
+   "Compound",
+   "Homologous series",
+   "General formula and functional group"
+  ],
+  "options": [
+   "ethanol | alkane | CₙH₂ₙ₊₂, –OH",
+   "ethene | alcohol | CₙH₂ₙ, C=C",
+   "ethanol | alcohol | CₙH₂ₙ₊₁OH, –OH",
+   "ethanoic acid | alcohol | CₙH₂ₙ₊₁OH, –OH"
+  ],
+  "answer": 2,
+  "explain": "Ethanol (name ending -ol) is an alcohol with general formula CₙH₂ₙ₊₁OH and the –OH functional group."
+ },
+ {
+  "id": "c11-0109",
+  "sub": "11.3",
+  "level": "extended",
+  "q": "Which fraction contains the molecules with the longest hydrocarbon chains?",
+  "columns": null,
+  "options": [
+   "kerosene",
+   "gasoline / petrol",
+   "bitumen",
+   "naphtha"
+  ],
+  "answer": 2,
+  "explain": "Bitumen has the longest chains, the highest boiling point and the highest viscosity, so it condenses at the bottom of the column."
+ },
+ {
+  "id": "c11-0110",
+  "sub": "11.8",
+  "level": "core",
+  "q": "Why is it a problem to burn waste plastics to avoid using landfill sites?",
+  "columns": null,
+  "options": [
+   "The burning can produce toxic gases.",
+   "The plastics burn to make metal.",
+   "The plastics melt to form fuels.",
+   "The plastics change into alkanes."
+  ],
+  "answer": 0,
+  "explain": "Burning avoids landfill but some plastics release toxic gases, so it can cause air pollution."
+ },
+ {
+  "id": "c11-0111",
+  "sub": "11.5",
+  "level": "core",
+  "q": "A colourless gas is bubbled through aqueous bromine and the solution stays orange. Which could be the gas?",
+  "columns": null,
+  "options": [
+   "ethene",
+   "propene",
+   "but-1-ene",
+   "ethane"
+  ],
+  "answer": 3,
+  "explain": "Only unsaturated compounds decolourise aqueous bromine. Ethane is saturated, so there is no reaction."
+ },
+ {
+  "id": "c11-0112",
+  "sub": "11.8",
+  "level": "core",
+  "q": "A plastic is not biodegradable. Which statement about its disposal is correct?",
+  "columns": null,
+  "options": [
+   "It rots in landfill within a few weeks.",
+   "It is broken down by bacteria in the soil.",
+   "It dissolves in rain water.",
+   "It stays in landfill for a very long time."
+  ],
+  "answer": 3,
+  "explain": "Microorganisms cannot break it down, so a non-biodegradable plastic stays unchanged in landfill for a very long time."
+ },
+ {
+  "id": "c11-0113",
+  "sub": "11.4",
+  "level": "extended",
+  "q": "Propane reacts with chlorine in ultraviolet light. Which formula is that of a monosubstitution product?",
+  "columns": null,
+  "options": [
+   "CH₃CH=CHCl",
+   "CH₃CH₂CCl₃",
+   "CH₂ClCH₂CH₂Cl",
+   "CH₃CH₂CH₂Cl"
+  ],
+  "answer": 3,
+  "explain": "A monosubstitution product has one H replaced by one Cl: C₃H₇Cl. CH₃CH₂CH₂Cl is 1-chloropropane. The others have a double bond or more than one Cl."
+ },
+ {
+  "id": "c11-0114",
+  "sub": "11.6",
+  "level": "core",
+  "q": "Why is ethanol made by fermentation of sugar cane used as a fuel in some countries?",
+  "columns": null,
+  "options": [
+   "Fermentation uses very high pressure.",
+   "The sugar cane can be regrown, so the raw material is renewable.",
+   "It is made from petroleum.",
+   "It burns to form no carbon dioxide."
+  ],
+  "answer": 1,
+  "explain": "Sugar cane is a plant raw material that can be regrown each year, unlike petroleum."
+ },
+ {
+  "id": "c11-0115",
+  "sub": "11.7",
+  "level": "core",
+  "q": "Which row correctly describes the reaction of ethanoic acid with magnesium?",
+  "columns": [
+   "Reactant",
+   "Gas produced",
+   "Salt formed"
+  ],
+  "options": [
+   "magnesium | hydrogen | magnesium ethanoate",
+   "magnesium | carbon dioxide | magnesium ethanoate",
+   "magnesium | hydrogen | magnesium carbonate",
+   "sodium carbonate | hydrogen | sodium ethanoate"
+  ],
+  "answer": 0,
+  "explain": "Magnesium releases hydrogen from ethanoic acid and forms magnesium ethanoate. Carbon dioxide is released only by carbonates."
+ },
+ {
+  "id": "c11-0116",
+  "sub": "11.1",
+  "level": "core",
+  "q": "How many hydrogen atoms are in one molecule of propanol, C₃H₇OH?",
+  "columns": null,
+  "options": [
+   "8",
+   "6",
+   "7",
+   "9"
+  ],
+  "answer": 0,
+  "explain": "Seven hydrogen atoms are in the C₃H₇ group and one is in the –OH group, giving 8."
+ },
+ {
+  "id": "c11-0117",
+  "sub": "11.2",
+  "level": "core",
+  "q": "Which compound is named ethane?",
+  "columns": null,
+  "options": [
+   "CH₂=CH₂",
+   "CH₃CH₂OH",
+   "CH₃COOH",
+   "CH₃CH₃"
+  ],
+  "answer": 3,
+  "explain": "Ethane is the alkane with two carbon atoms joined by a single bond, CH₃CH₃. CH₂=CH₂ is ethene."
+ },
+ {
+  "id": "c11-0118",
+  "sub": "11.3",
+  "level": "extended",
+  "q": "Going down the fractionating column, how do the volatility and viscosity of the fractions change?",
+  "columns": null,
+  "options": [
+   "volatility increases and viscosity increases",
+   "volatility decreases and viscosity increases",
+   "volatility decreases and viscosity decreases",
+   "volatility increases and viscosity decreases"
+  ],
+  "answer": 1,
+  "explain": "Lower down, the chains are longer, so the fractions are less volatile and flow less easily (higher viscosity)."
+ },
+ {
+  "id": "c11-0119",
+  "sub": "11.5",
+  "level": "extended",
+  "q": "Ethene reacts with steam to make ethanol: C₂H₄ + H₂O → C₂H₅OH. What mass of ethanol forms from 14 g of ethene, assuming all the ethene reacts?",
+  "columns": null,
+  "options": [
+   "23 g",
+   "46 g",
+   "14 g",
+   "32 g"
+  ],
+  "answer": 0,
+  "explain": "Mᵣ of C₂H₄ = 28 and of C₂H₅OH = 46. 14 g is 0.50 mol, which forms 0.50 mol of ethanol: 0.50 × 46 = 23 g."
+ },
+ {
+  "id": "c11-0120",
+  "sub": "11.8",
+  "level": "extended",
+  "q": "Which row correctly describes PET?",
+  "columns": [
+   "Polymer",
+   "Type and link",
+   "Monomers"
+  ],
+  "options": [
+   "polyamide | amide link | dicarboxylic acid and diol",
+   "polyester | ester link | dicarboxylic acid and diol",
+   "polyester | ester link | dicarboxylic acid and diamine",
+   "polyamide | amide link | dicarboxylic acid and diamine"
+  ],
+  "answer": 1,
+  "explain": "PET is a polyester, so it has ester links and forms from a dicarboxylic acid and a diol."
+ }
+]

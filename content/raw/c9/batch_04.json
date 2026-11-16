@@ -1,0 +1,463 @@
+[
+ {
+  "id": "c9-0091",
+  "sub": "9.6",
+  "level": "core",
+  "q": "How is the position of a metal in the reactivity series related to the ease of obtaining it from its ore?",
+  "columns": null,
+  "options": [
+   "The lower the metal in the series, the easier it is to obtain",
+   "The higher the metal in the series, the easier it is to obtain",
+   "All metals are equally easy to obtain",
+   "Only metals above carbon can be obtained"
+  ],
+  "answer": 0,
+  "explain": "Unreactive metals lose their compounds easily, while reactive metals hold on to oxygen strongly and need more energy-intensive methods."
+ },
+ {
+  "id": "c9-0092",
+  "sub": "9.6",
+  "level": "core",
+  "q": "Which metal is found uncombined in the Earth's crust?",
+  "columns": null,
+  "options": [
+   "Aluminium",
+   "Iron",
+   "Calcium",
+   "Gold"
+  ],
+  "answer": 3,
+  "explain": "Gold is very unreactive, so it exists as the element, while the others occur as compounds."
+ },
+ {
+  "id": "c9-0093",
+  "sub": "9.6",
+  "level": "core",
+  "q": "Which ore is used to extract iron in the blast furnace?",
+  "columns": null,
+  "options": [
+   "Bauxite",
+   "Limestone",
+   "Cryolite",
+   "Hematite"
+  ],
+  "answer": 3,
+  "explain": "Hematite contains iron(III) oxide, Fe₂O₃, and bauxite is the aluminium ore."
+ },
+ {
+  "id": "c9-0094",
+  "sub": "9.6",
+  "level": "core",
+  "q": "Which set of materials is added to the blast furnace?",
+  "columns": null,
+  "options": [
+   "Bauxite, coke, limestone and hot air",
+   "Hematite, cryolite, limestone and hot air",
+   "Hematite, coke, limestone and hot air",
+   "Hematite, coke, sand and water"
+  ],
+  "answer": 2,
+  "explain": "The furnace uses iron ore, coke as fuel and reducing agent, limestone to remove impurities and hot air for oxygen."
+ },
+ {
+  "id": "c9-0095",
+  "sub": "9.6",
+  "level": "core",
+  "q": "Which row correctly gives the role of a substance in the blast furnace?",
+  "columns": [
+   "Substance",
+   "Role in blast furnace"
+  ],
+  "options": [
+   "Coke | burns to give heat and carbon dioxide",
+   "Limestone | reduces iron(III) oxide to iron",
+   "Hot air | forms slag with impurities",
+   "Hematite | provides carbon for reduction"
+  ],
+  "answer": 0,
+  "explain": "Coke burns in the hot air to release heat and form carbon dioxide, which is then reduced to carbon monoxide."
+ },
+ {
+  "id": "c9-0096",
+  "sub": "9.6",
+  "level": "core",
+  "q": "What is the role of limestone in the blast furnace?",
+  "columns": null,
+  "options": [
+   "It burns to provide heat for the furnace",
+   "It decomposes to form calcium oxide, which removes acidic impurities as slag",
+   "It reduces iron(III) oxide to iron",
+   "It provides the oxygen needed to burn coke"
+  ],
+  "answer": 1,
+  "explain": "Limestone breaks down into calcium oxide, which reacts with silicon dioxide impurity to form slag."
+ },
+ {
+  "id": "c9-0097",
+  "sub": "9.6",
+  "level": "core",
+  "q": "Which compound forms the slag in the blast furnace?",
+  "columns": null,
+  "options": [
+   "Calcium carbonate",
+   "Iron(III) silicate",
+   "Calcium silicate",
+   "Carbon silicide"
+  ],
+  "answer": 2,
+  "explain": "Calcium oxide from the limestone reacts with silicon dioxide to form calcium silicate."
+ },
+ {
+  "id": "c9-0098",
+  "sub": "9.6",
+  "level": "core",
+  "q": "Which substance acts as the reducing agent for iron(III) oxide in the blast furnace?",
+  "columns": null,
+  "options": [
+   "Carbon dioxide",
+   "Calcium oxide",
+   "Oxygen",
+   "Carbon monoxide"
+  ],
+  "answer": 3,
+  "explain": "Carbon monoxide removes oxygen from iron(III) oxide and is oxidised to carbon dioxide."
+ },
+ {
+  "id": "c9-0099",
+  "sub": "9.6",
+  "level": "core",
+  "q": "What happens to iron(III) oxide in the blast furnace?",
+  "columns": null,
+  "options": [
+   "It gains oxygen and is oxidised",
+   "It loses oxygen and is reduced to iron",
+   "It decomposes to form slag",
+   "It is neutralised by carbon monoxide"
+  ],
+  "answer": 1,
+  "explain": "Reduction here means the removal of oxygen from the oxide to leave the metal."
+ },
+ {
+  "id": "c9-0100",
+  "sub": "9.6",
+  "level": "extended",
+  "q": "Which equation shows iron(III) oxide being reduced by carbon monoxide?",
+  "columns": null,
+  "options": [
+   "Fe₂O₃ + 3CO → 2Fe + 3CO₂",
+   "Fe₂O₃ + CO → 2Fe + CO₂",
+   "Fe₂O₃ + 3CO₂ → 2Fe + 3CO",
+   "2Fe + 3CO₂ → Fe₂O₃ + 3CO"
+  ],
+  "answer": 0,
+  "explain": "Two iron atoms and three oxygen atoms need three CO to take the oxygen, giving 2Fe and 3CO₂ in a balanced equation."
+ },
+ {
+  "id": "c9-0101",
+  "sub": "9.6",
+  "level": "extended",
+  "q": "Which equation shows carbon dioxide being reduced to carbon monoxide in the blast furnace?",
+  "columns": null,
+  "options": [
+   "C + O₂ → CO₂",
+   "C + CO₂ → 2CO",
+   "CaCO₃ → CaO + CO₂",
+   "Fe₂O₃ + 3CO → 2Fe + 3CO₂"
+  ],
+  "answer": 1,
+  "explain": "Carbon dioxide reacts with hot carbon to form carbon monoxide, with carbon dioxide losing an oxygen atom."
+ },
+ {
+  "id": "c9-0102",
+  "sub": "9.6",
+  "level": "extended",
+  "q": "Which equation shows the formation of slag in the blast furnace?",
+  "columns": null,
+  "options": [
+   "CaO + SiO₂ → CaSiO₃",
+   "CaCO₃ → CaO + CO₂",
+   "CaO + CO₂ → CaCO₃",
+   "SiO₂ + 2CO → Si + 2CO₂"
+  ],
+  "answer": 0,
+  "explain": "Basic calcium oxide reacts with acidic silicon dioxide to make calcium silicate."
+ },
+ {
+  "id": "c9-0103",
+  "sub": "9.6",
+  "level": "core",
+  "q": "Molten slag floats on molten iron in the blast furnace. Why?",
+  "columns": null,
+  "options": [
+   "Slag has a higher density than iron",
+   "Slag is solid at the furnace temperature",
+   "Slag has a lower melting point than the hot air",
+   "Slag has a lower density than iron"
+  ],
+  "answer": 3,
+  "explain": "The less dense slag forms a layer on top, so the two liquids can be run off separately."
+ },
+ {
+  "id": "c9-0104",
+  "sub": "9.6",
+  "level": "core",
+  "q": "What is the purpose of the hot air blown into the base of the blast furnace?",
+  "columns": null,
+  "options": [
+   "It cools the molten iron",
+   "It reduces the iron(III) oxide",
+   "It provides oxygen for the coke to burn",
+   "It forms the slag"
+  ],
+  "answer": 2,
+  "explain": "Oxygen in the air burns the coke, releasing the heat needed and producing carbon dioxide."
+ },
+ {
+  "id": "c9-0105",
+  "sub": "9.6",
+  "level": "core",
+  "q": "Which row correctly gives an ore and extraction method?",
+  "columns": [
+   "Metal",
+   "Main ore",
+   "Method of extraction"
+  ],
+  "options": [
+   "Iron | bauxite | electrolysis",
+   "Aluminium | hematite | reduction with carbon monoxide",
+   "Iron | hematite | electrolysis",
+   "Aluminium | bauxite | electrolysis"
+  ],
+  "answer": 3,
+  "explain": "Aluminium is extracted from bauxite by electrolysis, and iron from hematite by reduction in the blast furnace."
+ },
+ {
+  "id": "c9-0106",
+  "sub": "9.6",
+  "level": "core",
+  "q": "Why can aluminium not be extracted from its oxide by heating with carbon?",
+  "columns": null,
+  "options": [
+   "Aluminium is less reactive than carbon",
+   "Aluminium is more reactive than carbon",
+   "Aluminium oxide has a low melting point",
+   "Aluminium oxide does not contain oxygen"
+  ],
+  "answer": 1,
+  "explain": "Carbon cannot remove oxygen from the oxide of a metal more reactive than itself."
+ },
+ {
+  "id": "c9-0107",
+  "sub": "9.6",
+  "level": "extended",
+  "q": "What is the role of cryolite in the extraction of aluminium?",
+  "columns": null,
+  "options": [
+   "It raises the melting point of the mixture",
+   "It is the ore from which aluminium is obtained",
+   "It lowers the melting point of aluminium oxide",
+   "It reduces aluminium oxide to aluminium"
+  ],
+  "answer": 2,
+  "explain": "Aluminium oxide melts at a very high temperature, and dissolving it in molten cryolite reduces the temperature and energy needed."
+ },
+ {
+  "id": "c9-0108",
+  "sub": "9.6",
+  "level": "extended",
+  "q": "Why do the carbon anodes in aluminium extraction need to be replaced regularly?",
+  "columns": null,
+  "options": [
+   "They react with oxygen to form carbon dioxide and burn away",
+   "They dissolve in the molten cryolite",
+   "They are reduced by the aluminium",
+   "They are coated with aluminium and stop working"
+  ],
+  "answer": 0,
+  "explain": "Oxygen formed at the hot anode reacts with the carbon, which is gradually used up."
+ },
+ {
+  "id": "c9-0109",
+  "sub": "9.6",
+  "level": "extended",
+  "q": "Which half-equation shows the reaction at the cathode in the electrolysis of molten aluminium oxide?",
+  "columns": null,
+  "options": [
+   "Al → Al³⁺ + 3e⁻",
+   "2O²⁻ → O₂ + 4e⁻",
+   "O₂ + 4e⁻ → 2O²⁻",
+   "Al³⁺ + 3e⁻ → Al"
+  ],
+  "answer": 3,
+  "explain": "Positive aluminium ions go to the negative cathode and gain electrons (reduction) to form aluminium."
+ },
+ {
+  "id": "c9-0110",
+  "sub": "9.6",
+  "level": "extended",
+  "q": "Which half-equation shows the reaction at the anode in the electrolysis of molten aluminium oxide?",
+  "columns": null,
+  "options": [
+   "Al³⁺ + 3e⁻ → Al",
+   "O²⁻ + 2e⁻ → O",
+   "2O²⁻ → O₂ + 4e⁻",
+   "2O²⁻ + 4e⁻ → O₂"
+  ],
+  "answer": 2,
+  "explain": "Oxide ions lose electrons at the positive anode (oxidation) to form oxygen gas."
+ },
+ {
+  "id": "c9-0111",
+  "sub": "9.6",
+  "level": "extended",
+  "q": "Which row correctly describes the cell used to extract aluminium?",
+  "columns": [
+   "Electrode material",
+   "Electrolyte",
+   "Aluminium forms at"
+  ],
+  "options": [
+   "Carbon | aluminium oxide in molten cryolite | cathode",
+   "Carbon | aluminium oxide in molten cryolite | anode",
+   "Carbon | aqueous aluminium sulfate | cathode",
+   "Copper | aluminium oxide in molten cryolite | cathode"
+  ],
+  "answer": 0,
+  "explain": "Carbon electrodes are used with aluminium oxide dissolved in molten cryolite, and aluminium forms at the negative cathode."
+ },
+ {
+  "id": "c9-0112",
+  "sub": "9.6",
+  "level": "extended",
+  "q": "What mass of iron can be obtained from 320 g of iron(III) oxide, Fe₂O₃, in the blast furnace? (Ar: Fe = 56, O = 16)",
+  "columns": null,
+  "options": [
+   "112 g",
+   "224 g",
+   "160 g",
+   "448 g"
+  ],
+  "answer": 1,
+  "explain": "Mr of Fe₂O₃ = 160, so 320 g is 2.0 mol, which gives 4.0 mol of Fe and so 4.0 × 56 = 224 g."
+ },
+ {
+  "id": "c9-0113",
+  "sub": "9.6",
+  "level": "extended",
+  "q": "What mass of aluminium can be obtained from 204 g of aluminium oxide, Al₂O₃? (Ar: Al = 27, O = 16)",
+  "columns": null,
+  "options": [
+   "54 g",
+   "108 g",
+   "204 g",
+   "216 g"
+  ],
+  "answer": 1,
+  "explain": "Mr of Al₂O₃ = 102, so 204 g is 2.0 mol, which gives 4.0 mol of Al and so 4.0 × 27 = 108 g."
+ },
+ {
+  "id": "c9-0114",
+  "sub": "9.6",
+  "level": "core",
+  "q": "Which metal can be extracted from its oxide by heating with carbon?",
+  "columns": null,
+  "options": [
+   "Zinc",
+   "Sodium",
+   "Calcium",
+   "Aluminium"
+  ],
+  "answer": 0,
+  "explain": "Carbon can reduce only oxides of metals below it in the series, which includes zinc."
+ },
+ {
+  "id": "c9-0115",
+  "sub": "9.6",
+  "level": "core",
+  "q": "A metal is more reactive than carbon. How is it usually extracted from its ore?",
+  "columns": null,
+  "options": [
+   "By heating the ore with carbon",
+   "By heating the ore on its own",
+   "By filtering the ore with water",
+   "By electrolysis of the molten compound"
+  ],
+  "answer": 3,
+  "explain": "Carbon cannot reduce the oxides of metals above it in the series, so electrolysis is used."
+ },
+ {
+  "id": "c9-0116",
+  "sub": "9.6",
+  "level": "extended",
+  "q": "Which equation represents copper(II) oxide being reduced by carbon?",
+  "columns": null,
+  "options": [
+   "CuO + C → Cu + CO₂",
+   "2CuO + C → 2Cu + CO",
+   "2CuO + C → 2Cu + CO₂",
+   "2Cu + CO₂ → 2CuO + C"
+  ],
+  "answer": 2,
+  "explain": "Two CuO supply two oxygen atoms, which react with one carbon to form CO₂, giving a balanced equation."
+ },
+ {
+  "id": "c9-0117",
+  "sub": "9.6",
+  "level": "core",
+  "q": "Which substance is not added to the blast furnace?",
+  "columns": null,
+  "options": [
+   "Coke",
+   "Limestone",
+   "Hematite",
+   "Cryolite"
+  ],
+  "answer": 3,
+  "explain": "Cryolite is used in the extraction of aluminium, not iron."
+ },
+ {
+  "id": "c9-0118",
+  "sub": "9.6",
+  "level": "extended",
+  "q": "Which equation shows carbon (coke) burning completely in air to provide heat in the blast furnace?",
+  "columns": null,
+  "options": [
+   "C + CO₂ → 2CO",
+   "C + O₂ → CO₂",
+   "CaCO₃ → CaO + CO₂",
+   "Fe₂O₃ + 3CO → 2Fe + 3CO₂"
+  ],
+  "answer": 1,
+  "explain": "The first step is the combustion of carbon in oxygen from the air, an exothermic reaction."
+ },
+ {
+  "id": "c9-0119",
+  "sub": "9.6",
+  "level": "extended",
+  "q": "Which sequence correctly describes how the reducing agent forms and acts in the blast furnace?",
+  "columns": null,
+  "options": [
+   "Coke burns to CO₂, CO₂ reacts with more coke to give CO, and CO reduces Fe₂O₃",
+   "Coke burns to CO, CO reacts with Fe₂O₃ to give CO₂, and CO₂ reduces coke",
+   "CaCO₃ gives CO, CO reacts with coke, and coke reduces Fe₂O₃",
+   "Fe₂O₃ gives CO₂, CO₂ reacts with coke, and CO reduces Fe₂O₃"
+  ],
+  "answer": 0,
+  "explain": "Carbon dioxide from burning coke is reduced by more coke to CO, and the CO then reduces the iron(III) oxide."
+ },
+ {
+  "id": "c9-0120",
+  "sub": "9.6",
+  "level": "core",
+  "q": "Which gas is formed when iron(III) oxide is reduced by carbon monoxide?",
+  "columns": null,
+  "options": [
+   "Oxygen",
+   "Hydrogen",
+   "Carbon dioxide",
+   "Carbon monoxide"
+  ],
+  "answer": 2,
+  "explain": "Carbon monoxide takes oxygen from the oxide and is oxidised to carbon dioxide."
+ }
+]

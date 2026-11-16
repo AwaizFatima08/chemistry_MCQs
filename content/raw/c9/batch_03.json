@@ -1,0 +1,459 @@
+[
+  {
+    "id": "c9-0061",
+    "sub": "9.4",
+    "level": "extended",
+    "q": "Metal P displaces metal Q from a solution of Q ions. Metal Q displaces metal R from a solution of R ions. R does not displace P or Q. What is the order of reactivity, most reactive first?",
+    "columns": null,
+    "options": [
+      "Q, P, R",
+      "R, Q, P",
+      "P, Q, R",
+      "P, R, Q"
+    ],
+    "answer": 2,
+    "explain": "A metal displaces only the ions of less reactive metals, so P is more reactive than Q, and Q more reactive than R."
+  },
+  {
+    "id": "c9-0062",
+    "sub": "9.4",
+    "level": "core",
+    "q": "Which pair of metals react with cold water?",
+    "columns": null,
+    "options": [
+      "Magnesium and zinc",
+      "Potassium and calcium",
+      "Iron and copper",
+      "Silver and gold"
+    ],
+    "answer": 1,
+    "explain": "Potassium and calcium react with cold water; zinc, iron and the metals below them do not react with it."
+  },
+  {
+    "id": "c9-0063",
+    "sub": "9.4",
+    "level": "core",
+    "q": "Why is potassium stored under oil?",
+    "columns": null,
+    "options": [
+      "It is a liquid that would evaporate",
+      "It is a gas at room temperature",
+      "It is toxic to the air",
+      "It reacts rapidly with oxygen and water vapour in air"
+    ],
+    "answer": 3,
+    "explain": "Potassium is so reactive that it quickly tarnishes and reacts with moisture, so the oil keeps air and water away."
+  },
+  {
+    "id": "c9-0064",
+    "sub": "9.4",
+    "level": "extended",
+    "q": "Which equation correctly represents sodium reacting with water?",
+    "columns": null,
+    "options": [
+      "2Na(s) + 2H₂O(l) → 2NaOH(aq) + H₂(g)",
+      "Na(s) + H₂O(l) → NaOH(aq) + H₂(g)",
+      "2Na(s) + H₂O(l) → Na₂O(s) + H₂(g)",
+      "2Na(s) + 2H₂O(l) → 2NaOH(aq) + O₂(g)"
+    ],
+    "answer": 0,
+    "explain": "Sodium and water give sodium hydroxide solution and hydrogen, and the equation balances with 2 Na, 4 H and 2 O on each side."
+  },
+  {
+    "id": "c9-0065",
+    "sub": "9.4",
+    "level": "core",
+    "q": "Which row correctly describes the reactions of calcium?",
+    "columns": [
+      "Metal",
+      "Reacts with cold water?",
+      "Reacts with dilute hydrochloric acid?"
+    ],
+    "options": [
+      "Copper | Yes | No",
+      "Calcium | Yes | Yes",
+      "Iron | Yes | Yes",
+      "Silver | No | Yes"
+    ],
+    "answer": 1,
+    "explain": "Calcium is high in the series so it reacts with both cold water and dilute hydrochloric acid, whereas copper and silver react with neither."
+  },
+  {
+    "id": "c9-0066",
+    "sub": "9.4",
+    "level": "extended",
+    "q": "Metal X displaces metal Y from a solution of Y ions. Which statement is correct?",
+    "columns": null,
+    "options": [
+      "Y forms positive ions more readily than X",
+      "X is lower in the reactivity series than Y",
+      "X has a smaller tendency to lose electrons than Y",
+      "X forms positive ions more readily than Y"
+    ],
+    "answer": 3,
+    "explain": "A displacing metal is higher in the series, so it loses electrons and forms positive ions more readily."
+  },
+  {
+    "id": "c9-0067",
+    "sub": "9.4",
+    "level": "core",
+    "q": "Which metal reacts most vigorously with cold water?",
+    "columns": null,
+    "options": [
+      "Magnesium",
+      "Zinc",
+      "Calcium",
+      "Iron"
+    ],
+    "answer": 2,
+    "explain": "Calcium is the highest in the series of the four, and zinc and iron do not react with cold water."
+  },
+  {
+    "id": "c9-0068",
+    "sub": "9.4",
+    "level": "extended",
+    "q": "Which equation represents iron reacting with dilute hydrochloric acid?",
+    "columns": null,
+    "options": [
+      "Fe(s) + 2HCl(aq) → FeCl₂(aq) + H₂(g)",
+      "Fe(s) + 2HCl(aq) → FeCl₃(aq) + H₂(g)",
+      "Fe(s) + HCl(aq) → FeCl₂(aq) + H₂(g)",
+      "Fe(s) + 2HCl(aq) → FeCl₂(aq) + Cl₂(g)"
+    ],
+    "answer": 0,
+    "explain": "Iron forms iron(II) chloride with hydrogen, and the equation needs 2HCl to balance."
+  },
+  {
+    "id": "c9-0069",
+    "sub": "9.4",
+    "level": "extended",
+    "q": "1.30 g of zinc reacts with excess dilute hydrochloric acid: Zn + 2HCl → ZnCl₂ + H₂. What volume of hydrogen forms at room temperature and pressure? (Ar: Zn = 65; 1 mol of gas = 24 000 cm³)",
+    "columns": null,
+    "options": [
+      "240 cm³",
+      "480 cm³",
+      "960 cm³",
+      "48 cm³"
+    ],
+    "answer": 1,
+    "explain": "Moles of Zn = 1.30 ÷ 65 = 0.020 mol, which gives 0.020 mol H₂, so the volume is 0.020 × 24 000 = 480 cm³."
+  },
+  {
+    "id": "c9-0070",
+    "sub": "9.4",
+    "level": "core",
+    "q": "A piece of zinc is added to dilute hydrochloric acid. Which observation is correct?",
+    "columns": null,
+    "options": [
+      "No change takes place",
+      "The zinc turns blue",
+      "Violent explosions occur",
+      "A steady stream of bubbles forms and the zinc gets smaller"
+    ],
+    "answer": 3,
+    "explain": "Zinc reacts at a moderate rate, giving hydrogen bubbles as the metal dissolves."
+  },
+  {
+    "id": "c9-0071",
+    "sub": "9.4",
+    "level": "extended",
+    "q": "An iron nail is placed in blue copper(II) sulfate solution. Which observation is correct?",
+    "columns": null,
+    "options": [
+      "The nail dissolves and the solution becomes darker blue",
+      "The nail and the solution do not change",
+      "The nail gets a brown coating and the solution becomes pale green",
+      "The nail gets a silvery coating and the solution stays blue"
+    ],
+    "answer": 2,
+    "explain": "Iron displaces copper, which coats the nail, and Fe²⁺ ions give a pale green solution."
+  },
+  {
+    "id": "c9-0072",
+    "sub": "9.4",
+    "level": "core",
+    "q": "Silver does not react with dilute hydrochloric acid. What does this show?",
+    "columns": null,
+    "options": [
+      "Silver is less reactive than hydrogen",
+      "Silver is more reactive than hydrogen",
+      "Silver is a non-metal",
+      "Silver is more reactive than zinc"
+    ],
+    "answer": 0,
+    "explain": "A metal that cannot displace hydrogen from an acid is below hydrogen in the reactivity series."
+  },
+  {
+    "id": "c9-0073",
+    "sub": "9.5",
+    "level": "core",
+    "q": "Which conditions are needed for iron to rust?",
+    "columns": null,
+    "options": [
+      "Oxygen only",
+      "Water only",
+      "Water and oxygen",
+      "Carbon dioxide and water"
+    ],
+    "answer": 2,
+    "explain": "Rusting needs both water and oxygen to be present."
+  },
+  {
+    "id": "c9-0074",
+    "sub": "9.5",
+    "level": "core",
+    "q": "What is rust?",
+    "columns": null,
+    "options": [
+      "Hydrated iron(III) oxide",
+      "Iron(II) carbonate",
+      "Anhydrous iron(II) oxide",
+      "Iron(III) chloride"
+    ],
+    "answer": 0,
+    "explain": "Rust is hydrated iron(III) oxide, formed when iron reacts with oxygen and water."
+  },
+  {
+    "id": "c9-0075",
+    "sub": "9.5",
+    "level": "core",
+    "q": "Three iron nails are left for a week. Tube A has dry air (anhydrous calcium chloride), tube B has boiled water covered with a layer of oil, and tube C has air and water. In which tubes do the nails rust?",
+    "columns": null,
+    "options": [
+      "Tube A and tube C",
+      "Tube B and tube C",
+      "All three tubes",
+      "Only tube C"
+    ],
+    "answer": 3,
+    "explain": "Only tube C has both water and oxygen, since A has no water and B has no dissolved oxygen."
+  },
+  {
+    "id": "c9-0076",
+    "sub": "9.5",
+    "level": "extended",
+    "q": "Which method of rust prevention does not work by excluding oxygen and water?",
+    "columns": null,
+    "options": [
+      "Painting",
+      "Attaching a block of magnesium",
+      "Greasing",
+      "Coating with plastic"
+    ],
+    "answer": 1,
+    "explain": "A magnesium block is a sacrificial metal that corrodes in place of iron, whereas the other methods form a barrier."
+  },
+  {
+    "id": "c9-0077",
+    "sub": "9.5",
+    "level": "core",
+    "q": "How does painting an iron gate prevent rusting?",
+    "columns": null,
+    "options": [
+      "It makes the iron less reactive chemically",
+      "It stops oxygen and water from reaching the iron",
+      "It removes oxygen from the iron",
+      "It reacts with water to make an acid"
+    ],
+    "answer": 1,
+    "explain": "Paint forms a barrier, and with no contact with oxygen and water the iron cannot rust."
+  },
+  {
+    "id": "c9-0078",
+    "sub": "9.5",
+    "level": "core",
+    "q": "Which barrier method is most suitable for the moving chain of a bicycle?",
+    "columns": null,
+    "options": [
+      "Painting",
+      "Coating with plastic",
+      "Greasing",
+      "Covering with cement"
+    ],
+    "answer": 2,
+    "explain": "Grease stays on moving parts and excludes water and air, while paint or plastic would crack or wear away."
+  },
+  {
+    "id": "c9-0079",
+    "sub": "9.5",
+    "level": "core",
+    "q": "Why must a barrier coating on iron remain unbroken?",
+    "columns": null,
+    "options": [
+      "A gap lets hydrogen escape from the iron",
+      "A gap makes the coating react with the iron",
+      "A gap makes the iron more reactive",
+      "A gap lets oxygen and water reach the iron"
+    ],
+    "answer": 3,
+    "explain": "The barrier works only by keeping oxygen and water away, so any crack allows rusting to start."
+  },
+  {
+    "id": "c9-0080",
+    "sub": "9.5",
+    "level": "core",
+    "q": "Which statement about rusting is correct?",
+    "columns": null,
+    "options": [
+      "Only iron and steel rust",
+      "Aluminium and copper also rust to form iron(III) oxide",
+      "Rust forms from iron and nitrogen",
+      "All metals rust in the same way"
+    ],
+    "answer": 0,
+    "explain": "Rusting is the corrosion of iron and steel, as rust is hydrated iron(III) oxide, which needs iron."
+  },
+  {
+    "id": "c9-0081",
+    "sub": "9.5",
+    "level": "extended",
+    "q": "A galvanised bucket is scratched through the zinc layer. Why does the exposed iron still not rust quickly?",
+    "columns": null,
+    "options": [
+      "Zinc is less reactive than iron, so the iron is protected",
+      "The scratch fills with rust that seals the surface",
+      "Zinc forms a barrier that cannot be broken",
+      "Zinc is more reactive than iron, so the zinc corrodes in preference"
+    ],
+    "answer": 3,
+    "explain": "Zinc loses electrons more readily than iron, so it is sacrificed and protects the iron even when the coating is broken."
+  },
+  {
+    "id": "c9-0082",
+    "sub": "9.5",
+    "level": "extended",
+    "q": "Which statement explains sacrificial protection of iron by zinc?",
+    "columns": null,
+    "options": [
+      "Iron atoms lose electrons more readily and give them to zinc",
+      "Zinc atoms lose electrons in preference to iron atoms, so zinc corrodes instead",
+      "Zinc forms covalent bonds with iron",
+      "Zinc atoms gain electrons from iron atoms"
+    ],
+    "answer": 1,
+    "explain": "Zinc is higher in the reactivity series, so it loses electrons more easily and corrodes in place of iron."
+  },
+  {
+    "id": "c9-0083",
+    "sub": "9.5",
+    "level": "extended",
+    "q": "Which metal could be attached to the iron pipe as a sacrificial block?",
+    "columns": null,
+    "options": [
+      "Copper",
+      "Silver",
+      "Magnesium",
+      "Gold"
+    ],
+    "answer": 2,
+    "explain": "A sacrificial metal must be more reactive than iron, and magnesium is above iron while the others are below it."
+  },
+  {
+    "id": "c9-0084",
+    "sub": "9.5",
+    "level": "extended",
+    "q": "Iron is coated with a thin layer of copper, and then the coating is scratched to expose the iron. What is likely to happen?",
+    "columns": null,
+    "options": [
+      "The iron may rust because copper is less reactive and gives no sacrificial protection",
+      "The copper corrodes first and protects the iron",
+      "The scratch is sealed by the copper",
+      "The iron cannot rust as copper is a barrier"
+    ],
+    "answer": 0,
+    "explain": "Copper is below iron in the series, so once the barrier is broken the iron is not protected sacrificially."
+  },
+  {
+    "id": "c9-0085",
+    "sub": "9.5",
+    "level": "extended",
+    "q": "Which row correctly describes a method of protecting iron?",
+    "columns": [
+      "Method",
+      "Type of protection"
+    ],
+    "options": [
+      "Painting | sacrificial",
+      "Greasing | barrier and sacrificial",
+      "Galvanising | barrier and sacrificial",
+      "Plastic coating | sacrificial"
+    ],
+    "answer": 2,
+    "explain": "A zinc coating is a barrier and, because zinc is more reactive than iron, also gives sacrificial protection; paint, grease and plastic are only barriers."
+  },
+  {
+    "id": "c9-0086",
+    "sub": "9.5",
+    "level": "core",
+    "q": "Why does rusting continue until an iron object is destroyed?",
+    "columns": null,
+    "options": [
+      "Rust flakes off, exposing fresh iron to oxygen and water",
+      "Rust forms a layer that is more reactive than iron",
+      "Rust increases the amount of oxygen in the metal",
+      "Rust cannot form a flaky layer"
+    ],
+    "answer": 0,
+    "explain": "Rust is porous and flakes away, so new iron is exposed and the rusting carries on."
+  },
+  {
+    "id": "c9-0087",
+    "sub": "9.5",
+    "level": "core",
+    "q": "Which change would slow down the rusting of an iron nail?",
+    "columns": null,
+    "options": [
+      "Leaving it in damp air",
+      "Putting it in a sealed bottle with water and air",
+      "Rubbing the surface with water",
+      "Coating it with grease"
+    ],
+    "answer": 3,
+    "explain": "Grease excludes oxygen and water, while the other conditions keep both present."
+  },
+  {
+    "id": "c9-0088",
+    "sub": "9.5",
+    "level": "core",
+    "q": "An iron nail does not rust in boiled water covered with a layer of oil. Why?",
+    "columns": null,
+    "options": [
+      "There is no water in the tube",
+      "There is no oxygen reaching the nail",
+      "The oil reacts with the iron",
+      "Boiling makes iron unreactive"
+    ],
+    "answer": 1,
+    "explain": "Boiling removes dissolved oxygen and the oil layer stops air redissolving, so oxygen is missing."
+  },
+  {
+    "id": "c9-0089",
+    "sub": "9.5",
+    "level": "core",
+    "q": "An iron nail does not rust in a stoppered tube containing anhydrous calcium chloride. Which condition is missing?",
+    "columns": null,
+    "options": [
+      "Oxygen",
+      "Water",
+      "Carbon dioxide",
+      "Heat"
+    ],
+    "answer": 1,
+    "explain": "Anhydrous calcium chloride absorbs water vapour from the air in the tube, so water is missing."
+  },
+  {
+    "id": "c9-0090",
+    "sub": "9.5",
+    "level": "extended",
+    "q": "A block of zinc is attached to the steel hull of a ship as sacrificial protection. What eventually happens to the block?",
+    "columns": null,
+    "options": [
+      "It stays unchanged for ever",
+      "It turns into steel",
+      "It corrodes away and needs replacing",
+      "It becomes a thicker coating of rust"
+    ],
+    "answer": 2,
+    "explain": "The zinc loses electrons in preference to the iron, so it is gradually used up and must be replaced."
+  }
+]

@@ -1,0 +1,465 @@
+[
+  {
+    "id": "c12-0001",
+    "sub": "12.1",
+    "level": "core",
+    "q": "Which piece of apparatus is best for measuring exactly 25.0 cm³ of aqueous sodium hydroxide into a conical flask?",
+    "columns": null,
+    "options": [
+      "a volumetric pipette",
+      "a 100 cm³ measuring cylinder",
+      "a gas syringe",
+      "a 250 cm³ beaker"
+    ],
+    "answer": 0,
+    "explain": "A volumetric pipette delivers one fixed volume very accurately. A measuring cylinder is less accurate, a gas syringe measures gases and a beaker is only roughly graduated."
+  },
+  {
+    "id": "c12-0002",
+    "sub": "12.1",
+    "level": "core",
+    "q": "Which apparatus is used to measure the volume of a gas given off during a reaction?",
+    "columns": null,
+    "options": [
+      "a volumetric pipette",
+      "a balance",
+      "a gas syringe",
+      "a thermometer"
+    ],
+    "answer": 2,
+    "explain": "A gas syringe collects the gas and the plunger moves out so the volume can be read from the scale. The other items measure liquid volume, mass or temperature."
+  },
+  {
+    "id": "c12-0003",
+    "sub": "12.1",
+    "level": "core",
+    "q": "Which row correctly pairs the apparatus with the quantity it measures?",
+    "columns": [
+      "Apparatus",
+      "Quantity measured"
+    ],
+    "options": [
+      "stop-watch | temperature",
+      "balance | mass",
+      "burette | mass",
+      "thermometer | time"
+    ],
+    "answer": 1,
+    "explain": "A balance measures mass. A stop-watch measures time, a burette measures volume of liquid and a thermometer measures temperature."
+  },
+  {
+    "id": "c12-0004",
+    "sub": "12.1",
+    "level": "core",
+    "q": "Sugar is stirred into water until all of it dissolves. Which row correctly names the solute and the solvent?",
+    "columns": [
+      "Solute",
+      "Solvent"
+    ],
+    "options": [
+      "water | sugar",
+      "sugar solution | sugar",
+      "sugar | sugar solution",
+      "sugar | water"
+    ],
+    "answer": 3,
+    "explain": "The solute is the substance that dissolves (sugar) and the solvent is the substance it dissolves in (water). The mixture of the two is the solution."
+  },
+  {
+    "id": "c12-0005",
+    "sub": "12.1",
+    "level": "core",
+    "q": "Which statement describes a saturated solution?",
+    "columns": null,
+    "options": [
+      "It contains more solute than solvent.",
+      "It contains no dissolved solute at all.",
+      "It contains the maximum concentration of solute that can dissolve in the solvent at a given temperature.",
+      "It contains the maximum mass of solute that can dissolve at any temperature."
+    ],
+    "answer": 2,
+    "explain": "A saturated solution holds as much dissolved solute as it can at a stated temperature, so any extra solute stays undissolved. The amount that can dissolve changes with temperature."
+  },
+  {
+    "id": "c12-0006",
+    "sub": "12.1",
+    "level": "core",
+    "q": "A mixture of chalk powder and water is poured through filter paper. Which statement is correct?",
+    "columns": null,
+    "options": [
+      "The chalk is the residue and the water is the filtrate.",
+      "The chalk is the filtrate and the water is the residue.",
+      "The chalk and the water are both the filtrate.",
+      "The water is the residue and the chalk is the solvent."
+    ],
+    "answer": 0,
+    "explain": "The solid that stays on the filter paper is the residue; the liquid that passes through is the filtrate."
+  },
+  {
+    "id": "c12-0007",
+    "sub": "12.1",
+    "level": "core",
+    "q": "Which of these is a solution?",
+    "columns": null,
+    "options": [
+      "sand stirred into water",
+      "oil shaken with water",
+      "chalk powder stirred into water",
+      "salt dissolved in water"
+    ],
+    "answer": 3,
+    "explain": "A solution is a solute completely dissolved in a solvent. Sand, oil and chalk do not dissolve in water, so they do not form solutions."
+  },
+  {
+    "id": "c12-0008",
+    "sub": "12.1",
+    "level": "core",
+    "q": "A student adds acid to an alkali in a titration. What is one advantage of using a burette rather than a measuring cylinder to add the acid?",
+    "columns": null,
+    "options": [
+      "It can measure the volume of a gas as well.",
+      "The volume added can be controlled drop by drop and read more precisely.",
+      "It measures the mass of acid added.",
+      "It is quicker to fill and read."
+    ],
+    "answer": 1,
+    "explain": "A burette has a tap and a fine scale so small volumes can be added slowly and read accurately, which is needed to find an end-point."
+  },
+  {
+    "id": "c12-0009",
+    "sub": "12.1",
+    "level": "core",
+    "q": "Which apparatus would be used to measure the mass of a solid to the nearest 0.01 g?",
+    "columns": null,
+    "options": [
+      "a balance",
+      "a measuring cylinder",
+      "a thermometer",
+      "a stop-watch"
+    ],
+    "answer": 0,
+    "explain": "A balance measures mass. A measuring cylinder measures volume, a thermometer measures temperature and a stop-watch measures time."
+  },
+  {
+    "id": "c12-0010",
+    "sub": "12.1",
+    "level": "extended",
+    "q": "Which gas cannot be collected over water because it is very soluble in water?",
+    "columns": null,
+    "options": [
+      "hydrogen",
+      "oxygen",
+      "nitrogen",
+      "ammonia"
+    ],
+    "answer": 3,
+    "explain": "Ammonia dissolves very readily in water, so collecting it over water would lose the gas. Hydrogen, oxygen and nitrogen are only slightly soluble."
+  },
+  {
+    "id": "c12-0011",
+    "sub": "12.1",
+    "level": "extended",
+    "q": "A student follows the rate of a reaction that produces a gas. Which pair of apparatus is most suitable?",
+    "columns": null,
+    "options": [
+      "a volumetric pipette and a balance",
+      "a gas syringe and a stop-watch",
+      "a thermometer and a burette",
+      "a measuring cylinder and a thermometer"
+    ],
+    "answer": 1,
+    "explain": "The volume of gas must be measured at regular times, so a gas syringe and a stop-watch are needed. The other pairs cannot measure gas volume against time."
+  },
+  {
+    "id": "c12-0012",
+    "sub": "12.1",
+    "level": "extended",
+    "q": "Zinc reacts with excess dilute acid to give hydrogen gas. Why is measuring the loss in mass of the flask a poor way to follow this reaction?",
+    "columns": null,
+    "options": [
+      "Hydrogen dissolves in the acid so no mass is lost.",
+      "A balance cannot be used with an acid.",
+      "The mass of hydrogen lost is so small that it is difficult to measure accurately.",
+      "Hydrogen is denser than air so it stays in the flask."
+    ],
+    "answer": 2,
+    "explain": "Hydrogen has a very low relative molecular mass, so the mass lost is tiny compared with the sensitivity of a typical balance."
+  },
+  {
+    "id": "c12-0013",
+    "sub": "12.1",
+    "level": "extended",
+    "q": "Extra solid is added to a saturated solution at constant temperature and stirred. What happens?",
+    "columns": null,
+    "options": [
+      "The extra solid dissolves and the solution stays saturated.",
+      "The extra solid stays undissolved because the maximum concentration has already been reached.",
+      "The extra solid dissolves and the solution becomes unsaturated.",
+      "The solid reacts with the solvent."
+    ],
+    "answer": 1,
+    "explain": "A saturated solution cannot dissolve more solute at that temperature, so the added solid remains as a residue at the bottom."
+  },
+  {
+    "id": "c12-0014",
+    "sub": "12.1",
+    "level": "extended",
+    "q": "In an experiment to measure a temperature change, a student uses a polystyrene cup instead of a glass beaker. What is the advantage?",
+    "columns": null,
+    "options": [
+      "Polystyrene is a better insulator so less heat is lost to the surroundings.",
+      "Polystyrene conducts heat better so the temperature changes faster.",
+      "Polystyrene reacts with the solution so the change is bigger.",
+      "Polystyrene is transparent so the solution can be seen."
+    ],
+    "answer": 0,
+    "explain": "Polystyrene is a poor conductor of heat, so less energy escapes and the measured temperature change is closer to the true value."
+  },
+  {
+    "id": "c12-0015",
+    "sub": "12.2",
+    "level": "core",
+    "q": "Which description of an acid–base titration is correct?",
+    "columns": null,
+    "options": [
+      "A measuring cylinder puts exactly 25.0 cm³ of acid into a burette and alkali is added from a conical flask.",
+      "Indicator is placed in the burette and acid is poured into the conical flask all at once.",
+      "A volumetric pipette puts a fixed volume of alkali into a conical flask, indicator is added and acid is run in from a burette until the colour changes.",
+      "Alkali is run from a burette into a volumetric pipette until the indicator changes colour."
+    ],
+    "answer": 2,
+    "explain": "The pipette measures one accurate volume into the flask. The burette adds the other solution gradually until the indicator shows the end-point."
+  },
+  {
+    "id": "c12-0016",
+    "sub": "12.2",
+    "level": "core",
+    "q": "Dilute hydrochloric acid is added slowly to aqueous sodium hydroxide containing methyl orange. What colour change shows the end-point?",
+    "columns": null,
+    "options": [
+      "red to yellow",
+      "yellow to blue",
+      "colourless to pink",
+      "yellow to orange"
+    ],
+    "answer": 3,
+    "explain": "Methyl orange is yellow in alkali and red in acid, so the end-point is the first permanent change from yellow to orange when acid is added to alkali."
+  },
+  {
+    "id": "c12-0017",
+    "sub": "12.2",
+    "level": "core",
+    "q": "Dilute acid is added to aqueous sodium hydroxide containing thymolphthalein. What colour change shows the end-point?",
+    "columns": null,
+    "options": [
+      "colourless to blue",
+      "blue to colourless",
+      "red to yellow",
+      "pink to colourless"
+    ],
+    "answer": 1,
+    "explain": "Thymolphthalein is blue in alkali and colourless in acid, so adding acid to alkali causes a change from blue to colourless."
+  },
+  {
+    "id": "c12-0018",
+    "sub": "12.2",
+    "level": "core",
+    "q": "What is the purpose of the indicator in a titration?",
+    "columns": null,
+    "options": [
+      "to speed up the neutralisation reaction",
+      "to make the mixture neutral",
+      "to measure the volume of acid added",
+      "to show the point at which the acid and alkali have exactly reacted"
+    ],
+    "answer": 3,
+    "explain": "An indicator changes colour at the end-point, showing when exactly enough acid has been added to neutralise the alkali."
+  },
+  {
+    "id": "c12-0019",
+    "sub": "12.2",
+    "level": "extended",
+    "q": "Why is a burette rinsed with a little of the acid it is going to contain before it is filled?",
+    "columns": null,
+    "options": [
+      "Acid cleans the tap so it can be turned more easily.",
+      "Acid in the burette speeds up the reaction in the flask.",
+      "Water left in the burette would dilute the acid and make the titre wrong.",
+      "Rinsing with acid makes the end-point easier to see."
+    ],
+    "answer": 2,
+    "explain": "Any water left in the burette would lower the concentration of the acid, so the volume needed would not match the stated concentration."
+  },
+  {
+    "id": "c12-0020",
+    "sub": "12.2",
+    "level": "extended",
+    "q": "25.0 cm³ of aqueous sodium hydroxide is neutralised by 20.0 cm³ of 0.100 mol/dm³ hydrochloric acid. What is the concentration of the sodium hydroxide?",
+    "columns": null,
+    "options": [
+      "0.0800 mol/dm³",
+      "0.125 mol/dm³",
+      "0.100 mol/dm³",
+      "0.0400 mol/dm³"
+    ],
+    "answer": 0,
+    "explain": "Moles HCl = 0.0200 × 0.100 = 0.00200 mol. HCl and NaOH react 1 : 1, so concentration of NaOH = 0.00200 ÷ 0.0250 = 0.0800 mol/dm³."
+  },
+  {
+    "id": "c12-0021",
+    "sub": "12.2",
+    "level": "extended",
+    "q": "25.0 cm³ of 0.200 mol/dm³ sulfuric acid is neutralised by 20.0 cm³ of aqueous sodium hydroxide: H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O. What is the concentration of the sodium hydroxide?",
+    "columns": null,
+    "options": [
+      "0.250 mol/dm³",
+      "0.200 mol/dm³",
+      "0.500 mol/dm³",
+      "1.00 mol/dm³"
+    ],
+    "answer": 2,
+    "explain": "Moles H₂SO₄ = 0.0250 × 0.200 = 0.00500 mol. Moles NaOH = 2 × 0.00500 = 0.0100 mol. Concentration = 0.0100 ÷ 0.0200 = 0.500 mol/dm³."
+  },
+  {
+    "id": "c12-0022",
+    "sub": "12.2",
+    "level": "core",
+    "q": "Why is a titration repeated until two results agree closely?",
+    "columns": null,
+    "options": [
+      "so that the results are reliable and a mean titre can be calculated",
+      "so that all the acid is used up",
+      "to make the indicator change colour faster",
+      "to increase the concentration of the alkali"
+    ],
+    "answer": 0,
+    "explain": "Titres that agree closely (concordant results) show that the measurements are reliable, so they can be averaged to give an accurate value."
+  },
+  {
+    "id": "c12-0023",
+    "sub": "12.2",
+    "level": "core",
+    "q": "Which row correctly describes the use of the apparatus in a titration?",
+    "columns": [
+      "Apparatus",
+      "Use in the titration"
+    ],
+    "options": [
+      "volumetric pipette | adds a variable volume of solution drop by drop",
+      "burette | adds a variable volume of solution drop by drop",
+      "conical flask | measures an exact volume of solution",
+      "burette | measures exactly 25.0 cm³ each time"
+    ],
+    "answer": 1,
+    "explain": "The burette delivers any volume needed and can be controlled drop by drop. The pipette delivers one fixed volume and the conical flask only holds the mixture."
+  },
+  {
+    "id": "c12-0024",
+    "sub": "12.2",
+    "level": "extended",
+    "q": "A student titrates an acid with an alkali to prepare pure crystals of a salt. Why is the titration repeated without indicator using the same volumes?",
+    "columns": null,
+    "options": [
+      "The indicator would react with the acid to form a gas.",
+      "The reaction only works if no indicator is present.",
+      "The indicator would make the solution more acidic.",
+      "The indicator would contaminate the salt crystals."
+    ],
+    "answer": 3,
+    "explain": "The indicator is needed only to find the volumes that neutralise each other. Repeating without it gives a salt solution that is not contaminated by the dye."
+  },
+  {
+    "id": "c12-0025",
+    "sub": "12.2",
+    "level": "core",
+    "q": "Which row gives the correct colours of the indicator in acid and in alkali?",
+    "columns": [
+      "Indicator",
+      "Colour in acid",
+      "Colour in alkali"
+    ],
+    "options": [
+      "methyl orange | yellow | red",
+      "methyl orange | red | yellow",
+      "thymolphthalein | blue | colourless",
+      "litmus | blue | red"
+    ],
+    "answer": 1,
+    "explain": "Methyl orange is red in acid and yellow in alkali. Thymolphthalein is colourless in acid and blue in alkali, and litmus is red in acid and blue in alkali."
+  },
+  {
+    "id": "c12-0026",
+    "sub": "12.2",
+    "level": "core",
+    "q": "In a titration the burette reading at the start is 3.10 cm³ and at the end-point is 23.30 cm³. What is the volume of acid added?",
+    "columns": null,
+    "options": [
+      "26.40 cm³",
+      "19.80 cm³",
+      "20.40 cm³",
+      "20.20 cm³"
+    ],
+    "answer": 3,
+    "explain": "The volume added is the final reading minus the initial reading: 23.30 − 3.10 = 20.20 cm³."
+  },
+  {
+    "id": "c12-0027",
+    "sub": "12.3",
+    "level": "core",
+    "q": "In paper chromatography the starting line is drawn in pencil rather than ink. Why?",
+    "columns": null,
+    "options": [
+      "Pencil does not dissolve in the solvent, so it will not move up the paper.",
+      "Pencil is a better solvent than ink.",
+      "Ink would react with the paper.",
+      "Pencil lines make the spots move faster."
+    ],
+    "answer": 0,
+    "explain": "Ink contains dyes that would dissolve and run with the solvent. Pencil (graphite) is insoluble, so the line stays put and does not interfere."
+  },
+  {
+    "id": "c12-0028",
+    "sub": "12.3",
+    "level": "core",
+    "q": "A student places the spot of ink below the level of the solvent in the beaker. What is the most likely result?",
+    "columns": null,
+    "options": [
+      "The substances separate more clearly.",
+      "The solvent runs faster up the paper.",
+      "The coloured substances dissolve into the solvent and no chromatogram forms.",
+      "The ink spot becomes insoluble."
+    ],
+    "answer": 2,
+    "explain": "The solvent level must be below the starting line so that the spot is carried up the paper rather than washed away into the solvent."
+  },
+  {
+    "id": "c12-0029",
+    "sub": "12.3",
+    "level": "core",
+    "q": "What does a single spot on a chromatogram suggest about a coloured substance?",
+    "columns": null,
+    "options": [
+      "It is definitely a mixture.",
+      "It must be an element.",
+      "It could be pure because it has not separated into more than one substance.",
+      "It is insoluble in the solvent."
+    ],
+    "answer": 2,
+    "explain": "A pure substance gives one spot, but one spot is only evidence of purity: it is also useful to run it in more than one solvent."
+  },
+  {
+    "id": "c12-0030",
+    "sub": "12.3",
+    "level": "core",
+    "q": "A chromatogram of an unknown dye X shows two spots. Pure dyes A, B and C each give one spot. The spots from X match the heights of the spots from A and C. What does this show?",
+    "columns": null,
+    "options": [
+      "X is a pure substance.",
+      "X is a mixture of three of the dyes.",
+      "X contains only B.",
+      "X is a mixture of dye A and dye C."
+    ],
+    "answer": 3,
+    "explain": "Spots that travel the same distance in the same solvent are the same substance. X has two spots that match A and C, so it is a mixture of those two."
+  }
+]

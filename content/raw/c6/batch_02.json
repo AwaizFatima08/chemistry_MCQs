@@ -1,0 +1,460 @@
+[
+ {
+  "id": "c6-0031",
+  "sub": "6.2",
+  "level": "extended",
+  "q": "Which explains why increasing the concentration of a solution increases the rate of reaction?",
+  "columns": null,
+  "options": [
+   "The particles become larger, so they collide more often",
+   "The particles move faster, so more have enough energy to react",
+   "The activation energy of the reaction is lower",
+   "There are more particles per unit volume, so collisions are more frequent"
+  ],
+  "answer": 3,
+  "explain": "A higher concentration puts more particles in each unit volume. The frequency of collisions rises and so does the rate."
+ },
+ {
+  "id": "c6-0032",
+  "sub": "6.2",
+  "level": "extended",
+  "q": "Which is the best explanation of why increasing the temperature increases the rate of reaction?",
+  "columns": null,
+  "options": [
+   "The particles have more kinetic energy, so they collide more often and more collisions have energy of at least Ea",
+   "The extra heat adds more reactant particles",
+   "The particles move faster but the number of collisions stays the same",
+   "The activation energy of the reaction becomes lower"
+  ],
+  "answer": 0,
+  "explain": "At a higher temperature particles move faster, so collisions are more frequent, and a greater proportion of them have energy of at least the activation energy."
+ },
+ {
+  "id": "c6-0033",
+  "sub": "6.2",
+  "level": "extended",
+  "q": "How does a catalyst increase the rate of a reaction?",
+  "columns": null,
+  "options": [
+   "It increases the concentration of the reactants",
+   "It provides an alternative pathway with a lower activation energy",
+   "It increases the kinetic energy of the reactant particles",
+   "It raises the energy of the reactants above the activation energy"
+  ],
+  "answer": 1,
+  "explain": "A catalyst offers a different route with a lower Ea, so a greater proportion of collisions are successful."
+ },
+ {
+  "id": "c6-0034",
+  "sub": "6.2",
+  "level": "extended",
+  "q": "What is meant by the activation energy, Ea, of a reaction?",
+  "columns": null,
+  "options": [
+   "The average kinetic energy of the particles in the mixture",
+   "The minimum energy that colliding particles must have in order to react",
+   "The difference in energy between the reactants and the products",
+   "The total energy released when the reaction is complete"
+  ],
+  "answer": 1,
+  "explain": "Activation energy is the minimum collision energy needed to break bonds and start the reaction."
+ },
+ {
+  "id": "c6-0035",
+  "sub": "6.2",
+  "level": "extended",
+  "q": "Why does a solid in powder form react faster than the same mass in large lumps?",
+  "columns": null,
+  "options": [
+   "The activation energy of the solid is lower",
+   "The particles of the solid have more kinetic energy",
+   "The solid has a higher concentration",
+   "More particles of the solid are exposed, so collisions with the other reactant happen more frequently"
+  ],
+  "answer": 3,
+  "explain": "Powdering increases the surface area. More solid particles are available to collide, so the collision frequency and the rate increase."
+ },
+ {
+  "id": "c6-0036",
+  "sub": "6.2",
+  "level": "extended",
+  "q": "Which is the correct explanation of why increasing the pressure of a gaseous reaction increases its rate?",
+  "columns": null,
+  "options": [
+   "The activation energy of the reaction decreases",
+   "The gas particles are closer together, so there are more particles per unit volume and collisions are more frequent",
+   "The gas particles gain kinetic energy and move faster",
+   "The gas particles become smaller"
+  ],
+  "answer": 1,
+  "explain": "Raising the pressure compresses the gas, which increases the number of particles in a given volume and so the collision frequency."
+ },
+ {
+  "id": "c6-0037",
+  "sub": "6.2",
+  "level": "extended",
+  "q": "Which statement about adding a catalyst to a reaction is correct?",
+  "columns": null,
+  "options": [
+   "The activation energy decreases but the energy of the reactants and products is unchanged",
+   "The mass of product formed is increased",
+   "The activation energy increases and the energy of the products decreases",
+   "The activation energy is unchanged and the energy of the products decreases"
+  ],
+  "answer": 0,
+  "explain": "A catalyst lowers Ea by giving an alternative pathway. It does not change the energies of reactants and products or the amount of product."
+ },
+ {
+  "id": "c6-0038",
+  "sub": "6.2",
+  "level": "extended",
+  "q": "Which row is correct?",
+  "columns": [
+   "Change",
+   "Effect on collision frequency",
+   "Effect on proportion with energy ≥ Ea"
+  ],
+  "options": [
+   "Increasing surface area | collision frequency increases | proportion of particles with energy ≥ Ea increases",
+   "Increasing pressure of a gas | collision frequency decreases | proportion of particles with energy ≥ Ea stays the same",
+   "Increasing concentration | collision frequency increases | proportion of particles with energy ≥ Ea stays the same",
+   "Increasing temperature | collision frequency stays the same | proportion of particles with energy ≥ Ea increases"
+  ],
+  "answer": 2,
+  "explain": "Higher concentration only raises the collision frequency. Higher temperature raises both, and surface area and pressure changes do not affect the proportion of particles with enough energy."
+ },
+ {
+  "id": "c6-0039",
+  "sub": "6.2",
+  "level": "extended",
+  "q": "Magnesium reacts with dilute hydrochloric acid. Why is the loss-in-mass method less suitable than collecting the gas in a syringe?",
+  "columns": null,
+  "options": [
+   "Hydrogen is very soluble in the acid",
+   "Hydrogen is so light that the loss in mass is too small to measure accurately",
+   "Hydrogen is heavier than the other products",
+   "Magnesium chloride gives off a gas as well"
+  ],
+  "answer": 1,
+  "explain": "Hydrogen has a very low relative formula mass so only a tiny mass is lost. Calcium carbonate with acid loses more mass as heavier carbon dioxide escapes."
+ },
+ {
+  "id": "c6-0040",
+  "sub": "6.2",
+  "level": "extended",
+  "q": "Calcium carbonate reacts with dilute acid and the carbon dioxide is collected in an inverted measuring cylinder over water. Why is a gas syringe better?",
+  "columns": null,
+  "options": [
+   "Water would react with the calcium carbonate",
+   "A syringe makes the reaction faster",
+   "Carbon dioxide dissolves in water, so some gas would not be measured over water",
+   "Carbon dioxide reacts with the glass of the cylinder"
+  ],
+  "answer": 2,
+  "explain": "Carbon dioxide is soluble in water, which would make the measured volume too low. A gas syringe avoids this problem."
+ },
+ {
+  "id": "c6-0041",
+  "sub": "6.2",
+  "level": "extended",
+  "q": "In a loss-in-mass experiment a loose plug of cotton wool is put in the neck of the flask. What is its purpose?",
+  "columns": null,
+  "options": [
+   "It stops the gas leaving the flask",
+   "It absorbs the carbon dioxide",
+   "It acts as a catalyst for the reaction",
+   "It stops acid spray leaving the flask but lets the gas escape"
+  ],
+  "answer": 3,
+  "explain": "Spray carried out with the gas would give a false loss in mass. The loose plug keeps liquid in while gas can still escape."
+ },
+ {
+  "id": "c6-0042",
+  "sub": "6.2",
+  "level": "extended",
+  "q": "In a gas collection experiment, 36 cm³ is collected at 20 s and 60 cm³ at 60 s. What is the average rate between 20 s and 60 s?",
+  "columns": null,
+  "options": [
+   "0.40 cm³/s",
+   "0.60 cm³/s",
+   "1.0 cm³/s",
+   "1.5 cm³/s"
+  ],
+  "answer": 1,
+  "explain": "Volume formed = 60 − 36 = 24 cm³ in 60 − 20 = 40 s. Rate = 24 ÷ 40 = 0.60 cm³/s."
+ },
+ {
+  "id": "c6-0043",
+  "sub": "6.2",
+  "level": "extended",
+  "q": "Excess magnesium reacts with 25.0 cm³ of 2.0 mol/dm³ hydrochloric acid: Mg + 2HCl → MgCl₂ + H₂. What is the maximum volume of hydrogen at room temperature and pressure? (1 mol of gas occupies 24 000 cm³)",
+  "columns": null,
+  "options": [
+   "1.2 cm³",
+   "1200 cm³",
+   "600 cm³",
+   "300 cm³"
+  ],
+  "answer": 2,
+  "explain": "Moles of HCl = 0.0250 × 2.0 = 0.050 mol. Moles of H₂ = 0.050 ÷ 2 = 0.025 mol. Volume = 0.025 × 24 000 = 600 cm³."
+ },
+ {
+  "id": "c6-0044",
+  "sub": "6.2",
+  "level": "extended",
+  "q": "A catalysed and an uncatalysed reaction use the same amounts of reactants. How do their gas-volume curves compare?",
+  "columns": null,
+  "options": [
+   "The catalysed curve levels off at a higher final volume",
+   "The catalysed curve is less steep but levels off at the same final volume",
+   "The catalysed curve is steeper but levels off at the same final volume",
+   "The curves are identical"
+  ],
+  "answer": 2,
+  "explain": "The catalyst increases the rate, so the curve is steeper, but the amount of reactant limits the final volume, which stays the same."
+ },
+ {
+  "id": "c6-0045",
+  "sub": "6.2",
+  "level": "extended",
+  "q": "At room temperature most collisions between reactant particles do not lead to a reaction. What is the best reason?",
+  "columns": null,
+  "options": [
+   "The colliding particles do not have energy of at least the activation energy",
+   "The particles are too small to react",
+   "The particles are moving too fast to react",
+   "The particles collide too often"
+  ],
+  "answer": 0,
+  "explain": "A reaction occurs only if colliding particles have at least the activation energy. At low temperature few collisions meet this requirement."
+ },
+ {
+  "id": "c6-0046",
+  "sub": "6.3",
+  "level": "core",
+  "q": "Which symbol shows that a chemical reaction is reversible?",
+  "columns": null,
+  "options": [
+   "=",
+   "⇌",
+   "↑",
+   "→"
+  ],
+  "answer": 1,
+  "explain": "The two-way arrow ⇌ shows that the reaction can go in both directions."
+ },
+ {
+  "id": "c6-0047",
+  "sub": "6.3",
+  "level": "core",
+  "q": "Blue hydrated copper(II) sulfate crystals are heated gently in a test tube. What is observed?",
+  "columns": null,
+  "options": [
+   "There is no change",
+   "The crystals turn white and water droplets form on the cooler part of the tube",
+   "The crystals turn black and a gas that relights a glowing splint forms",
+   "The crystals turn from white to blue"
+  ],
+  "answer": 1,
+  "explain": "Heating drives off the water of crystallisation, leaving white anhydrous copper(II) sulfate. The water condenses on the cooler glass."
+ },
+ {
+  "id": "c6-0048",
+  "sub": "6.3",
+  "level": "core",
+  "q": "A few drops of water are added to white anhydrous copper(II) sulfate. Which observation is correct?",
+  "columns": null,
+  "options": [
+   "It turns blue and becomes cooler",
+   "It turns blue and becomes warm",
+   "It turns pink and becomes warm",
+   "It stays white and dissolves to give a colourless solution"
+  ],
+  "answer": 1,
+  "explain": "The anhydrous solid combines with water to form blue hydrated crystals, and the reaction is exothermic so the solid warms up."
+ },
+ {
+  "id": "c6-0049",
+  "sub": "6.3",
+  "level": "core",
+  "q": "A piece of blue cobalt(II) chloride paper is dipped in water. What is observed?",
+  "columns": null,
+  "options": [
+   "It turns green",
+   "It turns pink",
+   "It turns white",
+   "It stays blue"
+  ],
+  "answer": 1,
+  "explain": "Water changes anhydrous cobalt(II) chloride from blue to pink, so the paper is used to test for water."
+ },
+ {
+  "id": "c6-0050",
+  "sub": "6.3",
+  "level": "core",
+  "q": "Which row gives the correct colours?",
+  "columns": [
+   "Compound",
+   "Colour when hydrated",
+   "Colour when anhydrous"
+  ],
+  "options": [
+   "cobalt(II) chloride | blue | pink",
+   "copper(II) sulfate | white | blue",
+   "copper(II) sulfate | blue | pink",
+   "cobalt(II) chloride | pink | blue"
+  ],
+  "answer": 3,
+  "explain": "Hydrated cobalt(II) chloride is pink and the anhydrous form is blue. Hydrated copper(II) sulfate is blue and the anhydrous form is white."
+ },
+ {
+  "id": "c6-0051",
+  "sub": "6.3",
+  "level": "core",
+  "q": "Which equation represents a reversible reaction?",
+  "columns": null,
+  "options": [
+   "Zn(s) + 2HCl(aq) → ZnCl₂(aq) + H₂(g)",
+   "CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l)",
+   "2Mg(s) + O₂(g) → 2MgO(s)",
+   "CuSO₄·5H₂O(s) ⇌ CuSO₄(s) + 5H₂O(g)"
+  ],
+  "answer": 3,
+  "explain": "Only the hydration of copper(II) sulfate is shown with ⇌, because it can go in either direction depending on the conditions."
+ },
+ {
+  "id": "c6-0052",
+  "sub": "6.3",
+  "level": "core",
+  "q": "What is the result of a positive test for water using anhydrous copper(II) sulfate?",
+  "columns": null,
+  "options": [
+   "White powder turns pink",
+   "Blue crystals turn pink",
+   "White powder turns blue",
+   "Blue crystals turn white"
+  ],
+  "answer": 2,
+  "explain": "Water turns white anhydrous copper(II) sulfate blue."
+ },
+ {
+  "id": "c6-0053",
+  "sub": "6.3",
+  "level": "core",
+  "q": "What does the word hydrated mean in hydrated copper(II) sulfate?",
+  "columns": null,
+  "options": [
+   "The solid has been dissolved in water",
+   "The crystals contain water as part of their structure",
+   "The solid has water only on its surface",
+   "The solid has reacted with hydrogen"
+  ],
+  "answer": 1,
+  "explain": "A hydrated compound has water of crystallisation locked in its crystal structure."
+ },
+ {
+  "id": "c6-0054",
+  "sub": "6.3",
+  "level": "core",
+  "q": "Blue hydrated copper(II) sulfate has been heated until it is white. How can the blue colour be restored?",
+  "columns": null,
+  "options": [
+   "Place the white solid in a desiccator",
+   "Heat the white solid more strongly",
+   "Add sodium chloride to the white solid",
+   "Add water to the white solid"
+  ],
+  "answer": 3,
+  "explain": "The reaction is reversible. Adding water to anhydrous copper(II) sulfate forms the blue hydrated crystals again."
+ },
+ {
+  "id": "c6-0055",
+  "sub": "6.3",
+  "level": "core",
+  "q": "Which statement describes a reversible reaction?",
+  "columns": null,
+  "options": [
+   "All the reactants are used up and cannot be recovered",
+   "The reaction can only take place if a catalyst is present",
+   "The products can react to form the reactants again",
+   "The reaction takes place in only one direction"
+  ],
+  "answer": 2,
+  "explain": "In a reversible reaction the reaction can go forwards and backwards, so products can turn back into reactants."
+ },
+ {
+  "id": "c6-0056",
+  "sub": "6.3",
+  "level": "core",
+  "q": "A piece of cobalt(II) chloride paper has turned pink after testing a liquid. It is gently heated. What happens?",
+  "columns": null,
+  "options": [
+   "It stays pink",
+   "It turns white",
+   "It turns blue again",
+   "It turns black"
+  ],
+  "answer": 2,
+  "explain": "Heating removes the water, so the pink hydrated cobalt(II) chloride changes back to blue anhydrous cobalt(II) chloride."
+ },
+ {
+  "id": "c6-0057",
+  "sub": "6.3",
+  "level": "core",
+  "q": "A student heats 5.0 g of blue crystals of copper(II) sulfate and the mass falls. What is the best explanation?",
+  "columns": null,
+  "options": [
+   "The crystals dissolve in their own water",
+   "The sulfate decomposes to sulfur",
+   "Copper is lost as a vapour",
+   "Water is driven off, leaving anhydrous copper(II) sulfate"
+  ],
+  "answer": 3,
+  "explain": "The crystals lose their water of crystallisation as steam, so the solid becomes lighter and turns white."
+ },
+ {
+  "id": "c6-0058",
+  "sub": "6.3",
+  "level": "core",
+  "q": "What is the white solid left when blue hydrated copper(II) sulfate is heated strongly?",
+  "columns": null,
+  "options": [
+   "Hydrated copper(II) sulfate",
+   "Copper(II) sulfide",
+   "Copper(II) oxide",
+   "Anhydrous copper(II) sulfate"
+  ],
+  "answer": 3,
+  "explain": "Gentle heating only removes the water. The white solid is copper(II) sulfate without water, which is called anhydrous."
+ },
+ {
+  "id": "c6-0059",
+  "sub": "6.3",
+  "level": "core",
+  "q": "What is the effect of heating hydrated cobalt(II) chloride crystals?",
+  "columns": null,
+  "options": [
+   "Pink crystals turn black",
+   "Blue crystals turn pink as water is lost",
+   "Pink crystals turn blue as water is lost",
+   "White crystals turn blue"
+  ],
+  "answer": 2,
+  "explain": "Heating drives off the water of crystallisation, changing pink hydrated cobalt(II) chloride into blue anhydrous cobalt(II) chloride."
+ },
+ {
+  "id": "c6-0060",
+  "sub": "6.3",
+  "level": "extended",
+  "q": "Which statement describes a reversible reaction at equilibrium in a closed system?",
+  "columns": null,
+  "options": [
+   "The concentrations of reactants and products are equal",
+   "The forward reaction has stopped and the reverse reaction continues",
+   "All of the reactants have been converted into products",
+   "The forward and reverse reactions occur at the same rate and the concentrations stay constant"
+  ],
+  "answer": 3,
+  "explain": "At equilibrium both reactions continue at equal rates, so the concentrations do not change. They are constant but not necessarily equal."
+ }
+]
