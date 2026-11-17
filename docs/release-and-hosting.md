@@ -31,10 +31,12 @@
   https://play.google.com/store/apps/details?id=com.homilabs.igcse_chemistry_mcqs and publish again.
 
 ## AdMob (homilabs.smc@gmail.com, publisher pub-2087846699268567)
-- App "IGCSE Chemistry MCQs", ID `ca-app-pub-2087846699268567~2738830970` (created 17 Nov 2026, not linked to a store
-  yet). Units: banner `…/9156899667`, interstitial `…/6530736329` (see `config/admob.json`).
-- After the Play listing is live: AdMob → Apps → IGCSE Chemistry MCQs → App settings → Add store. Limited ad serving
-  lifts after AdMob verifies the app.
+- App "IGCSE Chemistry MCQs", ID `ca-app-pub-2087846699268567~2738830970` (created 17 Nov 2026). Units: banner
+  `…/9156899667`, interstitial `…/6530736329` (see `config/admob.json`).
+- Linked to Google Play (`com.homilabs.igcse_chemistry_mcqs`) after the app went live. First verification failed only
+  because AdMob's crawler had not yet read `app-ads.txt`; the file is correct at
+  https://igcse-chemistry.homilabs.org/app-ads.txt (the website on the listing) and at homilabs.org/app-ads.txt.
+  If App settings still says "Not verified" after a day, press Verify app. Limited ad serving lifts once verified.
 - Not done yet: a Privacy & messaging (European regulations) consent message for this app, as made for physics.
 
 ## Play Console (Homilabs organization account, developer ID 9161588402757830740)
@@ -64,8 +66,8 @@ App created 17 Nov 2026, Play app ID 4973992089820948185, default language en-US
 - 44 unit/widget tests, `flutter analyze` clean, `release-check.sh` PASS, release ad ids match.
 
 ## Open items
-- The 11 changes were submitted for review on 17 Nov 2026 (managed publishing is off, so approval publishes the app).
-  Watch Publishing overview for the quick-check result and Google's review.
-- After approval: link the Play listing in AdMob and replace "Coming soon" on the website.
+- Live on Google Play: https://play.google.com/store/apps/details?id=com.homilabs.igcse_chemistry_mcqs
+- AdMob app verification (app-ads.txt crawl) pending; see AdMob above.
+- Replace "Coming soon" on the website with the Play link and publish the site again.
 - Homi spot-checks a sample of questions (AI-written bank; see README).
 - Trademark: "IGCSE" and "Cambridge" are used descriptively, with a not-affiliated notice on the website and in the app.
