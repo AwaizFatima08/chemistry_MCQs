@@ -4,7 +4,7 @@
 #
 #   Layer 1: local copy    -> /mnt/storage/project_backups/chemistry_mcqs_backup/
 #   Layer 2: Google Drive  -> (not set up yet)
-#   Layer 3: GitHub        -> https://github.com/AwaizFatima08/chemistry_MCQs (PRIVATE repo)
+#   Layer 3: GitHub        -> https://github.com/AwaizFatima08/chemistry_MCQs (PUBLIC repo; keep secrets out of git)
 #
 # Run:  bash /mnt/storage/projects/chemistry_MCQs/scripts/backup.sh
 #

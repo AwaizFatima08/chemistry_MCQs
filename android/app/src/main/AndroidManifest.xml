@@ -25,11 +25,10 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <!-- AdMob app id. Google's sample app id until the chemistry app is added in AdMob
-             (account homilabs.smc@gmail.com); see config/admob.json. Release check blocks it. -->
+        <!-- AdMob app id for IGCSE Chemistry MCQs (publisher pub-2087846699268567); see config/admob.json. -->
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-3940256099942544~3347511713" />
+            android:value="ca-app-pub-2087846699268567~2738830970" />
         <!-- Don't delete the meta-data below.
              This is used by the Flutter tool to generate GeneratedPluginRegistrant.java -->
         <meta-data

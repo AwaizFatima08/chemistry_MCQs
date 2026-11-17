@@ -3,7 +3,7 @@
 # Refuses to finish unless both are signed with the upload key pinned below.
 set -euo pipefail
 cd "$(dirname "$0")/.."
-UPLOAD_SHA256="05:44:E2:53:A1:E5:2E:BF:24:36:4C:85:67:64:DC:57:43:58:B3:BA:F7:0B:E7:94:CC:58:D3:9E:E7:56:82:DF"
+UPLOAD_SHA256="E0:10:22:05:0B:96:86:1E:14:75:05:FB:62:02:3F:B2:BF:7A:F9:2F:02:33:3C:D8:FC:10:E0:CD:C7:61:4F:CD"
 
 [ -f android/key.properties ] || { echo "android/key.properties missing: copy it from .secrets/"; exit 1; }
 python3 tools/build_bank.py >/dev/null

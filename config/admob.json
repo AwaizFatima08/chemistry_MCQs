@@ -1,27 +1,27 @@
 {
-  "_note": "AdMob config for IGCSE Chemistry MCQs (Android). The AdMob app and ad units do NOT exist yet. Until they are created in the AdMob account homilabs.smc@gmail.com, the ids below are Google's public sample ids. scripts/check-release-ad-ids.sh fails while any id is a sample id, so no release can ship with them.",
+  "_note": "AdMob config for IGCSE Chemistry MCQs (Android). Created in the AdMob publisher account of homilabs.smc@gmail.com. scripts/check-release-ad-ids.sh fails while any id is a Google sample id.",
   "account": "homilabs.smc@gmail.com",
-  "publisher_id": "pending",
+  "publisher_id": "pub-2087846699268567",
   "app": {
     "name": "IGCSE Chemistry MCQs",
     "platform": "android",
-    "app_id": "ca-app-pub-3940256099942544~3347511713",
-    "status": "not created yet: add the app in AdMob, then paste its app id here and in AndroidManifest.xml"
+    "app_id": "ca-app-pub-2087846699268567~2738830970",
+    "status": "created in AdMob, not listed in a store yet (Requires review until the Play listing is added)"
   },
   "ad_units": {
     "home_banner": {
       "name": "igcse_chemistry_home_banner",
       "format": "banner",
-      "id": "ca-app-pub-3940256099942544/6300978111",
+      "id": "ca-app-pub-2087846699268567/9156899667",
       "placement": "bottom of Home, Topic practice list and Mock papers list only"
     },
     "results_interstitial": {
       "name": "igcse_chemistry_results_interstitial",
       "format": "interstitial",
-      "id": "ca-app-pub-3940256099942544/1033173712",
+      "id": "ca-app-pub-2087846699268567/6530736329",
       "placement": "when leaving a results screen; at most once every 5 minutes; never during practice, a paper or review"
     }
   },
-  "app_ads_txt": "pending: google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0 (publisher id from AdMob)",
+  "app_ads_txt": "google.com, pub-2087846699268567, DIRECT, f08c47fec0942fa0",
   "consent": "Google UMP before SDK init"
 }

@@ -25,6 +25,13 @@ class QuestionView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
+    // Every word in the table, so all cells share one font size (see fitWordsFontSize).
+    final tableWords = question.isTable
+        ? [
+            for (var i = 0; i < 4; i++)
+              for (final c in question.cells(i)) ...c.split(_spaces),
+          ]
+        : const <String>[];
     return Column(
       crossAxisAlignment: CrossAxisAlignment.stretch,
       children: [
@@ -40,6 +47,7 @@ class QuestionView extends StatelessWidget {
             key: Key('option-$i'),
             letter: letters[i],
             cells: question.isTable ? question.cells(i) : [question.options[i]],
+            tableWords: tableWords,
             state: stateOf(i),
             onTap: onSelect == null ? null : () => onSelect!(i),
           ),
@@ -52,17 +60,62 @@ class QuestionView extends StatelessWidget {
   Widget _tableHeader(BuildContext context) {
     final style = Theme.of(
       context,
-    ).textTheme.labelMedium?.copyWith(fontWeight: FontWeight.bold);
+    ).textTheme.labelMedium!.copyWith(fontWeight: FontWeight.bold);
+    final words = [for (final c in question.columns!) ...c.split(_spaces)];
     return Padding(
-      padding: const EdgeInsets.only(left: 56, right: 12, bottom: 6),
+      padding: const EdgeInsets.only(left: 56, right: 44, bottom: 6),
       child: Row(
+        crossAxisAlignment: CrossAxisAlignment.end,
         children: [
           for (final c in question.columns!)
-            Expanded(child: Text(c, style: style)),
+            Expanded(
+              child: LayoutBuilder(
+                builder: (context, box) => Text(
+                  c,
+                  style: style.copyWith(
+                    fontSize: fitWordsFontSize(
+                      context,
+                      words,
+                      box.maxWidth,
+                      style: style,
+                    ),
+                  ),
+                ),
+              ),
+            ),
         ],
       ),
     );
   }
+}
+
+final _spaces = RegExp(r'\s+');
+
+/// The largest font size, up to [style]'s own, at which every word in [words]
+/// fits in [width]. Table columns are narrow on phones; shrinking the text this
+/// little keeps whole words together while phrases still wrap at spaces.
+double fitWordsFontSize(
+  BuildContext context,
+  Iterable<String> words,
+  double width, {
+  required TextStyle style,
+  double min = 10,
+}) {
+  // Measure with the same inherited font that Text will draw with.
+  final resolved = DefaultTextStyle.of(context).style.merge(style);
+  final base = resolved.fontSize ?? 14;
+  var widest = 0.0;
+  for (final w in words) {
+    final painter = TextPainter(
+      text: TextSpan(text: w, style: resolved),
+      textDirection: Directionality.of(context),
+      textScaler: MediaQuery.textScalerOf(context),
+    )..layout();
+    if (painter.width > widest) widest = painter.width;
+    painter.dispose();
+  }
+  if (widest <= width) return base;
+  return (base * width / widest * 0.98).clamp(min, base);
 }
 
 class _OptionTile extends StatelessWidget {
@@ -70,12 +123,18 @@ class _OptionTile extends StatelessWidget {
     super.key,
     required this.letter,
     required this.cells,
+    required this.tableWords,
     required this.state,
     this.onTap,
   });
 
+  static const _cellStyle = TextStyle(fontSize: 16, height: 1.3);
+
   final String letter;
   final List<String> cells;
+
+  /// All words of a table question (empty for a plain option).
+  final List<String> tableWords;
   final OptionState state;
   final VoidCallback? onTap;
 
@@ -136,15 +195,28 @@ class _OptionTile extends StatelessWidget {
               const SizedBox(width: 12),
               for (final c in cells)
                 Expanded(
-                  child: Text(
-                    c,
-                    style: const TextStyle(fontSize: 16, height: 1.3),
-                  ),
+                  child: tableWords.isEmpty
+                      ? Text(c, style: _cellStyle)
+                      : LayoutBuilder(
+                          builder: (context, box) => Text(
+                            c,
+                            style: _cellStyle.copyWith(
+                              fontSize: fitWordsFontSize(
+                                context,
+                                tableWords,
+                                box.maxWidth,
+                                style: _cellStyle,
+                              ),
+                            ),
+                          ),
+                        ),
                 ),
-              if (icon != null) ...[
-                const SizedBox(width: 8),
-                Icon(icon, color: border),
-              ],
+              // Always reserve the icon slot so table columns line up on every row.
+              const SizedBox(width: 8),
+              SizedBox(
+                width: 24,
+                child: icon == null ? null : Icon(icon, color: border),
+              ),
             ],
           ),
         ),
